@@ -1,0 +1,35 @@
+Definition,Relation
+energy infrastructure,energy infrastructure is a hyponym of physical equipment
+energy infrastructure,energy infrastructure is a hyponym of facility
+energy infrastructure bottleneck,energy infrastructure bottleneck is a hyponym of limitation
+comprehensive decision,comprehensive decision is a hyponym of decision
+comprehensive decision,comprehensive decision is a hyponym of set
+project,project is a hyponym of one or several lines
+project,project is a hyponym of pipelines
+project,project is a hyponym of facilities
+project,project is a hyponym of equipment
+project,project is a hyponym of installations
+project of common interest,project of common interest is a hyponym of project
+project of mutual interest,project of mutual interest is a hyponym of project
+competing projects,competing projects is a hyponym of projects
+project promoter,project promoter is a hyponym of transmission system operator
+project promoter,project promoter is a hyponym of TSO
+project promoter,project promoter is a hyponym of distribution system operator
+project promoter,project promoter is a hyponym of DSO
+project promoter,project promoter is a hyponym of operator
+project promoter,project promoter is a hyponym of investor
+project promoter,project promoter is a hyponym of entity
+smart electricity grid,smart electricity grid is a hyponym of electricity network
+smart gas grid,smart gas grid is a hyponym of gas network
+authority concerned,authority concerned is a hyponym of authority
+national regulatory authority,national regulatory authority is a hyponym of national regulatory authority
+relevant national regulatory authority,relevant national regulatory authority is a hyponym of national regulatory authority
+works,works is a hyponym of purchase
+works,works is a hyponym of supply
+works,works is a hyponym of deployment
+studies,studies is a hyponym of activities
+commissioning,commissioning is a hyponym of process
+dedicated hydrogen assets,dedicated hydrogen assets is a hyponym of infrastructure
+repurposing,repurposing is a hyponym of technical upgrading
+repurposing,repurposing is a hyponym of modification
+climate adaptation,climate adaptation is a hyponym of process

@@ -1,0 +1,19 @@
+Definition,Relation
+country indicative programme,country indicative programme is a hyponym of indicative programme
+multi-country indicative programme,multi-country indicative programme is a hyponym of indicative programme
+regional indicative programme,regional indicative programme is a hyponym of multi-country indicative programme
+trans-regional indicative programme,trans-regional indicative programme is a hyponym of multi-country indicative programme
+cross-border cooperation,cross-border cooperation is a hyponym of cooperation
+legal entity,legal entity is a hyponym of natural person
+legal entity,legal entity is a hyponym of legal person
+civil society organisation,civil society organisation is a hyponym of wide range
+local authority,local authority is a hyponym of public institutions
+investment window,investment window is a hyponym of targeted area
+additionality,additionality is a hyponym of principle
+operation with sovereign counterparts and non-commercial sub-sovereign counterparts,operation with sovereign counterparts and non-commercial sub-sovereign counterparts is a hyponym of operation
+operation with commercial sub-sovereign counterparts,operation with commercial sub-sovereign counterparts is a hyponym of operation
+contributor,contributor is a hyponym of international finance institution
+contributor,contributor is a hyponym of Member State
+contributor,contributor is a hyponym of public institution
+partner country,partner country is a hyponym of country
+partner country,partner country is a hyponym of territory

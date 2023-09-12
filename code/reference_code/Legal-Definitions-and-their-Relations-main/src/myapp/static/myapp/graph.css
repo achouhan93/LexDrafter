@@ -1,0 +1,49 @@
+.container {
+      display: flex;
+        justify-content: space-around;
+        padding: 0;
+        margin: 0;
+    }
+
+    .list-group {
+      flex-basis: 50%;
+      flex-shrink: 1;
+    }
+
+    .list-group ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    .list-group li {
+      margin-bottom: 5px;
+      font-size: 12px;
+      padding-bottom: 2px;
+    }
+
+    .form-container {
+      flex-basis: 90%;
+      flex-direction: column;
+      display: flex;
+      align-items: flex-start;
+    }
+
+    .form-container form {
+      margin-bottom: 10px;
+    }
+    .form-container img {
+      max-width: 65%;
+      max-height: 65%;
+
+    }
+
+    .freq {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .freq img{
+      width: 50%;
+    }

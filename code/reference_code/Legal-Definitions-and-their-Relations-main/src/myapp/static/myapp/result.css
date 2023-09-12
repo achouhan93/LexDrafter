@@ -1,0 +1,26 @@
+h1{
+    color: rgb(0,101,189);
+    text-align: center;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    position: center;
+    padding-top: 40px;
+    padding-bottom: 5px;
+}
+
+a:link {
+    color:white;
+}
+a:visited {
+    color:white;
+}
+
+.statistics {
+    color: rgb(0,101,189);
+    text-align: center;
+}
+
+.statistics img{
+      width: 75%;
+    }

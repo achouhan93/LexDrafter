@@ -1,0 +1,12 @@
+Definition,Relation
+batch of animals,batch of animals is a hyponym of group
+illegal treatment,illegal treatment is a hyponym of products
+illegal treatment,illegal treatment is a hyponym of purpose
+illegal treatment,illegal treatment is a hyponym of substances
+illegal treatment,illegal treatment is a hyponym of use
+illegal treatment,illegal treatment is a hyponym of veterinary medicinal products
+pharmacologically active substance,pharmacologically active substance is a hyponym of mixture
+pharmacologically active substance,pharmacologically active substance is a hyponym of substance
+residues of pharmacologically active substances exceeding the maximum level,residues of pharmacologically active substances exceeding the maximum level is a hyponym of presence
+residues of pharmacologically active substances exceeding the maximum residue limit,residues of pharmacologically active substances exceeding the maximum residue limit is a hyponym of presence
+unauthorised substances,unauthorised substances is a hyponym of active substances

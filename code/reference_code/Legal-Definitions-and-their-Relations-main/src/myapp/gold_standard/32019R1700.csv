@@ -1,0 +1,23 @@
+Definition,Relation
+microdata,microdata is a hyponym of non‐aggregated observations
+microdata,microdata is a hyponym of measurements
+pre‐checked aggregated data,"pre‐checked aggregated data, pre‐checked microdata are synonyms"
+pre‐checked microdata,pre‐checked microdata is a hyponym of data
+pre‐checked microdata,pre‐checked microdata is a hyponym of microdata
+pre‐checked aggregated data,pre‐checked aggregated data is a hyponym of data
+pre‐checked aggregated data,pre‐checked aggregated data is a hyponym of microdata
+domain,domain is a hyponym of one or several data sets
+observation unit,observation unit is a hyponym of identifiable entity
+topic,topic is a hyponym of content
+detailed topic,detailed topic is a hyponym of detailed content
+variable,variable is a hyponym of characteristic
+administrative records,administrative records is a hyponym of mean data
+ad‐hoc subjects,ad‐hoc subjects is a hyponym of themes
+headline indicator,headline indicator is a hyponym of widely used information
+usual residence,usual residence is a hyponym of place
+metadata,metadata is a hyponym of information
+quality report,quality report is a hyponym of report
+sampling frames,sampling frames is a hyponym of list
+sampling frames,sampling frames is a hyponym of map
+sampling frames,sampling frames is a hyponym of other specification
+private household,private household is a hyponym of person
