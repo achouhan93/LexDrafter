@@ -11,7 +11,7 @@ matplotlib.rcParams['mathtext.fontset'] = 'stix'
 matplotlib.rcParams['font.family'] = 'STIXGeneral'
 
 # Load the CSV file into a pandas DataFrame
-df = pd.read_csv("definitions_per_energydocumentcsv.csv", delimiter=";")
+df = pd.read_csv("definitions_per_document_final.csv", delimiter=";")
 
 # Count the frequency of each attribute value
 definition_counts = df['actual_count'].value_counts().sort_index()
@@ -31,7 +31,7 @@ ax.set_ylabel('# of Documents', fontsize = 16)
 ax.set_title('Distribution of definitions in Energy domain', fontsize = 18)
 ax.legend(fontsize = 16)
 ax.set_xlim(min(definition_counts.index)-1, max(definition_counts.index)+1)
-plt.savefig("definition_distribution.png", dpi=400)
+plt.savefig("definition_distribution_new.png", dpi=400)
 plt.show()
 
 # Create a histogram for the attribute values
@@ -45,5 +45,5 @@ plt.ylabel('# of Documents', fontsize = 16)
 plt.title('Distribution of definitions in Energy domain', fontsize = 18)
 plt.legend(fontsize = 16)
 plt.xlim(min(definition_counts.index)-1, max(definition_counts.index)+1)
-plt.savefig("definition_histogram_distribution.png", dpi=400)
+plt.savefig("definition_histogram_distribution_new.png", dpi=400)
 plt.show()

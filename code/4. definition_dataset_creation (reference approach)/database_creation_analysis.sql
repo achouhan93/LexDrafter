@@ -94,3 +94,19 @@ SELECT * FROM lexdrafter_document_information where id = 3
 SELECT * FROM lexdrafter_definition_term where doc_id = 272 and term_id = 2328
 
 SELECT * FROM lexdrafter_term_explanation where doc_id = 272 and term_id = 2328
+
+
+SELECT term_id, doc_id
+FROM lexdrafter_energy_term_explanation
+GROUP BY (term_id, doc_id)
+ORDER BY term_id ASC, doc_id ASC;
+
+SELECT DISTINCT a.celex_id
+FROM lexdrafter_energy_articles a
+LEFT JOIN lexdrafter_energy_document_information d ON a.celex_id = d.celex_id
+WHERE d.celex_id IS NULL;
+
+SELECT DISTINCT d.celex_id
+FROM lexdrafter_energy_document_information d
+LEFT JOIN lexdrafter_energy_articles a ON d.celex_id = a.celex_id
+WHERE a.celex_id IS NULL;

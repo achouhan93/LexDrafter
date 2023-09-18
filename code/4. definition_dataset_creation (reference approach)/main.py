@@ -71,19 +71,24 @@ class Processor:
             log_buffer.append(f"Year of a regulation is invalid for document number {self.celex}")
             return False
         
-        if self.celex[5] != 'R':
-            logging.info(f"The legal document is not a Regulation for document number {self.celex}")
-            log_buffer.append(f"The legal document is not a Regulation for document number {self.celex}")
-            return False
+        # if self.celex[5] != 'R':
+        #     logging.info(f"The legal document is not a Regulation for document number {self.celex}")
+        #     log_buffer.append(f"The legal document is not a Regulation for document number {self.celex}")
+        #     return False
 
         # check whether the regulation exists or not
         new_url = 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:' + \
             self.celex + '&from=EN'
         soup = BeautifulSoup(requests.get(new_url).text, 'html.parser')
-        if soup.find('title').getText().__contains__(
-                "The requested document does not exist"):
-            logging.info(f'The celex document {self.celex} does not exist in HTML format')
-            log_buffer.append(f'The celex document {self.celex} does not exist in HTML format')
+        try:
+            if soup.find('title').getText().__contains__(
+                    "The requested document does not exist"):
+                logging.info(f'The celex document {self.celex} does not exist in HTML format')
+                log_buffer.append(f'The celex document {self.celex} does not exist in HTML format')
+                return False
+        except:
+            logging.info(f'The celex document {self.celex} does not contain title in the HTML document')
+            log_buffer.append(f'The celex document {self.celex} does not contain title in the HTML document')
             return False
 
         # check whether a regulation contains a chapter definitions or not
