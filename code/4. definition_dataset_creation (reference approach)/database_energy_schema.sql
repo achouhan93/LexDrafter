@@ -172,3 +172,41 @@ SELECT
 FROM cte;
 
 SELECT * FROM lexdrafter_energy_document_split
+
+-- Dataset Creation
+CREATE TABLE lexdrafter_energy_document_split (
+    celex_id VARCHAR(20),
+    split VARCHAR(20)
+);
+
+
+WITH cte AS (
+    SELECT
+        celex_id,
+        SUBSTRING(celex_id, 2, 4) AS celex_year,
+        ROW_NUMBER() OVER (ORDER BY celex_id) AS row_num
+    FROM lexdrafter_energy_document_information
+)
+INSERT INTO lexdrafter_energy_document_split (celex_id, split)
+SELECT
+    cte.celex_id,
+    CASE
+        WHEN cte.celex_year BETWEEN '2005' AND '2018' THEN 'train'
+        WHEN cte.celex_year BETWEEN '2019' AND '2020' THEN 'validate'
+        WHEN cte.celex_year BETWEEN '2021' AND '2023' THEN 'test'
+        ELSE 'unknown'
+    END AS split
+FROM cte;
+
+SELECT * FROM lexdrafter_energy_term_explanation
+
+CREATE TABLE lexdrafter_energy_data_split AS
+SELECT
+    ds.celex_id,
+    ds.split,
+    te.term_id,
+    te.doc_id,
+    te.explanation
+FROM lexdrafter_energy_document_split ds
+JOIN lexdrafter_energy_document_information di ON ds.celex_id = di.celex_id
+JOIN lexdrafter_energy_term_explanation te ON di.id = te.doc_id;

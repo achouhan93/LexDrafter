@@ -110,3 +110,45 @@ SELECT DISTINCT d.celex_id
 FROM lexdrafter_energy_document_information d
 LEFT JOIN lexdrafter_energy_articles a ON d.celex_id = a.celex_id
 WHERE a.celex_id IS NULL;
+
+
+-- Distribution of number of definitions per document
+SELECT d.celex_id, t.doc_id, COUNT(t.term_id) AS term_count
+FROM lexdrafter_energy_definition_term as t
+JOIN lexdrafter_energy_document_information as d
+ON t.doc_id = d.id
+GROUP BY d.celex_id, t.doc_id
+ORDER BY term_count ASC;
+
+-- Analysis of term present in term table but its explanantion is not present in the explanantion table
+SELECT t1.term_id, t1.doc_id, d.celex_id, t1.term
+FROM lexdrafter_energy_definition_term t1
+LEFT JOIN lexdrafter_energy_term_explanation t2
+ON t1.term_id = t2.term_id
+JOIN lexdrafter_energy_document_information as d
+ON t1.doc_id = d.id
+WHERE t2.term_id IS NULL;
+
+SELECT DISTINCT(doc_id) FROM lexdrafter_energy_term_explanation
+
+-- Analysis of term and how many times they are defined in the corpus
+SELECT term_id, term_count
+FROM (
+  SELECT term_id, COUNT(*) AS term_count
+  FROM lexdrafter_energy_term_explanation
+  GROUP BY term_id
+) AS subquery
+WHERE term_count > 1
+ORDER BY term_count DESC;
+  
+-- Analysis of the year and how many definitions are present per year
+-- This helps to split the dataset into train, validate, test split
+SELECT 
+	SUBSTRING(d.celex_id, 2, 4) AS year,
+	COUNT(t1.term_id) AS definition_count
+FROM lexdrafter_energy_term_explanation t1
+	JOIN lexdrafter_energy_document_information AS d ON t1.doc_id = d.id
+GROUP BY
+  year
+ORDER BY
+  year ASC;
