@@ -52,6 +52,10 @@ def main(argv=None):
             "-f", "--evaluationdatasetfiltering", help="checking if the term is already defined", action = "store_true" 
         )
 
+        parser.add_argument(
+            "-s", "--evaluationdatasetscoring", help="Assign score to each sentence where term is present", action = "store_true" 
+        )
+
         parser.add_argument('--split', help='split to be considered')
 
         args = parser.parse_args()
@@ -69,13 +73,13 @@ def main(argv=None):
             else:
                 logging.info(f"Document extraction failed")
         
-        elif args.evaluationdatasetfiltering:
+        if args.evaluationdatasetfiltering:
             start_time = time()
             logging.info(f"Current date and time: {secondsToText(start_time)}")
             logging.info("**********************************\n")
             logging.info(f"Process to extracting the defnition of terms present in the celex documents started")
             
-            file_name = f'/dataset/{args.split}_split.json'
+            file_name = f'./dataset/{args.split}_split.json'
             # Read JSON file
             with open(file_name, 'r') as json_file:
                 data = json.load(json_file)
@@ -92,10 +96,29 @@ def main(argv=None):
                 if term in existing_records:
                     item['existing_record'] = existing_records[term]
                 else:
-                    item['existing_record'] = "NEW TERM"
+                    item['existing_record'] = ["NEW TERM"]
             
-            with open(f'updated_{args.split}_split.json', 'w') as updated_json_file:
+            with open(f'./dataset/updated_{args.split}_split.json', 'w') as updated_json_file:
                 json.dump(data, updated_json_file, indent=4)
+
+        if args.evaluationdatasetscoring:
+            start_time = time()
+            logging.info(f"Current date and time: {secondsToText(start_time)}")
+            logging.info("**********************************\n")
+            logging.info(f"Process to assigning score to the statements where term exist")
+            
+            file_name = f'./dataset/updated_{args.split}_split.json'
+            
+            # Read JSON file
+            with open(file_name, 'r') as json_file:
+                updated_data = json.load(json_file)
+
+            score_data = calculate_sentence_score(updated_data)
+
+            # Save the updated JSON data with scores
+            with open(f'./dataset/updated_{args.split}_split_score.json', 'w') as json_file:
+                json.dump(score_data, json_file, indent=4)            
+            
     
     finally:
         pg_connection.dispose()
