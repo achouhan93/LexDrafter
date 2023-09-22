@@ -2,7 +2,7 @@
     {
         "term": "bidding zone",
         "celex_id": "32023R1184",
-        "original_definition": "bidding zone means bidding zone as defined in Article 2, point (65), of Regulation (EU) 2019/943 of the European Parliament and of the Council (3) for Member States, or an equivalent concept for third countries;",
+        "original_definition": "'bidding zone' means bidding zone as defined in Article 2, point (65), of Regulation (EU) 2019/943 of the European Parliament and of the Council (3) for Member States, or an equivalent concept for third countries;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -40,7 +40,7 @@
     {
         "term": "direct line",
         "celex_id": "32023R1184",
-        "original_definition": "direct line means direct line as defined in Article 2, point (41), of Directive (EU) 2019/944 of the European Parliament and of the Council (4);",
+        "original_definition": "'direct line' means direct line as defined in Article 2, point (41), of Directive (EU) 2019/944 of the European Parliament and of the Council (4);",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -54,7 +54,7 @@
     {
         "term": "installation generating renewable electricity",
         "celex_id": "32023R1184",
-        "original_definition": "installation generating renewable electricity means individual units, or groups of units, producing electricity in one or several locations from the same or from different renewable sources, as defined in Article 2, point (1) of Directive (EU) 2018/2001, excluding units producing electricity from biomass and storage units;",
+        "original_definition": "'installation generating renewable electricity' means individual units, or groups of units, producing electricity in one or several locations from the same or from different renewable sources, as defined in Article 2, point (1) of Directive (EU) 2018/2001, excluding units producing electricity from biomass and storage units;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -99,7 +99,7 @@
     {
         "term": "fuel producer",
         "celex_id": "32023R1184",
-        "original_definition": "fuel producer means an economic operator that produces renewable liquid and gaseous transport fuel of non-biological origin;",
+        "original_definition": "'fuel producer' means an economic operator that produces renewable liquid and gaseous transport fuel of non-biological origin;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -145,7 +145,7 @@
     {
         "term": "come into operation",
         "celex_id": "32023R1184",
-        "original_definition": "come into operation means starting production of renewable liquid and gaseous transport fuels of non-biological origin or renewable electricity for the first time or following a repowering as defined under Article 2, point (10) of Directive (EU) 2018/2001 requiring investments exceeding 30 % of the investment that would be needed to build a similar new installation;",
+        "original_definition": "'come into operation' means starting production of renewable liquid and gaseous transport fuels of non-biological origin or renewable electricity for the first time or following a repowering as defined under Article 2, point (10) of Directive (EU) 2018/2001 requiring investments exceeding 30 % of the investment that would be needed to build a similar new installation;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -172,7 +172,7 @@
     {
         "term": "smart metering system",
         "celex_id": "32023R1184",
-        "original_definition": "smart metering system means smart metering system as defined in Article 2, point (23) of Directive (EU) 2019/944;",
+        "original_definition": "'smart metering system' means smart metering system as defined in Article 2, point (23) of Directive (EU) 2019/944;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -186,7 +186,7 @@
     {
         "term": "imbalance settlement period",
         "celex_id": "32023R1184",
-        "original_definition": "imbalance settlement period means imbalance settlement period as defined in Article 2, point (15) of Regulation (EU) 2019/943 within the Union, or an equivalent concept for third countries.",
+        "original_definition": "'imbalance settlement period' means imbalance settlement period as defined in Article 2, point (15) of Regulation (EU) 2019/943 within the Union, or an equivalent concept for third countries.",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -205,7 +205,7 @@
     {
         "term": "reference model",
         "celex_id": "32023R1162",
-        "original_definition": "reference model means the procedures that are necessary for access to data describing the minimum required information exchange between market participants;",
+        "original_definition": "'reference model' means the procedures that are necessary for access to data describing the minimum required information exchange between market participants;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -269,7 +269,7 @@
     {
         "term": "metering and consumption data",
         "celex_id": "32023R1162",
-        "original_definition": "metering and consumption data means meter readings of electricity consumption from the grid, or electricity fed into the grid, or consumption from on-site generation facilities which are connected to the grid, and includes validated historical data and non-validated near-real time data;",
+        "original_definition": "'metering and consumption data' means meter readings of electricity consumption from the grid, or electricity fed into the grid, or consumption from on-site generation facilities which are connected to the grid, and includes validated historical data and non-validated near-real time data;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -321,7 +321,7 @@
     {
         "term": "validated historical metering and consumption data",
         "celex_id": "32023R1162",
-        "original_definition": "validated historical metering and consumption data means historical metering and consumption data collected from a meter, a conventional meter or a smart meter, or a smart metering system, or completed with substitute values that are determined otherwise in case of meter unavailability;",
+        "original_definition": "'validated historical metering and consumption data' means historical metering and consumption data collected from a meter, a conventional meter or a smart meter, or a smart metering system, or completed with substitute values that are determined otherwise in case of meter unavailability;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -341,7 +341,7 @@
     {
         "term": "smart meter",
         "celex_id": "32023R1162",
-        "original_definition": "smart meter means an electronic metering device deployed within a smart metering system as defined in the Article 2(23) of the Directive (EU) 2019/944;",
+        "original_definition": "'smart meter' means an electronic metering device deployed within a smart metering system as defined in the Article 2(23) of the Directive (EU) 2019/944;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -386,7 +386,7 @@
     {
         "term": "near real-time metering and consumption data",
         "celex_id": "32023R1162",
-        "original_definition": "near real-time metering and consumption data means metering and consumption data provided continuously by a smart meter or a smart metering system in a short time period, usually down to seconds or up to the imbalance settlement period in the national market, which is non-validated and made available through a standardised interface or through remote access in line with Article 20(a) of the Electricity Directive (EU) 2019/944;",
+        "original_definition": "'near real-time metering and consumption data' means metering and consumption data provided continuously by a smart meter or a smart metering system in a short time period, usually down to seconds or up to the imbalance settlement period in the national market, which is non-validated and made available through a standardised interface or through remote access in line with Article 20(a) of the Electricity Directive (EU) 2019/944;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -398,7 +398,7 @@
     {
         "term": "eligible party",
         "celex_id": "32023R1162",
-        "original_definition": "eligible party means an entity offering energy-related services to final customers, such as suppliers, transmission and distribution system operators, delegated operators and other third parties, aggregators, energy service companies, renewable energy communities, citizen energy communities and balancing service providers, as far as they offer energy related services to final customers;",
+        "original_definition": "'eligible party' means an entity offering energy-related services to final customers, such as suppliers, transmission and distribution system operators, delegated operators and other third parties, aggregators, energy service companies, renewable energy communities, citizen energy communities and balancing service providers, as far as they offer energy related services to final customers;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -469,7 +469,7 @@
     {
         "term": "metered data administrator",
         "celex_id": "32023R1162",
-        "original_definition": "metered data administrator means a party responsible for storing validated historical metering and consumption data and distributing these data to final customers and/or eligible parties;",
+        "original_definition": "'metered data administrator' means a party responsible for storing validated historical metering and consumption data and distributing these data to final customers and/or eligible parties;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -554,7 +554,7 @@
     {
         "term": "permission",
         "celex_id": "32023R1162",
-        "original_definition": "permission means the authorisation given by a final customer for an eligible party on the basis of a contractual agreement they have with this party, to access their metering and consumption data managed by the metered data administrator for the provision of a specific service;",
+        "original_definition": "'permission' means the authorisation given by a final customer for an eligible party on the basis of a contractual agreement they have with this party, to access their metering and consumption data managed by the metered data administrator for the provision of a specific service;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -636,7 +636,7 @@
     {
         "term": "active permission",
         "celex_id": "32023R1162",
-        "original_definition": "active permission means a permission that has not been revoked or expired;",
+        "original_definition": "'active permission' means a permission that has not been revoked or expired;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -659,7 +659,7 @@
     {
         "term": "permission administrator",
         "celex_id": "32023R1162",
-        "original_definition": "permission administrator means a party responsible for administering a register of data access permissions for a set of metering points, making this information available to final customers and eligible parties in the sector, on request;",
+        "original_definition": "'permission administrator' means a party responsible for administering a register of data access permissions for a set of metering points, making this information available to final customers and eligible parties in the sector, on request;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -732,7 +732,7 @@
     {
         "term": "data access log",
         "celex_id": "32023R1162",
-        "original_definition": "data access log means a timestamped record of data items accessed that includes at least the identification of the final customer or the eligible party accessing the data and, if applicable, the identification of the permission used to access the data;",
+        "original_definition": "'data access log' means a timestamped record of data items accessed that includes at least the identification of the final customer or the eligible party accessing the data and, if applicable, the identification of the permission used to access the data;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -747,7 +747,7 @@
     {
         "term": "metering point administrator",
         "celex_id": "32023R1162",
-        "original_definition": "metering point administrator means a party responsible for administering and making available the characteristics of a metering point, including the registrations of eligible parties and final customers linked to the metering point;",
+        "original_definition": "'metering point administrator' means a party responsible for administering and making available the characteristics of a metering point, including the registrations of eligible parties and final customers linked to the metering point;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -781,7 +781,7 @@
     {
         "term": "data access provider",
         "celex_id": "32023R1162",
-        "original_definition": "data access provider means a party responsible for facilitating access, including in cooperation with other parties, to validated historical metering and consumption data by the final customer or by eligible parties;",
+        "original_definition": "'data access provider' means a party responsible for facilitating access, including in cooperation with other parties, to validated historical metering and consumption data by the final customer or by eligible parties;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a04": [
@@ -819,7 +819,7 @@
     {
         "term": "permission provision log",
         "celex_id": "32023R1162",
-        "original_definition": "permission provision log means a timestamped record of when the permission for a an eligible party or final customer was granted, revoked, or terminated, including a permission identifier, and a party identifier;",
+        "original_definition": "'permission provision log' means a timestamped record of when the permission for a an eligible party or final customer was granted, revoked, or terminated, including a permission identifier, and a party identifier;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -831,7 +831,7 @@
     {
         "term": "identity service provider",
         "celex_id": "32023R1162",
-        "original_definition": "identity service provider means a party that manages identity information; issues, stores, protects, keeps up to date, and manages identity information for a natural or legal person and provides authentication services to eligible parties and final customers;",
+        "original_definition": "'identity service provider' means a party that manages identity information; issues, stores, protects, keeps up to date, and manages identity information for a natural or legal person and provides authentication services to eligible parties and final customers;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -852,7 +852,7 @@
     {
         "term": "authentication",
         "celex_id": "32023R1162",
-        "original_definition": "authentication means an electronic procedure that enables the electronic identification of a natural or legal person;",
+        "original_definition": "'authentication' means an electronic procedure that enables the electronic identification of a natural or legal person;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -872,7 +872,7 @@
     {
         "term": "meter operator",
         "celex_id": "32023R1162",
-        "original_definition": "meter operator means a party responsible for installing, maintaining, testing, and decommissioning physical meters;",
+        "original_definition": "'meter operator' means a party responsible for installing, maintaining, testing, and decommissioning physical meters;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -896,7 +896,7 @@
     {
         "term": "near real-time data consumption system",
         "celex_id": "32023R1162",
-        "original_definition": "near real-time data consumption system means a system or device that obtains the flow of non-validated near real-time data from a smart metering system as referred to in Article 20, first subparagraph, point (a) of Directive (EU) 2019/944.",
+        "original_definition": "'near real-time data consumption system' means a system or device that obtains the flow of non-validated near real-time data from a smart metering system as referred to in Article 20, first subparagraph, point (a) of Directive (EU) 2019/944.",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -919,7 +919,7 @@
     {
         "term": "electrical and electronic household and office equipment",
         "celex_id": "32023R0826",
-        "original_definition": "electrical and electronic household and office equipment means any energy-related product listed in Annex II which fulfils the following conditions:it is dependent on energy input from the mains power source in order to work as intended;it is designed for use with a nominal voltage rating of 250 V or below;",
+        "original_definition": "'electrical and electronic household and office equipment' means any energy-related product listed in Annex II which fulfils the following conditions:it is dependent on energy input from the mains power source in order to work as intended;it is designed for use with a nominal voltage rating of 250 V or below;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -954,7 +954,7 @@
     {
         "term": "equipment",
         "celex_id": "32023R0826",
-        "original_definition": "equipment means any energy-related product listed in Annex II which fulfils the following conditions:it is dependent on energy input from the mains power source in order to work as intended;it is designed for use with a nominal voltage rating of 250 V or below;",
+        "original_definition": "'equipment' means any energy-related product listed in Annex II which fulfils the following conditions:it is dependent on energy input from the mains power source in order to work as intended;it is designed for use with a nominal voltage rating of 250 V or below;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -1153,7 +1153,7 @@
     {
         "term": "mains",
         "celex_id": "32023R0826",
-        "original_definition": "mains means the electricity supply from the grid of 230 (\u00b1 10 %) volts of alternating current at 50 Hz;",
+        "original_definition": "'mains' means the electricity supply from the grid of 230 (\u00b1 10 %) volts of alternating current at 50 Hz;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -1182,7 +1182,7 @@
     {
         "term": "standby mode",
         "celex_id": "32023R0826",
-        "original_definition": "standby mode means a condition where the equipment is connected to the mains power source, depends on energy input from the mains power source to work as intended and provides only one or more of the following functions, which may persist for an indefinite time:reactivation function;reactivation function and only an indication of enabled reactivation function;information or status display;",
+        "original_definition": "'standby mode' means a condition where the equipment is connected to the mains power source, depends on energy input from the mains power source to work as intended and provides only one or more of the following functions, which may persist for an indefinite time:reactivation function;reactivation function and only an indication of enabled reactivation function;information or status display;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -1253,7 +1253,7 @@
     {
         "term": "reactivation function",
         "celex_id": "32023R0826",
-        "original_definition": "reactivation function means a function that via a remote switch, a remote control, an internal sensor or timer provides a switch from standby mode to another mode, including active mode, providing additional functions;",
+        "original_definition": "'reactivation function' means a function that via a remote switch, a remote control, an internal sensor or timer provides a switch from standby mode to another mode, including active mode, providing additional functions;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -1275,7 +1275,7 @@
     {
         "term": "main function",
         "celex_id": "32023R0826",
-        "original_definition": "main function means a function delivering the main service(s) for which the equipment is designed, tested and marketed, and which corresponds to the intended use of the equipment;",
+        "original_definition": "'main function' means a function delivering the main service(s) for which the equipment is designed, tested and marketed, and which corresponds to the intended use of the equipment;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -1311,7 +1311,7 @@
     {
         "term": "information or status display",
         "celex_id": "32023R0826",
-        "original_definition": "information or status display means a continuous function providing information or indicating the status of the equipment on a display, including clocks. A simple light indicator is not considered a status display;",
+        "original_definition": "'information or status display' means a continuous function providing information or indicating the status of the equipment on a display, including clocks. A simple light indicator is not considered a status display;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -1332,7 +1332,7 @@
     {
         "term": "active mode",
         "celex_id": "32023R0826",
-        "original_definition": "active mode means a condition in which the equipment is connected to the mains power source and at least one of the main functions has been activated;",
+        "original_definition": "'active mode' means a condition in which the equipment is connected to the mains power source and at least one of the main functions has been activated;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -1346,7 +1346,7 @@
     {
         "term": "off mode",
         "celex_id": "32023R0826",
-        "original_definition": "off mode means a condition in which the equipment is connected to the mains power source and is not providing any function, or it is in a condition providing only:an indication of off mode condition;functionalities intended to ensure electromagnetic compatibility under Directive 2014/30/EU of the European Parliament and of the Council (8);",
+        "original_definition": "'off mode' means a condition in which the equipment is connected to the mains power source and is not providing any function, or it is in a condition providing only:an indication of off mode condition;functionalities intended to ensure electromagnetic compatibility under Directive 2014/30/EU of the European Parliament and of the Council (8);",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -1422,7 +1422,7 @@
     {
         "term": "network",
         "celex_id": "32023R0826",
-        "original_definition": "network means a communication infrastructure with a topology of links, an architecture, including the physical components, organisational principles, communication procedures and formats (protocols);",
+        "original_definition": "'network' means a communication infrastructure with a topology of links, an architecture, including the physical components, organisational principles, communication procedures and formats (protocols);",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -1511,7 +1511,7 @@
     {
         "term": "networked standby",
         "celex_id": "32023R0826",
-        "original_definition": "networked standby means a condition in which the equipment is able to resume a function by way of a remotely initiated trigger from a network connection;",
+        "original_definition": "'networked standby' means a condition in which the equipment is able to resume a function by way of a remotely initiated trigger from a network connection;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -1589,7 +1589,7 @@
     {
         "term": "remotely initiated trigger",
         "celex_id": "32023R0826",
-        "original_definition": "remotely initiated trigger means a signal that comes from outside the equipment via a network;",
+        "original_definition": "'remotely initiated trigger' means a signal that comes from outside the equipment via a network;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -1615,7 +1615,7 @@
     {
         "term": "model identifier",
         "celex_id": "32023R0826",
-        "original_definition": "model identifier means a code, usually alphanumeric, which distinguishes a specific equipment model from other models with the same trade mark or the same manufacturer\u2019s, importer\u2019s or authorised representative\u2019s name;",
+        "original_definition": "'model identifier' means a code, usually alphanumeric, which distinguishes a specific equipment model from other models with the same trade mark or the same manufacturer\u2019s, importer\u2019s or authorised representative\u2019s name;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -1633,7 +1633,7 @@
     {
         "term": "equivalent model",
         "celex_id": "32023R0826",
-        "original_definition": "equivalent model means an equipment model which has the same technical characteristics relevant for the technical information to be provided in accordance with Annex II, but which is placed on the market or put into service by the same manufacturer, importer or authorised representative as another equipment model with a different model identifier;",
+        "original_definition": "'equivalent model' means an equipment model which has the same technical characteristics relevant for the technical information to be provided in accordance with Annex II, but which is placed on the market or put into service by the same manufacturer, importer or authorised representative as another equipment model with a different model identifier;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -1655,7 +1655,7 @@
     {
         "term": "declared values",
         "celex_id": "32023R0826",
-        "original_definition": "declared values means the values provided by the manufacturer, importer or authorised representative for the stated, calculated or measured technical parameters in accordance with Article 4, for the verification of compliance by the Member State authorities.",
+        "original_definition": "'declared values' means the values provided by the manufacturer, importer or authorised representative for the stated, calculated or measured technical parameters in accordance with Article 4, for the verification of compliance by the Member State authorities.",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -1671,7 +1671,7 @@
     {
         "term": "front-month derivative linked to other VTPs",
         "celex_id": "32023R0736",
-        "original_definition": "front-month derivative linked to other VTPs means a derivative linked to other VTPs whose expiration date is the nearest among the derivatives with a one-month maturity traded on a given regulated market;",
+        "original_definition": "'front-month derivative linked to other VTPs' means a derivative linked to other VTPs whose expiration date is the nearest among the derivatives with a one-month maturity traded on a given regulated market;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -1682,7 +1682,7 @@
     {
         "term": "front-year derivative linked to other VTPs",
         "celex_id": "32023R0736",
-        "original_definition": "front-year derivative linked to other VTPs means a derivative linked to other VTPs whose expiration date is the nearest among the derivatives with 12 months\u2019 maturity traded on a given regulated market.",
+        "original_definition": "'front-year derivative linked to other VTPs' means a derivative linked to other VTPs whose expiration date is the nearest among the derivatives with 12 months\u2019 maturity traded on a given regulated market.",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -1693,7 +1693,7 @@
     {
         "term": "TTF derivative",
         "celex_id": "32022R2578",
-        "original_definition": "TTF derivative means a commodity derivative as defined in Article 2(1), point (30), of Regulation (EU) No 600/2014 of the European Parliament and of the Council (12), traded on a regulated market, the underlying of which is a transaction in the Title Transfer Facility (TTF), a virtual trading point operated by Gasunie Transport Services B.V.;",
+        "original_definition": "'TTF derivative' means a commodity derivative as defined in Article 2(1), point (30), of Regulation (EU) No 600/2014 of the European Parliament and of the Council (12), traded on a regulated market, the underlying of which is a transaction in the Title Transfer Facility (TTF), a virtual trading point operated by Gasunie Transport Services B.V.;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -1742,7 +1742,7 @@
     {
         "term": "derivative linked to other VTP",
         "celex_id": "32022R2578",
-        "original_definition": "derivative linked to other VTP means a commodity derivative as defined in Article 2(1), point (30), of Regulation (EU) No 600/2014, traded on a regulated market, the underlying of which is a transaction in gas in a virtual trading point in the Union;",
+        "original_definition": "'derivative linked to other VTP' means a commodity derivative as defined in Article 2(1), point (30), of Regulation (EU) No 600/2014, traded on a regulated market, the underlying of which is a transaction in gas in a virtual trading point in the Union;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -1754,7 +1754,7 @@
     {
         "term": "virtual trading point",
         "celex_id": "32022R2578",
-        "original_definition": "virtual trading point means a non-physical commercial point within an entry-exit system where gas is exchanged between a seller and a buyer without the need to book transmission or distribution capacity;",
+        "original_definition": "'virtual trading point' means a non-physical commercial point within an entry-exit system where gas is exchanged between a seller and a buyer without the need to book transmission or distribution capacity;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -1778,7 +1778,7 @@
     {
         "term": "VTP",
         "celex_id": "32022R2578",
-        "original_definition": "VTP means a commodity derivative as defined in Article 2(1), point (30), of Regulation (EU) No 600/2014, traded on a regulated market, the underlying of which is a transaction in gas in a virtual trading point in the Union;",
+        "original_definition": "'VTP' means a commodity derivative as defined in Article 2(1), point (30), of Regulation (EU) No 600/2014, traded on a regulated market, the underlying of which is a transaction in gas in a virtual trading point in the Union;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -1822,7 +1822,7 @@
     {
         "term": "front-month TTF derivative",
         "celex_id": "32022R2578",
-        "original_definition": "front-month TTF derivative means a TTF derivative whose expiration date is the nearest among the derivatives with a one-month maturity traded on a given regulated market;",
+        "original_definition": "'front-month TTF derivative' means a TTF derivative whose expiration date is the nearest among the derivatives with a one-month maturity traded on a given regulated market;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -1840,7 +1840,7 @@
     {
         "term": "-front-year TTF derivative",
         "celex_id": "32022R2578",
-        "original_definition": "-front-year TTF derivative means a TTF derivative whose expiration date is the nearest among the derivatives with twelve months maturity traded on a given regulated market;",
+        "original_definition": "'-front-year TTF derivative' means a TTF derivative whose expiration date is the nearest among the derivatives with twelve months maturity traded on a given regulated market;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -1852,7 +1852,7 @@
     {
         "term": "reference price",
         "celex_id": "32022R2578",
-        "original_definition": "reference price means, insofar as available, the daily average price of:the LNG Northwest Europe Marker price assessment defined as the daily average of \u2018Daily Spot Northwest Europe Marker (NWE)\u2019 administered by Platts Benchmark B.V. (the Netherlands) and the \u2018Northwest Europe des \u2013 half-month 2\u2019 administered by Argus Benchmark Administration B.V. (the Netherlands); with a conversion of LNG price assessments in USD per Metric Million British Thermal Units (MMBtu) into EUR per MWh, on the basis of the European Central Bank\u2019s (\u2018ECB\u2019) Euro foreign exchange rate and a conversion rate of 1 MMBtu to 0.293071 kWh;the LNG Mediterranean Marker price assessment defined as the daily average of \u2018Daily Spot Mediterranean Marker (MED)\u2019 administered by Platts Benchmark B.V. (the Netherlands), and of the daily average of \u2018Iberian peninsula des \u2013 half-month 2\u2019, \u2018Italy des - half-month 2\u2019 and \u2018Greece des - half-month 2\u2019 administered by Argus Benchmark Administration B.V. (the Netherlands); with a conversion of LNG price assessments in USD per MMBtu into EUR per MWh, on the basis of the ECB\u2019s Euro foreign exchange rate and a conversion rate of 1 MMBtu to 0.293071 kWh;the LNG Northeast Asia Marker price assessment defined as the daily average of \u2018LNG Japan/Korea DES 2 Half-Month\u2019 administered by Platts Benchmark B.V. (the Netherlands), and \u2018Northeast Asia des (ANEA) - half-month 2\u2019 administered by Argus Benchmark Administration B.V. (the Netherlands); with a conversion of LNG price assessments USD per MMBtu into EUR per MWh, on the basis of the ECB\u2019s Euro foreign exchange rate and a conversion rate of 1 MMBtu to 0.293071 kWh;the front-month NBP derivative settlement price, as published by ICE Futures Europe (the United Kingdom); with a conversion of Sterling pence per therm into EUR per MWh, on the basis of the ECB\u2019s Euro foreign exchange rate and a conversion rate of 1 therm to 29.3071 kWh;the price of the daily price assessment carried out by ACER pursuant to Article 18 of Regulation (EU) 2022/2576;",
+        "original_definition": "'reference price' means, insofar as available, the daily average price of:the LNG Northwest Europe Marker price assessment defined as the daily average of \u2018Daily Spot Northwest Europe Marker (NWE)\u2019 administered by Platts Benchmark B.V. (the Netherlands) and the \u2018Northwest Europe des \u2013 half-month 2\u2019 administered by Argus Benchmark Administration B.V. (the Netherlands); with a conversion of LNG price assessments in USD per Metric Million British Thermal Units (MMBtu) into EUR per MWh, on the basis of the European Central Bank\u2019s (\u2018ECB\u2019) Euro foreign exchange rate and a conversion rate of 1 MMBtu to 0.293071 kWh;the LNG Mediterranean Marker price assessment defined as the daily average of \u2018Daily Spot Mediterranean Marker (MED)\u2019 administered by Platts Benchmark B.V. (the Netherlands), and of the daily average of \u2018Iberian peninsula des \u2013 half-month 2\u2019, \u2018Italy des - half-month 2\u2019 and \u2018Greece des - half-month 2\u2019 administered by Argus Benchmark Administration B.V. (the Netherlands); with a conversion of LNG price assessments in USD per MMBtu into EUR per MWh, on the basis of the ECB\u2019s Euro foreign exchange rate and a conversion rate of 1 MMBtu to 0.293071 kWh;the LNG Northeast Asia Marker price assessment defined as the daily average of \u2018LNG Japan/Korea DES 2 Half-Month\u2019 administered by Platts Benchmark B.V. (the Netherlands), and \u2018Northeast Asia des (ANEA) - half-month 2\u2019 administered by Argus Benchmark Administration B.V. (the Netherlands); with a conversion of LNG price assessments USD per MMBtu into EUR per MWh, on the basis of the ECB\u2019s Euro foreign exchange rate and a conversion rate of 1 MMBtu to 0.293071 kWh;the front-month NBP derivative settlement price, as published by ICE Futures Europe (the United Kingdom); with a conversion of Sterling pence per therm into EUR per MWh, on the basis of the ECB\u2019s Euro foreign exchange rate and a conversion rate of 1 therm to 29.3071 kWh;the price of the daily price assessment carried out by ACER pursuant to Article 18 of Regulation (EU) 2022/2576;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -1903,7 +1903,7 @@
     {
         "term": "regulated market",
         "celex_id": "32022R2578",
-        "original_definition": "regulated market means a regulated market defined in Article 4(1), point (21), of Directive 2014/65/EU;",
+        "original_definition": "'regulated market' means a regulated market defined in Article 4(1), point (21), of Directive 2014/65/EU;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -1929,7 +1929,7 @@
     {
         "term": "market operator",
         "celex_id": "32022R2578",
-        "original_definition": "market operator means a market operator defined in Article 4(1), point (18), of Directive 2014/65/EU.",
+        "original_definition": "'market operator' means a market operator defined in Article 4(1), point (18), of Directive 2014/65/EU.",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -1950,7 +1950,7 @@
     {
         "term": "permit-granting process",
         "celex_id": "32022R2577",
-        "original_definition": "permit-granting process means the process:comprising all relevant administrative permits issued to build, repower and operate plants for the production of energy from renewable sources including heat pumps, co-located energy storage facilities, and assets necessary for their connection to the grid, including grid connection permits and environmental impact assessments where those are required; andcomprising all administrative stages starting from the acknowledgment of the reception of the complete application by the relevant authority and ending with the notification of the final decision on the outcome of the process by the relevant authority;",
+        "original_definition": "'permit-granting process' means the process:comprising all relevant administrative permits issued to build, repower and operate plants for the production of energy from renewable sources including heat pumps, co-located energy storage facilities, and assets necessary for their connection to the grid, including grid connection permits and environmental impact assessments where those are required; andcomprising all administrative stages starting from the acknowledgment of the reception of the complete application by the relevant authority and ending with the notification of the final decision on the outcome of the process by the relevant authority;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -2027,7 +2027,7 @@
     {
         "term": "solar energy equipment",
         "celex_id": "32022R2577",
-        "original_definition": "solar energy equipment means equipment that converts energy from the sun into thermal or electrical energy, including solar thermal and solar photovoltaic equipment.",
+        "original_definition": "'solar energy equipment' means equipment that converts energy from the sun into thermal or electrical energy, including solar thermal and solar photovoltaic equipment.",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -2065,7 +2065,7 @@
     {
         "term": "natural gas undertaking",
         "celex_id": "32022R2576",
-        "original_definition": "natural gas undertaking means a natural or legal person carrying out at least one of the following functions: production, transmission, distribution, supply, purchase or storage of natural gas, including liquified natural gas (LNG), which is responsible for the commercial, technical or maintenance tasks related to those functions, but shall not include final customers;",
+        "original_definition": "'natural gas undertaking' means a natural or legal person carrying out at least one of the following functions: production, transmission, distribution, supply, purchase or storage of natural gas, including liquified natural gas (LNG), which is responsible for the commercial, technical or maintenance tasks related to those functions, but shall not include final customers;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -2122,7 +2122,7 @@
     {
         "term": "LNG facility",
         "celex_id": "32022R2576",
-        "original_definition": "LNG facility means a terminal which is used for the liquefaction of natural gas or the importation, offloading and re-gasification of LNG, and includes ancillary services and temporary storage necessary for the re-gasification process and subsequent delivery to the transmission system, but does not include any part of the LNG terminals used for storage;",
+        "original_definition": "'LNG facility' means a terminal which is used for the liquefaction of natural gas or the importation, offloading and re-gasification of LNG, and includes ancillary services and temporary storage necessary for the re-gasification process and subsequent delivery to the transmission system, but does not include any part of the LNG terminals used for storage;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -2150,7 +2150,7 @@
     {
         "term": "gas storage facility",
         "celex_id": "32022R2576",
-        "original_definition": "gas storage facility means a facility used for the stocking of natural gas and owned or operated by a natural gas undertaking, including the part of LNG facilities used for storage but excluding the portion used for production operations, and excluding facilities reserved exclusively for transmission system operators in carrying out their functions;",
+        "original_definition": "'gas storage facility' means a facility used for the stocking of natural gas and owned or operated by a natural gas undertaking, including the part of LNG facilities used for storage but excluding the portion used for production operations, and excluding facilities reserved exclusively for transmission system operators in carrying out their functions;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -2179,7 +2179,7 @@
     {
         "term": "service provider",
         "celex_id": "32022R2576",
-        "original_definition": "service provider means an undertaking established in the Union and contracted by the Commission through a procurement procedure under Regulation (EU, Euratom) 2018/1046 to organise the joint purchasing and fulfil the tasks set out in Article 7 of this Regulation;",
+        "original_definition": "'service provider' means an undertaking established in the Union and contracted by the Commission through a procurement procedure under Regulation (EU, Euratom) 2018/1046 to organise the joint purchasing and fulfil the tasks set out in Article 7 of this Regulation;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -2263,7 +2263,7 @@
     {
         "term": "IT tool",
         "celex_id": "32022R2576",
-        "original_definition": "IT tool means an IT tool through which the service provider aggregates the demand of natural gas undertakings and undertakings consuming gas and seeks offers from natural gas suppliers or producers to match that aggregated demand;",
+        "original_definition": "'IT tool' means an IT tool through which the service provider aggregates the demand of natural gas undertakings and undertakings consuming gas and seeks offers from natural gas suppliers or producers to match that aggregated demand;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -2296,7 +2296,7 @@
     {
         "term": "LNG trading",
         "celex_id": "32022R2576",
-        "original_definition": "LNG trading means bids, offers or transactions for the purchase or sale of LNG:that specify delivery in the Union;that result in delivery in the Union; orin which one counterparty re-gasifies the LNG at a terminal in the Union;",
+        "original_definition": "'LNG trading' means bids, offers or transactions for the purchase or sale of LNG:that specify delivery in the Union;that result in delivery in the Union; orin which one counterparty re-gasifies the LNG at a terminal in the Union;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -2313,7 +2313,7 @@
     {
         "term": "LNG market data",
         "celex_id": "32022R2576",
-        "original_definition": "LNG market data means records of bids, offers or transactions for LNG trading with corresponding information as specified in Article 21(1);",
+        "original_definition": "'LNG market data' means records of bids, offers or transactions for LNG trading with corresponding information as specified in Article 21(1);",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -2360,7 +2360,7 @@
     {
         "term": "LNG market participant",
         "celex_id": "32022R2576",
-        "original_definition": "LNG market participant means any natural or legal person, irrespective of that person\u2019s place of incorporation or domicile, who engages in LNG trading;",
+        "original_definition": "'LNG market participant' means any natural or legal person, irrespective of that person\u2019s place of incorporation or domicile, who engages in LNG trading;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -2388,7 +2388,7 @@
     {
         "term": "LNG price assessment",
         "celex_id": "32022R2576",
-        "original_definition": "LNG price assessment means the determination of a daily reference price for LNG trading in accordance with a methodology to be established by ACER;",
+        "original_definition": "'LNG price assessment' means the determination of a daily reference price for LNG trading in accordance with a methodology to be established by ACER;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -2437,7 +2437,7 @@
     {
         "term": "LNG benchmark",
         "celex_id": "32022R2576",
-        "original_definition": "LNG benchmark means the determination of a spread between the daily LNG price assessment and the settlement price for the TTF Gas Futures front-month contract established by ICE Endex Markets B.V. on a daily basis;",
+        "original_definition": "'LNG benchmark' means the determination of a spread between the daily LNG price assessment and the settlement price for the TTF Gas Futures front-month contract established by ICE Endex Markets B.V. on a daily basis;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -2478,7 +2478,7 @@
     {
         "term": "trading venue",
         "celex_id": "32022R2576",
-        "original_definition": "trading venue means any of the following:\u2018regulated market\u2019 as defined in Article 4(1), point (21), of Directive 2014/65/EU;\u2018multilateral trading facility\u2019 as defined in Article 4(1), point (22), of Directive 2014/65/EU;\u2018organised trading facility\u2019 as defined in Article 4(1), point (23), of Directive 2014/65/EU;",
+        "original_definition": "'trading venue' means any of the following:\u2018regulated market\u2019 as defined in Article 4(1), point (21), of Directive 2014/65/EU;\u2018multilateral trading facility\u2019 as defined in Article 4(1), point (22), of Directive 2014/65/EU;\u2018organised trading facility\u2019 as defined in Article 4(1), point (23), of Directive 2014/65/EU;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -2542,7 +2542,7 @@
     {
         "term": "energy-related commodity derivative",
         "celex_id": "32022R2576",
-        "original_definition": "energy-related commodity derivative means a commodity derivative, as defined in Article 2(1), point (30), of Regulation (EU) No 600/2014 of the European Parliament and of the Council (16), traded on a trading venue and the underlying of which is electricity or gas, and whose maturity does not exceed 12 months;",
+        "original_definition": "'energy-related commodity derivative' means a commodity derivative, as defined in Article 2(1), point (30), of Regulation (EU) No 600/2014 of the European Parliament and of the Council (16), traded on a trading venue and the underlying of which is electricity or gas, and whose maturity does not exceed 12 months;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -2586,7 +2586,7 @@
     {
         "term": "competent authority",
         "celex_id": "32022R2576",
-        "original_definition": "competent authority means a competent authority as defined in Article 4(1), point (26), of Directive 2014/65/EU;",
+        "original_definition": "'competent authority' means a competent authority as defined in Article 4(1), point (26), of Directive 2014/65/EU;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -2609,7 +2609,7 @@
     {
         "term": "critical gas volume for electricity security of supply",
         "celex_id": "32022R2576",
-        "original_definition": "critical gas volume for electricity security of supply means the maximum gas consumption needed in the power sector to ensure adequacy in a worst-case scenario simulated in the winter adequacy assessment pursuant to Article 9 of Regulation (EU) 2019/941 (17) of the European Parliament and of the Council;",
+        "original_definition": "'critical gas volume for electricity security of supply' means the maximum gas consumption needed in the power sector to ensure adequacy in a worst-case scenario simulated in the winter adequacy assessment pursuant to Article 9 of Regulation (EU) 2019/941 (17) of the European Parliament and of the Council;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -2628,7 +2628,7 @@
     {
         "term": "protected customer",
         "celex_id": "32022R2576",
-        "original_definition": "protected customer means a protected customer as defined in Article 2, point (5), of Regulation (EU) 2017/1938;",
+        "original_definition": "'protected customer' means a protected customer as defined in Article 2, point (5), of Regulation (EU) 2017/1938;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -2656,7 +2656,7 @@
     {
         "term": "solidarity protected customer",
         "celex_id": "32022R2576",
-        "original_definition": "solidarity protected customer means a solidarity protected customer as defined in Article 2, point (6), of Regulation (EU) 2017/1938.",
+        "original_definition": "'solidarity protected customer' means a solidarity protected customer as defined in Article 2, point (6), of Regulation (EU) 2017/1938.",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a023": [
@@ -2674,7 +2674,7 @@
     {
         "term": "mandatory if applicable",
         "celex_id": "32022R2299",
-        "original_definition": "mandatory if applicable means the following categories of information that Member States have to submit:information regarding national objectives, targets and contributions or national policies and measures, only if the Member States have set or adopted them;information regarding how the Member States address a recommendation issued pursuant to Article 32(1) or (2) of Regulation (EU) 2018/1999 only if the Commission have issued it;",
+        "original_definition": "'mandatory if applicable' means the following categories of information that Member States have to submit:information regarding national objectives, targets and contributions or national policies and measures, only if the Member States have set or adopted them;information regarding how the Member States address a recommendation issued pursuant to Article 32(1) or (2) of Regulation (EU) 2018/1999 only if the Commission have issued it;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -2725,7 +2725,7 @@
     {
         "term": "mandatory if available",
         "celex_id": "32022R2299",
-        "original_definition": "mandatory if available means a category of information that Member States have to submit only if such information is available to them at the time of the submission of the biennial progress report.",
+        "original_definition": "'mandatory if available' means a category of information that Member States have to submit only if such information is available to them at the time of the submission of the biennial progress report.",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -2752,7 +2752,7 @@
     {
         "term": "small and medium-sized enterprise",
         "celex_id": "32022R1854",
-        "original_definition": "small and medium-sized enterprise means an enterprise as defined in Article 2 of the Annex to Commission Recommendation 2003/361/EC (6);",
+        "original_definition": "'small and medium-sized enterprise' means an enterprise as defined in Article 2 of the Annex to Commission Recommendation 2003/361/EC (6);",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -2770,7 +2770,7 @@
     {
         "term": "SME",
         "celex_id": "32022R1854",
-        "original_definition": "SME means an enterprise as defined in Article 2 of the Annex to Commission Recommendation 2003/361/EC (6);",
+        "original_definition": "'SME' means an enterprise as defined in Article 2 of the Annex to Commission Recommendation 2003/361/EC (6);",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -2795,7 +2795,7 @@
     {
         "term": "gross electricity consumption",
         "celex_id": "32022R1854",
-        "original_definition": "gross electricity consumption means overall supply of electricity for activities in the territory of a Member State;",
+        "original_definition": "'gross electricity consumption' means overall supply of electricity for activities in the territory of a Member State;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -2835,7 +2835,7 @@
     {
         "term": "reference period",
         "celex_id": "32022R1854",
-        "original_definition": "reference period means the period from 1 November to 31 March in the five consecutive years preceding the date of entry into force of this Regulation, starting with the period from 1 November 2017 to 31 March 2018;",
+        "original_definition": "'reference period' means the period from 1 November to 31 March in the five consecutive years preceding the date of entry into force of this Regulation, starting with the period from 1 November 2017 to 31 March 2018;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -2854,7 +2854,7 @@
     {
         "term": "peak hours",
         "celex_id": "32022R1854",
-        "original_definition": "peak hours means individual hours of the day where, based on the forecasts of transmission system operators and, where applicable, nominated electricity market operators, day-ahead wholesale electricity prices are expected to be the highest, the gross electricity consumption is expected to be the highest or the gross consumption of electricity generated from sources other than renewable sources as referred to in Article 2(1) of Directive (EU) 2018/2001 of the European Parliament and of the Council (7) is expected to be the highest;",
+        "original_definition": "'peak hours' means individual hours of the day where, based on the forecasts of transmission system operators and, where applicable, nominated electricity market operators, day-ahead wholesale electricity prices are expected to be the highest, the gross electricity consumption is expected to be the highest or the gross consumption of electricity generated from sources other than renewable sources as referred to in Article 2(1) of Directive (EU) 2018/2001 of the European Parliament and of the Council (7) is expected to be the highest;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -2884,7 +2884,7 @@
     {
         "term": "market revenue",
         "celex_id": "32022R1854",
-        "original_definition": "market revenue means realised income a producer receives in exchange for the sale and delivery of electricity in the Union, regardless of the contractual form in which such exchange takes place, including power purchase agreements and other hedging operations against fluctuations in the wholesale electricity market and excluding any support granted by Member States;",
+        "original_definition": "'market revenue' means realised income a producer receives in exchange for the sale and delivery of electricity in the Union, regardless of the contractual form in which such exchange takes place, including power purchase agreements and other hedging operations against fluctuations in the wholesale electricity market and excluding any support granted by Member States;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -2980,7 +2980,7 @@
     {
         "term": "settlement",
         "celex_id": "32022R1854",
-        "original_definition": "settlement means a payment that is made and received between counterparties, against delivery and receipt of electricity where applicable, in fulfilment of the counterparties\u2019 respective obligations pursuant to one or more clearing transactions;",
+        "original_definition": "'settlement' means a payment that is made and received between counterparties, against delivery and receipt of electricity where applicable, in fulfilment of the counterparties\u2019 respective obligations pursuant to one or more clearing transactions;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -2999,7 +2999,7 @@
     {
         "term": "competent authority",
         "celex_id": "32022R1854",
-        "original_definition": "competent authority means an authority as defined in Article 2(11) of Regulation (EU) 2019/941 of the European Parliament and of the Council (8);",
+        "original_definition": "'competent authority' means an authority as defined in Article 2(11) of Regulation (EU) 2019/941 of the European Parliament and of the Council (8);",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3013,7 +3013,7 @@
     {
         "term": "intermediaries",
         "celex_id": "32022R1854",
-        "original_definition": "intermediaries means entities in wholesale electricity markets of Member States constituting an island not connected to other Member States with unit-based bidding where the regulatory authority has authorised those entities to participate in the market on behalf of the producer, excluding entities that transfer the surplus revenues directly to final electricity customers;",
+        "original_definition": "'intermediaries' means entities in wholesale electricity markets of Member States constituting an island not connected to other Member States with unit-based bidding where the regulatory authority has authorised those entities to participate in the market on behalf of the producer, excluding entities that transfer the surplus revenues directly to final electricity customers;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3037,7 +3037,7 @@
     {
         "term": "surplus revenues",
         "celex_id": "32022R1854",
-        "original_definition": "surplus revenues means a positive difference between the market revenues of producers per MWh of electricity and the cap on market revenues of 180 EUR per MWh of electricity provided for in Article 6(1);",
+        "original_definition": "'surplus revenues' means a positive difference between the market revenues of producers per MWh of electricity and the cap on market revenues of 180 EUR per MWh of electricity provided for in Article 6(1);",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3090,7 +3090,7 @@
     {
         "term": "waste",
         "celex_id": "32022R1854",
-        "original_definition": "waste means any substance or object which the holder discards or intends or is required to discard, as defined in Article 3(1) of Directive 2008/98/EC of the European Parliament and of the Council (9);",
+        "original_definition": "'waste' means any substance or object which the holder discards or intends or is required to discard, as defined in Article 3(1) of Directive 2008/98/EC of the European Parliament and of the Council (9);",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3107,7 +3107,7 @@
     {
         "term": "net import dependence",
         "celex_id": "32022R1854",
-        "original_definition": "net import dependence means, for the period between 1 January 2021 and 31 December 2021, the difference between the total electricity imports and total electricity exports as a percentage of the total gross production of electricity in a Member State;",
+        "original_definition": "'net import dependence' means, for the period between 1 January 2021 and 31 December 2021, the difference between the total electricity imports and total electricity exports as a percentage of the total gross production of electricity in a Member State;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3122,7 +3122,7 @@
     {
         "term": "fiscal year",
         "celex_id": "32022R1854",
-        "original_definition": "fiscal year means a tax year, calendar year or any other appropriate period for tax purposes as defined in national law;",
+        "original_definition": "'fiscal year' means a tax year, calendar year or any other appropriate period for tax purposes as defined in national law;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3157,7 +3157,7 @@
     {
         "term": "final energy customer",
         "celex_id": "32022R1854",
-        "original_definition": "final energy customer means a customer who purchases energy for own use;",
+        "original_definition": "'final energy customer' means a customer who purchases energy for own use;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3182,7 +3182,7 @@
     {
         "term": "final electricity customer",
         "celex_id": "32022R1854",
-        "original_definition": "final electricity customer means a customer who purchases electricity for own use;",
+        "original_definition": "'final electricity customer' means a customer who purchases electricity for own use;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -3231,7 +3231,7 @@
     {
         "term": "Union company",
         "celex_id": "32022R1854",
-        "original_definition": "Union company means a company established in a Member State which, according to the tax laws of that Member State, is considered to be resident in that Member State for tax purposes and, under the terms of a double taxation agreement concluded with a third State, is not considered to be resident for tax purposes outside the Union;",
+        "original_definition": "'Union company' means a company established in a Member State which, according to the tax laws of that Member State, is considered to be resident in that Member State for tax purposes and, under the terms of a double taxation agreement concluded with a third State, is not considered to be resident for tax purposes outside the Union;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3242,7 +3242,7 @@
     {
         "term": "permanent establishment",
         "celex_id": "32022R1854",
-        "original_definition": "permanent establishment means a fixed place of business located in a Member State through which the business of a company established in another State is wholly or partly carried on in so far as the profits of that place of business are subject to tax in the Member State in which it is located;",
+        "original_definition": "'permanent establishment' means a fixed place of business located in a Member State through which the business of a company established in another State is wholly or partly carried on in so far as the profits of that place of business are subject to tax in the Member State in which it is located;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3262,7 +3262,7 @@
     {
         "term": "Union companies and permanent establishments with activities in the crude petroleum, natural gas, coal and refinery sectors",
         "celex_id": "32022R1854",
-        "original_definition": "Union companies and permanent establishments with activities in the crude petroleum, natural gas, coal and refinery sectors means Union companies or permanent establishments generating at least 75 % of their turnover from economic activities in the field of the extraction, mining, refining of petroleum or manufacture of coke oven products, as referred to in Regulation (EC) No 1893/2006 of the European Parliament and of the Council (10);",
+        "original_definition": "'Union companies and permanent establishments with activities in the crude petroleum, natural gas, coal and refinery sectors' means Union companies or permanent establishments generating at least 75 % of their turnover from economic activities in the field of the extraction, mining, refining of petroleum or manufacture of coke oven products, as referred to in Regulation (EC) No 1893/2006 of the European Parliament and of the Council (10);",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -3286,7 +3286,7 @@
     {
         "term": "surplus profits",
         "celex_id": "32022R1854",
-        "original_definition": "surplus profits means taxable profits, as determined under national tax rules in the fiscal year 2022 and/or the fiscal year 2023 and for their full duration, accrued from activities carried out at the level of Union companies and permanent establishments with activities in the crude petroleum, natural gas, coal and refinery sectors which are above a 20 % increase of the average of the taxable profits in the four fiscal years starting on or after 1 January 2018;",
+        "original_definition": "'surplus profits' means taxable profits, as determined under national tax rules in the fiscal year 2022 and/or the fiscal year 2023 and for their full duration, accrued from activities carried out at the level of Union companies and permanent establishments with activities in the crude petroleum, natural gas, coal and refinery sectors which are above a 20 % increase of the average of the taxable profits in the four fiscal years starting on or after 1 January 2018;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3312,7 +3312,7 @@
     {
         "term": "site",
         "celex_id": "32022R0996",
-        "original_definition": "site means a geographical location, logistical facilities, transmission or distribution infrastructures with precise boundaries within which products can be mixed;",
+        "original_definition": "'site' means a geographical location, logistical facilities, transmission or distribution infrastructures with precise boundaries within which products can be mixed;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3395,7 +3395,7 @@
     {
         "term": "solidarity contribution",
         "celex_id": "32022R1854",
-        "original_definition": "solidarity contribution means a temporary measure intended to address surplus profits of Union companies and permanent establishments with activities in the crude petroleum, natural gas, coal and refinery sectors to mitigate exceptional price developments in the energy markets for Member States, consumers and companies;",
+        "original_definition": "'solidarity contribution' means a temporary measure intended to address surplus profits of Union companies and permanent establishments with activities in the crude petroleum, natural gas, coal and refinery sectors to mitigate exceptional price developments in the energy markets for Member States, consumers and companies;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -3471,7 +3471,7 @@
     {
         "term": "surplus congestion income revenues",
         "celex_id": "32022R1854",
-        "original_definition": "surplus congestion income revenues means the residual revenues that remain unused following the allocation of the congestion income revenues in accordance with the priority objectives set out in Article 19(2) of Regulation (EU) 2019/943;",
+        "original_definition": "'surplus congestion income revenues' means the residual revenues that remain unused following the allocation of the congestion income revenues in accordance with the priority objectives set out in Article 19(2) of Regulation (EU) 2019/943;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3493,7 +3493,7 @@
     {
         "term": "competent authority",
         "celex_id": "32022R1369",
-        "original_definition": "competent authority means a national governmental authority or a national regulatory authority designated by a Member State to ensure the implementation of the measures provided for in Regulation (EU) 2017/1938;",
+        "original_definition": "'competent authority' means a national governmental authority or a national regulatory authority designated by a Member State to ensure the implementation of the measures provided for in Regulation (EU) 2017/1938;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3515,7 +3515,7 @@
     {
         "term": "Union alert",
         "celex_id": "32022R1369",
-        "original_definition": "Union alert means a Union-specific crisis level triggering a mandatory demand reduction and which is not related to any of the crisis levels pursuant to Article 11(1) of Regulation (EU) 2017/1938;",
+        "original_definition": "'Union alert' means a Union-specific crisis level triggering a mandatory demand reduction and which is not related to any of the crisis levels pursuant to Article 11(1) of Regulation (EU) 2017/1938;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -3556,7 +3556,7 @@
     {
         "term": "gas consumption",
         "celex_id": "32022R1369",
-        "original_definition": "gas consumption means the overall supply of natural gas for activities on the territory of a Member State, including the final consumption of households, industry and electricity generation, but excluding, inter alia, gas used to fill storage capacities, in line with the definition for \u2018supply, transformation and consumption of gas\u2019 used by the Commission (Eurostat);",
+        "original_definition": "'gas consumption' means the overall supply of natural gas for activities on the territory of a Member State, including the final consumption of households, industry and electricity generation, but excluding, inter alia, gas used to fill storage capacities, in line with the definition for \u2018supply, transformation and consumption of gas\u2019 used by the Commission (Eurostat);",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3582,7 +3582,7 @@
     {
         "term": "feedstock",
         "celex_id": "32022R1369",
-        "original_definition": "feedstock means \u2018non-energy use of natural gas\u2019 as referred to in energy balances calculations by the Commission (Eurostat);",
+        "original_definition": "'feedstock' means \u2018non-energy use of natural gas\u2019 as referred to in energy balances calculations by the Commission (Eurostat);",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3593,7 +3593,7 @@
     {
         "term": "reference gas consumption",
         "celex_id": "32022R1369",
-        "original_definition": "reference gas consumption means the volume of a Member State\u2019s average gas consumption during the reference period; for Member States where gas consumption increased at least by 8 % in the period from 1 August 2021 to 31 March 2022 compared to the average gas consumption during the reference period, \u2018reference gas consumption\u2019 means only the volume of gas consumption in the period from 1 August 2021 to 31 March 2022;",
+        "original_definition": "'reference gas consumption' means the volume of a Member State\u2019s average gas consumption during the reference period; for Member States where gas consumption increased at least by 8 % in the period from 1 August 2021 to 31 March 2022 compared to the average gas consumption during the reference period, \u2018reference gas consumption\u2019 means only the volume of gas consumption in the period from 1 August 2021 to 31 March 2022;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3609,7 +3609,7 @@
     {
         "term": "reference period",
         "celex_id": "32022R1369",
-        "original_definition": "reference period means the periods from 1 August to 31 March during the five consecutive years preceding the date of entry into force of this Regulation, starting with the period from 1 August 2017 to 31 March 2018;",
+        "original_definition": "'reference period' means the periods from 1 August to 31 March during the five consecutive years preceding the date of entry into force of this Regulation, starting with the period from 1 August 2017 to 31 March 2018;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3622,7 +3622,7 @@
     {
         "term": "intermediate target",
         "celex_id": "32022R1369",
-        "original_definition": "intermediate target means the intermediate target as set out in Annex Ia to Regulation (EU) 2017/1938.",
+        "original_definition": "'intermediate target' means the intermediate target as set out in Annex Ia to Regulation (EU) 2017/1938.",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3637,7 +3637,7 @@
     {
         "term": "voluntary scheme",
         "celex_id": "32022R0996",
-        "original_definition": "voluntary scheme means an organisation that certifies the compliance of economic operators with criteria and rules including, but not limited to, the sustainability and greenhouse gas saving criteria set out in Directive (EU) 2018/2001 and in Delegated Regulation (EU) 2019/807;",
+        "original_definition": "'voluntary scheme' means an organisation that certifies the compliance of economic operators with criteria and rules including, but not limited to, the sustainability and greenhouse gas saving criteria set out in Directive (EU) 2018/2001 and in Delegated Regulation (EU) 2019/807;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3866,7 +3866,7 @@
     {
         "term": "recognised voluntary scheme",
         "celex_id": "32022R0996",
-        "original_definition": "recognised voluntary scheme means a voluntary scheme recognised pursuant to Article 30(4) of Directive (EU) 2018/2001;",
+        "original_definition": "'recognised voluntary scheme' means a voluntary scheme recognised pursuant to Article 30(4) of Directive (EU) 2018/2001;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3881,7 +3881,7 @@
     {
         "term": "recognised national scheme",
         "celex_id": "32022R0996",
-        "original_definition": "recognised national scheme means a national scheme recognised pursuant to with Article 30(6) of Directive (EU) 2018/2001;",
+        "original_definition": "'recognised national scheme' means a national scheme recognised pursuant to with Article 30(6) of Directive (EU) 2018/2001;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3896,7 +3896,7 @@
     {
         "term": "certificate",
         "celex_id": "32022R0996",
-        "original_definition": "certificate means a conformity statement by a certification body within the framework of a voluntary scheme, certifying that an economic operator complies with the requirements of Directive (EU) 2018/2001;",
+        "original_definition": "'certificate' means a conformity statement by a certification body within the framework of a voluntary scheme, certifying that an economic operator complies with the requirements of Directive (EU) 2018/2001;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3959,7 +3959,7 @@
     {
         "term": "suspended certificate",
         "celex_id": "32022R0996",
-        "original_definition": "suspended certificate means a certificate temporarily invalidated due to non-conformities identified by the certification body or upon voluntary request of the economic operator;",
+        "original_definition": "'suspended certificate' means a certificate temporarily invalidated due to non-conformities identified by the certification body or upon voluntary request of the economic operator;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3971,7 +3971,7 @@
     {
         "term": "withdrawn certificate",
         "celex_id": "32022R0996",
-        "original_definition": "withdrawn certificate means a certificate that has been permanently cancelled by the certification body or the voluntary scheme;",
+        "original_definition": "'withdrawn certificate' means a certificate that has been permanently cancelled by the certification body or the voluntary scheme;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -3983,7 +3983,7 @@
     {
         "term": "terminated certificate",
         "celex_id": "32022R0996",
-        "original_definition": "terminated certificate means a certification that has been voluntarily cancelled while it is still valid;",
+        "original_definition": "'terminated certificate' means a certification that has been voluntarily cancelled while it is still valid;",
         "generated_definition": "",
         "existing_sentences": {
             "not used": "not used"
@@ -3992,7 +3992,7 @@
     {
         "term": "expired certificate",
         "celex_id": "32022R0996",
-        "original_definition": "expired certificate means a certificate that is no longer valid;",
+        "original_definition": "'expired certificate' means a certificate that is no longer valid;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -4003,7 +4003,7 @@
     {
         "term": "sustainability and greenhouse gas emissions saving characteristics",
         "celex_id": "32022R0996",
-        "original_definition": "sustainability and greenhouse gas emissions saving characteristics means the set of information describing a consignment of raw material or fuel that is required for demonstrating compliance of that consignment with the sustainability and greenhouse gas emissions saving criteria for biofuels, bioliquids and biomass fuels or the greenhouse gas emission savings requirements applicable for renewable liquid and gaseous transport fuels of non-biological origin and recycled carbon fuels;",
+        "original_definition": "'sustainability and greenhouse gas emissions saving characteristics' means the set of information describing a consignment of raw material or fuel that is required for demonstrating compliance of that consignment with the sustainability and greenhouse gas emissions saving criteria for biofuels, bioliquids and biomass fuels or the greenhouse gas emission savings requirements applicable for renewable liquid and gaseous transport fuels of non-biological origin and recycled carbon fuels;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -4017,7 +4017,7 @@
     {
         "term": "mix of raw material for the purpose of further processing",
         "celex_id": "32022R0996",
-        "original_definition": "mix of raw material for the purpose of further processing means the physical mixing of raw material for the sole purpose of producing biofuels, bioliquids or biomass fuels;",
+        "original_definition": "'mix of raw material for the purpose of further processing' means the physical mixing of raw material for the sole purpose of producing biofuels, bioliquids or biomass fuels;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -4028,7 +4028,7 @@
     {
         "term": "economic operator",
         "celex_id": "32022R0996",
-        "original_definition": "economic operator means a producer of raw material, a collector of waste and residues, an operator of installations processing raw material into final fuels or intermediate products, an operator of installations producing energy (electricity, heating or cooling) or any other operator, including of storage facilities or traders that are in physical possession of raw material or fuels, provided that they process information on the sustainability and greenhouse gas emissions saving characteristics of those raw materials or fuels;",
+        "original_definition": "'economic operator' means a producer of raw material, a collector of waste and residues, an operator of installations processing raw material into final fuels or intermediate products, an operator of installations producing energy (electricity, heating or cooling) or any other operator, including of storage facilities or traders that are in physical possession of raw material or fuels, provided that they process information on the sustainability and greenhouse gas emissions saving characteristics of those raw materials or fuels;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -4266,7 +4266,7 @@
     {
         "term": "first gathering point",
         "celex_id": "32022R0996",
-        "original_definition": "first gathering point means a storage or processing facility managed directly by an economic operator or other counterpart under contractual agreement that is sourcing raw material directly from producers of agricultural biomass, forest biomass, wastes and residues or, in the case of renewable fuels of non-biological origin, the plant producing such fuels;",
+        "original_definition": "'first gathering point' means a storage or processing facility managed directly by an economic operator or other counterpart under contractual agreement that is sourcing raw material directly from producers of agricultural biomass, forest biomass, wastes and residues or, in the case of renewable fuels of non-biological origin, the plant producing such fuels;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -4305,7 +4305,7 @@
     {
         "term": "certification audit",
         "celex_id": "32022R0996",
-        "original_definition": "certification audit means an initial audit before participation in a scheme, with the purpose of issuing a certificate under a voluntary scheme;",
+        "original_definition": "'certification audit' means an initial audit before participation in a scheme, with the purpose of issuing a certificate under a voluntary scheme;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -4321,7 +4321,7 @@
     {
         "term": "certification body",
         "celex_id": "32022R0996",
-        "original_definition": "certification body means an independent accredited or recognised conformity assessment body that concludes an agreement with a voluntary scheme to provide certification services for raw materials or fuels by carrying out audits of economic operators and issuing certificates on behalf of the voluntary schemes using the voluntary scheme\u2019s certification system;",
+        "original_definition": "'certification body' means an independent accredited or recognised conformity assessment body that concludes an agreement with a voluntary scheme to provide certification services for raw materials or fuels by carrying out audits of economic operators and issuing certificates on behalf of the voluntary schemes using the voluntary scheme\u2019s certification system;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -4394,7 +4394,7 @@
     {
         "term": "non-conformity",
         "celex_id": "32022R0996",
-        "original_definition": "non-conformity means non-compliance of an economic operator or certification body with the rules and procedures, established by the voluntary scheme, of which they are members or under which they operate;",
+        "original_definition": "'non-conformity' means non-compliance of an economic operator or certification body with the rules and procedures, established by the voluntary scheme, of which they are members or under which they operate;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -4424,7 +4424,7 @@
     {
         "term": "surveillance audit",
         "celex_id": "32022R0996",
-        "original_definition": "surveillance audit means any follow up audit of certificates issued by a certification body within the framework of a voluntary scheme after certification and before a re-certification audit, which can be carried out quarterly, half-annually or annually;",
+        "original_definition": "'surveillance audit' means any follow up audit of certificates issued by a certification body within the framework of a voluntary scheme after certification and before a re-certification audit, which can be carried out quarterly, half-annually or annually;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -4449,7 +4449,7 @@
     {
         "term": "re-certification audit",
         "celex_id": "32022R0996",
-        "original_definition": "re-certification audit means an audit with the purpose of renewing a certificate issued by a certification body within the framework of a voluntary scheme;",
+        "original_definition": "'re-certification audit' means an audit with the purpose of renewing a certificate issued by a certification body within the framework of a voluntary scheme;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -4473,7 +4473,7 @@
     {
         "term": "interconnected infrastructure",
         "celex_id": "32022R0996",
-        "original_definition": "interconnected infrastructure means a system of infrastructures, including pipelines, LNG terminals and storage facilities, which transports gases, that primarily consist of methane and include biogas and gas from biomass, in particular biomethane, or other types of gas that can technically and safely be injected into, and transported through the natural gas pipeline system, hydrogen systems as well as pipeline networks and transmission or distribution infrastructures for liquid fuels;",
+        "original_definition": "'interconnected infrastructure' means a system of infrastructures, including pipelines, LNG terminals and storage facilities, which transports gases, that primarily consist of methane and include biogas and gas from biomass, in particular biomethane, or other types of gas that can technically and safely be injected into, and transported through the natural gas pipeline system, hydrogen systems as well as pipeline networks and transmission or distribution infrastructures for liquid fuels;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -4495,7 +4495,7 @@
     {
         "term": "hydrogen system",
         "celex_id": "32022R0996",
-        "original_definition": "hydrogen system means a system of infrastructure, including hydrogen networks, hydrogen storage, and hydrogen terminals, which contains hydrogen of a high grade of purity;",
+        "original_definition": "'hydrogen system' means a system of infrastructure, including hydrogen networks, hydrogen storage, and hydrogen terminals, which contains hydrogen of a high grade of purity;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -4508,7 +4508,7 @@
     {
         "term": "legal predecessors",
         "celex_id": "32022R0996",
-        "original_definition": "legal predecessors means an economic operator that has been legally replaced by a new one, but no substantive changes or only superficial ones have been made regarding its ownership, management composition, working methods or scope of activity;",
+        "original_definition": "'legal predecessors' means an economic operator that has been legally replaced by a new one, but no substantive changes or only superficial ones have been made regarding its ownership, management composition, working methods or scope of activity;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -4524,7 +4524,7 @@
     {
         "term": "product group",
         "celex_id": "32022R0996",
-        "original_definition": "product group means raw materials, biofuels, bioliquids, non-gaseous biomass fuels with similar physical and chemical characteristics and similar heating values or gaseous biomass fuels, and LNG with similar chemical characteristics that all are subject to the same rules set out in Articles 7, 26 and 27 of Directive (EU) 2018/2001 for determining the contribution of biofuels, bioliquids and biomass fuels towards achieving the targets for renewable energy;",
+        "original_definition": "'product group' means raw materials, biofuels, bioliquids, non-gaseous biomass fuels with similar physical and chemical characteristics and similar heating values or gaseous biomass fuels, and LNG with similar chemical characteristics that all are subject to the same rules set out in Articles 7, 26 and 27 of Directive (EU) 2018/2001 for determining the contribution of biofuels, bioliquids and biomass fuels towards achieving the targets for renewable energy;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -4546,7 +4546,7 @@
     {
         "term": "proof of sustainability",
         "celex_id": "32022R0996",
-        "original_definition": "proof of sustainability means a declaration by an economic operator, made on the basis of a certificate issued by a certification body within the framework of a voluntary scheme certifying the compliance of a specific quantity of feedstock or fuels with the sustainability and greenhouse gas emissions savings criteria set out in Articles 25(2) and 29 of Directive (EU) 2018/2001;",
+        "original_definition": "'proof of sustainability' means a declaration by an economic operator, made on the basis of a certificate issued by a certification body within the framework of a voluntary scheme certifying the compliance of a specific quantity of feedstock or fuels with the sustainability and greenhouse gas emissions savings criteria set out in Articles 25(2) and 29 of Directive (EU) 2018/2001;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -4564,7 +4564,7 @@
     {
         "term": "raw material",
         "celex_id": "32022R0996",
-        "original_definition": "raw material means the physical mixing of raw material for the sole purpose of producing biofuels, bioliquids or biomass fuels;",
+        "original_definition": "'raw material' means the physical mixing of raw material for the sole purpose of producing biofuels, bioliquids or biomass fuels;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -4664,7 +4664,7 @@
     {
         "term": "fuels",
         "celex_id": "32022R0996",
-        "original_definition": "fuels means fuels that are ready to be supplied for consumption, including biofuels, bioliquids, biomass fuels, renewable liquid and gaseous transport fuels of non-biological origin and recycled carbon fuels;",
+        "original_definition": "'fuels' means fuels that are ready to be supplied for consumption, including biofuels, bioliquids, biomass fuels, renewable liquid and gaseous transport fuels of non-biological origin and recycled carbon fuels;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -4808,7 +4808,7 @@
     {
         "term": "financial attractiveness test",
         "celex_id": "32022R0996",
-        "original_definition": "financial attractiveness test means the calculation of the Net Present Value (NVP) of an investment, based on additionality measures in the context of low ILUC-risk biomass certification;",
+        "original_definition": "'financial attractiveness test' means the calculation of the Net Present Value (NVP) of an investment, based on additionality measures in the context of low ILUC-risk biomass certification;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -4829,7 +4829,7 @@
     {
         "term": "non-financial barrier test",
         "celex_id": "32022R0996",
-        "original_definition": "non-financial barrier test means an assessment of the potential other barriers that are expected to prevent an economic operator from implementing additionality measures in the context of low ILUC-risk biomass certification;",
+        "original_definition": "'non-financial barrier test' means an assessment of the potential other barriers that are expected to prevent an economic operator from implementing additionality measures in the context of low ILUC-risk biomass certification;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -4851,7 +4851,7 @@
     {
         "term": "Union database",
         "celex_id": "32022R0996",
-        "original_definition": "Union database means the database provided for in Article 28, point 2 of Directive (EU) 2018/2001;",
+        "original_definition": "'Union database' means the database provided for in Article 28, point 2 of Directive (EU) 2018/2001;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -4880,7 +4880,7 @@
     {
         "term": "energy infrastructure",
         "celex_id": "32022R0869",
-        "original_definition": "energy infrastructure means any physical equipment or facility falling under the energy infrastructure categories which is located within the Union, or linking the Union and one or more third countries;",
+        "original_definition": "'energy infrastructure' means any physical equipment or facility falling under the energy infrastructure categories which is located within the Union, or linking the Union and one or more third countries;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -5045,7 +5045,7 @@
     {
         "term": "energy infrastructure bottleneck",
         "celex_id": "32022R0869",
-        "original_definition": "energy infrastructure bottleneck means limitation of physical flows in an energy system due to insufficient transmission capacity, which includes, inter alia, the absence of infrastructure;",
+        "original_definition": "'energy infrastructure bottleneck' means limitation of physical flows in an energy system due to insufficient transmission capacity, which includes, inter alia, the absence of infrastructure;",
         "generated_definition": "",
         "existing_sentences": {
             "not used": "not used"
@@ -5054,7 +5054,7 @@
     {
         "term": "comprehensive decision",
         "celex_id": "32022R0869",
-        "original_definition": "comprehensive decision means the decision or set of decisions taken by a Member State authority or authorities not including courts or tribunals, that determines whether or not a project promoter is authorised to build the energy infrastructure to realise a project of common interest or a project of mutual interest by having the possibility to start, or procure and start, the necessary construction works (ready-to-build phase) without prejudice to any decision taken in the context of an administrative appeal procedure;",
+        "original_definition": "'comprehensive decision' means the decision or set of decisions taken by a Member State authority or authorities not including courts or tribunals, that determines whether or not a project promoter is authorised to build the energy infrastructure to realise a project of common interest or a project of mutual interest by having the possibility to start, or procure and start, the necessary construction works (ready-to-build phase) without prejudice to any decision taken in the context of an administrative appeal procedure;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -5094,7 +5094,7 @@
     {
         "term": "project",
         "celex_id": "32022R0869",
-        "original_definition": "project means one or several lines, pipelines, facilities, equipment or installations falling under the energy infrastructure categories set out in Annex II;",
+        "original_definition": "'project' means one or several lines, pipelines, facilities, equipment or installations falling under the energy infrastructure categories set out in Annex II;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -5488,7 +5488,7 @@
     {
         "term": "project of common interest",
         "celex_id": "32022R0869",
-        "original_definition": "project of common interest means a project necessary to implement the energy infrastructure priority corridors and areas set out in Annex I and which is on the Union list;",
+        "original_definition": "'project of common interest' means a project necessary to implement the energy infrastructure priority corridors and areas set out in Annex I and which is on the Union list;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -5550,7 +5550,7 @@
     {
         "term": "project of mutual interest",
         "celex_id": "32022R0869",
-        "original_definition": "project of mutual interest means a project promoted by the Union in cooperation with third countries pursuant to letters of support from the governments of the directly affected countries or other non-binding agreements, which falls under one of the energy infrastructure categories set out in point 1(a) or (f), point 3(a), or point 5(a) or (c) of Annex II, which contributes to the Union\u2019s 2030 targets for energy and climate and its 2050 climate neutrality objective and which is on the Union list;",
+        "original_definition": "'project of mutual interest' means a project promoted by the Union in cooperation with third countries pursuant to letters of support from the governments of the directly affected countries or other non-binding agreements, which falls under one of the energy infrastructure categories set out in point 1(a) or (f), point 3(a), or point 5(a) or (c) of Annex II, which contributes to the Union\u2019s 2030 targets for energy and climate and its 2050 climate neutrality objective and which is on the Union list;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -5568,7 +5568,7 @@
     {
         "term": "competing projects",
         "celex_id": "32022R0869",
-        "original_definition": "competing projects means projects that fully or partially address the same identified infrastructure gap or regional infrastructure need;",
+        "original_definition": "'competing projects' means projects that fully or partially address the same identified infrastructure gap or regional infrastructure need;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -5593,7 +5593,7 @@
     {
         "term": "project promoter",
         "celex_id": "32022R0869",
-        "original_definition": "project promoter means one of the following:a transmission system operator (TSO), a distribution system operator (DSO) or another operator or investor developing a project on the Union list;in the case of more than one such TSO, DSO, other operator or investor, or any group thereof, the entity with legal personality under the applicable national law which has been designated by contractual arrangement between them and which has the capacity to undertake legal obligations and assume financial liability on behalf of the parties to the contractual arrangement;",
+        "original_definition": "'project promoter' means one of the following:a transmission system operator (TSO), a distribution system operator (DSO) or another operator or investor developing a project on the Union list;in the case of more than one such TSO, DSO, other operator or investor, or any group thereof, the entity with legal personality under the applicable national law which has been designated by contractual arrangement between them and which has the capacity to undertake legal obligations and assume financial liability on behalf of the parties to the contractual arrangement;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -5718,7 +5718,7 @@
     {
         "term": "smart electricity grid",
         "celex_id": "32022R0869",
-        "original_definition": "smart electricity grid means an electricity network, including on islands that are not interconnected or not sufficiently connected to the trans-European energy networks, that enables cost-efficient integration and active control of the behaviour and actions of all users connected to it, including generators, consumers and prosumers, in order to ensure an economically efficient and sustainable power system with low losses and a high level of integration of renewable sources, of security of supply and of safety, and in which the grid operator can digitally monitor the actions of the users connected to it, and information and communication technologies for communicating with related grid operators, generators, energy storage facilities, and consumers or prosumers, with a view to transmitting and distributing electricity in a sustainable, cost-efficient and secure way;",
+        "original_definition": "'smart electricity grid' means an electricity network, including on islands that are not interconnected or not sufficiently connected to the trans-European energy networks, that enables cost-efficient integration and active control of the behaviour and actions of all users connected to it, including generators, consumers and prosumers, in order to ensure an economically efficient and sustainable power system with low losses and a high level of integration of renewable sources, of security of supply and of safety, and in which the grid operator can digitally monitor the actions of the users connected to it, and information and communication technologies for communicating with related grid operators, generators, energy storage facilities, and consumers or prosumers, with a view to transmitting and distributing electricity in a sustainable, cost-efficient and secure way;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -5748,7 +5748,7 @@
     {
         "term": "smart gas grid",
         "celex_id": "32022R0869",
-        "original_definition": "smart gas grid means a gas network that makes use of innovative and digital solutions to integrate in a cost-efficient manner a plurality of low-carbon and particularly renewable gas sources in accordance with consumers\u2019 needs and gas quality requirements in order to reduce the carbon footprint of the related gas consumption, enable an increased share of renewable and low-carbon gases, and create links with other energy carriers and sectors, including the related physical upgrades if they are indispensable to the functioning of the equipment and installations for integration of low-carbon and particularly renewable gases;",
+        "original_definition": "'smart gas grid' means a gas network that makes use of innovative and digital solutions to integrate in a cost-efficient manner a plurality of low-carbon and particularly renewable gas sources in accordance with consumers\u2019 needs and gas quality requirements in order to reduce the carbon footprint of the related gas consumption, enable an increased share of renewable and low-carbon gases, and create links with other energy carriers and sectors, including the related physical upgrades if they are indispensable to the functioning of the equipment and installations for integration of low-carbon and particularly renewable gases;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -5776,7 +5776,7 @@
     {
         "term": "authority concerned",
         "celex_id": "32022R0869",
-        "original_definition": "authority concerned means an authority that, under national law, is competent to issue various permits and authorisations related to the planning, design and construction of immovable assets, including energy infrastructure;",
+        "original_definition": "'authority concerned' means an authority that, under national law, is competent to issue various permits and authorisations related to the planning, design and construction of immovable assets, including energy infrastructure;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -5805,7 +5805,7 @@
     {
         "term": "national regulatory authority",
         "celex_id": "32022R0869",
-        "original_definition": "national regulatory authority means a national regulatory authority designated in accordance with Article 39(1) of Directive 2009/73/EC or a regulatory authority at national level designated in accordance with Article 57 of Directive (EU) 2019/944;",
+        "original_definition": "'national regulatory authority' means a national regulatory authority designated in accordance with Article 39(1) of Directive 2009/73/EC or a regulatory authority at national level designated in accordance with Article 57 of Directive (EU) 2019/944;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -5834,7 +5834,7 @@
     {
         "term": "relevant national regulatory authority",
         "celex_id": "32022R0869",
-        "original_definition": "relevant national regulatory authority means the national regulatory authority in the Member States hosting the projects and in Member States to which the project provides a significant positive impact;",
+        "original_definition": "'relevant national regulatory authority' means the national regulatory authority in the Member States hosting the projects and in Member States to which the project provides a significant positive impact;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -5846,7 +5846,7 @@
     {
         "term": "works",
         "celex_id": "32022R0869",
-        "original_definition": "works means the purchase, supply and deployment of components, systems and services including software, the carrying out of development, repurposing and construction and installation activities relating to a project, the acceptance of installations and the launching of a project;",
+        "original_definition": "'works' means the purchase, supply and deployment of components, systems and services including software, the carrying out of development, repurposing and construction and installation activities relating to a project, the acceptance of installations and the launching of a project;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -5930,7 +5930,7 @@
     {
         "term": "studies",
         "celex_id": "32022R0869",
-        "original_definition": "studies means activities needed to prepare project implementation, such as preparatory, feasibility, evaluation, testing and validation studies, including software, and any other technical support measure including prior action to define and develop a project and decide on its financing, such as reconnaissance of the sites concerned and preparation of the financial package;",
+        "original_definition": "'studies' means activities needed to prepare project implementation, such as preparatory, feasibility, evaluation, testing and validation studies, including software, and any other technical support measure including prior action to define and develop a project and decide on its financing, such as reconnaissance of the sites concerned and preparation of the financial package;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -5963,7 +5963,7 @@
     {
         "term": "commissioning",
         "celex_id": "32022R0869",
-        "original_definition": "commissioning means the process of bringing a project into operation once it has been constructed;",
+        "original_definition": "'commissioning' means the process of bringing a project into operation once it has been constructed;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6010,7 +6010,7 @@
     {
         "term": "dedicated hydrogen assets",
         "celex_id": "32022R0869",
-        "original_definition": "dedicated hydrogen assets means infrastructure ready to accommodate pure hydrogen without further adaptation works, including pipeline networks or storage facilities that are newly constructed, repurposed from natural gas assets, or both;",
+        "original_definition": "'dedicated hydrogen assets' means infrastructure ready to accommodate pure hydrogen without further adaptation works, including pipeline networks or storage facilities that are newly constructed, repurposed from natural gas assets, or both;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6032,7 +6032,7 @@
     {
         "term": "repurposing",
         "celex_id": "32022R0869",
-        "original_definition": "repurposing means the technical upgrading or modification of existing natural gas infrastructure in order to ensure that it is dedicated for the use of pure hydrogen;",
+        "original_definition": "'repurposing' means the technical upgrading or modification of existing natural gas infrastructure in order to ensure that it is dedicated for the use of pure hydrogen;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6051,7 +6051,7 @@
     {
         "term": "climate adaptation",
         "celex_id": "32022R0869",
-        "original_definition": "climate adaptation means a process that ensures that resilience to the potential adverse impacts of climate change of energy infrastructure is achieved through a climate vulnerability and risk assessment, including through relevant adaptation measures.",
+        "original_definition": "'climate adaptation' means a process that ensures that resilience to the potential adverse impacts of climate change of energy infrastructure is achieved through a climate vulnerability and risk assessment, including through relevant adaptation measures.",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6087,7 +6087,7 @@
     {
         "term": "renewable energy cross-border project",
         "celex_id": "32022R0342",
-        "original_definition": "renewable energy cross-border project means a cross-border project in the field of renewable energy within the meaning of Regulation (EU) 2021/1153;",
+        "original_definition": "'renewable energy cross-border project' means a cross-border project in the field of renewable energy within the meaning of Regulation (EU) 2021/1153;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -6163,7 +6163,7 @@
     {
         "term": "project",
         "celex_id": "32022R0342",
-        "original_definition": "project means a cross-border project in the field of renewable energy within the meaning of Regulation (EU) 2021/1153;",
+        "original_definition": "'project' means a cross-border project in the field of renewable energy within the meaning of Regulation (EU) 2021/1153;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6265,7 +6265,7 @@
     {
         "term": "renewable energy",
         "celex_id": "32022R0342",
-        "original_definition": "renewable energy means a cross-border project in the field of renewable energy within the meaning of Regulation (EU) 2021/1153;",
+        "original_definition": "'renewable energy' means a cross-border project in the field of renewable energy within the meaning of Regulation (EU) 2021/1153;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6321,7 +6321,7 @@
     {
         "term": "project promoter",
         "celex_id": "32022R0342",
-        "original_definition": "project promoter means a legal entity that develops a cross-border project in the field of renewable energy, including a Member State;",
+        "original_definition": "'project promoter' means a legal entity that develops a cross-border project in the field of renewable energy, including a Member State;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6359,7 +6359,7 @@
     {
         "term": "application",
         "celex_id": "32022R0342",
-        "original_definition": "application means an application to have a project selected as a cross-border project in the field of renewable energy by the Commission under Regulation (EU) 2021/1153;",
+        "original_definition": "'application' means an application to have a project selected as a cross-border project in the field of renewable energy by the Commission under Regulation (EU) 2021/1153;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6390,7 +6390,7 @@
     {
         "term": "cooperation mechanism",
         "celex_id": "32022R0342",
-        "original_definition": "cooperation mechanism means cooperation between at least two Member States, or between at least one Member State and a non-EU country, that takes place in accordance with Articles 8, 9, 11 and 13 of Directive (EU) 2018/2001;",
+        "original_definition": "'cooperation mechanism' means cooperation between at least two Member States, or between at least one Member State and a non-EU country, that takes place in accordance with Articles 8, 9, 11 and 13 of Directive (EU) 2018/2001;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6420,7 +6420,7 @@
     {
         "term": "cooperation agreement",
         "celex_id": "32022R0342",
-        "original_definition": "cooperation agreement means a formal agreement setting up a cooperation mechanism;",
+        "original_definition": "'cooperation agreement' means a formal agreement setting up a cooperation mechanism;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6446,7 +6446,7 @@
     {
         "term": "the draft list",
         "celex_id": "32022R0342",
-        "original_definition": "the draft list means the list of renewable energy cross-border projects as agreed by the Group referred to in point 4(b) of Annex Part IV of Regulation (EU) 2021/1153;",
+        "original_definition": "'the draft list' means the list of renewable energy cross-border projects as agreed by the Group referred to in point 4(b) of Annex Part IV of Regulation (EU) 2021/1153;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6485,7 +6485,7 @@
     {
         "term": "the final list",
         "celex_id": "32022R0342",
-        "original_definition": "the final list means the list of renewable energy cross-border projects as established by the Commission under point 4(g) of Annex Part IV of Regulation (EU) 2021/1153;",
+        "original_definition": "'the final list' means the list of renewable energy cross-border projects as established by the Commission under point 4(g) of Annex Part IV of Regulation (EU) 2021/1153;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6527,7 +6527,7 @@
     {
         "term": "host Member State",
         "celex_id": "32022R0342",
-        "original_definition": "host Member State means a Member State where the renewables generation facility is physically located;",
+        "original_definition": "'host Member State' means a Member State where the renewables generation facility is physically located;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6540,7 +6540,7 @@
     {
         "term": "off-taking Member State",
         "celex_id": "32022R0342",
-        "original_definition": "off-taking Member State means a Member State that makes a financial contribution to the renewables generation investment located in another Member State;",
+        "original_definition": "'off-taking Member State' means a Member State that makes a financial contribution to the renewables generation investment located in another Member State;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6551,7 +6551,7 @@
     {
         "term": "participating Member States",
         "celex_id": "32022R0342",
-        "original_definition": "participating Member States includes both off-taking and host Member States;",
+        "original_definition": "'participating Member States' includes both off-taking and host Member States;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6576,7 +6576,7 @@
     {
         "term": "storage",
         "celex_id": "32022R0342",
-        "original_definition": "storage means energy storage as defined in Article 2(59) of Directive (EU) 2019/944 of the European Parliament and of the Council (5).",
+        "original_definition": "'storage' means energy storage as defined in Article 2(59) of Directive (EU) 2019/944 of the European Parliament and of the Council (5).",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6599,7 +6599,7 @@
     {
         "term": "statistical transfer",
         "celex_id": "32021R2003",
-        "original_definition": "statistical transfer means the transfer of the statistical value, without requiring a physical transfer, of a specified amount of energy from renewable sources as reported under Annex B, point 5 to Regulation (EC) No 1099/2008 of the European Parliament and of the Council on energy statistics (5) from one Member State to another Member State, which amount is deducted from the amount of energy from renewable sources that is taken into account in calculating the renewable energy share of the Member State making the transfer and added to the amount of energy from renewable sources that is taken into account in calculating the renewable energy share of the Member State accepting the transfer;",
+        "original_definition": "'statistical transfer' means the transfer of the statistical value, without requiring a physical transfer, of a specified amount of energy from renewable sources as reported under Annex B, point 5 to Regulation (EC) No 1099/2008 of the European Parliament and of the Council on energy statistics (5) from one Member State to another Member State, which amount is deducted from the amount of energy from renewable sources that is taken into account in calculating the renewable energy share of the Member State making the transfer and added to the amount of energy from renewable sources that is taken into account in calculating the renewable energy share of the Member State accepting the transfer;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -6671,7 +6671,7 @@
     {
         "term": "buying Member State",
         "celex_id": "32021R2003",
-        "original_definition": "buying Member State means a Member State that enters into a statistical transfer agreement to buy a certain statistical quantity of renewable energy from another Member State which is added to the amount of energy from renewable sources that is taken into account in calculating the former Member State\u2019s renewable energy share pursuant to Article 8(1) of Directive (EU) 2018/2001;",
+        "original_definition": "'buying Member State' means a Member State that enters into a statistical transfer agreement to buy a certain statistical quantity of renewable energy from another Member State which is added to the amount of energy from renewable sources that is taken into account in calculating the former Member State\u2019s renewable energy share pursuant to Article 8(1) of Directive (EU) 2018/2001;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6683,7 +6683,7 @@
     {
         "term": "selling Member State",
         "celex_id": "32021R2003",
-        "original_definition": "selling Member State means a Member State that enters into a statistical transfer agreement to sell a certain statistical quantity of renewable energy to another Member State which is deducted from the amount of energy from renewable sources that is taken into account in calculating the former Member State\u2019s renewable energy share pursuant to Article 8(1) of Directive (EU) 2018/2001;",
+        "original_definition": "'selling Member State' means a Member State that enters into a statistical transfer agreement to sell a certain statistical quantity of renewable energy to another Member State which is deducted from the amount of energy from renewable sources that is taken into account in calculating the former Member State\u2019s renewable energy share pursuant to Article 8(1) of Directive (EU) 2018/2001;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6695,7 +6695,7 @@
     {
         "term": "additional conditions",
         "celex_id": "32021R2003",
-        "original_definition": "additional conditions means criteria, beyond the timing, price and volume of a statistical transfer, that Member States may choose to attach to a statistical transfer agreement;",
+        "original_definition": "'additional conditions' means criteria, beyond the timing, price and volume of a statistical transfer, that Member States may choose to attach to a statistical transfer agreement;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6719,7 +6719,7 @@
     {
         "term": "energy from renewable sources",
         "celex_id": "32021R2003",
-        "original_definition": "energy from renewable sources means energy from renewable sources or renewable energy as defined in Article 2(1) of Directive (EU) 2018/2001;",
+        "original_definition": "'energy from renewable sources' means energy from renewable sources or renewable energy as defined in Article 2(1) of Directive (EU) 2018/2001;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6771,7 +6771,7 @@
     {
         "term": "renewable energy",
         "celex_id": "32021R2003",
-        "original_definition": "renewable energy means energy from renewable sources or renewable energy as defined in Article 2(1) of Directive (EU) 2018/2001;",
+        "original_definition": "'renewable energy' means energy from renewable sources or renewable energy as defined in Article 2(1) of Directive (EU) 2018/2001;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6799,7 +6799,7 @@
     {
         "term": "statistical transfer volume",
         "celex_id": "32021R2003",
-        "original_definition": "statistical transfer volume means the transferred volume of renewable energy to be deducted from the selling Member State\u2019s statistical accounts and added to those of the buying Member State pursuant to Article 8(1) of Directive (EU) 2018/2001.",
+        "original_definition": "'statistical transfer volume' means the transferred volume of renewable energy to be deducted from the selling Member State\u2019s statistical accounts and added to those of the buying Member State pursuant to Article 8(1) of Directive (EU) 2018/2001.",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a05": [
@@ -6811,7 +6811,7 @@
     {
         "term": "volume",
         "celex_id": "32021R2003",
-        "original_definition": "volume means the transferred volume of renewable energy to be deducted from the selling Member State\u2019s statistical accounts and added to those of the buying Member State pursuant to Article 8(1) of Directive (EU) 2018/2001.",
+        "original_definition": "'volume' means the transferred volume of renewable energy to be deducted from the selling Member State\u2019s statistical accounts and added to those of the buying Member State pursuant to Article 8(1) of Directive (EU) 2018/2001.",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -6837,7 +6837,7 @@
     {
         "term": "decommissioning",
         "celex_id": "32021R0101",
-        "original_definition": "decommissioning means administrative and technical measures in accordance with national law which allow the removal of some or all of the regulatory controls from a nuclear facility and which aim to ensure the long-term protection of the public and the environment, including the reduction of the levels of residual radionuclides in the materials and on the site of the nuclear facility;",
+        "original_definition": "'decommissioning' means administrative and technical measures in accordance with national law which allow the removal of some or all of the regulatory controls from a nuclear facility and which aim to ensure the long-term protection of the public and the environment, including the reduction of the levels of residual radionuclides in the materials and on the site of the nuclear facility;",
         "generated_definition": "",
         "existing_sentences": {
             "Article 1": [
@@ -6889,7 +6889,7 @@
     {
         "term": "decommissioning plan",
         "celex_id": "32021R0101",
-        "original_definition": "decommissioning plan means a document that contains detailed information on the proposed decommissioning and covers the following: the selected decommissioning strategy; the schedule, type and sequence of decommissioning activities; the waste management strategy applied, including clearance; the proposed end state; the storage and disposal of the waste from decommissioning; the timeframe for decommissioning; the cost estimates for the completion of decommissioning; and the objectives, expected results, milestones, target dates, as well as the corresponding key performance indicators, including, where appropriate, earned-value-based indicators. The decommissioning plan is prepared by the nuclear facility licence holder and is reflected in the multiannual work programmes of the Programme.",
+        "original_definition": "'decommissioning plan' means a document that contains detailed information on the proposed decommissioning and covers the following: the selected decommissioning strategy; the schedule, type and sequence of decommissioning activities; the waste management strategy applied, including clearance; the proposed end state; the storage and disposal of the waste from decommissioning; the timeframe for decommissioning; the cost estimates for the completion of decommissioning; and the objectives, expected results, milestones, target dates, as well as the corresponding key performance indicators, including, where appropriate, earned-value-based indicators. The decommissioning plan is prepared by the nuclear facility licence holder and is reflected in the multiannual work programmes of the Programme.",
         "generated_definition": "",
         "existing_sentences": {
             "Article 2": [
@@ -6912,7 +6912,7 @@
     {
         "term": "decommissioning",
         "celex_id": "32021R0100",
-        "original_definition": "decommissioning means administrative and technical measures in accordance with national law which allow the removal of some or all of the regulatory controls from a nuclear facility and which aim to ensure the long-term protection of the public and the environment, including the reduction of the levels of residual radionuclides in the materials and on the site of the nuclear facility;",
+        "original_definition": "'decommissioning' means administrative and technical measures in accordance with national law which allow the removal of some or all of the regulatory controls from a nuclear facility and which aim to ensure the long-term protection of the public and the environment, including the reduction of the levels of residual radionuclides in the materials and on the site of the nuclear facility;",
         "generated_definition": "",
         "existing_sentences": {
             "Article 1": [
@@ -6981,7 +6981,7 @@
     {
         "term": "decommissioning plan",
         "celex_id": "32021R0100",
-        "original_definition": "decommissioning plan means a document that contains detailed information on the proposed decommissioning and covers the following: the selected decommissioning strategy; the schedule, type and sequence of decommissioning activities; the waste management strategy applied, including clearance; the proposed end state; the storage and disposal of the waste from decommissioning; the timeframe for decommissioning; the cost estimates for the completion of decommissioning; and the objectives, expected results, milestones, target dates, as well as the corresponding key performance indicators, including, where appropriate, earned-value-based indicators. The decommissioning plan is prepared by the nuclear facility licence holder and is reflected in the multiannual work programmes of the Programme;",
+        "original_definition": "'decommissioning plan' means a document that contains detailed information on the proposed decommissioning and covers the following: the selected decommissioning strategy; the schedule, type and sequence of decommissioning activities; the waste management strategy applied, including clearance; the proposed end state; the storage and disposal of the waste from decommissioning; the timeframe for decommissioning; the cost estimates for the completion of decommissioning; and the objectives, expected results, milestones, target dates, as well as the corresponding key performance indicators, including, where appropriate, earned-value-based indicators. The decommissioning plan is prepared by the nuclear facility licence holder and is reflected in the multiannual work programmes of the Programme;",
         "generated_definition": "",
         "existing_sentences": {
             "Article 1": [
@@ -7010,7 +7010,7 @@
     {
         "term": "Kozloduy programme",
         "celex_id": "32021R0100",
-        "original_definition": "Kozloduy programme means the part of the Programme that concerns the nuclear decommissioning of Units 1 to 4 of the Kozloduy Nuclear Power Plant, located in Kozloduy, Bulgaria;",
+        "original_definition": "'Kozloduy programme' means the part of the Programme that concerns the nuclear decommissioning of Units 1 to 4 of the Kozloduy Nuclear Power Plant, located in Kozloduy, Bulgaria;",
         "generated_definition": "",
         "existing_sentences": {
             "Article 2": [
@@ -7053,7 +7053,7 @@
     {
         "term": "Bohunice programme",
         "celex_id": "32021R0100",
-        "original_definition": "Bohunice programme means the part of the Programme that concerns the nuclear decommissioning of Units 1 and 2 of the Bohunice V1 Nuclear Power Plant, located in Jaslovske\u0301 Bohunice, Slovakia;",
+        "original_definition": "'Bohunice programme' means the part of the Programme that concerns the nuclear decommissioning of Units 1 and 2 of the Bohunice V1 Nuclear Power Plant, located in Jaslovske\u0301 Bohunice, Slovakia;",
         "generated_definition": "",
         "existing_sentences": {
             "Article 2": [
@@ -7096,7 +7096,7 @@
     {
         "term": "JRC decommissioning and waste management programme",
         "celex_id": "32021R0100",
-        "original_definition": "JRC decommissioning and waste management programme means the part of the Programme that concerns the nuclear decommissioning and radioactive waste management of the Commission\u2019s nuclear installations at the JRC sites, namely JRC-Geel in Belgium, JRC-Karlsruhe in Germany, JRC-Ispra in Italy and JRC-Petten in the Netherlands.",
+        "original_definition": "'JRC decommissioning and waste management programme' means the part of the Programme that concerns the nuclear decommissioning and radioactive waste management of the Commission\u2019s nuclear installations at the JRC sites, namely JRC-Geel in Belgium, JRC-Karlsruhe in Germany, JRC-Ispra in Italy and JRC-Petten in the Netherlands.",
         "generated_definition": "",
         "existing_sentences": {
             "Article 2": [
@@ -7119,7 +7119,7 @@
     {
         "term": "Agency",
         "celex_id": "32021Q0618(02)",
-        "original_definition": "Agency means the Euratom Supply Agency established by the Treaty;",
+        "original_definition": "'Agency' means the Euratom Supply Agency established by the Treaty;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -7243,7 +7243,7 @@
     {
         "term": "Community",
         "celex_id": "32021Q0618(02)",
-        "original_definition": "Community means the European Atomic Energy Community (Euratom);",
+        "original_definition": "'Community' means the European Atomic Energy Community (Euratom);",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -7284,7 +7284,7 @@
     {
         "term": "Community production",
         "celex_id": "32021Q0618(02)",
-        "original_definition": "Community production means nuclear materials produced in the Community, including but not limited to:ores mined within the territory of the Community;source materials produced within the territory of the Community, including those acquired by a producer as a by-product of enrichment;special fissile materials produced within the territory of the Community-based reactors after irradiation of nuclear fuel;special fissile materials produced within the territory of the Community by enriching source materials owned by the producer.",
+        "original_definition": "'Community production' means nuclear materials produced in the Community, including but not limited to:ores mined within the territory of the Community;source materials produced within the territory of the Community, including those acquired by a producer as a by-product of enrichment;special fissile materials produced within the territory of the Community-based reactors after irradiation of nuclear fuel;special fissile materials produced within the territory of the Community by enriching source materials owned by the producer.",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -7296,7 +7296,7 @@
     {
         "term": "intermediary",
         "celex_id": "32021Q0618(02)",
-        "original_definition": "intermediary means any person or undertaking that purchases nuclear materials with the purpose of re-selling them as such;",
+        "original_definition": "'intermediary' means any person or undertaking that purchases nuclear materials with the purpose of re-selling them as such;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -7310,7 +7310,7 @@
     {
         "term": "nuclear materials",
         "celex_id": "32021Q0618(02)",
-        "original_definition": "nuclear materials means any of the ores, source materials and special fissile materials as defined in Article 197 of the Treaty;",
+        "original_definition": "'nuclear materials' means any of the ores, source materials and special fissile materials as defined in Article 197 of the Treaty;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -7361,7 +7361,7 @@
     {
         "term": "producer",
         "celex_id": "32021Q0618(02)",
-        "original_definition": "producer means any person or undertaking that produces, processes, converts or shapes ores, source materials or special fissile materials;",
+        "original_definition": "'producer' means any person or undertaking that produces, processes, converts or shapes ores, source materials or special fissile materials;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -7393,7 +7393,7 @@
     {
         "term": "related services",
         "celex_id": "32021Q0618(02)",
-        "original_definition": "related services means one of the following services: conversion, enrichment, fuel fabrication, reprocessing or storage of special fissile materials;",
+        "original_definition": "'related services' means one of the following services: conversion, enrichment, fuel fabrication, reprocessing or storage of special fissile materials;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -7413,7 +7413,7 @@
     {
         "term": "Rules",
         "celex_id": "32021Q0618(02)",
-        "original_definition": "Rules means these Rules of the Supply Agency of the European Atomic Energy Community determining the manner in which demand is to be balanced against the supply of ores, source materials and special fissile materials;",
+        "original_definition": "'Rules' means these Rules of the Supply Agency of the European Atomic Energy Community determining the manner in which demand is to be balanced against the supply of ores, source materials and special fissile materials;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a01": [
@@ -7449,7 +7449,7 @@
     {
         "term": "small quantities",
         "celex_id": "32021Q0618(02)",
-        "original_definition": "small quantities means the quantities defined in the Small Quantities Regulation;",
+        "original_definition": "'small quantities' means the quantities defined in the Small Quantities Regulation;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -7470,7 +7470,7 @@
     {
         "term": "Small Quantities Regulation",
         "celex_id": "32021Q0618(02)",
-        "original_definition": "Small Quantities Regulation means Commission Regulation (Euratom) No 66/2006 of 16 January 2006exempting the transfer of small quantities of ores, source materials and special fissile materials from the rules of the chapter on supplies, and any future versions thereof;",
+        "original_definition": "'Small Quantities Regulation' means Commission Regulation (Euratom) No 66/2006 of 16 January 2006exempting the transfer of small quantities of ores, source materials and special fissile materials from the rules of the chapter on supplies, and any future versions thereof;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -7488,7 +7488,7 @@
     {
         "term": "supply contract",
         "celex_id": "32021Q0618(02)",
-        "original_definition": "supply contract means:a contract for the purchase, sale, loan or lease of ores and/or source materials where at least one party is a user or a producer that produces, processes, converts or shapes ores, source materials or special fissile materials within the territory of the Community; anda contract for the purchase, sale, exchange, loan or lease of special fissile materials where at least one party is a user, a producer or an intermediary;",
+        "original_definition": "'supply contract' means:a contract for the purchase, sale, loan or lease of ores and/or source materials where at least one party is a user or a producer that produces, processes, converts or shapes ores, source materials or special fissile materials within the territory of the Community; anda contract for the purchase, sale, exchange, loan or lease of special fissile materials where at least one party is a user, a producer or an intermediary;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -7565,7 +7565,7 @@
     {
         "term": "Treaty",
         "celex_id": "32021Q0618(02)",
-        "original_definition": "Treaty means the Treaty establishing the European Atomic Energy Community;",
+        "original_definition": "'Treaty' means the Treaty establishing the European Atomic Energy Community;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [
@@ -7604,7 +7604,7 @@
     {
         "term": "user",
         "celex_id": "32021Q0618(02)",
-        "original_definition": "user means any person or undertaking that buys nuclear materials or related services to use in its own or affiliated nuclear power plants or research reactors within the Community or to use in the fields listed in Annex 1 to the Treaty;",
+        "original_definition": "'user' means any person or undertaking that buys nuclear materials or related services to use in its own or affiliated nuclear power plants or research reactors within the Community or to use in the fields listed in Annex 1 to the Treaty;",
         "generated_definition": "",
         "existing_sentences": {
             "Article\u00a02": [

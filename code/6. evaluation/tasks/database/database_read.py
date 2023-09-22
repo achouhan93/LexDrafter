@@ -64,7 +64,7 @@ def process_records_in_batches(database_engine, data_split_table, term_table):
                 original_definition = {
                     'term': row['term'],
                     'celex_id': row['celex_id'],
-                    'original_definition': row['term'] + ' ' + row['explanation'],
+                    'original_definition': f"'{row['term']}' {row['explanation']}",
                     'generated_definition': '',
                     'existing_sentences': row['sentences']
                 }
@@ -72,7 +72,7 @@ def process_records_in_batches(database_engine, data_split_table, term_table):
             
             # Save each split to a JSON file
             for split, data in splits.items():
-                with open(f'{split}_split.json', 'w') as json_file:
+                with open(f'./dataset/{split}_split.json', 'w') as json_file:
                     json.dump(data, json_file, indent=4)
 
 
@@ -90,13 +90,6 @@ def fetch_existing_celex_ids(database_engine, data_split_table, term_table, term
 
     with database_engine.connect() as conn:
         for term in terms:
-            # query = (
-            #     select(data_split_table.c.celex_id)
-            #     .where(
-            #         term_table.c.term.ilike(f'%{term}%'),
-            #         data_split_table.c.split_column == 'train'
-            #     )
-            # )
             query = (
                 select(data_split_table.c.celex_id)
                 .where(
