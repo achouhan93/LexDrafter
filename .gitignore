@@ -1,6 +1,4 @@
-Code/Analysis
-Code/Baselines
-definition-env/
+.venv
 
 *.bib.gz
 *.synctex.gz
@@ -14,6 +12,5 @@ definition-env/
 .env
 .vscode
 
-Code/.ipynb_checkpoints/
+*.ipynb_checkpoints/
 *__pycache__/
-Figures/
