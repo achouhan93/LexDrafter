@@ -2,6 +2,18 @@ from extractors.libraries import *
 
 
 def get_celex_per_page(i, provided_url, list_celex):
+    """
+    Extracts CELEX numbers from a specific page of the provided URL.
+
+    This function constructs a URL for the given page number and fetches the 
+    content using `urllib.request`. Then, it parses the HTML content using 
+    BeautifulSoup to find elements containing "CELEX number". 
+
+    Args:
+        page_number (int): The page number to extract CELEX numbers from.
+        provided_url (str): Base URL of the legal act domain.
+        celex_list (list): List to store extracted CELEX numbers.
+    """
     # URL is create for each page of the legal act domain
     url = urllib.request.urlopen(provided_url + '&page=' +str(i)).read()
 
@@ -20,19 +32,21 @@ def get_celex_per_page(i, provided_url, list_celex):
     except:
         pass
 
+
 def get_celex(pages, provided_url):
     """
-    Function extracts all the Celex Number of the documents from the considered URL
+    Extracts all CELEX numbers from the provided URL using parallel processing.
+
+    This function utilizes a multiprocessing pool to efficiently extract CELEX 
+    numbers from all pages within the specified URL. 
 
     Args:
-        pages (integer): The value of number of pages that needs to be considered for extracting the Celex Numbers
-        provided_url (string): URL of the Domain specific Legal Acts, for example: Energy, Agriculture, Taxation, and other
-                                Legal Acts: https://eur-lex.europa.eu/browse/directories/legislation.html
-                                Energy Legal Acts: https://eur-lex.europa.eu/search.html?type=named&name=browse-by:legislation-in-force&CC_1_CODED=12&displayProfile=allRelAllConsDocProfile
+        total_pages (int): Total number of pages to process.
+        provided_url (str): Base URL of the legal act domain.
 
     Returns:
-        list: List of Celex Number extracted from the provided URL
-    """    
+        list: List of all extracted CELEX numbers.
+    """   
     with mp.Manager() as manager:
         list_celex = manager.list()
     

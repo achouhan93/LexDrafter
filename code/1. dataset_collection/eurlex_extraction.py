@@ -1,16 +1,49 @@
 from extractors.libraries import *
 from extractors import *
 
+"""
+Define default minimum and maximum dates for document extraction.
+
+CONST_EUTILS_DEFAULT_MINDATE: String representing the default minimum year for extraction (default: "1948").
+CONST_EUTILS_DEFAULT_MAXDATE: String representing the default maximum year for extraction (default: current year).
+"""
 CONST_EUTILS_DEFAULT_MINDATE = "1948"
 CONST_EUTILS_DEFAULT_MAXDATE = datetime.date.today().strftime("%Y")
 
 class Processor:
+    """
+    Class responsible for processing and extracting documents from EUR-Lex.
+    ...
+    Attributes:
+        connection: Connection object to the database.
+        index_name: Name of the index in the database where documents are stored.
+    """
     def __init__(self, database_connection, index):
+        """
+        Initializes the Processor object.
+
+        Args:
+            database_connection: Connection object to the database.
+            index: Name of the index in the database where documents are stored.
+        """
         self.connection = database_connection
         self.index_name = index
 
 
     def process_domain(self, domain_no, year, batchSize=100):
+        """
+        Processes documents for a specific domain and year.
+
+        This function extracts document information from EUR-Lex for the given domain and year.
+
+        Args:
+            domain_no: Integer representing the domain number.
+            year: Integer representing the year for which documents are extracted.
+            batchSize: Integer representing the number of documents to process in each batch (default: 100).
+
+        Returns:
+            Boolean: True if document processing is successful, False otherwise.
+        """
         if domain_no < 10:
             domain = '0' + str(domain_no)
         else:
@@ -49,6 +82,14 @@ class Processor:
 
 
     def process_by_year(self, year):
+        """
+        Processes documents for a specific year across all domains.
+        This function iterates through all domains and calls process_domain 
+        for each domain in the specified year.
+
+        Args:
+            year: Integer representing the year for which documents are extracted.
+        """
         extraction_start_time = time()
         for domain_no in range(20, 0, -1):
             logging.info(f"Document extraction started for the year {year} and domain number {domain_no}")
@@ -63,6 +104,15 @@ class Processor:
 
 
 def insertDocumentsByTimeRange(database, index_name, mindate, maxdate):
+    """ 
+    Inserts documents into the specified OpenSearch index within a given date range.
+
+    Args:
+        database (str): Name of the OpenSearch database.
+        index_name (str): Name of the OpenSearch index to insert documents into.
+        mindate (str): Start date in YYYYMMDD format.
+        maxdate (str): End date in YYYYMMDD format.
+    """
 
     start_year = int(mindate)
     end_year = int(maxdate)
@@ -86,6 +136,16 @@ def insertDocumentsByTimeRange(database, index_name, mindate, maxdate):
 
 def insertDocumentsByDomain(database_connection, database, domain_no, 
                             mindate, maxdate):
+    """
+    Inserts documents into the specified OpenSearch index for a given domain within a date range.
+
+    Args:
+        database_connection: Connection object to the OpenSearch database.
+        database (str): Name of the OpenSearch database.
+        domain_no (list): List of domain numbers to process.
+        mindate (str): Start date in YYYYMMDD format.
+        maxdate (str): End date in YYYYMMDD format.
+    """
     
     start_year = int(mindate)
     end_year = int(maxdate)
@@ -116,6 +176,15 @@ def insertDocumentsByDomain(database_connection, database, domain_no,
 
 
 def secondsToText(secs):
+    """
+    Converts a time in seconds to a human-readable format (days, hours, minutes, seconds).
+
+    Args:
+        secs (float): Time in seconds.
+
+    Returns:
+        str: Human-readable time string.
+    """
     days = secs // 86400
     hours = (secs - days * 86400) // 3600
     minutes = (secs - days * 86400 - hours * 3600) // 60
@@ -128,6 +197,12 @@ def secondsToText(secs):
 
 
 def main(argv=None):
+    """
+    This script extracts and inserts EUR-Lex documents into a database.
+    
+    Args:
+        argv (list, optional): List of command-line arguments. Defaults to None.
+    """
     CONFIG = utils.loadConfigFromEnv()
 
     if not os.path.exists(CONFIG["LOG_PATH"]):

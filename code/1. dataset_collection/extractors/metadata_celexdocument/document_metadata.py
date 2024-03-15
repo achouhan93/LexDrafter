@@ -1,22 +1,27 @@
 from extractors.libraries import *
 
+
 def clean_metadata (dict_obj):
-    # """"""""""
-    # Functionality: Cleaning of Metadata and assigning "NA" to the metadata values whose values are not present in Eur-Lex
-    #
-    # Signature of the function:
-    #  Input: 
-    #       dict_obj: Dictionary object with the metadata extracted from the Eur-lex website for a specific Celex Document
-    # 
-    #  Output:
-    #       dict_obj: Cleaned Metadata for a Celex Document
-    # """""""""" 
+    """
+    Cleans and assigns values to missing metadata fields.
+
+    This function iterates through a dictionary containing metadata extracted from an EUR-Lex document.
+    It performs the following actions:
+
+    * Formats date fields to YYYY/MM/DD format if possible.
+    * Cleans extra spaces from specific fields (EUROVOC descriptor, Subject matter, Instruments cited).
+
+    Args:
+        metadata (dict): Dictionary containing raw metadata extracted from an EUR-Lex document.
+
+    Returns:
+        dict: Cleaned and formatted metadata dictionary.
+    """ 
     document_metadata = ['title','ELI_LINK','Date of document: ','Date of signature: ','Date of effect: ','Deadline: ','Date of end of validity: ','EUROVOC descriptor: ','Subject matter: ','Directory code: ','Author: ','Form: ','Additional information: ','Procedure number: ','\nLink\n','Treaty: ','Legal basis: ','Proposal: ','Amended by: ','All consolidated versions: ','Instruments cited: ','Authentic language: ','Addressee: ','Date of notification: ','Responsible body: ','Related document(s): ','Internal comment: ','Affected by case: ','Subsequent related instruments: ','Internal reference: ','Date of transposition: ','Depositary: ','Internal procedures based on this legislative basic act','Co author: ']
     document_dates = ['Date of document: ','Date of effect: ','Date of signature: ','Deadline: ','Date of transposition: ','Date of end of validity: ', 'Date of notification: ']
         
     for key in document_metadata:
         if key in dict_obj:
-            # If it is a date field, clean it further
             if key in document_dates:
                 date_info = dict_obj[key].split(';')
                 try:
@@ -36,19 +41,21 @@ def clean_metadata (dict_obj):
     dict_obj['Subject matter: '] = None if dict_obj['Subject matter: '] is None else re.sub('  +', ', ',dict_obj['Subject matter: '])
     dict_obj['Instruments cited: '] = None if dict_obj['Instruments cited: '] is None else re.sub('  +', ', ',dict_obj['Instruments cited: '])
 
-# Function to extract the metadata of the list of Celex Numbers provided
 
 def get_metadata(lang, celex_id):
-    # """"""""""
-    # Functionality: Extracting the metadata and content present in the Celex document from the Eur-lex website
-    #
-    # Signature of the function:
-    #  Input: 
-    #       list_of_celexs: List of Celex Number whose metadata needs to be extracted
-    # 
-    #  Output:
-    #       details: List of Metadata and Content present in the Celex Document from the Eur-lex website
-    # """""""""" 
+    """
+    Extracts metadata and content from a specific CELEX document on the EUR-Lex website.
+
+    This function fetches the HTML content of the provided URL and parses it to extract various metadata
+    fields associated with the CELEX document. It also performs basic cleaning and formatting of the extracted data.
+
+    Args:
+        lang (str): Language code (e.g., 'en') for the desired document.
+        celex_id (str): CELEX identifier of the document.
+
+    Returns:
+        dict: Dictionary containing the extracted metadata for the CELEX document.
+    """
     logging.info("Execution of Extraction of Metadata for respective Celex Document - Started")
 
     # Dictonary to structure data for mongo DB

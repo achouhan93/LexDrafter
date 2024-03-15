@@ -1,7 +1,36 @@
 from extractors.libraries import *
 from extractors import get_metadata, get_file_by_id, opensearch_en_insert
 
+
 def process_celex_id(celex_id, langs):
+    """
+    Extracts and stores metadata and document content for a given CELEX ID in specified languages.
+
+    This function takes a CELEX ID and a list of languages as input. It iterates through
+    the languages and performs the following:
+
+    1. Calls `get_metadata` to retrieve the document's metadata for the specific language.
+    2. Calls `get_file_by_id` to extract the document content for the specific language.
+    3. Stores the retrieved metadata and document information in a dictionary structure.
+    4. Logs a message indicating successful extraction for the CELEX ID and language.
+
+    Args:
+        celex_id (str): The CELEX identifier of the document.
+        langs (list): A list of language codes (e.g., ['EN', 'DE']).
+
+    Returns:
+        dict: A dictionary containing the extracted information for the CELEX ID in each language.
+              The structure is:
+              ```
+              {
+                  'EN': {
+                      'metadata': {...},  # Extracted metadata for the English document
+                      'documentInformation': {...}  # Extracted document content for the English document
+                  },
+                  # ... (similar structure for other languages)
+              }
+              ```
+    """
     celex_document_information = {}
     celex_document_information['_id'] = celex_id
 
@@ -23,25 +52,31 @@ def process_celex_id(celex_id, langs):
 
     return celex_document_information
 
+
 def get_document_information(os, index_name, celex_list):
     """
-    Orchestrator function to extract the summary and document content for the provided Celex Number
+    Extracts and stores document information for a list of CELEX IDs in specified languages.
+
+    This function orchestrates the information gathering process for multiple CELEX IDs.
+    It utilizes a multiprocessing pool to improve efficiency.
 
     Args:
-        celex_list (list): List of Celex number for which the summary and contents needs to be extracted
+        os (object): An OpenSearch connection object.
+        index_name (str): The name of the OpenSearch index where the extracted information will be stored.
+        celex_list (list): A list of CELEX identifiers for the documents.
 
     Returns:
-        list: Comprising of dictionary of information about the summary and document 
-                content for the provided Celex Numbers in the different languages
+        bool: True if document information is successfully extracted and inserted into OpenSearch, 
+              False otherwise.
     """
-    langs = ['EN']
+    langs = ['EN'] # Currently supports English only
     
     logging.info(f"Document information gathering started for {len(celex_list)} in {len(langs)} languages")
     with mp.Pool() as pool:
         results = [pool.apply_async(process_celex_id, args=(celex_id, langs)) for celex_id in celex_list]
         output = [p.get() for p in results]
 
-        # German and English extraction
+        # English extraction
         status = opensearch_en_insert(os, index_name, output)
         if status:
             logging.info(f"Document information gathering completed for {len(celex_list)} in {len(langs)} languages")

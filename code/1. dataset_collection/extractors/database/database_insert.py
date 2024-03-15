@@ -1,18 +1,22 @@
 from extractors.libraries import *
 
 def opensearch_en_insert(os_index, index_name, celex_details):
-    # """"""""""
-    # Functionality: Insert the document in the ElasticSearch or OpenSearch Index
-    #
-    # Signature of the function:
-    #  Input: 
-    #       esIndex: ElasticSearch or OpenSearch connection
-    #       indexName: Name of the index that needs to be created
-    #       celexInformation: Information that needs to be inserted in the Index in JSON format
-    # 
-    #  Output:
-    #       Insert the information in the ElasticSearch or OpenSearch Index keeping unqiue ID (_id) as the celex number
-    # """"""""""
+    """
+    Inserts CELEX document information into the specified OpenSearch index.
+
+    This function iterates through a list of CELEX details (dictionaries) 
+    and prepares bulk insertion actions for the OpenSearch index. 
+    It extracts relevant information like title, ELI link, and dates 
+    from the provided data and builds the document structure.
+
+    Args:
+        es_index (object): An established connection to the OpenSearch instance.
+        index_name (str): Name of the OpenSearch index where documents are inserted.
+        celex_details (list): List of dictionaries containing CELEX document information.
+
+    Returns:
+        bool: True if insertion is successful, False otherwise.
+    """
     success = False
     actions = []
 

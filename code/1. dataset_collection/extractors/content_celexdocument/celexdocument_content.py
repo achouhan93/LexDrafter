@@ -1,17 +1,21 @@
 from extractors.libraries import *
 
 def get_file_by_id(lang, celex_id):
-    # """"""""""
-    # Functionality: Extract the content present in the Celex document
-    #
-    # Signature of the function:
-    #  Input: 
-    #       lang: List of Celex document content language
-    #       celex_id: Celex Number whose content needs to be extracted
-    # 
-    #  Output:
-    #       dict: Content of the document from HTML or PDF document
-    # """""""""" 
+    """
+    Extracts content from a EUR-Lex document with the given CELEX ID and language.
+
+    Prioritizes retrieval from HTML format if available, otherwise downloads and extracts from PDF.
+
+    Args:
+        lang (str): Language code for the document (e.g., "EN", "FR", "DE").
+        celex_id (str): CELEX number of the document to extract.
+
+    Returns:
+        dict: Dictionary containing:
+            - rawDocument: The raw HTML or None if not available.
+            - documentContent: The extracted text content.
+            - document_format: The format of the extracted document ("HTML" or "PDF").
+    """
 
     # Dictionary to save info for each iteration
     dict = {}
@@ -101,17 +105,16 @@ def get_file_by_id(lang, celex_id):
     return dict
 
 def get_pdf_url(lang, celex_ids):
-    # """"""""""
-    # Functionality: Extract the content present in the Celex document
-    #
-    # Signature of the function:
-    #  Input: 
-    #       lang: List of Celex document content language
-    #       celex_ids: List of celex number whose PDF needs to be downloaded
-    # 
-    #  Output:
-    #       list: List of the URLs for the PDF to be downloaded
-    # """""""""" 
+    """
+    Generates a list of PDF URLs for the given CELEX IDs and language.
+
+    Args:
+        lang (str): Language code for the documents.
+        celex_ids (list): List of CELEX numbers to generate URLs for.
+
+    Returns:
+        list: List of PDF URLs for the specified CELEX IDs and language.
+    """
 
     # Dictionary to save info for each iteration
     celex_id_pdf = []

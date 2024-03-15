@@ -3,15 +3,21 @@ from extractors import pages_extraction, get_celex
 
 def celex_main(provided_url):
     """
-    Orchestrator function to extract the list of Celex Numbers from the provided URL
+    Extracts a list of CELEX numbers from the provided EUR-Lex URL.
+
+    This function retrieves the last page number from the provided URL 
+    (representing a specific domain or legal act category) and then 
+    iterates through all pages to extract CELEX numbers.
 
     Args:
-        provided_url (string): URL of the Domain specific Legal Acts, for example: Energy, Agriculture, Taxation, and other
-                                Legal Acts: https://eur-lex.europa.eu/browse/directories/legislation.html
-                                Energy Legal Acts: https://eur-lex.europa.eu/search.html?type=named&name=browse-by:legislation-in-force&CC_1_CODED=12&displayProfile=allRelAllConsDocProfile
+        provided_url (str): URL pointing to a specific domain or legal act category 
+                            within EUR-Lex. 
+                            Examples:
+                                - https://eur-lex.europa.eu/browse/directories/legislation.html (all legal acts)
+                                - https://eur-lex.europa.eu/search.html?type=named&name=browse-by:legislation-in-force&CC_1_CODED=12&displayProfile=allRelAllConsDocProfile (Energy legal acts)
 
     Returns:
-        list: List of Celex numbers extracted from the provided URL
+        list: List of CELEX numbers extracted from all pages of the provided URL.
     """
     logging.info(f"Executing the extraction of the celex number")
 

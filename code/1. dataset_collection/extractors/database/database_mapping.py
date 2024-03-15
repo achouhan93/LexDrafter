@@ -1,16 +1,14 @@
 def opensearch_en_mapping():
-    # """"""""""
-    # Functionality: Creation of the mapping for the ElasticSearch or OpenSearch Index
-    # 
-    # For this project mapping is created from JSON using https://json-to-es-mapping.netlify.app/
-    #
-    # Signature of the function:
-    #  Input: 
-    #       No input is required for this function, as it is executed to create an object for mapping
-    # 
-    #  Output:
-    #       os_mapping: Mapping setting for the ElasticSearch or OpenSearch Index
-    # """""""""" 
+    """
+    Defines the mapping for the OpenSearch index used to store extracted EUR-Lex documents.
+
+    This function defines the schema for the index, specifying how different 
+    fields will be analyzed and stored. The mapping utilizes a custom analyzer 
+    named "modified_analyzer" to handle text data effectively.
+
+    Returns:
+        dict: The mapping definition for the OpenSearch index.
+    """
     os_mapping = {
         "settings": {
             "number_of_shards":1,

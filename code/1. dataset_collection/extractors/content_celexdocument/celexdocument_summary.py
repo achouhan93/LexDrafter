@@ -2,14 +2,20 @@ from extractors.libraries import *
 
 def get_document_summary(lang, celex_id):
     """
-    Function extracts the summary of the Celex document
+    Extracts the summary of a CELEX document in the specified language.
+
+    This function retrieves the summary of a document identified by its CELEX number 
+    from the EUR-Lex website. The language parameter determines the language of 
+    the retrieved summary.
 
     Args:
-        lang (string): Language of the summary that needs to be extracted
-        document_page (string): Summary HTML page of the document
+        lang (str): The language code for the desired summary (e.g., "en" for English).
+        celex_id (str): The CELEX number of the document to extract the summary for.
 
     Returns:
-        dictionary: Summary content of the document in the provided language
+        dict: A dictionary containing the extracted summary information.
+            - 'summaryContent' (str): The extracted summary text (may be None if not available).
+            - 'rawSummary' (str): The raw HTML content of the summary page (may be None if not available).
     """
     summary_dict = {}
     

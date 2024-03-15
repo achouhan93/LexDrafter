@@ -1,16 +1,21 @@
 from extractors.libraries import *
 
+
 def pages_extraction(provided_url):
     """
-    Function extracts the number of pages that needs to be considered for extracting the Celex Numbers
+    Extracts the last page number from a given EUR-Lex URL.
+
+    This function fetches the provided URL, parses the HTML content using BeautifulSoup, 
+    and identifies the element containing the last page number within the pagination section.
 
     Args:
-        provided_url (string): URL of the Domain specific Legal Acts, for example: Energy, Agriculture, Taxation, and others
-                                Legal Acts: https://eur-lex.europa.eu/browse/directories/legislation.html
-                                Energy Legal Acts: https://eur-lex.europa.eu/search.html?type=named&name=browse-by:legislation-in-force&CC_1_CODED=12&displayProfile=allRelAllConsDocProfile
+        provided_url (str): URL pointing to a specific domain or legal act category within EUR-Lex.
+            Examples:
+                - https://eur-lex.europa.eu/browse/directories/legislation.html (all legal acts)
+                - https://eur-lex.europa.eu/search.html?type=named&name=browse-by:legislation-in-force&CC_1_CODED=12&displayProfile=allRelAllConsDocProfile (Energy legal acts)
 
     Returns:
-        integer: Value of the number of pages present in the provided URL
+        int: The last page number extracted from the pagination section, or 2 if no pagination is found.
     """
     input_url = urllib.request.urlopen(provided_url)
     input_soup = BeautifulSoup(input_url , 'lxml')
