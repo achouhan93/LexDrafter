@@ -13,13 +13,11 @@ This script extracts and inserts [EUR-Lex]((https://eur-lex.europa.eu/) document
 #### Run the script:
 
 ```bash
-python eurlex_extraction.py [--range <start_year> <end_year>] [--domain <domain_number> ...]
+python eurlex_extraction.py [--domain <domain_number> ...]
                              [--minyear <min_year>] [--maxyear <max_year>]
 ```
 
 **Choose extraction mode:**
-
-`--range`: Extracts documents for a specified year range.
 `--domain`: Extracts documents for specified domains within a year range.
 
 **Specify date range:**
@@ -28,14 +26,7 @@ python eurlex_extraction.py [--range <start_year> <end_year>] [--domain <domain_
 `--maxyear`: Maximum year for extraction (default: current year).
 
 #### Example Usage
-
-1. Extract documents for all domains from 2020 to 2022:
-
-```bash
-python main.py --range --minyear 2020 --maxyear 2022
-```
-
-2. Extract documents for domain 12, i.e., energy domain:
+Extract documents for domain 12, i.e., energy domain:
 
 ```bash
 python main.py --domain 12

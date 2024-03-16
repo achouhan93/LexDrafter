@@ -81,59 +81,6 @@ class Processor:
         return progress_status
 
 
-    def process_by_year(self, year):
-        """
-        Processes documents for a specific year across all domains.
-        This function iterates through all domains and calls process_domain 
-        for each domain in the specified year.
-
-        Args:
-            year: Integer representing the year for which documents are extracted.
-        """
-        extraction_start_time = time()
-        for domain_no in range(20, 0, -1):
-            logging.info(f"Document extraction started for the year {year} and domain number {domain_no}")
-            status = False
-
-            status = self.process_domain(domain_no, year)
-
-            if status:
-                logging.info(f"Document extraction completed for the year {year} and domain number {domain_no} and took {secondsToText(time()-extraction_start_time)}")
-            else:
-                logging.info(f"Document extraction failed for the year {year} and domain number {domain_no}")
-
-
-def insertDocumentsByTimeRange(database, index_name, mindate, maxdate):
-    """ 
-    Inserts documents into the specified OpenSearch index within a given date range.
-
-    Args:
-        database (str): Name of the OpenSearch database.
-        index_name (str): Name of the OpenSearch index to insert documents into.
-        mindate (str): Start date in YYYYMMDD format.
-        maxdate (str): End date in YYYYMMDD format.
-    """
-
-    start_year = int(mindate)
-    end_year = int(maxdate)
-
-    document_processor = Processor(database, index_name)
-
-    logging.info("**********************************")
-    logging.info(f"Document extraction started for the year range: {start_year} to {end_year}")
-    # Loop over the range of dates between start and end dates, with two days apart
-    current_year = end_year
-    while current_year >= start_year:
-        year_start_time = time()
-        logging.info(f"Document extraction started for the year {current_year}")
-        document_processor.process_by_year(current_year)
-        logging.info(f"Document extraction completed for the year {current_year} and took {secondsToText(time()- year_start_time)}")
-        current_year -= 1
-    
-    logging.info(f"Document extraction finished for the year range: {start_year} to {end_year}")
-    logging.info("**********************************")
-
-
 def insertDocumentsByDomain(database_connection, database, domain_no, 
                             mindate, maxdate):
     """
@@ -227,11 +174,6 @@ def main(argv=None):
 
     parser = argparse.ArgumentParser("Specify the year duration for which eurlex documents are extracted")
 
-    parser.add_argument(
-        "--range",
-        help="Start year of range yyyy and end year of range in yyyy",
-        action="store_true"
-    )  
 
     parser.add_argument(
         '--domain', 
@@ -244,13 +186,8 @@ def main(argv=None):
 
     args = parser.parse_args()
 
-    if args.range:
-        insertDocumentsByTimeRange(
-            database_connection, database, args.minyear, args.maxyear
-        )
-        logging.info(f"Successfully Completed the extraction of the documents and it took {secondsToText(time() - start_time)}")
-    
-    elif args.domain:
+
+    if args.domain:
         if len(args.domain) == 0:
             print("--domain expects atleast one argument: <domain no.>")
             sys.exit()
