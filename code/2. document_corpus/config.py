@@ -11,7 +11,3 @@ import os
 from opensearchpy.helpers import scan
 
 import json
-
-# import sys
-# sys.setrecursionlimit(10000)
-

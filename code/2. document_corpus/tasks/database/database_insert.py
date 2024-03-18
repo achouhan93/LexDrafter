@@ -5,17 +5,21 @@ import logging
 
 def insert_postgres(database_engine, dataframe, table_name):
     """
-    Insert the records from the dataframe into respective table in postgres
+    Inserts records from a Pandas DataFrame into a PostgreSQL table.
+
+    This function takes a DataFrame and inserts its contents into a specified PostgreSQL table.
+    It utilizes a chunked approach for large DataFrames to manage memory and performance. It is also
+    capable of handling JSONB data types for columns containing JSON data.
 
     Args:
-        conn (database object): database connection object
-        dataframe (dataframe): dataframe with the records present for each column
-        table_name (string): table name present in the database
+        database_engine (sqlalchemy.engine.base.Engine): A SQLAlchemy engine instance connected to the PostgreSQL database.
+        dataframe (pandas.DataFrame): The DataFrame containing the records to be inserted.
+        table_name (str): The name of the target table in the PostgreSQL database.
     """  
-    # Use the JSONB data type for the columns containing JSON data
+    # Identify columns with JSON data for JSONB data type specification
     dtype = {col_name: 'JSONB' for col_name in dataframe.columns if 'json' in str(dataframe[col_name].dtype)}
     
-    # Insert data in batches using chunksize
+    # Define chunk size for batch insertions
     chunksize = 10000
     with database_engine.begin() as conn:
         for i in tqdm(range(0, len(dataframe), chunksize)):
@@ -24,14 +28,24 @@ def insert_postgres(database_engine, dataframe, table_name):
 
 def star_schema_postgres(connection, document_dataframes):
     """
-    Function to insert the records in the star schema database
+    Inserts records into a PostgreSQL database according to a star schema structure from document dataframes.
+
+    This function iteratively inserts data from multiple DataFrames related to various aspects of documents
+    (titles, recitals, chapters, sections, articles, annexes) into corresponding PostgreSQL tables.
+
+    Args:
+        connection (sqlalchemy.engine.base.Engine): A SQLAlchemy engine instance for the PostgreSQL database.
+        document_dataframes (list): A list of dictionaries containing DataFrames for different parts of documents.
+
+    Returns:
+        bool: True if all inserts were successful, False if an error occurred.
     """
     success = False
 
     try:
-        # Title Information
+        # Process and insert DataFrames for each document part
         title_df = pd.concat([list(value.values())[0]['title'] for value in document_dataframes])
-
+        
         if len(title_df.index) != 0:
             insert_postgres(connection, title_df, "lexdrafter_energy_titles")
 
@@ -67,6 +81,7 @@ def star_schema_postgres(connection, document_dataframes):
 
         success = True
         return success
+    
     except Exception as e:
         success = False
         logging.error(f'Error while inserting the dataframes in Postgresql due to error {e}')
@@ -74,7 +89,17 @@ def star_schema_postgres(connection, document_dataframes):
 
 
 def insert_article_aux(connection, article_aux_table, articles_table):
+    """
+    Populates an auxiliary table with article information from an articles table.
 
+    Constructs and executes a SQL query to insert article metadata into an auxiliary table,
+    creating a unique identifier for each article based on multiple fields.
+
+    Args:
+        connection (sqlalchemy.engine.base.Engine): A SQLAlchemy engine instance for the PostgreSQL database.
+        article_aux_table (sqlalchemy.Table): SQLAlchemy table object for the auxiliary table.
+        articles_table (sqlalchemy.Table): SQLAlchemy table object for the articles table.
+    """
     insert_query = (
         article_aux_table.insert()
         .from_select(

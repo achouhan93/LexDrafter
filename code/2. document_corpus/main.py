@@ -1,3 +1,4 @@
+# Import necessary modules and functions from external files and libraries
 from config import *
 from logical_layout_extraction import layout_extraction
 from tasks import *
@@ -8,14 +9,34 @@ import multiprocessing as mp
 
 
 def celex_document_processing(celex, celex_document):
+    """
+    Processes a single CELEX document to extract its structural information.
+    
+    Args:
+        celex (str): The CELEX number of the document being processed.
+        celex_document (dict): The document's content and metadata.
+    
+    Returns:
+        dict: A dictionary containing the extracted structural information of the document.
+    """
+
+    # Initialize a dictionary to store the extracted structural information
     celex_structural_information = {}
 
     logging.info(f"Extracting the logical structure of the document {celex}")
+    # Extract the raw HTML document from the provided document information
     document_html = celex_document['english']['documentInformation']['rawDocument']
+
+    # Parse the HTML document using BeautifulSoup
     parsed_document = BeautifulSoup(document_html, 'html.parser')
+
+    # Extract the logical layout of the parsed document
     document = layout_extraction(parsed_document)
+
+    # Extract document fragments such as title, recitals, chapters, sections, articles, and annexes
     title, recitals, chapter, section, articles, annex = document_fragment(celex, document)
 
+    # Compile the extracted information into a structured format
     structural_information = {
         "title": title,
         "recitals": recitals,
@@ -25,21 +46,36 @@ def celex_document_processing(celex, celex_document):
         "annex": annex
     }
 
+    # Map the extracted structural information to the CELEX number of the document
     celex_structural_information[celex] = structural_information
     logging.info(f"Completed extraction of the structure of the {celex} document")
 
+    # Return the extracted structural information
     return celex_structural_information
 
 
 class Processor:
+    """
+    Processor class responsible for processing documents from an OpenSearch database, extracting their structural information,
+    and storing this information into a PostgreSQL database.
+    """
     def __init__(self, opensearch_connection, postgres_connection, index):
+        """
+        Initializes the Processor object with connections to databases and the index to process documents from.
+
+        Args:
+            opensearch_connection (object): Connection object to OpenSearch database.
+            postgres_connection (object): Connection object to Postgres database.
+            index (str): Name of the OpenSearch index to process documents from.
+        """
+
         self.os_connection = opensearch_connection
         self.pg_connection = postgres_connection
         self.index_name = index
         self.scroll_size = 100
         self.batch_size = 50
         
-        # metadata = MetaData(bind=self.pg_connection)
+        # Reflect the structure of existing tables in the PostgreSQL database into SQLAlchemy metadata object
         metadata = MetaData()
         metadata.reflect(self.pg_connection)
         self.articles_table = Table('lexdrafter_energy_articles', metadata, autoload=True)
@@ -47,7 +83,14 @@ class Processor:
     
 
     def structure_extraction(self):
+        """
+        This method extracts the logical structure of documents from OpenSearch and stores the information in the Postgres database.
+
+        Returns:
+            bool: True if the extraction process was successful, False otherwise.
+        """
         try:
+            # Define the search parameters for finding valid records in OpenSearch
             search_params = opensearch_valid_record_query()
 
             # Execute the initial search request
@@ -129,6 +172,15 @@ class Processor:
 
 
 def secondsToText(secs):
+    """
+    Converts a duration from seconds into a human-readable string format.
+    
+    Args:
+        secs (int): The duration in seconds to convert.
+    
+    Returns:
+        str: A human-readable string representation of the duration, breaking it down into days, hours, minutes, and seconds.
+    """
     days = secs // 86400
     hours = (secs - days * 86400) // 3600
     minutes = (secs - days * 86400 - hours * 3600) // 60
@@ -141,13 +193,25 @@ def secondsToText(secs):
 
 
 def main(argv=None):
+    """
+    Main function to orchestrate the document processing flow.
+
+    This function sets up the environment by loading configuration, initializing loggings, connecting to databases,
+    and then, based on command line arguments, initiates the process to extract the logical structure of documents.
+
+    Args:
+        argv (list, optional): A list of command line arguments. Defaults to None.
+    """
     try:
+        # Load configuration from environment variables
         CONFIG = utils.loadConfigFromEnv()
 
+        # Create log directory if it doesn't exist
         if not os.path.exists(CONFIG["LOG_PATH"]):
             os.makedirs(CONFIG["LOG_PATH"])
             print(f'created: {CONFIG["LOG_PATH"]} directory.')
 
+        # Set up logging configuration
         logging.basicConfig(
             filename=CONFIG["LOG_EXE_PATH"],
             filemode="a",
@@ -155,32 +219,22 @@ def main(argv=None):
             datefmt="%d-%m-%y %H:%M:%S",
             level=logging.INFO
             )
-        
-        database = CONFIG['DB_LEXDRAFTER_INDEX']
 
+        # Establish connections to databases
+        database = CONFIG['DB_LEXDRAFTER_INDEX']
         pg_connection = postgres_connection()
         os_connection = opensearch_connection()
 
-        # parse command line arguments
+        # Parse command line arguments for additional operations
         parser = argparse.ArgumentParser()
         parser.add_argument(
             "-sc", "--schemacreation", help="extracting the logical structure of the document", action="store_true"
         )
 
-        parser.add_argument(
-            "-dc", "--datasetcreation", help="ground truth dataset creation for intext citation", action="store_true"
-        )
-
-        parser.add_argument(
-            "-gt", "--groundtruthcreation", help="ground truth article text completion for intext citation", action="store_true"
-        )
-
-        parser.add_argument(
-            "-an", "--analysis", help="analysis of the dataset", action="store_true"
-        )
 
         args = parser.parse_args()
 
+        # Initialize document processor with database connections and start processing
         document_processor = Processor(os_connection, pg_connection, database)
 
         if args.schemacreation:
@@ -195,122 +249,9 @@ def main(argv=None):
             else:
                 logging.info(f"Document extraction failed")
         
-        if args.datasetcreation:
-            start_time = time()
-            logging.info(f"Ground truth dataset creation for intext citation started at {secondsToText(start_time)}")
-            process_records_in_batches(pg_connection)
-            logging.info(f"Ground truth dataset creation completed and took {secondsToText(time()- start_time)}")
-        
-        if args.groundtruthcreation:
-            start_time = time()
-            logging.info(f"Ground truth article text completion for intext citation started at {secondsToText(start_time)}")
-            article_text_completion(pg_connection)
-            logging.info(f"Ground truth article text completed successfully and took {secondsToText(time()- start_time)}")
 
-        if args.analysis:
-            logging.info("Analysis of the corpus")
-
-            index_name="achouhan"
-            
-            counter = 0
-            scroll_size = 200
-            
-            search_params = {
-                                "query": {
-                                    "nested": {
-                                        "path": "english",
-                                        "query": {
-                                            "bool": {
-                                                "must_not": {
-                                                    "terms": {
-                                                        "english.documentInformation.rawDocument": ["NA"]
-                                                        },
-                                                    "terms": {
-                                                        "english.documentFormat": ["PDF", "NONE"]
-                                                    }
-                                                }
-                                            }
-                                        }
-                                    }
-                                }
-                            }
-
-            # Execute the initial search request
-            response = os_connection.search(
-                index=index_name,
-                scroll="5m",
-                size=scroll_size,
-                body=search_params
-            )
-
-            # Get the scroll ID and hits from the initial search request
-            scroll_id = response["_scroll_id"]
-            hits = response["hits"]["hits"]
-            total_docs = response["hits"]["total"]["value"]  # Get the total number of documents
-
-            not_considered_count = 0
-            not_considered_record = []
-
-            considered_record = []
-            html_considered_count = 0
-            pdf_considered_count = 0
-            none_considered_count = 0
-
-            with tqdm(total=total_docs) as pbar:
-
-                while hits:
-
-                    for celex_documents in hits:
-                        celex = celex_documents['_id']
-                        documentFormat = celex_documents['_source']['english']['documentFormat']
-
-                        if re.search(r'^[3].*', celex) is None: # Only Legal Acts Starting with 3 is considered
-                            not_considered_count = not_considered_count + 1
-
-                            not_considered_record.append(
-                                {"celex_id": celex,
-                                 "documentFormat": documentFormat}
-                            )
-                        else:
-                            considered_record.append(
-                                {"celex_id": celex,
-                                 "documentFormat": documentFormat}
-                            )
-
-                            if documentFormat == "HTML":
-                                html_considered_count = html_considered_count + 1
-                            elif documentFormat == "PDF":
-                                pdf_considered_count = pdf_considered_count + 1
-                            elif documentFormat == "NONE":
-                                none_considered_count = none_considered_count + 1
-                        
-                        pbar.update(1)
-
-                    # Paginate through the search results using the scroll parameter
-                    response = os_connection.scroll(scroll_id=scroll_id, scroll="5m")
-                    hits = response["hits"]["hits"]
-                    scroll_id = response["_scroll_id"]
-
-            not_considered_dict = {
-                "count": not_considered_count,
-                "record": not_considered_record
-            }
-
-            considered_dict = {
-                "count": html_considered_count+pdf_considered_count+none_considered_count,
-                "html_count": html_considered_count,
-                "pdf_count": pdf_considered_count,
-                "none_count": none_considered_count,
-                "records": considered_record
-            }
-
-            with open('./src/analysis/considered_documents.json', 'w') as f:
-                json.dump(considered_dict, f)
-            
-            with open('./src/analysis/not_considered_documents.json', 'w') as f:
-                json.dump(not_considered_dict, f)
-    
     finally:
+        # Ensure that the PostgreSQL connection is properly disposed
         pg_connection.dispose()
 
 

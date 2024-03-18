@@ -13,6 +13,7 @@ CONST_EUTILS_DEFAULT_MAXDATE = datetime.date.today().strftime("%Y")
 class Processor:
     """
     Class responsible for processing and extracting documents from EUR-Lex.
+    
     ...
     Attributes:
         connection: Connection object to the database.

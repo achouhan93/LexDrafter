@@ -11,6 +11,18 @@ import numpy as np
 
 
 def identify_publishing_year(celex_id) -> int:
+    """
+    Identifies the publishing year of a CELEX document based on its ID.
+
+    Args:
+        celex_id (str): The CELEX ID of the document.
+
+    Returns:
+        int: The year of publication extracted from the CELEX ID.
+
+    Raises:
+        ValueError: If the CELEX ID does not contain a valid year.
+    """
     # Take the last four digits of the sections just before the first letter
     relevant_segment = regex.search(r"(.*?)[A-Z]", celex_id)
     if relevant_segment:
@@ -20,10 +32,20 @@ def identify_publishing_year(celex_id) -> int:
 
     if not 1940 < year_candidate <= 2023:
         raise ValueError(f"{celex_id} gave year {year_candidate} as candidate.")
+    
     return year_candidate
 
 
 def identify_publishing_document(celex_id) -> int:
+    """
+    Identifies the document type of a CELEX document based on its ID.
+
+    Args:
+        celex_id (str): The CELEX ID of the document.
+
+    Returns:
+        str: The document type identifier extracted from the CELEX ID.
+    """
     # Take the last four digits of the sections just before the first letter
     relevant_segment = regex.search(r"(.*?)[A-Z]", celex_id)
     if relevant_segment:
@@ -35,7 +57,13 @@ def identify_publishing_document(celex_id) -> int:
 
 
 def plot_temporal_distribution(celex_ids: List[str], definition_celex: List[str]):
+    """
+    Plots the temporal distribution of legislative documents and those containing definitions.
 
+    Args:
+        celex_ids (List[str]): A list of CELEX IDs for legislative documents.
+        definition_celex (List[str]): A list of CELEX IDs for legislative documents containing definitions.
+    """
     # Use the celex IDs to determine the years that are available.
     celex_id_distribution = Counter([identify_publishing_year(celex_id) for celex_id in celex_ids])
     definition_distribution = Counter([identify_publishing_year(celex_id) for celex_id in definition_celex])
@@ -56,11 +84,13 @@ def plot_temporal_distribution(celex_ids: List[str], definition_celex: List[str]
 
 
 def plot_pie_distribution(definition_celex: List[str]):
+    """
+    Plots a pie distribution of document types among legislative documents containing definitions.
 
+    Args:
+        definition_celex (List[str]): A list of CELEX IDs for legislative documents containing definitions.
+    """
     definition_document_distribution = Counter([identify_publishing_document(celex_id) for celex_id in definition_celex])
-
-    # labels = list(definition_document_distribution.keys())
-    # sizes = list(definition_document_distribution.values())
 
     # Sort the dictionary by values in descending order
     sorted_distribution = dict(sorted(definition_document_distribution.items(), key=lambda x: x[1], reverse=True))
@@ -75,7 +105,6 @@ def plot_pie_distribution(definition_celex: List[str]):
     labels = list(top_n_items.keys())
     sizes = list(top_n_items.values())
 
-    #colors = ['#1f77b4', '#ff7f0e', '#2ca02c', '#9467bd', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#7f7f7f', '#bcbd22']
     colors = ['#1b9e77', '#ff7f0e', '#8c564b', '#9467bd']
 
     label_definitions = {
@@ -106,17 +135,21 @@ def plot_pie_distribution(definition_celex: List[str]):
     ax.legend(replaced_labels, 
                title="Types of legislative documents", loc='best')
 
-#     # Create a pie chart
-#     plt.figure(figsize=(8, 8))
-#     plt.pie(sizes, colors=colors, autopct='%1.1f%%', startangle=140)
-#    #plt.title('Distribution of the legislative documents comprising of "Definitions"')
-#     plt.legend(replaced_labels, loc='best', bbox_to_anchor=(1, 0.5))
-
     plt.savefig("../insights/document_distribution_pie.png", dpi=400, bbox_inches='tight')
     plt.show()
 
 
 def opensearch_extraction(os_connection, database):
+    """
+    Extracts CELEX IDs from an OpenSearch database.
+
+    Args:
+        os_connection: The OpenSearch connection object.
+        database (str): The name of the OpenSearch index.
+
+    Returns:
+        List[str]: A list of extracted CELEX IDs.
+    """
     celex_ids_list = []
 
     # Execute the initial search request
@@ -155,8 +188,15 @@ def opensearch_extraction(os_connection, database):
 
 
 def postgresql_extraction(pg_connection):
-    # TODO: Again check for the queries and definitions after the definition queries
+    """
+    Extracts CELEX IDs from a PostgreSQL database for documents containing specific terms within their text.
 
+    Args:
+        pg_connection: The PostgreSQL connection object.
+
+    Returns:
+        List[str]: A list of CELEX IDs for documents matching the extraction criteria.
+    """
     metadata = MetaData()
     metadata.reflect(pg_connection)
 
@@ -253,6 +293,12 @@ def postgresql_extraction(pg_connection):
     
 
 def main(argv=None):
+    """
+    Main function to orchestrate the extraction and plotting of document distributions.
+
+    This function coordinates the extraction of CELEX IDs from both OpenSearch and PostgreSQL databases, 
+    and plots the temporal distribution and pie distribution of document types.
+    """
     try:
         CONFIG = utils.loadConfigFromEnv()
         database = CONFIG['DB_LEXDRAFTER_INDEX']
@@ -261,7 +307,7 @@ def main(argv=None):
         os_connection = opensearch_connection()
 
         total_count = 0
-        # celex_ids = opensearch_extraction(os_connection, database) 
+
         with open('./opensearch_celex.json', "r") as file:
             celex_ids = json.load(file)
 
