@@ -1,6 +1,6 @@
-## EUR-Lex Document Extractor Script
+## EUR-Lex Document Extractor System
 
-This script extracts and inserts [EUR-Lex]((https://eur-lex.europa.eu/) documents into a specified OpenSearch index based on user-provided parameters.
+This script extracts and inserts [EUR-Lex](https://eur-lex.europa.eu/) documents into a specified OpenSearch index based on user-provided parameters.
 
 ### **Functionality:**
 
