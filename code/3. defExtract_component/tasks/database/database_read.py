@@ -1,61 +1,13 @@
 from sqlalchemy import Table, MetaData, select, func, or_, Integer, and_, desc
 
-def opensearch_valid_record_query():
-    valid_record_query = {
-                    "_source": "english.documentInformation.rawDocument",
-                    "query": {
-                        "bool": {
-                            "must_not": [
-                                {
-                                "nested": {
-                                "path": "english.documentInformation",
-                                "query": {
-                                    "match_phrase": {
-                                    "english.documentInformation.rawDocument": "no raw document present for the eurlex document"
-                                    }
-                                    }
-                                }
-                                },
-                                {
-                                "nested": {
-                                "path": "english.documentInformation",
-                                "query": {
-                                    "match_phrase": {
-                                    "english.documentInformation.documentContent": "Unfortunately this document cannot be displayed due to its size"
-                                    }
-                                    }
-                                }
-                                }
-                            ],
-                            "must": [
-                                {
-                                "nested": {
-                                    "path": "english",
-                                    "query": {
-                                    "match_phrase": {
-                                        "english.structureProcessedFlag": "N"
-                                    }
-                                    }
-                                }
-                                },
-                                {
-                                "nested": {
-                                    "path": "english",
-                                    "query": {
-                                    "match_phrase": {
-                                        "english.documentFormat": "HTML"
-                                    }
-                                    }
-                                }
-                                }
-                            ]
-                        }
-                    }
-                }
-    
-    return valid_record_query
-
 def opensearch_query():
+    """
+    Constructs a query for OpenSearch to find documents that have not been processed.
+
+    Returns:
+        dict: A dictionary representing the OpenSearch query to find unprocessed documents.
+    """
+    # Construct the OpenSearch query dictionary
     record_query = {
                     "_source": "_id",
                       "sort": [
@@ -83,8 +35,23 @@ def opensearch_query():
 
 
 class PostgresReader():
-
+    """
+    A class for reading data from PostgreSQL tables related to documents and terms,
+    specifically designed for the LexDrafter database schema.
+    
+    Attributes:
+        engine (Engine): The SQLAlchemy engine connected to the PostgreSQL database.
+        document_table (Table): The table containing document information.
+        terms_table (Table): The table containing term definitions.
+    """
     def __init__(self, pg_connection):
+        """
+        Initializes the PostgresReader instance by setting up the database connection
+        and reflecting the database schema to access table definitions.
+
+        Parameters:
+            pg_connection (Engine): The SQLAlchemy engine for the PostgreSQL database connection.
+        """
         self.engine = pg_connection
 
         metadata = MetaData()
@@ -94,6 +61,14 @@ class PostgresReader():
         self.terms_table = metadata.tables['lexdrafter_energy_definition_term']
 
     def get_document(self):
+        """
+        Retrieves documents from the database, including their IDs and CELEX IDs,
+        and identifies the maximum document ID.
+
+        Returns:
+            tuple: A tuple containing the maximum document ID and a dictionary of documents.
+        """
+        # Query to select all documents
         doc_query = (self.document_table.select())
 
         with self.engine.connect().execution_options(stream_results=True) as conn:
@@ -101,6 +76,7 @@ class PostgresReader():
 
             docs={}
 
+            # Fetch documents in chunks to manage memory for large datasets
             while True:
                 results_chunk = doc_results.fetchmany(20000)
                 
@@ -110,7 +86,7 @@ class PostgresReader():
                 for row in results_chunk:
                     docs[row[1]]={"id": row[0], "celex_id": row[1]}
 
-        # Get the max id
+        # Query to find the maximum document ID
         doc_max_query = (
             self.document_table.select()
             .order_by(desc(self.document_table.c.id))
@@ -132,6 +108,14 @@ class PostgresReader():
     
 
     def get_terms(self):
+        """
+        Retrieves terms from the database, including their IDs, associated document IDs,
+        and the terms themselves, and identifies the maximum term ID.
+
+        Returns:
+            tuple: A tuple containing the maximum term ID and a dictionary of terms.
+        """
+        # Query to select all terms
         term_query = (self.terms_table.select())
 
         with self.engine.connect().execution_options(stream_results=True) as conn:
@@ -139,6 +123,7 @@ class PostgresReader():
 
             term={}
 
+            # Fetch terms in chunks to manage memory for large datasets
             while True:
                 results_chunk = term_results.fetchmany(20000)
                 if not results_chunk:
@@ -147,7 +132,7 @@ class PostgresReader():
                 for row in results_chunk:
                     term[row[2]]={"term_id": row[0], "doc_id": row[1], "term": row[2]}
 
-        # Get the max id
+        # Query to find the maximum term ID
         max_query = (
             self.terms_table.select()
             .order_by(desc(self.terms_table.c.term_id))

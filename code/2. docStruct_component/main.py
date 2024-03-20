@@ -117,7 +117,7 @@ class Processor:
                     hits = check_for_existing_records(self.pg_connection, hits)
 
                     logging.info(
-                        f"{document_count - len(hits)} documents already exist. \n {len(hits)} new documents are considered for processing"
+                        f"{document_count - len(hits)} documents does not exist. \n {len(hits)} new documents are considered for processing"
                     )
 
                     non_existing_count = len(hits)

@@ -1,8 +1,4 @@
 # This is the code from the github repository: https://github.com/AnastasiyaDmrsk/Legal-Definitions-and-their-Relations/tree/main
-# Following are the points not considered in the script:
-# - Code is working only with Regulations by default
-# - The script will not work if the structure of the document is different comprising of chapters and sections following the Definition Article
-# - Only first verb "mean" is considered or word which is ROOT or AUX or VERB
 
 import re
 import os
@@ -70,11 +66,7 @@ class Processor:
             logging.info(f"Year of a regulation is invalid for document number {self.celex}")
             log_buffer.append(f"Year of a regulation is invalid for document number {self.celex}")
             return False
-        
-        # if self.celex[5] != 'R':
-        #     logging.info(f"The legal document is not a Regulation for document number {self.celex}")
-        #     log_buffer.append(f"The legal document is not a Regulation for document number {self.celex}")
-        #     return False
+
 
         # check whether the regulation exists or not
         new_url = 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:' + \
@@ -127,10 +119,6 @@ class Processor:
             return True
         else:
             return False
-        
-        # Relevant for Evaluation
-        # compare_sentences()
-        # compare_definitions_and_relations()
 
 
     def add_annotations_to_the_regulation(self, soup):

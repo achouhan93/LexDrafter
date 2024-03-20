@@ -25,9 +25,9 @@ The CELEX Document Processing System is designed to extract structural informati
 4. **Logging Configuration**: The system uses Python's `logging` module to log the processing status and errors. Configure the log file path in the environment variables or the configuration file.
 
 ### Usage
-To run the document processing system, execute the `main` function in the script. This can be done from the command-line with command-line arguments to specify additional functionalities or processing modes. For example, to initiate the extraction of the logical structure of documents:
+Before execution of the python script, make sure that the database is created and tables are created. Refer to the [`database_documentCorpus_schema.sql`](https://github.com/achouhan93/LexDrafter/blob/main/code/2.%20docStruct_component/tasks/database/database_documentCorpus_schema.sql) script to create the database. Once database is created then run the document processing system by executing the `main` function in the script. This can be done from the command-line with command-line arguments to specify additional functionalities or processing modes. For example, to initiate the extraction of the logical structure of documents:
 ```cmd
-python main_script.py --schemacreation
+python main.py --schemacreation
 ```
 
 ### How It Works

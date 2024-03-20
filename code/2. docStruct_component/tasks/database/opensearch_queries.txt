@@ -1,0 +1,35 @@
+# Query to update the structureProcessedFlag to "N"
+
+POST eur-lex-lexdrafter-energy/_update_by_query
+{
+  "script": {
+    "source": "ctx._source.english.structureProcessedFlag = 'N'",
+    "lang": "painless"
+  },
+  "query": {
+    "bool": {
+      "must": [
+        {
+          "nested": {
+            "path": "english",
+            "query": {
+              "match_phrase": {
+                "english.structureProcessedFlag": "Y"
+              }
+            }
+          }
+        },
+        {
+          "nested": {
+            "path": "english",
+            "query": {
+              "match_phrase": {
+                "english.documentFormat": "HTML"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

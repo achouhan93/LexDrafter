@@ -132,22 +132,6 @@ ON t.doc_id = d.id
 GROUP BY d.celex_id, t.doc_id
 ORDER BY term_count ASC;
 
-SELECT * FROM lexdrafter_energy_definition_term WHERE doc_id = 41
-SELECT * FROM lexdrafter_energy_term_explanation WHERE term_id = 493 and doc_id = 41
-
-SELECT * FROM lexdrafter_energy_term_explanation
-
-SELECT * FROM lexdrafter_energy_document_information where id = 46
-SELECT * FROM lexdrafter_energy_definition_term where doc_id = 46
-
-
-SELECT * FROM lexdrafter_energy_document_information
-
-
-SELECT *
-FROM lexdrafter_energy_document_information
-ORDER BY celex_id ASC;
-
 -- Create a new table for split
 CREATE TABLE lexdrafter_energy_document_split (
     celex_id VARCHAR(255),
