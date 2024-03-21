@@ -85,8 +85,8 @@ if __name__ == '__main__':
 
         bar_plot(result_dataframe, "char_length") 
         histogram_plot(result_dataframe["char_length"],
-                    xlim=(0, 1500), ylim=(0, 300), bins=50, fp="histogram_char_reference.png")             
+                    xlim=(0, 1500), ylim=(0, 200), bins=50, fp="histogram_char_reference.png")             
         
         bar_plot(result_dataframe, "token_length") 
         histogram_plot(result_dataframe["token_length"],
-                    xlim=(0, 200), ylim=(0, 300), bins=50, fp="histogram_token_reference.png")            
+                    xlim=(0, 200), ylim=(0, 200), bins=50, fp="histogram_token_reference.png")            

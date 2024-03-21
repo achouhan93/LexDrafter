@@ -291,7 +291,13 @@ class Processor:
                         if key in terms:
                             value = definition
                             break
-                    explanantion_information = [{"term_id": def_id, "doc_id": document_id, "explanation": value.strip() if len(value.split(" ")) > 3 else ""}]
+                    explanantion_information = [{
+                        "term_id": def_id, 
+                        "doc_id": document_id, 
+                        "explanation": value.strip() if len(value.split(" ")) > 3 else "",
+                        "definition_type": "dynamic" if "as defined in" in value.strip() else "static",
+                        "reference_list": []
+                        }]
                     self.explanation_info.extend(explanantion_information)
 
         # Relation Information

@@ -1,4 +1,4 @@
-## CELEX Document Processing System
+## Building Document Corpus
 
 ### Overview
 The CELEX Document Processing System is designed to extract structural information from CELEX documents stored in an OpenSearch database and subsequently store this information into a PostgreSQL database. This process involves parsing HTML content of documents, extracting logical structures such as titles, recitals, chapters, sections, articles, and annexes, and processing documents in batches for efficiency.
@@ -12,7 +12,7 @@ The CELEX Document Processing System is designed to extract structural informati
 ### Requirements
 - Python 3.x
 - OpenSearch and PostgreSQL databases
-- Python packages: `sqlalchemy`, `beautifulsoup4`, `tqdm`, `regex`, `matplotlib`
+- Python packages: `sqlalchemy`, `beautifulsoup4`, `tqdm`, `regex`, `matplotlib`, `psycopg2`
 
 ### Setup and Configuration
 1. **Environment Configuration**: Store database configurations and other settings in environment variables or a configuration file.
@@ -20,7 +20,7 @@ The CELEX Document Processing System is designed to extract structural informati
 3. **Python Environment**:
     - Install required Python packages:
     ```
-    pip install beautifulsoup4 sqlalchemy tqdm regex matplotlib
+    pip install beautifulsoup4 sqlalchemy tqdm regex matplotlib psycopg2
     ```
 4. **Logging Configuration**: The system uses Python's `logging` module to log the processing status and errors. Configure the log file path in the environment variables or the configuration file.
 

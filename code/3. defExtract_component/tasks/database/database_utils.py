@@ -21,13 +21,9 @@ def check_for_existing_records(connection, celex_information):
         table_name = metadata.tables['lexdrafter_energy_document_information']
 
         # Predefined list of CELEX IDs to exclude from consideration
-        celex_not_consider = []
-        # celex_not_consider = ["32023R1066", "32020R0688", "32019R2035", "32016R0792", "32013R0617"]
+        # celex_not_consider = []
+        celex_not_consider = ["32013R0617"]
         # Reason for not considering
-        # 32023R1066 => As the definition is not one per line but clubbed into numbers
-        # 32020R0688 => Terms are defined with a filler term, i.e., ‘status free from “disease” ', now disease can be anything
-        # 32019R2035 => Relation extraction issue
-        # 32016R0792 => Duplicate sentence for different definition of 17th point
         # 32013R0617 => Too complex definitions and repetative definitions
 
         # Extract list of IDs from celex_information
