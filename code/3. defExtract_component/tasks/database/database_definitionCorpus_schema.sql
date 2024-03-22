@@ -73,7 +73,6 @@ WHERE (a.article_title LIKE '%Definition%' OR a.article_title LIKE '%Definitions
     WHERE a.celex_id = b.celex_id
   );
 
-
 --- Analysis of extracted Definitions:
 SELECT DISTINCT(term_id) FROM lexdrafter_energy_definition_term --- term present
 SELECT * FROM lexdrafter_energy_document_information -- document information
@@ -119,3 +118,39 @@ WHERE explanation LIKE '%according to the definition in%'
    OR explanation LIKE '%based on the definition in%'
    OR explanation LIKE '%referencing the definition in%'
    OR explanation LIKE '%as outlined in%';
+
+-- Count do legal acts with definitions
+SELECT COUNT(*) FROM lexdrafter_energy_progress_table WHERE status LIKE '%definition processed%'
+
+-- Count of definition fragments
+SELECT COUNT(*) FROM lexdrafter_energy_term_explanation
+SELECT DISTINCT(term_id) FROM lexdrafter_energy_term_explanation
+
+-- Count of single or multiple definition fragments
+SELECT
+  COUNT(CASE WHEN doc_count = 1 THEN 1 END) AS single_occurrence_terms,
+  COUNT(CASE WHEN doc_count > 1 THEN 1 END) AS multiple_occurrence_terms
+FROM (
+  SELECT
+    term_id,
+    COUNT(doc_id) AS doc_count
+  FROM lexdrafter_energy_term_explanation
+  GROUP BY term_id
+) AS subquery;
+
+-- Count of legal terms with multiple definitions
+SELECT
+  term_id,
+  COUNT(doc_id) AS doc_count
+FROM lexdrafter_energy_term_explanation
+GROUP BY term_id
+HAVING COUNT(doc_id) > 1
+ORDER BY doc_count DESC;
+
+-- Count of definitions present in one celex document
+SELECT d.celex_id, t.doc_id, COUNT(t.term_id) AS term_count
+FROM lexdrafter_energy_definition_term as t
+JOIN lexdrafter_energy_document_information as d
+ON t.doc_id = d.id
+GROUP BY d.celex_id, t.doc_id
+ORDER BY term_count ASC;

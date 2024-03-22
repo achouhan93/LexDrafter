@@ -1,11 +1,6 @@
-from .utils import get_split_text
 from string import ascii_letters
 import regex as re
 import logging
-import spacy
-
-# Load English language model from SpaCy
-spacy_model = spacy.load('en_core_web_sm')
 
 # Map each ASCII letter to a numerical value
 alph_to_num = dict(zip(ascii_letters,[ord(c)%32 for c in ascii_letters]))
@@ -30,9 +25,8 @@ def process_explanation(explanation):
     Returns:
         list: A list of dictionaries, where each dictionary contains information about a cited legal act.
     """
-    definition_fragments = get_split_text(explanation, spacy_model) # Split explanation into fragments
     intext_citation_list = [] # Initialize list to hold citation information
-
+    definition_fragments = [explanation]
     # Iterate through each fragment to find citations
     for definition in definition_fragments:
         regulation_matches = []
@@ -127,6 +121,13 @@ def intext_citation_relation(text):
 
             # Find all article citations within the text
             article_info = re.findall(article_regex, text)
+
+            if len(article_info) == 0:
+                relation_information = {}
+                relation_information['celex_number'] = celex_number
+                relation_information['article_number'] = -1
+                relation_information['article_fragment_number'] = -1
+                relation_list.append(relation_information)
         else:
             article_info = []
     else:

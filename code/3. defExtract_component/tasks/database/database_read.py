@@ -10,23 +10,52 @@ def opensearch_query():
     # Construct the OpenSearch query dictionary
     record_query = {
                     "_source": "_id",
-                      "sort": [
-                        {
-                        "_id": {
-                            "order": "desc"
-                        }
-                        }
-                    ],
                     "query": {
-                        "nested": {
-                        "path": "english",
-                        "query": {
-                            "term": {
-                            "english.documentProcessedFlag": {
-                                "value": "N"
-                            }
-                            }
-                        }
+                        "bool": {
+                            "must_not": [
+                                {
+                                "nested": {
+                                "path": "english.documentInformation",
+                                "query": {
+                                    "match_phrase": {
+                                    "english.documentInformation.rawDocument": "no raw document present for the eurlex document"
+                                    }
+                                    }
+                                }
+                                },
+                                {
+                                "nested": {
+                                "path": "english.documentInformation",
+                                "query": {
+                                    "match_phrase": {
+                                    "english.documentInformation.documentContent": "Unfortunately this document cannot be displayed due to its size"
+                                    }
+                                    }
+                                }
+                                }
+                            ],
+                            "must": [
+                                {
+                                "nested": {
+                                    "path": "english",
+                                    "query": {
+                                    "match_phrase": {
+                                        "english.documentProcessedFlag": "N"
+                                    }
+                                    }
+                                }
+                                },
+                                {
+                                "nested": {
+                                    "path": "english",
+                                    "query": {
+                                    "match_phrase": {
+                                        "english.documentFormat": "HTML"
+                                    }
+                                    }
+                                }
+                                }
+                            ]
                         }
                     }
                 }

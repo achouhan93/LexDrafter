@@ -1,6 +1,6 @@
 CREATE TABLE lexdrafter_energy_titles (
 	celex_id VARCHAR (20) PRIMARY KEY,
-	title_text VARCHAR (65535) NOT NULL
+	title_text TEXT NOT NULL
 );
 
 CREATE TABLE lexdrafter_energy_recitals(
@@ -8,7 +8,7 @@ CREATE TABLE lexdrafter_energy_recitals(
 	recital_fragment_number INT NOT NULL,
 	recital_fragment_original_value INT NOT NULL,
 	recital_subfragment_number INT NOT NULL,
-	recital_text VARCHAR (65535),
+	recital_text TEXT,
 	PRIMARY KEY (celex_id, recital_fragment_number, recital_subfragment_number),
 	FOREIGN KEY (celex_id)
       REFERENCES lexdrafter_energy_titles (celex_id)
@@ -17,7 +17,7 @@ CREATE TABLE lexdrafter_energy_recitals(
 CREATE TABLE lexdrafter_energy_chapters (
 	celex_id VARCHAR (20) NOT NULL,
 	chapter_number INT NOT NULL,
-	chapter_title VARCHAR (65535),
+	chapter_title TEXT,
 	PRIMARY KEY (celex_id, chapter_number),
 	FOREIGN KEY (celex_id)
       REFERENCES lexdrafter_energy_titles (celex_id)
@@ -28,7 +28,7 @@ CREATE TABLE lexdrafter_energy_sections (
 	celex_id VARCHAR (20) NOT NULL,
 	chapter_number INT NOT NULL,
 	section_number INT NOT NULL,
-	section_title VARCHAR (65535),
+	section_title TEXT,
 	PRIMARY KEY (celex_id, chapter_number, section_number),
 	FOREIGN KEY (celex_id)
       REFERENCES lexdrafter_energy_titles (celex_id)
@@ -40,11 +40,11 @@ CREATE TABLE lexdrafter_energy_articles (
 	chapter_number INT NOT NULL,
 	section_number INT NOT NULL,
 	article_number INT NOT NULL,
-	article_title VARCHAR (65535),
+	article_title TEXT,
 	article_fragment_number INT NOT NULL,
 	article_fragment_original_value INT NOT NULL,
 	article_subfragment_number INT NOT NULL,
-    article_text VARCHAR (65535),
+    article_text TEXT,
 	processed_flag CHAR (1),
 	PRIMARY KEY (celex_id, chapter_number, section_number, article_number, article_fragment_number, article_subfragment_number),
 	FOREIGN KEY (celex_id)
@@ -57,8 +57,8 @@ CREATE TABLE lexdrafter_energy_annexs (
 	annex_number VARCHAR (10) NOT NULL,
 	annex_fragment_number INT NOT NULL,
 	annex_subfragment_number INT NOT NULL,
-	annex_title VARCHAR (65535),
-	annex_text VARCHAR (65535),
+	annex_title TEXT,
+	annex_text TEXT,
 	PRIMARY KEY (celex_id, annex_number, annex_fragment_number, annex_subfragment_number),
 	FOREIGN KEY (celex_id)
       REFERENCES lexdrafter_energy_titles (celex_id)
