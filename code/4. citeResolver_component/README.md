@@ -24,7 +24,7 @@ In dynamic definition fragments, reference is made to another legislative docume
 4. **Logging Configuration**: The system uses Python's `logging` module to log the processing status and errors. Configure the log file path in the environment variables or the configuration file.
 
 ### Usage
-Before execution of the python script, make sure that defExtract component scripts are executed and definition corpus is built. If definition corpus is not yet created refer to the script present at [`code/3. defExtract_component`](https://github.com/achouhan93/LexDrafter/blob/main/code/3.%20defExtract_component). After definition corpus is created execute the `main` script to resolve citations present in the dynamic definitions. This can be done from the command-line with command-line arguments to specify additional functionalities or processing modes. For example, to initiate the extraction of citation information:
+Before execution of the python script, make sure that defExtract component scripts are executed and definition corpus is built. If definition corpus is not yet created refer to the script present at [`code/3. defExtract_component`](https://github.com/achouhan93/LexDrafter/tree/main/code/3.%20defExtract_component). After definition corpus is created execute the `main` script to resolve citations present in the dynamic definitions. This can be done from the command-line with command-line arguments to specify additional functionalities or processing modes. For example, to initiate the extraction of citation information:
 ```cmd
 python main.py --citationresolution
 ```

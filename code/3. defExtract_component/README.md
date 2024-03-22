@@ -37,7 +37,7 @@ Before execution of the python script, make sure that the database is created an
 python main.py --definitionextraction
 ```
 
-After the population of the table with the definition information, to obtain histogram of the distribution of definition word lengths, execute the [`analysis/compute_definition_stats.py`](https://github.com/achouhan93/LexDrafter/blob/main/code/3.%20defExtract_component/analysis/compute_definition_stats) script.
+After the population of the table with the definition information, to obtain histogram of the distribution of definition word lengths, execute the [`analysis/compute_definition_stats.py`](https://github.com/achouhan93/LexDrafter/blob/main/code/3.%20defExtract_component/analysis/compute_definition_stats.py) script.
 
 
 ### How It Works
