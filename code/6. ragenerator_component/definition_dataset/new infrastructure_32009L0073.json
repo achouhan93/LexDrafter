@@ -1,0 +1,57 @@
+{
+  "term": "new infrastructure",
+  "celex_id": "32009L0073",
+  "original_definition": "'new infrastructure' means an infrastructure not completed by 4 August 2003;",
+  "generated_definition": "'new infrastructure' means infrastructure that is newly constructed or significantly expanded, including the capacity to transmit or distribute energy, and the rules and mechanisms for managing and allocating that capacity.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018new infrastructure\u2019 means an infrastructure not completed by 4 August 2003;"
+    ],
+    "Article\u00a014": [
+      "4.   Each independent system operator shall be responsible for granting and managing third-party access, including the collection of access charges and congestion charges, for operating, maintaining and developing the transmission system, as well as for ensuring the long-term ability of the system to meet reasonable demand through investment planning. When developing the transmission system the independent system operator shall be responsible for planning (including authorisation procedure), construction and commissioning of the new infrastructure. For this purpose, the independent system operator shall act as a transmission system operator in accordance with this Chapter. The transmission system owner shall not be responsible for granting and managing third-party access, nor for investment planning.",
+      "4.   Each independentsystemoperator shall be responsible for granting and managing third-party access, including the collection of access charges and congestion charges, for operating, maintaining and developing thetransmissionsystem, as well as for ensuring the long-term ability of the system to meet reasonable demand through investment planning. When developing the transmission system the independent system operator shall be responsible for planning (including authorisation procedure), construction and commissioning of thenew infrastructure. For this purpose, the independent system operator shall act as atransmission system operator in accordance with this Chapter. The transmission system owner shall not be responsible for granting and managing third-party access, nor for investment planning."
+    ],
+    "Article\u00a036": [
+      "6.   An exemption may cover all or part of the capacity of the new infrastructure, or of the existing infrastructure with significantly increased capacity.",
+      "New infrastructure",
+      "Before granting an exemption, the regulatory authority shall decide upon the rules and mechanisms for management and allocation of capacity. The rules shall require that all potential users of the infrastructure are invited to indicate their interest in contracting capacity before capacity allocation in the new infrastructure, including for own use, takes place. The regulatory authority shall require congestion management rules to include the obligation to offer unused capacity on the market, and shall require users of the infrastructure to be entitled to trade their contracted capacities on the secondary market. In its assessment of the criteria referred to in points (a), (b) and (e) of paragraph 1, the regulatory authority shall take into account the results of that capacity allocation procedure."
+    ],
+    "Not Article": [
+      "Investments in majornew infrastructureshould be strongly promoted while ensuring the proper functioning of the internal market in natural gas. In order to enhance the positive effect of exempted infrastructure projects on competition andsecurityofsupply, market interest during the project planning phase should be tested and congestion management rules should be implemented. Where an infrastructure is located in the territory of more than one Member State, the Agency for the Cooperation of Energy Regulators established by Regulation (EC) No 713/2009 of the European Parliament and of the Council of 13 July 2009 establishing an Agency for the Cooperation of Energy Regulators (7) (the \u2018Agency\u2019) should handle as a last resort the exemption request in order to take better account of its cross-border implications and to facilitate its administrative handling. Moreover, given the exceptional risk profile of constructing those exempt major infrastructure projects, it should be possible temporarily to grant partial derogations to undertakings with supply and production interests in respect of the unbundling rules for the projects concerned. The possibility of temporary derogations should apply, for security of supply reasons, in particular, to new pipelines within the Community transporting gas from third countries into the Community. Exemptions granted under Directive 2003/55/EC continue to apply until the scheduled expiry date as decided in the granted exemption decision.",
+      "Investments in major new infrastructure should be strongly promoted while ensuring the proper functioning of the internal market in natural gas. In order to enhance the positive effect of exempted infrastructure projects on competition and security of supply, market interest during the project planning phase should be tested and congestion management rules should be implemented. Where an infrastructure is located in the territory of more than one Member State, the Agency for the Cooperation of Energy Regulators established by Regulation (EC) No 713/2009 of the European Parliament and of the Council of 13 July 2009 establishing an Agency for the Cooperation of Energy Regulators (7) (the \u2018Agency\u2019) should handle as a last resort the exemption request in order to take better account of its cross-border implications and to facilitate its administrative handling. Moreover, given the exceptional risk profile of constructing those exempt major infrastructure projects, it should be possible temporarily to grant partial derogations to undertakings with supply and production interests in respect of the unbundling rules for the projects concerned. The possibility of temporary derogations should apply, for security of supply reasons, in particular, to new pipelines within the Community transporting gas from third countries into the Community. Exemptions granted under Directive 2003/55/EC continue to apply until the scheduled expiry date as decided in the granted exemption decision."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article\u00a014": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article\u00a036": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

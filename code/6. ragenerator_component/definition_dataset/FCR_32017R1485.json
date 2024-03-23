@@ -1,0 +1,691 @@
+{
+  "term": "FCR",
+  "celex_id": "32017R1485",
+  "original_definition": "'FCR' means the active power reserves available to contain system frequency after the occurrence of an imbalance;",
+  "generated_definition": "'FCR' means for the ce and nordic synchronous areas, each fcr provider shall ensure that the fcr from its fcr providing units or groups with limited energy reservoirs are continuously available during normal state. for the ce and nordic synchronous areas, as of triggering the alert state and during the alert state, each fcr provider shall ensure that its fcr providing units or groups with limited energy reservoirs are able to fully activate fcr continuously for a time period to be defined pursuant to paragraphs 10 and 11. where no period has been determined pursuant to paragraphs 10 and 11, each fcr provider shall ensure that its fcr providing units or groups with limited energy reservoirs are able to fully activate fcr continuously for at least 15 minutes or, in case of frequency deviations that are smaller than a frequency deviation requiring full fcr activation, for an equivalent length of time, or for a period defined by each tso, which shall not be greater than 30 or smaller than 15 minutes.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018reference incident\u2019 means the maximum positive or negative power deviation occurring instantaneously between generation and demand in a synchronous area, considered in theFCR dimensioning;",
+      "\u2018reference incident\u2019 means the maximum positive or negative power deviation occurring instantaneously between generation and demand in a synchronous area, considered in the FCR dimensioning;",
+      "\u2018reserve capacity\u2019 means the amount ofFCR,FRR or RR that needs to be available to the TSO;",
+      "\u2018reserve provider\u2019 means a legal entity with a legal or contractual obligation to supplyFCR,FRRor RR from at least onereserve providing unitorreserve providing group;",
+      "\u2018frequency containment reserves\u2019 or \u2018FCR\u2019 means the active power reserves available to contain system frequency after the occurrence of an imbalance;",
+      "\u2018frequency coupling process\u2019 means a process agreed between all TSOs of two synchronous areas that allows linking the activation of FCR by an adaptation of HVDC flows between the synchronous areas;",
+      "\u2018reserve replacement process\u2019 or \u2018RRP\u2019 means a process to restore the activatedFRRand, additionally for GB and IE/NI, to restore the activatedFCR;",
+      "\u2018reserve providing group\u2019 means an aggregation of power generating modules, demand units and/orreserve providing units connected to more than one connection point fulfilling the requirements to provideFCR,FRR or RR;",
+      "\u2018reserve providing unit\u2019 means a single or an aggregation of power generating modules and/or demand units connected to a common connection point fulfilling the requirements to provide FCR, FRR or RR;",
+      "\u2018frequency containment reserves\u2019 or \u2018FCR\u2019 means theactive power reserves available to containsystem frequency after the occurrence of an imbalance;",
+      "\u2018sharing of reserves\u2019 means a mechanism in which more than one TSO takes the same reserve capacity, being FCR, FRR or RR, into account to fulfil their respective reserve requirements resulting from their reserve dimensioning processes;",
+      "\u2018reserve providing group\u2019 means an aggregation of power generating modules, demand units and/or reserve providing units connected to more than one connection point fulfilling the requirements to provide FCR, FRR or RR;",
+      "\u2018exchange of reserves\u2019 means the possibility of a TSO to access reserve capacity connected to another LFC area, LFC block, or synchronous area to fulfil its reserve requirements resulting from its own reserve dimensioning process of either FCR, FRR or RR and where that reserve capacity is exclusively for that TSO, and is not taken into account by any other TSO to fulfil its reserve requirements resulting from their respective reserve dimensioning processes;",
+      "\u2018reserve provider\u2019 means a legal entity with a legal or contractual obligation to supply FCR, FRR or RR from at least one reserve providing unit or reserve providing group;",
+      "\u2018frequency quality target parameter\u2019 means the main system frequency target on which the behaviour of FCR, FRR and RR activation processes is evaluated in normal state;",
+      "\u2018frequency quality target parameter\u2019 means the mainsystem frequencytarget on which the behaviour ofFCR,FRRand RR activation processes is evaluated innormal state;",
+      "\u2018reserve providing unit\u2019 means a single or an aggregation of power generating modules and/or demand units connected to a common connection point fulfilling the requirements to provideFCR,FRR or RR;",
+      "\u2018sharing of reserves\u2019 means a mechanism in which more than one TSO takes the samereserve capacity, beingFCR,FRR or RR, into account to fulfil their respective reserve requirements resulting from their reserve dimensioning processes;",
+      "\u2018exchange of reserves\u2019 means the possibility of a TSO to accessreserve capacityconnected to anotherLFC area,LFC block, or synchronous area to fulfil its reserve requirements resulting from its own reserve dimensioning process of eitherFCR,FRR or RR and where that reserve capacity is exclusively for that TSO, and is not taken into account by any other TSO to fulfil its reserve requirements resulting from their respective reserve dimensioning processes;",
+      "\u2018frequency coupling process\u2019 means a process agreed between all TSOs of two synchronous areas that allows linking the activation ofFCR by an adaptation of HVDC flows between the synchronous areas;",
+      "\u2018reserve replacement process\u2019 or \u2018RRP\u2019 means a process to restore the activated FRR and, additionally for GB and IE/NI, to restore the activated FCR;",
+      "\u2018reserve capacity\u2019 means the amount of FCR, FRR or RR that needs to be available to the TSO;"
+    ],
+    "Article 6": [
+      "for synchronous areas other than CE and if applicable, the limits for the exchange of FCR between TSOs in accordance with Article 163(2);",
+      "for the GB and IE/NI synchronous areas, the methodology to determine the minimum provision of reserve capacity on FCR between synchronous areas, defined in accordance with Article 174(2)(b);",
+      "for the CE and Nordic synchronous areas, the proposal concerning the interim minimum activation period to be ensured by FCR providers as proposed by the TSO in accordance with Article 156(9);",
+      "exclusion of FCR providing groups from the provision of FCR in accordance with Article 154(4);",
+      "for the CE and Nordic synchronous areas, the minimum activation period to be ensured by FCR providers in accordance with Article 156(10);",
+      "the additional properties of the FCR in accordance with Article 154(2);",
+      "the dimensioning rules for FCR in accordance with Article 153;",
+      "additional requirements for FCR providing groups in accordance with Article 154(3);",
+      "for the GB and IE/NI synchronous areas, the methodology to determine the minimum provision ofreserve capacityonFCR between synchronous areas, defined in accordance with Article 174(2)(b);"
+    ],
+    "Article 8": [
+      "request of thereserve connecting TSOto anFCR provider to make the information available in real time in accordance with Article 154(11).",
+      "request of the reserve connecting TSO to an FCR provider to make the information available in real time in accordance with Article 154(11)."
+    ],
+    "Article 45": [
+      "FCR data of power generating modules offering or providing that service, in accordance with Article 154;",
+      "FCR data according to the definition and requirements of the Article 173 for power generating modules offering or providing that service;"
+    ],
+    "Article 48": [
+      "FCR data according to the definition and requirements of Article 173 for power generating facilities offering or providing the FCR service;"
+    ],
+    "Article 118": [
+      "additional properties of FCR in accordance with Article 154(2);",
+      "for the GB and IE/NI synchronous areas, the methodology to determine the minimum provision of reserve capacity on FCR in accordance with Article 174(2)(b);",
+      "the methodology to assess the risk and the evolution of the risk of exhaustion of FCR of the synchronous area in accordance with Article 131(2);",
+      "operational procedures in case of exhausted FCR in accordance with Article 152(7);",
+      "for the CE and Nordic synchronous areas, the minimum activation period to be ensured by FCR providers in accordance with Article 156(10);",
+      "if applicable, for synchronous areas other than CE, limits for the exchange of FCR between the TSOs in accordance with Article 163(2);",
+      "the dimensioning rules for FCR in accordance with Article 153;",
+      "the methodology to determine limits on the amount of sharing of FCR between synchronous areas defined in accordance with Article 174(2);",
+      "for the GB and IE/NI synchronous areas, the methodology to determine the minimum provision ofreserve capacityonFCR in accordance with Article 174(2)(b);"
+    ],
+    "Article 119": [
+      "if applicable, any limits on the exchange of FCR between the LFC areas of the different LFC blocks within the CE synchronous area and the exchange of FRR or RR between the LFC areas of an LFC block of a synchronous area consisting of more than one LFC block defined in accordance with Article 163(2), Article 167 and Article 169(2);",
+      "if applicable, any limits on the exchange ofFCRbetween theLFC areas of the differentLFC blocks within the CE synchronous area and the exchange ofFRR or RR between the LFC areas of an LFC block of a synchronous area consisting of more than one LFC block defined in accordance with Article 163(2), Article 167 and Article 169(2);"
+    ],
+    "Article 125": [
+      "All TSOs participating in the same sharing process ofFCR,FRR or RR shall establish a sharing agreement that shall include at least:",
+      "All TSOs participating in the same sharing process of FCR, FRR or RR shall establish a sharing agreement that shall include at least:"
+    ],
+    "Article 126": [
+      "All TSOs participating in the same exchange ofFCR,FRR or RR shall establish an exchange agreement that shall include at least:",
+      "All TSOs participating in the same exchange of FCR, FRR or RR shall establish an exchange agreement that shall include at least:"
+    ],
+    "Article 131": [
+      "the TSOs of theLFC areas constituting aLFC blockshall have the right to specify in theLFC block operational agreementinternal limits for the exchange ofFCR between the LFC areas of the same LFC block in order to:",
+      "ensure an even distribution of reserve capacity on FCR for the case of network splitting; and",
+      "100 MW ofreserve capacityonFCR.",
+      "Maximum combined effect of inherent frequency response insensitivity and possible intentional frequency response dead band of the governor of the FCR providing units or FCR providing groups.",
+      "ensure an even distribution of FCR in case of network splitting; and",
+      "100 MW of reserve capacity on FCR.",
+      "2.   All TSOs of each synchronous area shall specify in the synchronous area operational agreement a common methodology to assess the risk and the evolution of the risk of exhaustion of FCR in the synchronous area. That methodology shall be performed at least annually and shall be based at least on historical instantaneous system frequency data for not less than 1 year. All TSOs of each synchronous area shall provide the required input data for this assessment.",
+      "Limits for the exchange of FCR",
+      "Limits and requirements for the exchange of FCR referred to in Article 163:",
+      "the amount of reserve capacity on FCR, physically located in an LFC block as a result of the exchange of FCR with other LFC blocks, shall be limited to the maximum of:",
+      "FCR technical minimum requirements referred to in Article 154:",
+      "The TSOs of the synchronous area shall have the right to specify in the synchronous area operational agreement limits for the exchange of FCR in order to:",
+      "Limits and requirements for the exchange of FCR",
+      "Dynamic FCR \u00b1 500 mHz",
+      "ensure an even distribution ofreserve capacityonFCR for the case of network splitting; and",
+      "2.   All TSOs of each synchronous area shall specify in the synchronous area operational agreement a common methodology to assess the risk and the evolution of the risk of exhaustion ofFCRin the synchronous area. That methodology shall be performed at least annually and shall be based at least on historical instantaneoussystem frequency data for not less than 1 year. All TSOs of each synchronous area shall provide the required input data for this assessment.",
+      "the amount ofreserve capacityonFCR, physically located in anLFC block as a result of the exchange of FCR with other LFC blocks, shall be limited to the maximum of:",
+      "avoid internal congestions in case of the activation of FCR;",
+      "the TSOs of the LFC areas constituting a LFC block shall have the right to specify in the LFC block operational agreement internal limits for the exchange of FCR between the LFC areas of the same LFC block in order to:",
+      "Exchange of FCR allowed between:",
+      "FCR properties in the different synchronous areas",
+      "Static FCR \u00b1 1 000  mHz"
+    ],
+    "Article 141": [
+      "comply with FCR dimensioning rules in accordance with Article 153; and"
+    ],
+    "Article 142": [
+      "2.   The overall characteristic forFCRactivation in a synchronous area shall reflect a monotonic decrease of the FCR activation as a function of thefrequency deviation.",
+      "1.   The control target of FCP shall be the stabilization of the system frequency by activation of FCR.",
+      "1.   The control target ofFCPshall be the stabilization of thesystem frequencyby activation ofFCR.",
+      "2.   The overall characteristic for FCR activation in a synchronous area shall reflect a monotonic decrease of the FCR activation as a function of the frequency deviation."
+    ],
+    "Article 143": [
+      "for the CE and Nordic synchronous areas, to progressively replace the activatedFCRby activation ofFRR in accordance with Article 145.",
+      "for the CE and Nordic synchronous areas, to progressively replace the activated FCR by activation of FRR in accordance with Article 145."
+    ],
+    "Article 144": [
+      "for the GB and IE/NI synchronous areas, to progressively restore the activatedFCRandFRR.",
+      "for the GB and IE/NI synchronous areas, to progressively restore the activated FCR and FRR."
+    ],
+    "Article 152": [
+      "7.   All TSOs of the GB and IE/NI synchronous areas shall specify in the synchronous area operational agreement operational procedures for case of exhausted FCR. In those operational procedures the TSOs of a synchronous area shall have the right to require changes in the active power production or consumption of power generating modules and demand units."
+    ],
+    "Article 153": [
+      "the reserve capacity for FCR required for the synchronous area shall cover at least the reference incident and, for the CE and Nordic synchronous areas, the results of the probabilistic dimensioning approach for FCR carried out pursuant to point (c);",
+      "1.   All TSOs of each synchronous area shall determine, at least annually, thereserve capacityforFCRrequired for the synchronous area and theinitial FCR obligation of each TSO in accordance with paragraph 2.",
+      "1.   All TSOs of each synchronous area shall determine, at least annually, the reserve capacity for FCR required for the synchronous area and the initial FCR obligation of each TSO in accordance with paragraph 2.",
+      "the shares of thereserve capacityonFCRrequired for each TSO asinitial FCR obligation shall be based on the sum of the net generation and consumption of its control area divided by the sum of net generation and consumption of the synchronous area over a period of 1 year.",
+      "thereserve capacityforFCRrequired for the synchronous area shall cover at least thereference incident and, for the CE and Nordic synchronous areas, the results of the probabilistic dimensioning approach for FCR carried out pursuant to point (c);",
+      "for the CE and Nordic synchronous areas, all TSOs of the synchronous area shall have the right to define a probabilistic dimensioning approach for FCR taking into account the pattern of load, generation and inertia, including synthetic inertia as well as the available means to deploy minimum inertia in real-time in accordance with the methodology referred to in Article 39, with the aim of reducing the probability of insufficient FCR to below or equal to once in 20 years; and",
+      "FCR dimensioning",
+      "the shares of the reserve capacity on FCR required for each TSO as initial FCR obligation shall be based on the sum of the net generation and consumption of its control area divided by the sum of net generation and consumption of the synchronous area over a period of 1 year."
+    ],
+    "Article 154": [
+      "in case of afrequency deviationequal to or larger than 200 mHz, 100 % of the fullFCR capacity shall be delivered at the latest after 30 seconds;",
+      "10.   At the request of thereserve connecting TSO, theFCR provider shall make the information listed in paragraph 9 available in real-time, with a time resolution of at least 10 seconds.",
+      "7.   Each TSO of the CE synchronous area shall ensure that the combined reaction of FCR of a LFC area comply with the following requirements:",
+      "in case of a frequency deviation equal to or larger than 200 mHz, the activation of the full FCR capacity shall rise at least linearly from 15 to 30 seconds; and",
+      "in case of a frequency deviation equal to or larger than 200 mHz, at least 50 % of the full FCR capacity shall be delivered at the latest after 15 seconds;",
+      "in case of a frequency deviation smaller than 200 mHz the related activated FCR capacity shall be at least proportional with the same time behaviour referred to in points (a) to (d).",
+      "8.   Each reserve connecting TSO shall monitor its contribution to the FCP and its FCR activation with respect to its FCR obligation, including FCR providing units and FCR providing groups. Each FCR provider shall make available to the reserve connecting TSO, for each of its FCR providing units and FCR providing groups, at least the following information:",
+      "11.   At the request of the reserve connecting TSO and where necessary for the verification of the activation of FCR, a FCR provider shall make available the data listed in paragraph 9 concerning technical installations that are part of the same FCR providing unit.",
+      "in case of afrequency deviationequal to or larger than 200 mHz, the activation of the fullFCR capacity shall rise at least linearly from 15 to 30 seconds; and",
+      "1.   Each reserve connecting TSO shall ensure that the FCR fulfils the properties listed for its synchronous area in the Table of Annex V.",
+      "6.   EachFCRproviding unit and each FCR providing group shall comply with the properties required for FCR in the Table of Annex V and with any additional properties or requirements specified in accordance with paragraphs 2 and 3 and activate the agreed FCR by means of a proportional governor reacting tofrequency deviations or alternatively based on a monotonic piecewise linear power-frequency characteristic in case of relay activated FCR. They shall be capable of activating FCR within the frequency ranges specified in Article 13(1) of Regulation (EU) 2016/631.",
+      "9.   Each FCR provider shall have the right to aggregate the respective data for more than one FCR providing unit if the maximum power of the aggregated units is below 1,5 MW and a clear verification of activation of FCR is possible.",
+      "3.   Thereserve connecting TSOshall have the right to set out additional requirements forFCRproviding groups within the ranges in Article 15(2)(d) of Regulation (EU) 2016/631 and Articles 27 and 28 of Regulation (EU) 2016/1388 in order to ensureoperational security. Those additional requirements shall be based on technical reasons such as the geographical distribution of the power generating modules or demand units belonging to an FCR providing group. The FCR provider shall ensure that the monitoring of the FCR activation of the FCR providing units within areserve providing group is possible.",
+      "10.   At the request of the reserve connecting TSO, the FCR provider shall make the information listed in paragraph 9 available in real-time, with a time resolution of at least 10 seconds.",
+      "droop of the governor for type C and type D power generating modules as defined in Article 5 of Regulation (EU) 2016/631 acting as FCR providing units, or its equivalent parameter for FCR providing groups consisting of type A and/or type B power generating modules as defined in Article 5 of Regulation (EU) 2016/631, and/or demand units with demand response active power control as defined in Article 28 of Regulation (EU) 2016/1388.",
+      "in case of a frequency deviation equal to or larger than 200 mHz, 100 % of the full FCR capacity shall be delivered at the latest after 30 seconds;",
+      "5.   EachFCRproviding unit and each FCR providing group shall have only onereserve connecting TSO.",
+      "2.   All TSOs of a synchronous area shall have the right to specify, in the synchronous area operational agreement, common additional properties of the FCR required to ensure operational security in the synchronous area, by means of a set of technical parameters and within the ranges in Article 15(2)(d) of Regulation (EU) 2016/631 and Articles 27 and 28 of Regulation (EU) 2016/1388. Those common additional properties of FCR shall take into account the installed capacity, structure and pattern of consumption and generation of the synchronous area. The TSOs shall apply a transitional period for the introduction of additional properties, defined in consultation with the affected FCR providers.",
+      "2.   All TSOs of a synchronous area shall have the right to specify, in the synchronous area operational agreement, common additional properties of theFCRrequired to ensureoperational security in the synchronous area, by means of a set of technical parameters and within the ranges in Article 15(2)(d) of Regulation (EU) 2016/631 and Articles 27 and 28 of Regulation (EU) 2016/1388. Those common additional properties of FCR shall take into account the installed capacity, structure and pattern of consumption and generation of the synchronous area. The TSOs shall apply a transitional period for the introduction of additional properties, defined in consultation with the affected FCR providers.",
+      "1.   Eachreserve connecting TSOshall ensure that theFCR fulfils the properties listed for its synchronous area in the Table of Annex V.",
+      "the activation of FCR shall not be artificially delayed and begin as soon as possible after a frequency deviation;",
+      "5.   Each FCR providing unit and each FCR providing group shall have only one reserve connecting TSO.",
+      "6.   Each FCR providing unit and each FCR providing group shall comply with the properties required for FCR in the Table of Annex V and with any additional properties or requirements specified in accordance with paragraphs 2 and 3 and activate the agreed FCR by means of a proportional governor reacting to frequency deviations or alternatively based on a monotonic piecewise linear power-frequency characteristic in case of relay activated FCR. They shall be capable of activating FCR within the frequency ranges specified in Article 13(1) of Regulation (EU) 2016/631.",
+      "7.   Each TSO of the CE synchronous area shall ensure that the combined reaction ofFCRof aLFC area comply with the following requirements:",
+      "3.   The reserve connecting TSO shall have the right to set out additional requirements for FCR providing groups within the ranges in Article 15(2)(d) of Regulation (EU) 2016/631 and Articles 27 and 28 of Regulation (EU) 2016/1388 in order to ensure operational security. Those additional requirements shall be based on technical reasons such as the geographical distribution of the power generating modules or demand units belonging to an FCR providing group. The FCR provider shall ensure that the monitoring of the FCR activation of the FCR providing units within a reserve providing group is possible.",
+      "the activation ofFCRshall not be artificially delayed and begin as soon as possible after afrequency deviation;",
+      "time-stamped status indicating if FCR is on or off;",
+      "8.   Eachreserve connecting TSOshall monitor its contribution to theFCPand itsFCRactivation with respect to itsFCR obligation, including FCR providing units and FCR providing groups. Each FCR provider shall make available to the reserve connecting TSO, for each of its FCR providing units and FCR providing groups, at least the following information:",
+      "4.   Thereserve connecting TSOshall have the right to excludeFCRproviding groups from the provision of FCR in order to ensureoperational security. This exclusion shall be based on technical reasons such as the geographical distribution of the power generating modules or demand units belonging to an FCR providing group.",
+      "in case of afrequency deviationsmaller than 200 mHz the related activatedFCR capacity shall be at least proportional with the same time behaviour referred to in points (a) to (d).",
+      "11.   At the request of thereserve connecting TSOand where necessary for the verification of the activation ofFCR, a FCR provider shall make available the data listed in paragraph 9 concerning technical installations that are part of the same FCR providing unit.",
+      "time-stamped active power data needed to verify FCR activation, including time-stamped instantaneous active power;",
+      "4.   The reserve connecting TSO shall have the right to exclude FCR providing groups from the provision of FCR in order to ensure operational security. This exclusion shall be based on technical reasons such as the geographical distribution of the power generating modules or demand units belonging to an FCR providing group.",
+      "in case of afrequency deviationequal to or larger than 200 mHz, at least 50 % of the fullFCR capacity shall be delivered at the latest after 15 seconds;",
+      "FCR technical minimum requirements"
+    ],
+    "Article 155": [
+      "1.   By 12 months after entry into force of this regulation, each TSO shall develop an FCR prequalification process and shall make publicly available the details of the FCR prequalification process.",
+      "4.   Within 3 months from confirmation that the application is complete, the reserve connecting TSO shall evaluate the information provided and decide whether the potential FCR providing units or FCR providing groups meet the criteria for an FCR prequalification. The reserve connecting TSO shall notify its decision to the potential FCR provider.",
+      "FCR prequalification process",
+      "2.   A potential FCR provider shall demonstrate to the reserve connecting TSO that it complies with the technical and the additional requirements set out in Article 154 by completing successfully the prequalification process of potential FCR providing units or FCR providing groups, described in paragraphs 3 to 6 of this Article.",
+      "2.   A potentialFCRprovider shall demonstrate to thereserve connecting TSOthat it complies with the technical and the additional requirements set out in Article 154 by completing successfully theprequalification process of potential FCR providing units or FCR providing groups, described in paragraphs 3 to 6 of this Article.",
+      "6.   The qualification of FCR providing units or FCR providing groups shall be re-assessed:",
+      "in case of modernisation of the equipment related to FCR activation.",
+      "1.   By 12 months after entry into force of this regulation, each TSO shall develop anFCRprequalification process and shall make publicly available the details of the FCR prequalification process.",
+      "4.   Within 3 months from confirmation that the application is complete, thereserve connecting TSOshall evaluate the information provided and decide whether the potentialFCRproviding units or FCR providing groups meet the criteria for an FCRprequalification. The reserve connecting TSO shall notify its decision to the potential FCR provider.",
+      "3.   A potential FCR provider shall submit a formal application to the reserve connecting TSO together with the required information of potential FCR providing units or FCR providing groups. Within 8 weeks from receipt of the application, the reserve connecting TSO shall confirm whether the application is complete. Where the reserve connecting TSO considers that the application is incomplete, the potential FCR provider shall submit the additional required information within 4 weeks from receipt of the request for additional information. Where the potential FCR provider does not supply the requested information within that deadline, the application shall be deemed withdrawn.",
+      "3.   A potentialFCRprovider shall submit a formal application to thereserve connecting TSO together with the required information of potential FCR providing units or FCR providing groups. Within 8 weeks from receipt of the application, the reserve connecting TSO shall confirm whether the application is complete. Where the reserve connecting TSO considers that the application is incomplete, the potential FCR provider shall submit the additional required information within 4 weeks from receipt of the request for additional information. Where the potential FCR provider does not supply the requested information within that deadline, the application shall be deemed withdrawn.",
+      "FCRprequalification process"
+    ],
+    "Article 156": [
+      "excluding the FCR provided by the unit defining the reference incident of the synchronous area from the dimensioning process for GB, IE/NI and Nordic synchronous areas; and",
+      "limiting the share of theFCRprovided per FCR providing unit to 5 % of thereserve capacity of FCR required for each of the whole CE and Nordic synchronous areas;",
+      "12.   The FCR provider shall specify the limitations of the energy reservoir of its FCR providing units or FCR providing groups in the prequalification process in accordance with Article 155.",
+      "5.   Each FCR provider shall inform its reserve connecting TSO, as soon as possible, about any changes in the actual availability of its FCR providing unit and/or its FCR providing group, in whole or in part, relevant for the results of prequalification.",
+      "9.   For the CE and Nordic synchronous areas, eachFCRprovider shall ensure that the FCR from its FCR providing units or groups with limited energy reservoirs are continuously available duringnormal state. For the CE and Nordic synchronous areas, as of triggering thealert stateand during the alert state, each FCR provider shall ensure that its FCR providing units or groups with limited energy reservoirs are able to fully activate FCR continuously for a time period to be defined pursuant to paragraphs 10 and 11. Where no period has been determined pursuant to paragraphs 10 and 11, each FCR provider shall ensure that its FCR providing units or groups with limited energy reservoirs are able to fully activate FCR continuously for at least 15 minutes or, in case offrequency deviations that are smaller than a frequency deviation requiring full FCR activation, for an equivalent length of time, or for a period defined by each TSO, which shall not be greater than 30 or smaller than 15 minutes.",
+      "11.   By 6 months after entry into force of this regulation, the TSOs of the CE and Nordic synchronous areas shall propose assumptions and methodology for a cost-benefit analysis to be conducted, in order to assess the time period required forFCRproviding units or groups with limited energy reservoirs to remain available duringalert state. By 12 months after approval of the assumptions and methodology by all regulatory authorities of the concerned region, the TSOs of the CE and Nordic synchronous areas shall submit the results of their cost-benefit analysis to the concerned regulatory authorities, suggesting a time period which shall not be greater than 30 or smaller than 15 minutes. The cost-benefit analysis shall take into account at least:",
+      "excluding theFCRprovided by the unit defining thereference incident of the synchronous area from the dimensioning process for GB, IE/NI and Nordic synchronous areas; and",
+      "FCR provision",
+      "11.   By 6 months after entry into force of this regulation, the TSOs of the CE and Nordic synchronous areas shall propose assumptions and methodology for a cost-benefit analysis to be conducted, in order to assess the time period required for FCR providing units or groups with limited energy reservoirs to remain available during alert state. By 12 months after approval of the assumptions and methodology by all regulatory authorities of the concerned region, the TSOs of the CE and Nordic synchronous areas shall submit the results of their cost-benefit analysis to the concerned regulatory authorities, suggesting a time period which shall not be greater than 30 or smaller than 15 minutes. The cost-benefit analysis shall take into account at least:",
+      "7.   An FCR providing unit or FCR providing group with an energy reservoir that does not limit its capability to provide FCR shall activate its FCR for as long as the frequency deviation persists. For the GB and IE/NI synchronous areas, a FCR providing unit or FCR providing group with an energy reservoir that does not limit its capability to provide FCR shall activate its FCR until it activates its FRR or for the period specified in the synchronous area operational agreement.",
+      "9.   For the CE and Nordic synchronous areas, each FCR provider shall ensure that the FCR from its FCR providing units or groups with limited energy reservoirs are continuously available during normal state. For the CE and Nordic synchronous areas, as of triggering the alert state and during the alert state, each FCR provider shall ensure that its FCR providing units or groups with limited energy reservoirs are able to fully activate FCR continuously for a time period to be defined pursuant to paragraphs 10 and 11. Where no period has been determined pursuant to paragraphs 10 and 11, each FCR provider shall ensure that its FCR providing units or groups with limited energy reservoirs are able to fully activate FCR continuously for at least 15 minutes or, in case of frequency deviations that are smaller than a frequency deviation requiring full FCR activation, for an equivalent length of time, or for a period defined by each TSO, which shall not be greater than 30 or smaller than 15 minutes.",
+      "limiting the share of the FCR provided per FCR providing unit to 5 % of the reserve capacity of FCR required for each of the whole CE and Nordic synchronous areas;",
+      "7.   AnFCRproviding unit or FCR providing group with an energy reservoir that does not limit its capability to provide FCR shall activate its FCR for as long as thefrequency deviationpersists. For the GB and IE/NI synchronous areas, a FCR providing unit or FCR providing group with an energy reservoir that does not limit its capability to provide FCR shall activate its FCR until it activates itsFRR or for the period specified in the synchronous area operational agreement.",
+      "8.   AFCRproviding unit or FCR providing group with an energy reservoir that limits its capability to provide FCR shall activate its FCR for as long as thefrequency deviationpersists, unless its energy reservoir is exhausted in either the positive or negative direction. For the GB and IE/NI synchronous areas, a FCR providing unit or FCR providing group with an energy reservoir that limits its capability to provide FCR shall activate its FCR until it activates itsFRR or for the period specified in the synchronous area operational agreement.",
+      "for the CE and Nordic synchronous areas, theFCRprovider shall ensure the recovery of the energy reservoirs as soon as possible, within 2 hours after the end of thealert state.",
+      "5.   EachFCRprovider shall inform itsreserve connecting TSO, as soon as possible, about any changes in the actual availability of its FCR providing unit and/or its FCR providing group, in whole or in part, relevant for the results ofprequalification.",
+      "the impact on system stability risks and total cost of FCR in case of increasing total volume of FCR;",
+      "8.   A FCR providing unit or FCR providing group with an energy reservoir that limits its capability to provide FCR shall activate its FCR for as long as the frequency deviation persists, unless its energy reservoir is exhausted in either the positive or negative direction. For the GB and IE/NI synchronous areas, a FCR providing unit or FCR providing group with an energy reservoir that limits its capability to provide FCR shall activate its FCR until it activates its FRR or for the period specified in the synchronous area operational agreement.",
+      "the impact of technological developments on costs of availability periods for FCR from its FCR providing units or groups with limited energy reservoirs.",
+      "replacing theFCRwhich is made unavailable due to aforced outageor the unavailability of an FCR providing unit or FCR providing group as soon as technically possible and in accordance with the conditions that shall be defined by thereserve connecting TSO.",
+      "for the CE and Nordic synchronous areas, the FCR provider shall ensure the recovery of the energy reservoirs as soon as possible, within 2 hours after the end of the alert state.",
+      "4.   AnFCRprovider shall guarantee the continuous availability of FCR, with the exception of aforced outage of a FCR providing unit, during the period of time in which it is obliged to provide FCR.",
+      "4.   An FCR provider shall guarantee the continuous availability of FCR, with the exception of a forced outage of a FCR providing unit, during the period of time in which it is obliged to provide FCR.",
+      "6.   Each TSO shall ensure, or shall require its FCR providers to ensure that the loss of a FCR providing unit does not endanger the operational security by:",
+      "6.   Each TSO shall ensure, or shall require itsFCRproviders to ensure that the loss of a FCR providing unit does not endanger theoperational security by:",
+      "12.   TheFCRprovider shall specify the limitations of the energy reservoir of its FCR providing units or FCR providing groups in theprequalification process in accordance with Article 155.",
+      "the reserve capacity on FCR divided by the maximum steady-state frequency deviation;",
+      "the impact of a defined time period on the total cost of FCR reserves in the synchronous area;",
+      "exchange of FCR.",
+      "for the GB and IE/NI synchronous areas, the FCR provider shall use the methods specified in the synchronous area operational agreement;",
+      "replacing the FCR which is made unavailable due to a forced outage or the unavailability of an FCR providing unit or FCR providing group as soon as technically possible and in accordance with the conditions that shall be defined by the reserve connecting TSO.",
+      "13.   A FCR provider using FCR providing units or FCR providing group with an energy reservoir that limits their capability to provide FCR shall ensure the recovery of the energy reservoirs in the positive or negative directions in accordance with the following criteria:",
+      "10.   For the CE and Nordic synchronous areas, all TSOs shall develop a proposal concerning the minimum activation period to be ensured by FCR providers. The period determined shall not be greater than 30 or smaller than 15 minutes. The proposal shall take full account of the results of the cost-benefit analysis conducted pursuant to paragraph 11."
+    ],
+    "Article 160": [
+      "for the Nordic and CE synchronous areas, there shall be sufficient negative reserve capacity on RR to restore the required amount of negative FRR. For the GB and IE/NI synchronous areas, there shall be sufficient negative reserve capacity on RR to restore the required amount of negative FCR and negative FRR;",
+      "for the Nordic and CE synchronous areas, there shall be sufficient negativereserve capacityonRRto restore the required amount of negativeFRR. For the GB and IE/NI synchronous areas, there shall be sufficient negative reserve capacity on RR to restore the required amount of negativeFCR and negative FRR;",
+      "for the Nordic and CE synchronous areas there shall be sufficient positive reserve capacity on RR to restore the required amount of positive FRR. For the GB and IE/NI synchronous areas there shall be sufficient positive reserve capacity on RR to restore the required amount of positive FCR and positive FRR;",
+      "for the Nordic and CE synchronous areas there shall be sufficient positivereserve capacityonRRto restore the required amount of positiveFRR. For the GB and IE/NI synchronous areas there shall be sufficient positive reserve capacity on RR to restore the required amount of positiveFCR and positive FRR;"
+    ],
+    "Article 163": [
+      "8.   TheFCRproviding unit or group shall be responsible towards itsreserve connecting TSO for FCR activation.",
+      "Exchange of FCR within a synchronous area",
+      "3.   In case of exchange ofFCR, thereserve connecting TSOandreserve receiving TSO shall notify it in accordance with Article 150.",
+      "3.   In case of exchange of FCR, the reserve connecting TSO and reserve receiving TSO shall notify it in accordance with Article 150.",
+      "6.   All TSOs of aLFC areashall adjust the parameters of theirFRCEcalculation to account for the exchange ofFCR.",
+      "4.   Anyreserve connecting TSO,reserve receiving TSOoraffected TSOinvolved in the exchange ofFCRmay refuse the exchange of FCR where it would result in power flows that violate theoperational securitylimits when activating thereserve capacity on FCR subject to the exchange of FCR.",
+      "4.   Any reserve connecting TSO, reserve receiving TSO or affected TSO involved in the exchange of FCR may refuse the exchange of FCR where it would result in power flows that violate the operational security limits when activating the reserve capacity on FCR subject to the exchange of FCR.",
+      "5.   Eachaffected TSOshall verify that its reliability margin, established in accordance with Article 22 of Regulation (EU) 2015/1222, is sufficient to accommodate the power flows resulting from the activation of thereserve capacityonFCR subject to the exchange of FCR.",
+      "9.   The concerned TSOs shall ensure that exchange of FCR does not prevent any TSO from fulfilling the reserve requirements in Article 156.",
+      "2.   All TSOs involved in the exchange of FCR within a synchronous area shall respect the limits and requirements for the exchange of FCR within the synchronous area specified in the Table of Annex VI.",
+      "1.   All TSOs involved in the exchange ofFCRwithin a synchronous area shall comply with the requirements set out in paragraphs 2 to 9. The exchange of FCR implies a transfer of aFCR obligationfrom thereserve receiving TSOto thereserve connecting TSOfor the correspondingreserve capacity on FCR.",
+      "8.   The FCR providing unit or group shall be responsible towards its reserve connecting TSO for FCR activation.",
+      "1.   All TSOs involved in the exchange of FCR within a synchronous area shall comply with the requirements set out in paragraphs 2 to 9. The exchange of FCR implies a transfer of a FCR obligation from the reserve receiving TSO to the reserve connecting TSO for the corresponding reserve capacity on FCR.",
+      "7.   Thereserve connecting TSOshall be responsible for the requirements referred to in Articles 154 and 156 as regards thereserve capacityonFCR subject to the exchange of FCR.",
+      "7.   The reserve connecting TSO shall be responsible for the requirements referred to in Articles 154 and 156 as regards the reserve capacity on FCR subject to the exchange of FCR.",
+      "6.   All TSOs of a LFC area shall adjust the parameters of their FRCE calculation to account for the exchange of FCR.",
+      "5.   Each affected TSO shall verify that its reliability margin, established in accordance with Article 22 of Regulation (EU) 2015/1222, is sufficient to accommodate the power flows resulting from the activation of the reserve capacity on FCR subject to the exchange of FCR."
+    ],
+    "Article 164": [
+      "A TSO shall not shareFCRwith other TSOs of its synchronous area to fulfil itsFCR obligation and to reduce the total amount of FCR of the synchronous area in accordance with Article 153.",
+      "A TSO shall not share FCR with other TSOs of its synchronous area to fulfil its FCR obligation and to reduce the total amount of FCR of the synchronous area in accordance with Article 153.",
+      "Sharing of FCR within a synchronous area"
+    ],
+    "Article 171": [
+      "1.   Each operator and/or owner of an HVDC interconnector which interconnects synchronous areas shall provide to the connecting TSOs the capability to perform the exchange and sharing of FCR, FRR and RR if this technology is installed.",
+      "3.   The reserve connecting TSO and reserve receiving TSO or the control capability providing TSO and the control capability receiving TSO shall notify the exchange or sharing of FCR, FRR or RR in accordance with Article 150.",
+      "3.   Thereserve connecting TSOandreserve receiving TSOor thecontrol capability providing TSOand thecontrol capability receiving TSOshall notify the exchange or sharing ofFCR,FRR or RR in accordance with Article 150.",
+      "1.   Each operator and/or owner of an HVDC interconnector which interconnects synchronous areas shall provide to the connecting TSOs the capability to perform the exchange and sharing ofFCR,FRR and RR if this technology is installed."
+    ],
+    "Article 172": [
+      "1.   All TSOs of the synchronous areas connected via an HVDC interconnector shall have the right to implement a frequency coupling process to provide linked frequency response. The frequency coupling process may be used by TSOs to enable FCR exchange and/or sharing between synchronous areas.",
+      "1.   All TSOs of the synchronous areas connected via an HVDC interconnector shall have the right to implement afrequency coupling processto provide linked frequency response. The frequency coupling process may be used by TSOs to enableFCR exchange and/or sharing between synchronous areas."
+    ],
+    "Article 173": [
+      "4.   All TSOs of the synchronous area shall specify in the synchronous area operational agreement the limits for FCR exchange.",
+      "Exchange of FCR between synchronous areas",
+      "5.   All TSOs of the involved synchronous areas shall develop an FCR exchange agreement whereby they specify conditions for the exchange of FCR.",
+      "1.   All TSOs of a synchronous area involved in a frequency coupling process shall have the right to use the FCR exchange process to exchange FCR between synchronous areas.",
+      "2.   All TSOs of synchronous areas involved in the exchange of FCR between synchronous areas shall organise that exchange so that the TSOs of one synchronous area receive from another synchronous area a share of the total reserve capacity on FCR required for their synchronous area pursuant to Article 153.",
+      "2.   All TSOs of synchronous areas involved in the exchange ofFCRbetween synchronous areas shall organise that exchange so that the TSOs of one synchronous area receive from another synchronous area a share of the totalreserve capacity on FCR required for their synchronous area pursuant to Article 153.",
+      "1.   All TSOs of a synchronous area involved in afrequency coupling processshall have the right to use theFCR exchange process to exchange FCR between synchronous areas.",
+      "3.   The share of the total reserve capacity on FCR required for synchronous area where it is exchanged shall be provided in the second synchronous area in addition to the total reserve capacity on FCR required for that second synchronous area in accordance with Article 153.",
+      "3.   The share of the totalreserve capacityonFCR required for synchronous area where it is exchanged shall be provided in the second synchronous area in addition to the total reserve capacity on FCR required for that second synchronous area in accordance with Article 153."
+    ],
+    "Article 174": [
+      "for the CE and Nordic synchronous area, all TSOs shall ensure that the sum ofFCRprovided within the synchronous area and from other synchronous areas as part of exchange of FCR covers at least thereference incident;",
+      "3.   All TSOs of the involved synchronous areas shall specify the conditions for sharing FCR between the involved synchronous areas in their respective synchronous area operational agreements.",
+      "Sharing of FCR between synchronous areas",
+      "for the GB and IE/NI synchronous areas, all TSOs shall specify a methodology to determine the minimum provision ofreserve capacityonFCR in the synchronous area.",
+      "for the CE and Nordic synchronous area, all TSOs shall ensure that the sum of FCR provided within the synchronous area and from other synchronous areas as part of exchange of FCR covers at least the reference incident;",
+      "2.   All TSOs of the synchronous area shall specify the limits for FCR sharing in the synchronous area operational agreement, in accordance with the following criteria:",
+      "1.   All TSOs of a synchronous area involved in afrequency coupling processshall have the right to use that process to shareFCR between the synchronous areas.",
+      "1.   All TSOs of a synchronous area involved in a frequency coupling process shall have the right to use that process to share FCR between the synchronous areas.",
+      "for the GB and IE/NI synchronous areas, all TSOs shall specify a methodology to determine the minimum provision of reserve capacity on FCR in the synchronous area."
+    ],
+    "Article 182": [
+      "2.   For the purposes of the prequalification processes for FCR in Article 155, FRR in Article 159 and RR in Article 162, each TSO shall develop and specify, in an agreement with its reserve connecting DSOs and intermediate DSOs, the terms of the exchange of information required for these prequalification processes for reserve providing units or groups located in the distribution systems and for the delivery of active power reserves. The prequalification processes for FCR in Article 155, FRR in Article 159 and RR in Article 162 shall specify the information to be provided by the potential reserve providing units or groups, which shall include:",
+      "2.   For the purposes of theprequalificationprocesses forFCRin Article 155,FRRin Article 159 and RR in Article 162, each TSO shall develop and specify, in an agreement with itsreserve connecting DSOs and intermediate DSOs, the terms of the exchange of information required for these prequalification processes forreserve providing units or groups located in the distribution systems and for the delivery ofactive power reserves. The prequalification processes for FCR in Article 155, FRR in Article 159 and RR in Article 162 shall specify the information to be provided by the potential reserve providing units or groups, which shall include:"
+    ],
+    "Article 185": [
+      "3.   All TSOs of each synchronous area shall notify the methodology used to determine the risk of exhaustion of FCR to ENTSO for Electricity for publication at least 3 months before the application of the synchronous area operational agreement."
+    ],
+    "Article 187": [
+      "2.   Where applicable, all TSOs of each synchronous area shall notify the total amount ofreserve capacityonFCRand the shares of reserve capacity on FCR required for each TSO specified in accordance with Article 153(1) as theinitial FCR obligation to ENTSO for Electricity for publication at least 1 month before their applicability.",
+      "Information on FCR",
+      "3.   All TSOs of each synchronous area shall notify the FCR properties established for their synchronous area in accordance with Article 154(2) and the additional requirements for FCR providing groups in accordance with Article 154(3) to ENTSO for Electricity for publication at least 3 months before their applicability.",
+      "1.   All TSOs of each synchronous area shall notify the dimensioning approach for FCR for their synchronous area in accordance with Article 153(2) to ENTSO for Electricity for publication at least 1 month before its applicability.",
+      "2.   Where applicable, all TSOs of each synchronous area shall notify the total amount of reserve capacity on FCR and the shares of reserve capacity on FCR required for each TSO specified in accordance with Article 153(1) as the initial FCR obligation to ENTSO for Electricity for publication at least 1 month before their applicability."
+    ],
+    "Article 190": [
+      "the amount of shared reserve capacity on FCR between TSOs that entered into agreements for the sharing of FCR; and",
+      "3.   Where applicable, all TSOs shall publish the information on the exchange of FCR, FRR and RR.",
+      "the amount of sharedreserve capacityonFCR between TSOs that entered into agreements for the sharing of FCR; and",
+      "the effects of the sharing of FCR on the reserve capacity on FCR of the involved TSOs.",
+      "2.   All TSOs of each synchronous area shall notify the information on the sharing of FCR between synchronous areas to ENTSO for Electricity for publication in accordance with Article 187(1). That information shall include the following:",
+      "3.   Where applicable, all TSOs shall publish the information on the exchange ofFCR,FRR and RR.",
+      "the effects of the sharing ofFCRon thereserve capacity on FCR of the involved TSOs."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 10,
+      "statement_scores": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 6": {
+      "article_score": 9,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    },
+    "Article 45": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 48": {
+      "article_score": 2,
+      "statement_scores": [
+        2
+      ]
+    },
+    "Article 118": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ]
+    },
+    "Article 119": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 125": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    },
+    "Article 126": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    },
+    "Article 131": {
+      "article_score": 20,
+      "statement_scores": [
+        0,
+        1,
+        0,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 141": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 142": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        0,
+        2
+      ]
+    },
+    "Article 143": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    },
+    "Article 144": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    },
+    "Article 152": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 153": {
+      "article_score": 12,
+      "statement_scores": [
+        2,
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        2
+      ]
+    },
+    "Article 154": {
+      "article_score": 66,
+      "statement_scores": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        7,
+        3,
+        0,
+        1,
+        5,
+        3,
+        4,
+        1,
+        2,
+        1,
+        1,
+        3,
+        2,
+        0,
+        1,
+        2,
+        6,
+        0,
+        5,
+        0,
+        1,
+        5,
+        2,
+        0,
+        2,
+        1,
+        3,
+        0,
+        1
+      ]
+    },
+    "Article 155": {
+      "article_score": 27,
+      "statement_scores": [
+        2,
+        4,
+        1,
+        3,
+        2,
+        2,
+        1,
+        1,
+        2,
+        5,
+        4,
+        0
+      ]
+    },
+    "Article 156": {
+      "article_score": 96,
+      "statement_scores": [
+        1,
+        2,
+        3,
+        3,
+        9,
+        0,
+        0,
+        1,
+        1,
+        8,
+        10,
+        3,
+        7,
+        7,
+        0,
+        2,
+        2,
+        8,
+        2,
+        2,
+        1,
+        3,
+        4,
+        2,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        3,
+        4,
+        1
+      ]
+    },
+    "Article 160": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        0
+      ]
+    },
+    "Article 163": {
+      "article_score": 28,
+      "statement_scores": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        3,
+        4,
+        1,
+        1,
+        2,
+        2,
+        2,
+        4,
+        1,
+        2,
+        1,
+        2
+      ]
+    },
+    "Article 164": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        3,
+        1
+      ]
+    },
+    "Article 171": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    "Article 172": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 173": {
+      "article_score": 13,
+      "statement_scores": [
+        1,
+        1,
+        2,
+        2,
+        2,
+        1,
+        1,
+        2,
+        1
+      ]
+    },
+    "Article 174": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        0,
+        2,
+        1,
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 182": {
+      "article_score": 3,
+      "statement_scores": [
+        2,
+        1
+      ]
+    },
+    "Article 185": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 187": {
+      "article_score": 9,
+      "statement_scores": [
+        2,
+        1,
+        2,
+        1,
+        3
+      ]
+    },
+    "Article 190": {
+      "article_score": 8,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        2,
+        1,
+        0,
+        1
+      ]
+    }
+  }
+}

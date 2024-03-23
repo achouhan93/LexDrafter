@@ -1,0 +1,46 @@
+{
+  "term": "market congestion",
+  "celex_id": "32015R1222",
+  "original_definition": "'market congestion' means a situation in which the economic surplus for single day-ahead or intraday coupling has been limited by cross-zonal capacity or allocation constraints;",
+  "generated_definition": "'market congestion' means the state of excessive demand for transmission capacity in a given market, leading to inefficiencies and increased costs.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018market congestion\u2019 means a situation in which the economic surplus for single day-ahead or intraday coupling has been limited by cross-zonal capacity orallocation constraints;",
+      "\u2018market congestion\u2019 means a situation in which the economic surplus for single day-ahead or intraday coupling has been limited by cross-zonal capacity or allocation constraints;"
+    ],
+    "Article 42": [
+      "1.   The day-ahead cross-zonal capacity charge shall reflectmarket congestionand shall amount to the difference between the corresponding day-aheadclearing prices of the relevant bidding zones.",
+      "1.   The day-ahead cross-zonal capacity charge shall reflect market congestion and shall amount to the difference between the corresponding day-ahead clearing prices of the relevant bidding zones."
+    ],
+    "Article 55": [
+      "1.   Once applied, the single methodology for pricing intraday cross-zonal capacity developed in accordance with Article 55(3) shall reflectmarket congestionand shall be based on actualorders.",
+      "1.   Once applied, the single methodology for pricing intraday cross-zonal capacity developed in accordance with Article 55(3) shall reflect market congestion and shall be based on actual orders."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 42": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 55": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

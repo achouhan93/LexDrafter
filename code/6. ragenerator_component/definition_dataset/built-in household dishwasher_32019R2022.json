@@ -1,0 +1,22 @@
+{
+  "term": "built-in household dishwasher",
+  "celex_id": "32019R2022",
+  "original_definition": "'built-in household dishwasher' means a household dishwasher that is designed, tested and marketed exclusively:to be installed in cabinetry or encased (top, bottom and sides) by panels;to be securely fastened to the sides, top or floor of the cabinetry or panels; andto be equipped with an integral factory-finished face or to be fitted with a custom front panel;",
+  "generated_definition": "'built-in household dishwasher' means a domestic appliance designed to wash dishes automatically, typically installed in a kitchen cabinet or wall.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018built-in household dishwasher\u2019 means a household dishwasher that is designed, tested and marketed exclusively:"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

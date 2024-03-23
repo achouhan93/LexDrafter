@@ -1,0 +1,45 @@
+{
+  "term": "upstream pipeline network",
+  "celex_id": "32009L0073",
+  "original_definition": "'upstream pipeline network' means any pipeline or network of pipelines operated and/or constructed as part of an oil or gas production project, or used to convey natural gas from one or more such projects to a processing plant or terminal or final coastal landing terminal;",
+  "generated_definition": "'upstream pipeline network' means a network of pipelines used for the transport and processing of gas, owned or operated by a single entity or multiple entities, and covering a significant portion of the territory of a member state or multiple member states.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018transmission\u2019 means the transport of natural gas through a network, which mainly contains high-pressure pipelines, other than an upstream pipeline network and other than the part of high-pressure pipelines primarily used in the context of local distribution of natural gas, with a view to its delivery to customers, but not including supply;",
+      "\u2018upstream pipeline network\u2019 means any pipeline or network of pipelines operated and/or constructed as part of an oil or gas production project, or used to convey natural gas from one or more such projects to a processing plant or terminal or final coastal landing terminal;",
+      "\u2018transmission\u2019 means the transport of natural gas through a network, which mainly contains high-pressure pipelines, other than anupstream pipeline networkand other than the part of high-pressure pipelines primarily used in the context of localdistributionof natural gas, with a view to its delivery tocustomers, but not includingsupply;"
+    ],
+    "Article\u00a034": [
+      "the need to respect the duly substantiated reasonable needs of the owner or operator of the upstream pipeline network for the transport and processing of gas and the interests of all other users of the upstream pipeline network or relevant processing or handling facilities who may be affected; and",
+      "Access to upstream pipeline networks",
+      "4.   In the event of cross-border disputes, the dispute-settlement arrangements for the Member State having jurisdiction over the upstream pipeline network which refuses access shall be applied. Where, in cross-border disputes, more than one Member State covers the network concerned, the Member States concerned shall consult each other with a view to ensuring that the provisions of this Directive are applied consistently.",
+      "3.   Member States shall ensure that they have in place dispute-settlement arrangements, including an authority independent of the parties with access to all relevant information, to enable disputes relating to access to upstream pipeline networks to be settled expeditiously, taking into account the criteria in paragraph 2 and the number of parties which may be involved in negotiating access to such networks.",
+      "1.   Member States shall take the necessary measures to ensure thatnatural gas undertakings andeligible customers, wherever they are located, are able to obtain access toupstream pipeline networks, including facilitiessupplying technical services incidental to such access, in accordance with this Article, except for the parts of such networks and facilities which are used for local production operations at the site of a field where the gas is produced. The measures shall be notified to the Commission in accordance with the provisions of Article 54.",
+      "1.   Member States shall take the necessary measures to ensure that natural gas undertakings and eligible customers, wherever they are located, are able to obtain access to upstream pipeline networks, including facilities supplying technical services incidental to such access, in accordance with this Article, except for the parts of such networks and facilities which are used for local production operations at the site of a field where the gas is produced. The measures shall be notified to the Commission in accordance with the provisions of Article 54."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        1
+      ]
+    },
+    "Article\u00a034": {
+      "article_score": 7,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

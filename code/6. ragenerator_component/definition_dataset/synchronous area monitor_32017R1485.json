@@ -1,0 +1,102 @@
+{
+  "term": "synchronous area monitor",
+  "celex_id": "32017R1485",
+  "original_definition": "'synchronous area monitor' means a TSO responsible for collecting the frequency quality evaluation criteria data and applying the frequency quality evaluation criteria for the synchronous area;",
+  "generated_definition": "'synchronous area monitor' means a tso appointed in the synchronous area operational agreement to implement data collection and delivery process, criteria application, and frequency quality evaluation for the synchronous area.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018synchronous area monitor\u2019 means a TSO responsible for collecting the frequency quality evaluation criteria data and applying the frequency quality evaluation criteria for the synchronous area;",
+      "\u2018synchronous area monitor\u2019 means a TSO responsible for collecting thefrequency quality evaluation criteria data and applying the frequency quality evaluation criteria for the synchronous area;"
+    ],
+    "Article 118": [
+      "the synchronous area monitor in accordance with Article 133;"
+    ],
+    "Article 132": [
+      "2.   The data collection and delivery process shall be implemented by the synchronous area monitor appointed in accordance with Article 133.",
+      "2.   Thedata collection and delivery processshall be implemented by thesynchronous area monitor appointed in accordance with Article 133."
+    ],
+    "Article 133": [
+      "Synchronous area monitor",
+      "2.   Thesynchronous area monitorshall implement thedata collection and delivery process of the synchronous area referred to in Article 132.",
+      "4.   The synchronous area monitor shall collect the frequency quality evaluation data of its synchronous area and perform the criteria application process, including the calculation of the frequency quality evaluation criteria, once every 3 months and within 3 months after the end of the analysed period.",
+      "4.   Thesynchronous area monitorshall collect thefrequency quality evaluation dataof its synchronous area and perform thecriteria application process, including the calculation of thefrequency quality evaluation criteria, once every 3 months and within 3 months after the end of the analysed period.",
+      "3.   Thesynchronous area monitorshall implement thecriteria application process referred to in Article 129.",
+      "1.   All TSOs of a synchronous area shall appoint one TSO of that synchronous area in the synchronous area operational agreement as synchronous area monitor.",
+      "2.   The synchronous area monitor shall implement the data collection and delivery process of the synchronous area referred to in Article 132.",
+      "3.   The synchronous area monitor shall implement the criteria application process referred to in Article 129."
+    ],
+    "Article 152": [
+      "4.   Thesynchronous area monitorshall determine thesystem statewith regard to thesystem frequency in accordance with Article 18(1) and (2).",
+      "4.   The synchronous area monitor shall determine the system state with regard to the system frequency in accordance with Article 18(1) and (2).",
+      "5.   The synchronous area monitor shall ensure that all TSOs of all synchronous areas are informed in case the system frequency deviation fulfils one of the criteria for the alert state referred to in Article 18.",
+      "5.   Thesynchronous area monitorshall ensure that all TSOs of all synchronous areas are informed in case thesystem frequencyfrequency deviationfulfils one of the criteria for thealert state referred to in Article 18."
+    ],
+    "Article 181": [
+      "3.   The synchronous area monitor shall:"
+    ],
+    "Article 185": [
+      "4.   Thesynchronous area monitorof each synchronous area shall notify the results of thecriteria application process for their synchronous area to ENTSO for Electricity for publication within 3 months after the last time-stamp of the measurement period and at least four times a year. Those results shall include at least:",
+      "4.   The synchronous area monitor of each synchronous area shall notify the results of the criteria application process for their synchronous area to ENTSO for Electricity for publication within 3 months after the last time-stamp of the measurement period and at least four times a year. Those results shall include at least:"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 118": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 132": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 133": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 152": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 181": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 185": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

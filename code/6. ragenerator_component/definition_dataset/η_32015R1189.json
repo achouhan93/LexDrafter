@@ -1,0 +1,67 @@
+{
+  "term": "\u03b7",
+  "celex_id": "32015R1189",
+  "original_definition": "'\u03b7' means the ratio between the space heating demand for a designated heating season supplied by a solid fuel boiler and the annual energy consumption required to meet that demand, expressed in %;",
+  "generated_definition": "'\u03b7' means a measure of the rate of change of a quantity with respect to a variable, often used in calculus and physics.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018seasonal space heating energy efficiency\u2019 or \u2018\u03b7s\n\u2019 means the ratio between the space heating demand for a designated heating season supplied by a solid fuel boiler and the annual energy consumption required to meet that demand, expressed in %;"
+    ],
+    "Article 9": [
+      "\u03b7s\n [x%]:",
+      "The seasonal space heating energy efficiency \u03b7s\n is defined as:",
+      "Seasonal space heating energy efficiency \u03b7s",
+      "\u2018seasonal space heating energy efficiency in active mode\u2019 or \u2018\u03b7son\n\u2019 means:",
+      "Theseasonal space heating energy efficiency\u03b7s\n is defined as:",
+      "F(3) = 2,5 \u00d7 \u03b7el,n",
+      "\u03b7el,n",
+      "\u2018useful efficiency\u2019 or \u2018\u03b7\u2019 means the ratio of the useful heat output and the total energy input of a solid fuel boiler, expressed in %, whereby the total energy input is expressed in terms of GCV or in terms of final energy multiplied by CC;",
+      "\u03b7n",
+      "\u2018seasonal space heating energy efficiencyin active mode\u2019 or \u2018\u03b7son\n\u2019 means:",
+      "\u03b7p",
+      "\u03b7son\n is the seasonal space heating energy efficiency in active mode expressed as a percentage, calculated as set out in point 4(b);",
+      "\u03b7son\n = \u03b7n",
+      "\u03b7son\n is theseasonal space heating energy efficiency in active mode expressed as a percentage, calculated as set out in point 4(b);",
+      "\u03b7son\n = 0,85 \u00d7 \u03b7p\n + 0,15 \u00d7 \u03b7n",
+      "\u03b7s\n = \u03b7son\n \u2013 F(1) \u2013 F(2) + F(3)",
+      "theseasonal space heating energy efficiencyin active mode,\u03b7son\n, is calculated as follows:",
+      "the seasonal space heating energy efficiency in active mode, \u03b7son\n, is calculated as follows:",
+      "Seasonal space heating energy efficiency\u03b7s"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+}

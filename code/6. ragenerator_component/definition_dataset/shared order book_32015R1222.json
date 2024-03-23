@@ -1,0 +1,35 @@
+{
+  "term": "shared order book",
+  "celex_id": "32015R1222",
+  "original_definition": "'shared order book' means a module in the continuous intraday coupling system collecting all matchable orders from the NEMOs participating in single intraday coupling and performing continuous matching of those orders;",
+  "generated_definition": "'shared order book' means a shared electronic platform where multiple market participants can submit orders anonymously for execution.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018shared order book\u2019 means a module in the continuous intraday coupling system collecting all matchable orders from the NEMOs participating insingle intraday couplingand performing continuousmatching of those orders;",
+      "\u2018shared order book\u2019 means a module in the continuous intraday coupling system collecting all matchable orders from the NEMOs participating in single intraday coupling and performing continuous matching of those orders;"
+    ],
+    "Article 59": [
+      "7.   MCO functions shall ensure the anonymity oforders submitted via theshared order book.",
+      "7.   MCO functions shall ensure the anonymity of orders submitted via the shared order book."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 59": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

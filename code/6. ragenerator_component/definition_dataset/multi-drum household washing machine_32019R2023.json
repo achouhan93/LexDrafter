@@ -1,0 +1,31 @@
+{
+  "term": "multi-drum household washing machine",
+  "celex_id": "32019R2023",
+  "original_definition": "'multi-drum household washing machine' means a household washing machine equipped with more than one drum, whether in separate units or in the same casing;",
+  "generated_definition": "'multi-drum household washing machine' means a household appliance designed to wash and dry multiple loads of laundry in a single cycle, typically consisting of multiple drums or tubs arranged in a row or column.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018multi-drum household washing machine\u2019 means a household washing machine equipped with more than one drum, whether in separate units or in the same casing;"
+    ],
+    "Article 12": [
+      "Multi-drum household washing machines and multi-drum household washer-dryers"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 12": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

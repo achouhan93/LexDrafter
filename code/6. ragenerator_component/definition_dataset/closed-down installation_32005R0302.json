@@ -1,0 +1,30 @@
+{
+  "term": "closed-down installation",
+  "celex_id": "32005R0302",
+  "original_definition": "'closed-down installation' means an installation for which it has been verified that operations have been stopped and the nuclear material removed but which has not been decommissioned.",
+  "generated_definition": "'closed-down installation' means location with hot cells or where activities related to conversion, enrichment, fuel fabrication or reprocessing were carried out, as defined by their relevant basic technical characteristics.",
+  "existing_sentences": {
+    "Article 2": [
+      "in the case of aclosed-down installationwhere source material or special fissile material in quantities less than oneeffective kilogram was customarily used, the term is limited to locations with hot cells or where activities related to conversion, enrichment, fuel fabrication or reprocessing were carried out;",
+      "\u2018site\u2019 means an area delimited by the Community and the Member State, comprising one or moreinstallations, includingclosed-down installations, as defined in their relevant basic technical characteristics, whereby:",
+      "\u2018site\u2019 means an area delimited by the Community and the Member State, comprising one or more installations, including closed-down installations, as defined in their relevant basic technical characteristics, whereby:",
+      "\u2018closed-down installation\u2019 means an installation for which it has been verified that operations have been stopped and the nuclear material removed but which has not been decommissioned.",
+      "in the case of a closed-down installation where source material or special fissile material in quantities less than one effective kilogram was customarily used, the term is limited to locations with hot cells or where activities related to conversion, enrichment, fuel fabrication or reprocessing were carried out;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        0,
+        1
+      ]
+    }
+  }
+}

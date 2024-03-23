@@ -1,0 +1,224 @@
+{
+  "term": "normal state",
+  "celex_id": "32017R1485",
+  "original_definition": "'normal state' means a situation in which the system is within operational security limits in the N-situation and after the occurrence of any contingency from the contingency list, taking into account the effect of the available remedial actions;",
+  "generated_definition": "'normal state' means the transmission system's capability to retain a stable state or return to it as soon as possible, characterized by operational security limits.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018frequency quality target parameter\u2019 means the main system frequency target on which the behaviour of FCR, FRR and RR activation processes is evaluated in normal state;",
+      "\u2018frequency quality target parameter\u2019 means the mainsystem frequencytarget on which the behaviour ofFCR,FRRand RR activation processes is evaluated innormal state;",
+      "\u2018alert state\u2019 means thesystem statein which the system is withinoperational securitylimits, but a contingency from thecontingency listhas been detected and in case of its occurrence the available remedial actions are not sufficient to keep thenormal state;",
+      "\u2018system state\u2019 means the operational state of the transmission system in relation to the operational security limits which can be normal state, alert state, emergency state, blackout state and restoration state;",
+      "\u2018disturbance\u2019 means an unplanned event that may cause the transmission system to divert from thenormal state;",
+      "\u2018normal state\u2019 means a situation in which the system is withinoperational securitylimits in theN-situationand after the occurrence of any contingency from thecontingency list, taking into account the effect of the available remedial actions;",
+      "\u2018disturbance\u2019 means an unplanned event that may cause the transmission system to divert from the normal state;",
+      "\u2018operational security\u2019 means the transmission system's capability to retain anormal state or to return to a normal state as soon as possible, and which is characterised by operational security limits;",
+      "\u2018system state\u2019 means the operational state of the transmission system in relation to theoperational securitylimits which can benormal state,alert state,emergency state,blackout stateandrestoration state;",
+      "\u2018operational security\u2019 means the transmission system's capability to retain a normal state or to return to a normal state as soon as possible, and which is characterised by operational security limits;",
+      "\u2018alert state\u2019 means the system state in which the system is within operational security limits, but a contingency from the contingency list has been detected and in case of its occurrence the available remedial actions are not sufficient to keep the normal state;",
+      "\u2018normal state\u2019 means a situation in which the system is within operational security limits in the N-situation and after the occurrence of any contingency from the contingency list, taking into account the effect of the available remedial actions;"
+    ],
+    "Article 18": [
+      "1.   A transmission system shall be in the normal state when all of the following conditions are fulfilled:",
+      "frequency does not meet the criteria for thenormal stateand for thealert state defined in accordance with paragraphs 1 and 2;",
+      "frequency does not meet the criteria for the normal state and for the alert state defined in accordance with paragraphs 1 and 2;"
+    ],
+    "Article 19": [
+      "4.   If its transmission system is not in normal state and if that system state is qualified as a wide area state the TSO shall:",
+      "4.   If its transmission system is not innormal stateand if thatsystem stateis qualified as awide area state the TSO shall:"
+    ],
+    "Article 20": [
+      "1.   Each TSO shall endeavour to ensure that its transmission system remains in thenormal stateand shall be responsible for managingoperational security violations. To achieve that objective, each TSO shall design, prepare and activate remedial actions taking into account their availability, the time and resources needed for their activation and any conditions external to the transmission system which are relevant for each remedial action.",
+      "1.   Each TSO shall endeavour to ensure that its transmission system remains in the normal state and shall be responsible for managing operational security violations. To achieve that objective, each TSO shall design, prepare and activate remedial actions taking into account their availability, the time and resources needed for their activation and any conditions external to the transmission system which are relevant for each remedial action."
+    ],
+    "Article 21": [
+      "foroperational securityviolations which do not need to be managed in a coordinated way, a TSO shall design, prepare and activate remedial actions to restore the system to thenormal stateand to prevent the propagation of the alert oremergency state outside of the TSO's control area from the categories defined in Article 22;",
+      "for operational security violations which do not need to be managed in a coordinated way, a TSO shall design, prepare and activate remedial actions to restore the system to the normal state and to prevent the propagation of the alert or emergency state outside of the TSO's control area from the categories defined in Article 22;"
+    ],
+    "Article 23": [
+      "3.   When preparing and activating remedial actions which have an impact on the transmission-connected SGUs and DSOs, each TSO shall, if its transmission system is in normal oralert state, assess the impact of such remedial actions in coordination with the affected SGUs and DSOs and select remedial actions that contribute to maintainingnormal state and secure operation of all involved parties. Each affected SGU and DSO shall provide to the TSO all necessary information for this coordination.",
+      "3.   When preparing and activating remedial actions which have an impact on the transmission-connected SGUs and DSOs, each TSO shall, if its transmission system is in normal or alert state, assess the impact of such remedial actions in coordination with the affected SGUs and DSOs and select remedial actions that contribute to maintaining normal state and secure operation of all involved parties. Each affected SGU and DSO shall provide to the TSO all necessary information for this coordination."
+    ],
+    "Article 27": [
+      "1.   In accordance with Article 18, each TSO shall endeavour to ensure that during the normal state the voltage remains in steady-state at the connection points of the transmission system within the ranges specified in the Tables 1 and 2 of Annex II.",
+      "5.   Each TSO shall agree, with the transmission-connected DSOs and the transmission-connected significant grid users, about voltage ranges at the connection points below 110 kV if those voltage ranges are relevant for maintaining operational security limits. Each TSO shall endeavour to ensure that the voltage remains within the agreed range during the normal state and after the occurrence of a contingency.",
+      "4.   Each TSO shall endeavour to ensure that, during the normal state and after the occurrence of a contingency, the voltage remains, within wider voltage ranges for limited times of operation if there is agreement about those wider voltage ranges with transmission-connected DSOs, power generating facility owners in accordance with Article 16(2) of Regulation (EU) 2016/631 or HVDC system owners in accordance with Article 18 of Regulation (EU) 2016/1447.",
+      "5.   Each TSO shall agree, with the transmission-connected DSOs and the transmission-connected significant grid users, about voltage ranges at the connection points below 110 kV if those voltage ranges are relevant for maintainingoperational securitylimits. Each TSO shall endeavour to ensure that the voltage remains within the agreed range during thenormal state and after the occurrence of a contingency."
+    ],
+    "Article 32": [
+      "2.   In the (N-1)-situation, in thenormal stateeach TSO shall maintain power flows within thetransitory admissible overloads referred to in Article 25(1)(c), having prepared remedial actions to be applied and executed within the time-frame allowed for transitory admissible overloads.",
+      "1.   Each TSO shall maintain power flows within the operational security limits defined when the system is in normal state and after the occurrence of a contingency from the contingency list referred to in Article 33(1).",
+      "2.   In the (N-1)-situation, in the normal state each TSO shall maintain power flows within the transitory admissible overloads referred to in Article 25(1)(c), having prepared remedial actions to be applied and executed within the time-frame allowed for transitory admissible overloads.",
+      "1.   Each TSO shall maintain power flows within theoperational securitylimits defined when the system is innormal stateand after the occurrence of a contingency from thecontingency list referred to in Article 33(1)."
+    ],
+    "Article 35": [
+      "3.   In case of an (N-1) situation caused by a disturbance, each TSO shall activate a remedial action in order to ensure that the transmission system is restored to a normal state as soon as possible and that this (N-1) situation becomes the new N-Situation.",
+      "3.   In case of an (N-1) situation caused by adisturbance, each TSO shall activate a remedial action in order to ensure that the transmission system is restored to anormal state as soon as possible and that this (N-1) situation becomes the new N-Situation."
+    ],
+    "Article 102": [
+      "6.   When the TSO detects that one or several forced outages referred to in paragraph 1 could lead the transmission system out of the normal state, it shall inform the affected outage planning agent(s) about the deadline at which operational security can no longer be maintained unless their relevant asset(s) in forced outage returns to \u2018available\u2019 status. The outage planning agents shall inform the TSO whether they are capable of respecting that deadline and shall provide reasoned justifications where they are unable to respect that deadline.",
+      "6.   When the TSO detects that one or severalforced outages referred to in paragraph 1 could lead the transmission system out of thenormal state, it shall inform the affectedoutage planning agent(s) about the deadline at whichoperational securitycan no longer be maintained unless theirrelevant asset(s) in forced outage returns to \u2018available\u2019 status. The outage planning agents shall inform the TSO whether they are capable of respecting that deadline and shall provide reasoned justifications where they are unable to respect that deadline."
+    ],
+    "Article 103": [
+      "7.   Where a TSO identifies that executing an \u2018unavailable\u2019 or \u2018testing\u2019 status of a relevant asset leads or could lead the transmission system out of normal state, it shall instruct the owner of the relevant asset when it is connected to the transmission system, or the DSO or CDSO if connected to a distribution system or to a closed distribution system, to delay the execution of that \u2018unavailable\u2019 or \u2018testing\u2019 status of that relevant asset according to its instructions and to the extent possible, while respecting the technical and safety limits.",
+      "7.   Where a TSO identifies that executing an \u2018unavailable\u2019 or \u2018testing\u2019 status of arelevant assetleads or could lead the transmission system out ofnormal state, it shall instruct the owner of the relevant asset when it is connected to the transmission system, or the DSO or CDSO if connected to a distribution system or to a closed distribution system, to delay the execution of that \u2018unavailable\u2019 or \u2018testing\u2019 status of that relevant asset according to its instructions and to the extent possible, while respecting the technical and safety limits."
+    ],
+    "Article 118": [
+      "operational procedures to reduce thesystem frequencyfrequency deviationto restore thesystem statetonormal stateand to limit the risk of entering into theemergency state in accordance with Article 152(10);",
+      "common rules for the operation innormal stateandalert state in accordance with Article 152(6) and the actions referred to in Article 152(15);",
+      "operational procedures to reduce the system frequency deviation to restore the system state to normal state and to limit the risk of entering into the emergency state in accordance with Article 152(10);",
+      "common rules for the operation in normal state and alert state in accordance with Article 152(6) and the actions referred to in Article 152(15);"
+    ],
+    "Article 131": [
+      "for theLFC blocks of the GB or IE/NI synchronous area, during operation innormal stateoralert statein accordance with Article 18(1) and (2), on a monthly basis and for a data-set containing the average values of theFRCEof the LFC block over time intervals with a length of one minute: the number of events for which the absolute value of the FRCE exceeded themaximum steady-state frequency deviationand the FRCE was not returned to 10 % of the maximum steady-state frequency deviation within thetime to restore frequency, distinguishing between negative and positive FRCE.",
+      "for eachLFC blockof the CE or Nordic synchronous areas during operation innormal stateoralert state in accordance with Article 18(1) and (2), on a monthly basis:",
+      "for the synchronous area during operation in normal state or alert state as determined by Article 18(1) and (2), on a monthly basis, for the instantaneous frequency data:",
+      "for each LFC block of the CE or Nordic synchronous areas during operation in normal state or alert state in accordance with Article 18(1) and (2), on a monthly basis:",
+      "for the LFC blocks of the GB or IE/NI synchronous area, during operation in normal state or alert state in accordance with Article 18(1) and (2), on a monthly basis and for a data-set containing the average values of the FRCE of the LFC block over time intervals with a length of one minute: the number of events for which the absolute value of the FRCE exceeded the maximum steady-state frequency deviation and the FRCE was not returned to 10 % of the maximum steady-state frequency deviation within the time to restore frequency, distinguishing between negative and positive FRCE.",
+      "for the synchronous area during operation innormal stateoralert stateas determined by Article 18(1) and (2), on a monthly basis, for theinstantaneous frequency data:"
+    ],
+    "Article 152": [
+      "10.   All TSOs of a synchronous area shall specify in the synchronous area operational agreement the operational procedures for thealert statedue to a violation ofsystem frequencylimits. The operational procedures shall aim at reducing the systemfrequency deviationin order to restore thesystem stateto thenormal stateand to limit the risk of entering theemergency state. The operational procedures shall include the right of TSOs to deviate from the obligation set in Article 143(1).",
+      "10.   All TSOs of a synchronous area shall specify in the synchronous area operational agreement the operational procedures for the alert state due to a violation of system frequency limits. The operational procedures shall aim at reducing the system frequency deviation in order to restore the system state to the normal state and to limit the risk of entering the emergency state. The operational procedures shall include the right of TSOs to deviate from the obligation set in Article 143(1).",
+      "6.   All TSOs of a synchronous area shall define in the synchronous area operational agreement common rules for the operation of load-frequency control in thenormal stateandalert state.",
+      "6.   All TSOs of a synchronous area shall define in the synchronous area operational agreement common rules for the operation of load-frequency control in the normal state and alert state."
+    ],
+    "Article 156": [
+      "9.   For the CE and Nordic synchronous areas, eachFCRprovider shall ensure that the FCR from its FCR providing units or groups with limited energy reservoirs are continuously available duringnormal state. For the CE and Nordic synchronous areas, as of triggering thealert stateand during the alert state, each FCR provider shall ensure that its FCR providing units or groups with limited energy reservoirs are able to fully activate FCR continuously for a time period to be defined pursuant to paragraphs 10 and 11. Where no period has been determined pursuant to paragraphs 10 and 11, each FCR provider shall ensure that its FCR providing units or groups with limited energy reservoirs are able to fully activate FCR continuously for at least 15 minutes or, in case offrequency deviations that are smaller than a frequency deviation requiring full FCR activation, for an equivalent length of time, or for a period defined by each TSO, which shall not be greater than 30 or smaller than 15 minutes.",
+      "9.   For the CE and Nordic synchronous areas, each FCR provider shall ensure that the FCR from its FCR providing units or groups with limited energy reservoirs are continuously available during normal state. For the CE and Nordic synchronous areas, as of triggering the alert state and during the alert state, each FCR provider shall ensure that its FCR providing units or groups with limited energy reservoirs are able to fully activate FCR continuously for a time period to be defined pursuant to paragraphs 10 and 11. Where no period has been determined pursuant to paragraphs 10 and 11, each FCR provider shall ensure that its FCR providing units or groups with limited energy reservoirs are able to fully activate FCR continuously for at least 15 minutes or, in case of frequency deviations that are smaller than a frequency deviation requiring full FCR activation, for an equivalent length of time, or for a period defined by each TSO, which shall not be greater than 30 or smaller than 15 minutes."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 12,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        2,
+        1,
+        2,
+        1,
+        0
+      ]
+    },
+    "Article 18": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 19": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 20": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 21": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 23": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 27": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 32": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 35": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 102": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 103": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 118": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 131": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 152": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 156": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

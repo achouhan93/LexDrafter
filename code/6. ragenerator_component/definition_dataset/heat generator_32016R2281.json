@@ -1,0 +1,91 @@
+{
+  "term": "heat generator",
+  "celex_id": "32016R2281",
+  "original_definition": "'heat generator' means the part of an air heating product that generates useful heat using one or more of the following processes:the combustion of liquid or gaseous fuels;the Joule effect, taking place in the heating elements of an electric resistance heating system;by capturing heat from ambient air, ventilation exhaust air, water or ground heat source(s) and transferring this heat to the air-based heating system using a vapour compression cycle or a sorption cycle;",
+  "generated_definition": "'heat generator' means a device that generates heat, typically for air heating products, using a vapour compression cycle or sorption cycle, and may be powered by electricity, internal combustion engine, or gaseous/liquid fuels.",
+  "existing_sentences": {
+    "Article 2": [
+      "Aheat generatordesigned for anair heating product and an air heating product housing designed to be equipped with such a heat generator shall, together, be considered as an air heating product;",
+      "\u2018fan coil unit\u2019 means a device that provides forced circulation of indoor air, for the purpose of one or more of heating, cooling, dehumidification and filtering of indoor air, for the thermal comfort of human beings, but which does not include the source of heating or cooling nor an outdoor side heat exchanger. The device may be equipped with minimal ductwork to guide the intake and exit of air, including conditioned air. The product may be designed to be built in or may have an enclosure allowing it be placed in the space to be conditioned. It may include a Joule effectheat generator designed to be used as back-up heater only;",
+      "\u2018heat generator\u2019 means the part of anair heating product that generates useful heat using one or more of the following processes:",
+      "is equipped with one or more heat generators; and",
+      "\u2018fan coil unit\u2019 means a device that provides forced circulation of indoor air, for the purpose of one or more of heating, cooling, dehumidification and filtering of indoor air, for the thermal comfort of human beings, but which does not include the source of heating or cooling nor an outdoor side heat exchanger. The device may be equipped with minimal ductwork to guide the intake and exit of air, including conditioned air. The product may be designed to be built in or may have an enclosure allowing it be placed in the space to be conditioned. It may include a Joule effect heat generator designed to be used as back-up heater only;",
+      "A heat generator designed for an air heating product and an air heating product housing designed to be equipped with such a heat generator shall, together, be considered as an air heating product;",
+      "is equipped with one or moreheat generators; and",
+      "\u2018heat generator\u2019 means the part of an air heating product that generates useful heat using one or more of the following processes:"
+    ],
+    "Article 9": [
+      "\u2018air-to-air heat pump\u2019 means a heat pump which has aheat generator that uses a vapour compression cycle driven by an electric motor or internal combustion engine and whereby the outdoor side heat exchanger (evaporator) allows heat transfer from ambient air;",
+      "\u2018sorption cycle heat pump\u2019 means a heat pump which has a heat generator that uses a sorption cycle relying on external combustion of fuels and/or supply of heat;",
+      "\u2018warm air heater using electricity\u2019 means a warm air heater that uses aheat generator using the Joule effect in resistance heating;",
+      "A heat generator designed for an air heating product, or a housing to be equipped with such a generator shall be tested with an appropriate housing or generator, respectively;",
+      "\u2018water/brine-to-air heat pump\u2019 means a heat pump which has a heat generator that uses a vapour compression cycle driven by an electric motor or internal combustion engine and whereby the outdoor side heat exchanger (evaporator) allows heat transfer from water or brine;",
+      "which has a heat generator that uses a vapour compression cycle or a sorption cycle;",
+      "for heat generators or cold generators designed for air heating or cooling products, and air heating or cooling product housings to be equipped with such heat or cold generators, their characteristics, the requirements for assembly, to ensure compliance with the ecodesign requirements for air heating or cooling products and, where appropriate, the list of combinations recommended by the manufacturer;",
+      "\u2018supplementary heater\u2019 means a heat generator of the air heating product that generates supplemental heat during conditions where the heating load exceeds the heating capacity of the preferred heat generator;",
+      "\u2018warm air heater using gaseous/liquid fuels\u2019 means a warm air heater that uses a heat generator using the combustion of gaseous or liquid fuels;",
+      "\u2018warm air heater\u2019 means anair heating productthat transfers the heat from aheat generatordirectly to air and incorporates or distributes this heat through anair-based heating system;",
+      "\u2018preferred heat generator\u2019 means the heat generator of the air heating product that has the highest contribution in the total heat supplied over the heating season;",
+      "\u2018sorption cycle heat pump\u2019 means a heat pump which has aheat generator that uses a sorption cycle relying on external combustion of fuels and/or supply of heat;",
+      "which has aheat generator that uses a vapour compression cycle or a sorption cycle;",
+      "\u2018supplementary heater\u2019 means aheat generatorof theair heating product that generates supplemental heat during conditions where the heating load exceeds the heating capacity of the preferred heat generator;",
+      "Aheat generatordesigned for anair heating product, or a housing to be equipped with such a generator shall be tested with an appropriate housing or generator, respectively;",
+      "\u2018envelope loss factor\u2019 (Fenv\n) means the losses in seasonal space heating energy efficiency due to heat loss of theheat generator to areas outside the space to be heated, expressed in %;",
+      "\u2018preferredheat generator\u2019 means the heat generator of theair heating product that has the highest contribution in the total heat supplied over the heating season;",
+      "\u2018air-to-air heat pump\u2019 means a heat pump which has a heat generator that uses a vapour compression cycle driven by an electric motor or internal combustion engine and whereby the outdoor side heat exchanger (evaporator) allows heat transfer from ambient air;",
+      "forheat generators orcold generators designed for air heating orcooling products, and air heating or cooling product housings to be equipped with such heat or cold generators, their characteristics, the requirements for assembly, to ensure compliance with the ecodesign requirements for air heating or cooling products and, where appropriate, the list of combinations recommended by the manufacturer;",
+      "\u2018envelope loss factor\u2019 (Fenv\n) means the losses in seasonal space heating energy efficiency due to heat loss of the heat generator to areas outside the space to be heated, expressed in %;",
+      "\u2018water/brine-to-air heat pump\u2019 means a heat pump which has aheat generator that uses a vapour compression cycle driven by an electric motor or internal combustion engine and whereby the outdoor side heat exchanger (evaporator) allows heat transfer from water or brine;",
+      "\u2018warm air heater using gaseous/liquid fuels\u2019 means a warm air heater that uses aheat generator using the combustion of gaseous or liquid fuels;",
+      "\u2018warm air heater\u2019 means an air heating product that transfers the heat from a heat generator directly to air and incorporates or distributes this heat through an air-based heating system;",
+      "\u2018warm air heater using electricity\u2019 means a warm air heater that uses a heat generator using the Joule effect in resistance heating;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 8,
+      "statement_scores": [
+        2,
+        1,
+        0,
+        1,
+        1,
+        2,
+        1,
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 28,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

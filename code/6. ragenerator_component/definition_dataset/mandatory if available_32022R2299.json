@@ -1,0 +1,57 @@
+{
+  "term": "mandatory if available",
+  "celex_id": "32022R2299",
+  "original_definition": "'mandatory if available' means a category of information that Member States have to submit only if such information is available to them at the time of the submission of the biennial progress report.",
+  "generated_definition": "'mandatory if available' means mandatory if available, otherwise voluntary.",
+  "existing_sentences": {
+    "Article\u00a01": [
+      "\u2018mandatory if available\u2019 means a category of information that Member States have to submit only if such information is available to them at the time of the submission of the biennial progress report."
+    ],
+    "Article\u00a020": [
+      "Notation: X = reporting year; Miav = mandatory if available; V = voluntary.",
+      "Notation: X = reporting year; Miap =mandatory if applicable; Miav =mandatory if available.",
+      "(18)  reporting mandatory if available",
+      "Notation: X = reporting year; Miav = mandatory if available; V = voluntary",
+      "Notation: X = reporting year; Miap = mandatory if applicable; Miav = mandatory if available.",
+      "Notation: t signifies the first future year ending with 0 or 5 immediately following the reporting year; M = mandatory; Miav = mandatory if available; V = voluntary.",
+      "Notation: X = reporting year, t signifies the first future year ending with 0 or 5 immediately following the reporting year; M = mandatory; Miap = mandatory if applicable; Miav = mandatory if available.",
+      "Miav = mandatory if available",
+      "Notation: X = Reporting year; M = mandatory; Miav = mandatory if available; V = voluntary",
+      "Notation: Miav = mandatory if available;",
+      "Notation: X = reporting year; Miav = mandatory if available.",
+      "Notation: X = reporting year; M = Mandatory; Miav = mandatory if available; t = the first future year ending with 0 or 5 immediately following the reporting year.",
+      "Notation: X = Reporting year; M = mandatory; Miav = mandatory if available",
+      "Notation: X = reporting year, t signifies the first future year ending with 0 or 5 immediately following the reporting year; M = mandatory; Miap =mandatory if applicable; Miav =mandatory if available."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a01": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article\u00a020": {
+      "article_score": 14,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

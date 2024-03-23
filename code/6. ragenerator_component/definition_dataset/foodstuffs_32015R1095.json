@@ -1,0 +1,101 @@
+{
+  "term": "foodstuffs",
+  "celex_id": "32015R1095",
+  "original_definition": "'foodstuffs' means food, ingredients, beverages, including wine, and other items primarily intended for consumption which require refrigeration at specified temperatures;",
+  "generated_definition": "'foodstuffs' means any substance, whether processed or unprocessed, intended for human consumption, including raw agricultural products, processed foods, and food additives.",
+  "existing_sentences": {
+    "Article 1": [
+      "This Regulation shall apply to electric mains-operatedblast cabinets, and electric mains-operatedprofessional refrigerated storage cabinets including those sold for the refrigeration offoodstuffs and animal feed.",
+      "serve-over counters and other similar forms of cabinets primarily intended for display and sale of foodstuffs in addition to refrigeration and storage;",
+      "cabinets specifically designed only for the purpose of thawing frozen foodstuffs in a controlled manner, where the mere presence of one compartment specifically designed for thawing frozen foodstuffs in a controlled manner is not sufficient for exemption;",
+      "This Regulation shall apply to electric mains-operated blast cabinets, and electric mains-operated professional refrigerated storage cabinets including those sold for the refrigeration of foodstuffs and animal feed.",
+      "blast cabinets andblast rooms with acapacitysuperior to 300 kg offoodstuffs;",
+      "blast cabinets and blast rooms with a capacity superior to 300 kg of foodstuffs;"
+    ],
+    "Article 2": [
+      "\u2018blast cabinet\u2019 means an insulated refrigerating appliance primarily intended to rapidly cool hot foodstuffs to below 10 \u00b0C in the case of chilling and below \u2013 18 \u00b0C in the case of freezing;",
+      "\u2018blast room\u2019 means an enclosure, for which the doorway and internal space is large enough for a person to step inside, primarily intended to rapidly cool hot foodstuffs to below 10 \u00b0C in the case of chilling and below \u2013 18 \u00b0C in the case of freezing;",
+      "\u2018static air cabinet\u2019 means aprofessional refrigerated storage cabinetwithout internal forced-air circulation, specifically designed to store temperature-sensitivefoodstuffs or to avoid a drying effect on foodstuffs stored without a sealed enclosure, where a single static air compartment within the cabinet is not sufficient to designate the cabinet as a static air cabinet;",
+      "\u2018static air cabinet\u2019 means a professional refrigerated storage cabinet without internal forced-air circulation, specifically designed to store temperature-sensitive foodstuffs or to avoid a drying effect on foodstuffs stored without a sealed enclosure, where a single static air compartment within the cabinet is not sufficient to designate the cabinet as a static air cabinet;",
+      "\u2018blast room\u2019 means an enclosure, for which the doorway and internal space is large enough for a person to step inside, primarily intended to rapidly cool hotfoodstuffs to below 10 \u00b0C in the case of chilling and below \u2013 18 \u00b0C in the case of freezing;",
+      "\u2018professional refrigerated storage cabinet\u2019 means an insulated refrigerating appliance integrating one or more compartments accessible via one or more doors or drawers, capable of continuously maintaining the temperature offoodstuffs within prescribed limits at chilled or frozen operating temperature, using a vapour compression cycle, and intended for the storage of foodstuffs in non-household environments but not for the display to or access by customers;",
+      "\u2018saladette\u2019 means a professional refrigerated storage cabinet with one or more doors or drawer fronts in the vertical plane that has cut-outs in the top surface into which temporary storage bins can be inserted for easy-access storage of foodstuffs such as, but not limited to, pizza toppings or salad items;",
+      "\u2018professional refrigerated storage cabinet\u2019 means an insulated refrigerating appliance integrating one or more compartments accessible via one or more doors or drawers, capable of continuously maintaining the temperature of foodstuffs within prescribed limits at chilled or frozen operating temperature, using a vapour compression cycle, and intended for the storage of foodstuffs in non-household environments but not for the display to or access by customers;",
+      "\u2018foodstuffs\u2019 means food, ingredients, beverages, including wine, and other items primarily intended for consumption which require refrigeration at specified temperatures;",
+      "\u2018blast cabinet\u2019 means an insulated refrigerating appliance primarily intended to rapidly cool hotfoodstuffs to below 10 \u00b0C in the case of chilling and below \u2013 18 \u00b0C in the case of freezing;",
+      "\u2018saladette\u2019 means aprofessional refrigerated storage cabinetwith one or more doors or drawer fronts in the vertical plane that has cut-outs in the top surface into which temporary storage bins can be inserted for easy-access storage offoodstuffs such as, but not limited to, pizza toppings or salad items;"
+    ],
+    "Article 7": [
+      "information requirement on a professional refrigerated storage cabinet's capacity to cool down foodstuffs;",
+      "information requirement on aprofessional refrigerated storage cabinet'scapacityto cool downfoodstuffs;"
+    ],
+    "Article 8": [
+      "\u2018frozen operating temperature\u2019 means that the temperature of foodstuffs stored in the cabinet is continuously maintained at a temperature lower than \u2013 15 \u00b0C, which is understood as the highest temperature of the warmest package test;",
+      "\u2018chilled operating temperature\u2019 means that the temperature of foodstuffs stored in the cabinet is continuously maintained at a temperature between \u2013 1 \u00b0C and 5 \u00b0C;",
+      "Full loadcapacityof the cabinet expressed in kg offoodstuffs, and rounded to two decimal places;",
+      "\u2018combined cabinet\u2019 means aprofessional refrigerated storage cabinetincluding two or more compartments with different temperatures for the refrigeration and storage offoodstuffs;",
+      "Full load capacity of the cabinet expressed in kg of foodstuffs, and rounded to two decimal places;",
+      "\u2018multi-use cabinet\u2019 means that a professional refrigerated storage cabinet or separate compartment of the same cabinet may be set at different temperatures for chilled or frozen foodstuffs;",
+      "The standard temperature cycle, meaning from which temperature in \u00b0C down to which temperature in \u00b0C foodstuffs are intended to be cooled and in how many minutes;",
+      "\u2018multi-use cabinet\u2019 means that aprofessional refrigerated storage cabinetor separate compartment of the same cabinet may be set at different temperatures for chilled or frozenfoodstuffs;",
+      "\u2018net volume\u2019 means the volume containing foodstuffs within the load limit;",
+      "\u2018combined cabinet\u2019 means a professional refrigerated storage cabinet including two or more compartments with different temperatures for the refrigeration and storage of foodstuffs;",
+      "The energy consumption, in kWh per kg of foodstuffs per standard temperature cycle and rounded to two decimal places;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 5,
+      "statement_scores": [
+        0,
+        1,
+        2,
+        1,
+        0,
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 9,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        2,
+        0,
+        1,
+        1,
+        2,
+        0,
+        0,
+        0
+      ]
+    },
+    "Article 7": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

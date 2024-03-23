@@ -1,0 +1,91 @@
+{
+  "term": "intraday cross-zonal gate closure time",
+  "celex_id": "32015R1222",
+  "original_definition": "'intraday cross-zonal gate closure time' means the point in time where cross-zonal capacity allocation is no longer permitted for a given market time unit;",
+  "generated_definition": "'intraday cross-zonal gate closure time' means the time at which market participants submit all orders for a given market time unit to relevant nemos for single matching, at most one hour before the start of the relevant market time unit, taking into account relevant balancing processes in relation to operational security.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018intraday market time-frame\u2019 means the time-frame of the electricity market after intraday cross-zonal gate opening time and before intraday cross-zonal gate closure time, where for each market time unit, products are traded prior to the delivery of the traded products;",
+      "\u2018intraday cross-zonal gate closure time\u2019 means the point in time where cross-zonal capacity allocation is no longer permitted for a given market time unit;",
+      "\u2018intraday market time-frame\u2019 means the time-frame of the electricity market afterintraday cross-zonal gate opening timeand beforeintraday cross-zonal gate closure time, where for each market time unit, products aretraded prior to the delivery of the traded products;",
+      "\u2018intraday cross-zonal gate closure time\u2019 means the point in time where cross-zonal capacity allocation is no longer permitted for a givenmarket time unit;"
+    ],
+    "Article 8": [
+      "propose the intraday cross-zonal gate opening and intraday cross-zonal gate closure times in accordance with Article 59;"
+    ],
+    "Article 9": [
+      "the intraday cross\u2013zonal gate opening and intraday cross-zonal gate closure times in accordance with Article 59(1);"
+    ],
+    "Article 51": [
+      "1.   From theintraday cross-zonal gate opening timeuntil theintraday cross-zonal gate closure time, thecontinuous trading matching algorithmshall determine whichorders to select for matching such that matching:",
+      "1.   From the intraday cross-zonal gate opening time until the intraday cross-zonal gate closure time, the continuous trading matching algorithm shall determine which orders to select for matching such that matching:"
+    ],
+    "Article 59": [
+      "3.   One intraday cross-zonal gate closure time shall be established for each market time unit for a given bidding zone border. It shall be at most one hour before the start of the relevant market time unit and shall take into account the relevant balancing processes in relation to operational security.",
+      "5.   Before the intraday cross-zonal gate closure time, market participants shall submit to relevant NEMOs all the orders for a given market time unit. All NEMOs shall submit the orders for a given market time unit for single matching immediately after the orders have been received from market participants.",
+      "5.   Before theintraday cross-zonal gate closure time, market participants shall submit to relevant NEMOs all theorders for a givenmarket timeunit. All NEMOs shall submit the orders for a given market time unit for singlematching immediately after the orders have been received from market participants.",
+      "3.   Oneintraday cross-zonal gate closure timeshall be established for eachmarket timeunit for a given bidding zone border. It shall be at most one hour before the start of the relevant market time unit and shall take into account the relevant balancing processes in relation to operational security.",
+      "4.   The intraday energy trading for a given market time unit for a bidding zone border shall start at the latest at the intraday cross-zonal gate opening time of the relevant bidding zone borders and shall be allowed until the intraday cross-zonal gate closure time.",
+      "4.   The intraday energy trading for a givenmarket timeunit for a bidding zone bordershall start at the latest at theintraday cross-zonal gate opening timeof the relevant bidding zone borders and shall be allowed until theintraday cross-zonal gate closure time.",
+      "1.   By 16 months after the entry into force of this Regulation, all TSOs shall be responsible for proposing the intraday cross-zonal gate opening and intraday cross-zonal gate closure times. The proposal shall be subject to consultation in accordance with Article 12.",
+      "2.   The intraday cross-zonal gate closure time shall be set in such a way that it:"
+    ],
+    "Article 63": [
+      "2.   Complementary regional intraday auctions may be implemented within or between bidding zones in addition to the single intraday coupling solution referred to in Article 51. In order to hold regional intraday auctions, continuous trading within and between the relevant bidding zones may be stopped for a limited period of time before the intraday cross-zonal gate closure time, which shall not exceed the minimum time required to hold the auction and in any case 10 minutes.",
+      "2.   Complementary regional intraday auctions may be implemented within or between bidding zones in addition to thesingle intraday couplingsolution referred to in Article 51. Inorderto hold regional intraday auctions, continuous trading within and between the relevant bidding zones may be stopped for a limited period of time before theintraday cross-zonal gate closure time, which shall not exceed the minimum time required to hold the auction and in any case 10 minutes."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 9": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 51": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 59": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 63": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

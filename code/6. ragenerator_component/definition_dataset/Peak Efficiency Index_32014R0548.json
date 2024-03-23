@@ -1,0 +1,56 @@
+{
+  "term": "Peak Efficiency Index",
+  "celex_id": "32014R0548",
+  "original_definition": "'Peak Efficiency Index' means the maximum value of the ratio of the transmitted apparent power of a transformer minus the electrical losses to the transmitted apparent power of the transformer.",
+  "generated_definition": "'Peak Efficiency Index' means the ratio of transmitted apparent power minus electrical losses to transmitted apparent power.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Peak Efficiency Index\u2019 (PEI) means the maximum value of the ratio of the transmitted apparent power of a transformer minus the electrical losses to the transmitted apparent power of the transformer."
+    ],
+    "Article 7": [
+      "the possibility to set out minimum values of the Peak Efficiency Index for all medium power transformers, including those with a rated power below 3 150 kVA,"
+    ],
+    "Article 8": [
+      "Table I.8: Minimum Peak Efficiency Index requirements for dry-type large power transformers",
+      "Table I.7: Minimum Peak Efficiency Index requirements for liquid immersed large power transformers",
+      "Medium power transformers shall comply with the maximum allowed load and no-load losses or the Peak Efficiency Index (PEI) values set out in Tables I.1 to I.5, excluding medium power pole-mounted transformers, which shall comply with the maximum allowed load and no load losses values set out in Table I.6.",
+      "The methodology for calculating the Peak Efficiency Index (PEI) for medium and large power transformers is based on the ratio of the transmitted apparent power of a transformer minus the electrical losses to the transmitted apparent power of the transformer.",
+      "Table I.4: Minimum Peak Efficiency Index (PEI) values for liquid immersed medium power transformers",
+      "Medium power transformers shall comply with the maximum allowed load and no-load losses or thePeak Efficiency Index (PEI) values set out in Tables I.1 to I.5, excluding medium power pole-mounted transformers, which shall comply with the maximum allowed load and no load losses values set out in Table I.6.",
+      "Table I.5: Minimum Peak Efficiency Index (PEI) values for dry type medium power transformers",
+      "for medium power (where applicable) and large power transformers, the value of the Peak Efficiency Index and the power at which it occurs;",
+      "Minimum Peak Efficiency Index (%)"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 7": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 8": {
+      "article_score": 9,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

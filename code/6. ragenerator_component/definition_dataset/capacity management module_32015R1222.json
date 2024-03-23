@@ -1,0 +1,55 @@
+{
+  "term": "capacity management module",
+  "celex_id": "32015R1222",
+  "original_definition": "'capacity management module' means a system containing up-to-date information on available cross-zonal capacity for the purpose of allocating intra-day cross-zonal capacity;",
+  "generated_definition": "'capacity management module' means a module for managing capacity allocation, determining which orders to select for matching and which explicit capacity requests to accept based on a ranking of price and time of entrance, provided by tsos in addition to implicit allocation via the electricity trade, in response to joint requests by regulatory authorities of member states on bidding zone borders.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018capacity management module\u2019 means a system containing up-to-date information on available cross-zonal capacity for the purpose of allocating intra-day cross-zonal capacity;"
+    ],
+    "Article 63": [
+      "all cross-zonal capacity shall be allocated through the capacity management module;"
+    ],
+    "Article 64": [
+      "1.   Where jointly requested by the regulatory authorities of the Member States of each of the bidding zone borders concerned, the TSOs concerned shall also provide explicit allocation, in addition to implicit allocation, that is to say, capacity allocation separate from the electricity trade, via the capacity management module on bidding zone borders.",
+      "1.   Where jointly requested by the regulatory authorities of the Member States of each of the bidding zone borders concerned, the TSOs concerned shall also provide explicit allocation, in addition to implicit allocation, that is to say, capacity allocation separate from the electricitytrade, via thecapacity management module on bidding zone borders.",
+      "3.   When establishing the capacity management module, discrimination shall be avoided when simultaneously allocating capacity implicitly and explicitly. The capacity management module shall determine which orders to select for matching and which explicit capacity requests to accept, according to a ranking of price and time of entrance.",
+      "3.   When establishing thecapacity management module, discrimination shall be avoided when simultaneously allocating capacity implicitly and explicitly. The capacity management module shall determine whichorders to select formatching and which explicit capacity requests to accept, according to a ranking of price and time of entrance."
+    ],
+    "Article 67": [
+      "A request for explicit cross-zonal capacity may be submitted by a market participant only for an interconnection where the explicit allocation is applicable. For each request for explicit capacity the market participant shall submit the volume and the price to the capacity management module. The price and volume of explicit allocated capacity shall be made publicly available by the relevant TSOs."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 63": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 64": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        2,
+        2
+      ]
+    },
+    "Article 67": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

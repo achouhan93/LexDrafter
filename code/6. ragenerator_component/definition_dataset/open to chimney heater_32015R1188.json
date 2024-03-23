@@ -1,0 +1,24 @@
+{
+  "term": "open to chimney heater",
+  "celex_id": "32015R1188",
+  "original_definition": "'open to chimney heater' means a local space heater using gaseous or liquid fuels intended to sit under a chimney or in a fireplace without sealing between the product and the chimney or fireplace opening, and allowing the products of combustion pass unrestricted from the fire bed to the chimney or flue;",
+  "generated_definition": "'open to chimney heater' means a heating appliance that is connected to a chimney to remove combustion products.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018open to chimney heater\u2019 means a local space heater using gaseous or liquid fuels intended to sit under a chimney or in a fireplace without sealing between the product and the chimney or fireplace opening, and allowing the products of combustion pass unrestricted from the fire bed to the chimney or flue;",
+      "\u2018open to chimney heater\u2019 means alocal space heater using gaseous or liquid fuels intended to sit under a chimney or in a fireplace without sealing between the product and the chimney or fireplace opening, and allowing the products of combustion pass unrestricted from the fire bed to the chimney or flue;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

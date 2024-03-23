@@ -1,0 +1,57 @@
+{
+  "term": "FRR availability requirements",
+  "celex_id": "32017R1485",
+  "original_definition": "'FRR availability requirements' means a set of requirements defined by the TSOs of a LFC block regarding the availability of FRR;",
+  "generated_definition": "'FRR availability requirements' means requirements for the availability of frequency restoration reserve (frr) provision, including the minimum levels of availability and response times for frr units and groups.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018FRR availability requirements\u2019 means a set of requirements defined by the TSOs of a LFC block regarding the availability of FRR;"
+    ],
+    "Article 157": [
+      "all TSOs of aLFC blockin the CE and Nordic synchronous areas shall determine thereserve capacityonFRRof the LFC block sufficient to respect the currentFRCE target parametersin Article 128 for the time period referred to in point (a) based at least on a probabilistic methodology. In using that probabilistic methodology, the TSOs shall take into account the restrictions defined in the agreements for the sharing orexchange of reservesdue to possible violations ofoperational securityand theFRR availability requirements. All TSOs of a LFC block shall take into account any expected significant changes to the distribution ofLFC block imbalances or take into account other relevant influencing factors relative to the time period considered;",
+      "all TSOs of a LFC block in the CE and Nordic synchronous areas shall determine the reserve capacity on FRR of the LFC block sufficient to respect the current FRCE target parameters in Article 128 for the time period referred to in point (a) based at least on a probabilistic methodology. In using that probabilistic methodology, the TSOs shall take into account the restrictions defined in the agreements for the sharing or exchange of reserves due to possible violations of operational security and the FRR availability requirements. All TSOs of a LFC block shall take into account any expected significant changes to the distribution of LFC block imbalances or take into account other relevant influencing factors relative to the time period considered;"
+    ],
+    "Article 158": [
+      "a FRR provider shall fulfil the FRR availability requirements; and",
+      "5.   Each reserve instructing TSO shall ensure the monitoring of the compliance with the FRR minimum technical requirements in paragraph 1, the FRR availability requirements in paragraph 2, the ramping rate requirements in paragraph 1 and the connection requirements in paragraph 3 by its FRR providing units and FRR providing groups.",
+      "ensure that its FRR providing units and FRR providing groups fulfil the FRR technical minimum requirements, the FRR availability requirements and the ramping rate requirements in paragraphs 1 to 3; and",
+      "2.   All TSOs of a LFC block shall specify FRR availability requirements and requirements on the control quality of FRR providing units and FRR providing groups for their LFC block in the LFC block operational agreement pursuant to Article 119."
+    ],
+    "Article 159": [
+      "2.   A potential FRR provider shall demonstrate to the reserve connecting TSO or the TSO designated by the reserve connecting TSO in the FRR exchange agreement that it complies with the FRR minimum technical requirements in Article 158(1), the FRR availability requirements in Article 158(2), the ramping rate requirements in Article 158(1) and the connection requirements in Article 158(3) by completing successfully the prequalification process of potential FRR providing units or FRR providing groups, described in paragraphs 3 to 6 of this Article."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 157": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 158": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 159": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "term": "standalone circulator",
+  "celex_id": "32009R0641",
+  "original_definition": "'standalone circulator' means a circulator designed to operate independently from the product;",
+  "generated_definition": "'standalone circulator' means a fan or pump that is not integrated into a larger product or system and operates independently.",
+  "existing_sentences": {
+    "Article 1": [
+      "1.   This Regulation establishes ecodesign requirements for the placing on the market of glandlessstandalone circulators andglandless circulators integrated inproducts.",
+      "1.   This Regulation establishes ecodesign requirements for the placing on the market of glandless standalone circulators and glandless circulators integrated in products."
+    ],
+    "Article 2": [
+      "\u2018standalone circulator\u2019 means a circulator designed to operate independently from the product;",
+      "\u2018standalone circulator\u2019 means a circulator designed to operate independently from theproduct;"
+    ],
+    "Article 8": [
+      "From 1 August 2015, glandless standalone circulators and glandless circulators integrated in products shall have an energy efficiency index (EEI) of not more than 0,23, calculated in accordance with Annex II, point 2.",
+      "from 1 August 2015, glandless standalone circulators and glandless circulators integrated in products shall meet the efficiency level defined in Annex I, point 1(2).",
+      "From 1 August 2015, glandlessstandalone circulators andglandless circulators integrated inproducts shall have an energy efficiency index (EEI) of not more than 0,23, calculated in accordance with Annex II, point 2.",
+      "from 1 August 2015, glandlessstandalone circulators andglandless circulators integrated inproducts shall meet the efficiency level defined in Annex I, point 1(2)."
+    ],
+    "Not Article": [
+      "implementing Directive 2005/32/EC of the European Parliament and of the Council with regard to ecodesign requirements for glandlessstandalone circulators andglandless circulators integrated inproducts",
+      "implementing Directive 2005/32/EC of the European Parliament and of the Council with regard to ecodesign requirements for glandless standalone circulators and glandless circulators integrated in products"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

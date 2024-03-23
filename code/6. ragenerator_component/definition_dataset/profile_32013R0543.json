@@ -1,0 +1,35 @@
+{
+  "term": "profile",
+  "celex_id": "32013R0543",
+  "original_definition": "'profile' means a geographical boundary between one bidding zone and several neighbouring bidding zones;",
+  "generated_definition": "'profile' means a summary of an individual's or organization's background, skills, and experience, used for various purposes such as employment, education, or business.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018profile\u2019 means a geographical boundary between one bidding zone and several neighbouring bidding zones;",
+      "\u2018profile\u2019 means a geographical boundary between onebidding zone and several neighbouring bidding zones;"
+    ],
+    "Article 9": [
+      "TSOs shall establish and provide information on future changes to network elements and interconnector projects including expansion or dismantling in their transmission grids within the next three years, to the ENTSO for Electricity. This information shall only be given for measures expected to have an impact of at least 100 MW oncross zonal capacitybetweenbidding zones or onprofiles at least during onemarket time unit. The information shall include:",
+      "TSOs shall establish and provide information on future changes to network elements and interconnector projects including expansion or dismantling in their transmission grids within the next three years, to the ENTSO for Electricity. This information shall only be given for measures expected to have an impact of at least 100 MW on cross zonal capacity between bidding zones or on profiles at least during one market time unit. The information shall include:"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

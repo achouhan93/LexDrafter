@@ -1,0 +1,85 @@
+{
+  "term": "cooker",
+  "celex_id": "32015R1185",
+  "original_definition": "'cooker' means a solid fuel local space heater, using solid fuels, that integrates in one enclosure the function of a solid fuel local space heater, and a hob an oven or both to be used for preparation of food and which is sealed to a chimney or fireplace opening or requires a flue duct for the evacuation of products of combustion;",
+  "generated_definition": "'cooker' means an appliance for cooking food by heat, typically using gas, electricity, or ceramic heating elements.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018cooker\u2019 means a solid fuel local space heater, using solid fuels, that integrates in one enclosure the function of a solid fuel local space heater, and a hob an oven or both to be used for preparation of food and which is sealed to a chimney or fireplace opening or requires a flue duct for the evacuation of products of combustion;",
+      "\u2018cooker\u2019 means asolid fuel local space heater, using solid fuels, that integrates in one enclosure the function of a solid fuel local space heater, and a hob an oven or both to be used for preparation of food and which is sealed to a chimney or fireplace opening or requires a flue duct for the evacuation of products of combustion;"
+    ],
+    "Article 9": [
+      "carbon monoxide (CO) shall not exceed the declared value by more than 275 mg/m3 at 13 % O2 for open fronted solid fuel local space heaters, closed fronted solid fuel local space heaters using solid fuel other than compressed wood in the form of pellets and cookers and 60 mg/m3 at 13 % O2 for closed fronted solid fuel local space heaters using compressed wood in the form of pellets;",
+      "emissions of NOx byopen fronted solid fuel local space heaters,closed fronted solid fuel local space heaters andcookers usingfossil solid fuel shall not exceed 300 mg/m3 expressed as NO2 at 13 % O2.",
+      "benchmark for emissions of CO by open fronted solid fuel local space heaters, closed fronted solid fuel local space heaters using solid fuel other than compressed wood in the form of pellets and cookers: 500 mg/m3 at 13 % O2;",
+      "emissions of NOx byopen fronted solid fuel local space heaters,closed fronted solid fuel local space heaters andcookers usingbiomass shall not exceed 200 mg/m3 expressed as NO2 at 13 % O2;",
+      "emissions of NOx by open fronted solid fuel local space heaters, closed fronted solid fuel local space heaters and cookers using biomass shall not exceed 200 mg/m3 expressed as NO2 at 13 % O2;",
+      "benchmark for emissions of NOx byopen fronted solid fuel local space heaters,closed fronted solid fuel local space heaters andcookers: 50 mg/m3 at 13 % O2.",
+      "benchmark for emissions of OGCs by open fronted solid fuel local space heaters, closed fronted solid fuel local space heaters using solid fuel other than compressed wood in the form of pellets and cookers: 30 mg/m3 at 13 % O2;",
+      "particulate matter (PM) shall not exceed the declared value by more than 20 mg/m3 at 13 % O2 for open fronted solid fuel local space heaters, closed fronted solid fuel local space heaters using solid fuel other than compressed wood in the form of pellets and cookers and 10 mg/m3 at 13 % O2 for closed fronted solid fuel local space heaters using compressed wood in the form of pellets when measured according to the method described in Annex III, point 4(a)(i)(1) and by more than 1 g/kg when measured according to the method described in Annex III, point 4(a)(i)(2) or by more than 0,8 g/kg when measured according to the method described in Annex III, point 4(a)(i)(3);",
+      "Forcookers an example of a good combination is an existing model with a seasonal space heating efficiency of 78 %, emissions ofparticulate matter of 38 mg/m3 at 13 % O2, emissions of organic gaseous compounds of 66 mg/m3 at 13 % O2, emissions of carbon monoxide of 1 375 mg/m3 at 13 % O2 and emissions of nitrogen oxides of 71 mg/m3 at 13 % O2.",
+      "benchmark for emissions of CO byopen fronted solid fuel local space heaters,closed fronted solid fuel local space heaters using solid fuel other than compressed wood in the form of pellets andcookers: 500 mg/m3 at 13 % O2;",
+      "benchmark for emissions of OGCs byopen fronted solid fuel local space heaters,closed fronted solid fuel local space heaters using solid fuel other than compressed wood in the form of pellets andcookers: 30 mg/m3 at 13 % O2;",
+      "emissions of OGCs byopen fronted solid fuel local space heaters,closed fronted solid fuel local space heaters using solid fuel other than compressed wood in the form of pellets andcookers shall not exceed 120 mgC/m3 at 13 % O2;",
+      "For cookers an example of a good combination is an existing model with a seasonal space heating efficiency of 78 %, emissions of particulate matter of 38 mg/m3 at 13 % O2, emissions of organic gaseous compounds of 66 mg/m3 at 13 % O2, emissions of carbon monoxide of 1 375 mg/m3 at 13 % O2 and emissions of nitrogen oxides of 71 mg/m3 at 13 % O2.",
+      "particulate matter(PM) shall not exceed the declared value by more than 20 mg/m3 at 13 % O2 foropen fronted solid fuel local space heaters,closed fronted solid fuel local space heaters using solid fuel other than compressed wood in the form of pellets andcookers and 10 mg/m3 at 13 % O2 for closed fronted solid fuel local space heaters using compressed wood in the form of pellets when measured according to the method described in Annex III, point 4(a)(i)(1) and by more than 1 g/kg when measured according to the method described in Annex III, point 4(a)(i)(2) or by more than 0,8 g/kg when measured according to the method described in Annex III, point 4(a)(i)(3);",
+      "organic gaseous compounds (OGCs) shall not exceed the declared value by more than 25 mgC/m3 at 13 % O2 foropen fronted solid fuel local space heaters,closed fronted solid fuel local space heaters using solid fuel other than compressed wood in the form of pellets andcookers and 15 mgC/m3 at 13 % O2 for closed fronted solid fuel local space heaters using compressed wood in the form of pellets;",
+      "benchmark for emissions of PM by open fronted solid fuel local space heaters, closed fronted solid fuel local space heaters using solid fuel other than compressed wood in the form of pellets and cookers: 20 mg/m3 at 13 % O2 when measured according to the method described in Annex III, point 4(a)(i)(1);",
+      "particulate matter (PM) shall not exceed the declared value by more than 20 mg/m3 at 13 % O2 for open fronted solid fuel local space heaters, closed fronted solid fuel local space heaters using solid fuel other than compressed wood in the form of pellets and cookers and 10 mg/m3 at 13 % O2 for closed fronted solid fuel local space heaters using compressed wood in the form of pellets when measured according to the method described in Annex III, point 4(a)(i)(1) or by more than 1 g/kg when measured according to the method described in Annex III, point 4(a)(i)(2) or by more than 0,8 g/kg when measured according to the method described in Annex III, point 4(a)(i)(3);",
+      "benchmark for emissions of NOx by open fronted solid fuel local space heaters, closed fronted solid fuel local space heaters and cookers: 50 mg/m3 at 13 % O2.",
+      "seasonal space heating energy efficiency of cookers shall not be less than 65 %.",
+      "benchmark for seasonal space heating energy efficiency ofcookers usingsolid fuel: 75 %.",
+      "benchmark for seasonal space heating energy efficiency of cookers using solid fuel: 75 %.",
+      "organic gaseous compounds (OGCs) shall not exceed the declared value by more than 25 mgC/m3 at 13 % O2 for open fronted solid fuel local space heaters, closed fronted solid fuel local space heaters using solid fuel other than compressed wood in the form of pellets and cookers and 15 mgC/m3 at 13 % O2 for closed fronted solid fuel local space heaters using compressed wood in the form of pellets;",
+      "carbon monoxide (CO) shall not exceed the declared value by more than 275 mg/m3 at 13 % O2 foropen fronted solid fuel local space heaters,closed fronted solid fuel local space heaters using solid fuel other than compressed wood in the form of pellets andcookers and 60 mg/m3 at 13 % O2 for closed fronted solid fuel local space heaters using compressed wood in the form of pellets;",
+      "emissions of NOx by open fronted solid fuel local space heaters, closed fronted solid fuel local space heaters and cookers using fossil solid fuel shall not exceed 300 mg/m3 expressed as NO2 at 13 % O2.",
+      "benchmark for emissions of PM byopen fronted solid fuel local space heaters,closed fronted solid fuel local space heaters using solid fuel other than compressed wood in the form of pellets andcookers: 20 mg/m3 at 13 % O2 when measured according to the method described in Annex III, point 4(a)(i)(1);",
+      "particulate matter(PM) shall not exceed the declared value by more than 20 mg/m3 at 13 % O2 foropen fronted solid fuel local space heaters,closed fronted solid fuel local space heaters using solid fuel other than compressed wood in the form of pellets andcookers and 10 mg/m3 at 13 % O2 for closed fronted solid fuel local space heaters using compressed wood in the form of pellets when measured according to the method described in Annex III, point 4(a)(i)(1) or by more than 1 g/kg when measured according to the method described in Annex III, point 4(a)(i)(2) or by more than 0,8 g/kg when measured according to the method described in Annex III, point 4(a)(i)(3);",
+      "emissions of OGCs by open fronted solid fuel local space heaters, closed fronted solid fuel local space heaters using solid fuel other than compressed wood in the form of pellets and cookers shall not exceed 120 mgC/m3 at 13 % O2;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "term": "minibar",
+  "celex_id": "32019R2016",
+  "original_definition": "'minibar' means a refrigerating appliance with a total volume of maximum 60 litres, which is primary intended for the storage and sales of foodstuffs in hotel rooms and similar premises;",
+  "generated_definition": "'minibar' means a small refrigerator or bar area in a hotel room or apartment, typically stocked with a limited selection of drinks and snacks for guests' convenience.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018refrigerating appliance with a direct sales function\u2019 means a refrigerating appliance used for the functions of displaying and selling items at specified temperatures below the ambient temperature to customers, accessible directly through open sides or via one or more doors, or drawers, or both, including also cabinets with areas used for storage or assisted serving of items not accessible by the customers and excludingminibars andwine storage appliances, as defined in Commission Regulation (EU) 2019/2024 (10);",
+      "\u2018minibar\u2019 means arefrigerating appliancewith atotal volumeof maximum 60 litres, which is primary intended for the storage and sales offoodstuffs in hotel rooms and similar premises;",
+      "\u2018minibar\u2019 means a refrigerating appliance with a total volume of maximum 60 litres, which is primary intended for the storage and sales of foodstuffs in hotel rooms and similar premises;",
+      "\u2018refrigerating appliance with a direct sales function\u2019 means a refrigerating appliance used for the functions of displaying and selling items at specified temperatures below the ambient temperature to customers, accessible directly through open sides or via one or more doors, or drawers, or both, including also cabinets with areas used for storage or assisted serving of items not accessible by the customers and excluding minibars and wine storage appliances, as defined in Commission Regulation (EU) 2019/2024 (10);"
+    ],
+    "Not Article": [
+      "Wine storage appliances and low noise refrigerating appliances (such as minibars), including those with transparent doors, do not have a direct sales function. Wine storage appliances are usually either used in household environments or in restaurants, whereas minibars are usually used in hotel rooms. Therefore, wine storage appliances and minibars, including those with transparent doors should be covered by this Regulation.",
+      "Wine storage appliances and low noiserefrigerating appliances (such asminibars), including those with transparent doors, do not have a direct sales function. Wine storage appliances are usually either used in household environments or in restaurants, whereas minibars are usually used in hotel rooms. Therefore, wine storage appliances and minibars, including those with transparent doors should be covered by this Regulation."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Not Article": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

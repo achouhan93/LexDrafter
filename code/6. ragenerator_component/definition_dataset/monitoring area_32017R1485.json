@@ -1,0 +1,108 @@
+{
+  "term": "monitoring area",
+  "celex_id": "32017R1485",
+  "original_definition": "'monitoring area' means a part of the synchronous area or the entire synchronous area, physically demarcated by points of measurement at interconnectors to other monitoring areas, operated by one or more TSOs fulfilling the obligations of a monitoring area;",
+  "generated_definition": "'monitoring area' means a geographical area where tsos continuously calculate and monitor real-time active power interchange, with each network element part of only one monitoring area, lfc area, and lfc block.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018monitoring area\u2019 means a part of the synchronous area or the entire synchronous area, physically demarcated by points of measurement at interconnectors to other monitoring areas, operated by one or more TSOs fulfilling the obligations of a monitoring area;",
+      "\u2018reserve connecting TSO\u2019 means the TSO responsible for themonitoring areato which areserve providing unitorreserve providing group is connected;",
+      "\u2018reserve connecting TSO\u2019 means the TSO responsible for the monitoring area to which a reserve providing unit or reserve providing group is connected;"
+    ],
+    "Article 16": [
+      "3.   The data provided by the TSOs shall cover the preceding year. The information concerning synchronous areas, LFC blocks, LFC areas and monitoring areas in subparagraphs (a), (b) and (c) shall be reported once. Where these areas change, this information shall be reported by 1 March of the following year.",
+      "the identification of LFC blocks that are not in the Member State and that contain LFC areas and monitoring areas that are in the Member State;",
+      "the identification of the LFC blocks, LFC areas and monitoring areas in the Member State;",
+      "the identification of theLFC blocks,LFC areas andmonitoring areas in the Member State;",
+      "the identification ofLFC blocks that are not in the Member State and that containLFC areas andmonitoring areas that are in the Member State;",
+      "3.   The data provided by the TSOs shall cover the preceding year. The information concerning synchronous areas,LFC blocks,LFC areas andmonitoring areas in subparagraphs (a), (b) and (c) shall be reported once. Where these areas change, this information shall be reported by 1 March of the following year."
+    ],
+    "Article 121": [
+      "Monitoring area operational agreement",
+      "By 12 months after entry into force of this Regulation, all TSOs of each monitoring area shall establish a monitoring area operational agreement that shall include at least the allocation of responsibilities between TSOs within the same monitoring area in accordance with Article 141(7)."
+    ],
+    "Article 141": [
+      "each network element is part of only onemonitoring area, only oneLFC areaand only oneLFC block.",
+      "7.   All TSOs of each monitoring area shall specify in the monitoring area operational agreement the allocation of responsibilities between TSOs in the monitoring area for the implementation of the obligation set out in paragraph 3.",
+      "a monitoring area corresponds to or is part of only one LFC area;",
+      "each network element is part of only one monitoring area, only one LFC area and only one LFC block.",
+      "3.   All TSOs of each monitoring area shall continuously calculate and monitor the real-time active power interchange of the monitoring area.",
+      "amonitoring areacorresponds to or is part of only oneLFC area;"
+    ],
+    "Article 143": [
+      "4.   Where aLFC areaconsists of more than onemonitoring area, all TSOs of the LFC area shall appoint one TSO in the LFC area operational agreement responsible for the implementation and operation of thefrequency restoration process.",
+      "4.   Where a LFC area consists of more than one monitoring area, all TSOs of the LFC area shall appoint one TSO in the LFC area operational agreement responsible for the implementation and operation of the frequency restoration process."
+    ],
+    "Article 145": [
+      "3.   If anLFC areaconsists of more than onemonitoring area, all TSOs of the LFC area shall set out a process for the implementation of an aFRPand an mFRP in the LFC area operational agreement. Where anLFC blockconsists of more than one LFC area, all TSOs of the LFC areas shall set out a process for the implementation of an mFRP in theLFC block operational agreement.",
+      "3.   If an LFC area consists of more than one monitoring area, all TSOs of the LFC area shall set out a process for the implementation of an aFRP and an mFRP in the LFC area operational agreement. Where an LFC block consists of more than one LFC area, all TSOs of the LFC areas shall set out a process for the implementation of an mFRP in the LFC block operational agreement."
+    ],
+    "Article 186": [
+      "information on theprocess activation structureof the synchronous area, including at least information on themonitoring areas,LFC areas andLFC blocks defined and their respective TSOs; and",
+      "information on the process activation structure of the synchronous area, including at least information on the monitoring areas, LFC areas and LFC blocks defined and their respective TSOs; and"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 16": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 121": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        3
+      ]
+    },
+    "Article 141": {
+      "article_score": 9,
+      "statement_scores": [
+        1,
+        3,
+        1,
+        1,
+        2,
+        1
+      ]
+    },
+    "Article 143": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 145": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 186": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

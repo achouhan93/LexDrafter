@@ -1,0 +1,63 @@
+{
+  "term": "energy performance of a building",
+  "celex_id": "32010L0031",
+  "original_definition": "'energy performance of a building' means the calculated or measured amount of energy needed to meet the energy demand associated with a typical use of the building, which includes, inter alia, energy used for heating, cooling, ventilation, hot water and lighting;",
+  "generated_definition": "'energy performance of a building' means the energy consumption of a building or building unit expressed in terms of energy performance certificates, including recommendations for cost-optimal improvement.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018energy performance certificate\u2019 means a certificate recognised by a Member State or by a legal person designated by it, which indicates the energy performance of a building or building unit, calculated according to a methodology adopted in accordance with Article 3;",
+      "\u2018energy performance certificate\u2019 means a certificate recognised by a Member State or by a legal person designated by it, which indicates theenergy performance of a buildingorbuilding unit, calculated according to a methodology adopted in accordance with Article 3;",
+      "\u2018energy performance of a building\u2019 means the calculated or measured amount of energy needed to meet the energy demand associated with a typical use of the building, which includes, inter alia, energy used for heating, cooling, ventilation, hot water and lighting;"
+    ],
+    "Article 11": [
+      "1.   Member States shall lay down the necessary measures to establish a system of certification of the energy performance ofbuildings. Theenergy performance certificateshall include theenergy performance of a buildingand reference values such as minimum energy performance requirements in order to make it possible for owners or tenants of the building orbuilding unit to compare and assess its energy performance.",
+      "2.   Theenergy performance certificateshall include recommendations for the cost-optimal or cost-effective improvement of theenergy performance of a buildingorbuilding unit, unless there is no reasonable potential for such improvement compared to the energy performance requirements in force.",
+      "1.   Member States shall lay down the necessary measures to establish a system of certification of the energy performance of buildings. The energy performance certificate shall include the energy performance of a building and reference values such as minimum energy performance requirements in order to make it possible for owners or tenants of the building or building unit to compare and assess its energy performance.",
+      "2.   The energy performance certificate shall include recommendations for the cost-optimal or cost-effective improvement of the energy performance of a building or building unit, unless there is no reasonable potential for such improvement compared to the energy performance requirements in force."
+    ],
+    "Article 31": [
+      "The energy performance of a building shall be determined on the basis of the calculated or actual annual energy that is consumed in order to meet the different needs associated with its typical use and shall reflect the heating energy needs and cooling energy needs (energy needed to avoid overheating) to maintain the envisaged temperature conditions of the building, and domestic hot water needs.",
+      "Theenergy performance of a building shall be determined on the basis of the calculated or actual annual energy that is consumed in order to meet the different needs associated with its typical use and shall reflect the heating energy needs and cooling energy needs (energy needed to avoid overheating) to maintain the envisaged temperature conditions of the building, and domestic hot water needs."
+    ],
+    "Not Article": [
+      "The energy performance of buildings should be calculated on the basis of a methodology, which may be differentiated at national and regional level. That includes, in addition to thermal characteristics, other factors that play an increasingly important role such as heating and air-conditioning installations, application of energy from renewable sources, passive heating and cooling elements, shading, indoor air-quality, adequate natural light and design of the building. The methodology for calculating energy performance should be based not only on the season in which heating is required, but should cover the annual energy performance of a building. That methodology should take into account existing European standards.",
+      "The energy performance ofbuildings should be calculated on the basis of a methodology, which may be differentiated at national and regional level. That includes, in addition to thermal characteristics, other factors that play an increasingly important role such as heating and air-conditioning installations, application ofenergy from renewable sources, passive heating and cooling elements, shading, indoor air-quality, adequate natural light and design of the building. The methodology for calculating energy performance should be based not only on the season in which heating is required, but should cover the annualenergy performance of a building. That methodology should take into account existingEuropean standards."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1,
+        0
+      ]
+    },
+    "Article 11": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 31": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

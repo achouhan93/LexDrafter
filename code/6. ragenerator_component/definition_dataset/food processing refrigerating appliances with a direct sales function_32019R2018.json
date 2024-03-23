@@ -1,0 +1,33 @@
+{
+  "term": "food processing refrigerating appliances with a direct sales function",
+  "celex_id": "32019R2018",
+  "original_definition": "'food processing refrigerating appliances with a direct sales function' means a refrigerating appliance with a direct sales function specifically tested and approved for carrying out food processing such as ice-cream makers or microwave-equipped refrigerated vending machines or ice makers; this does not include refrigerating appliances with a direct sales function equipped with one compartment specifically designed for carrying out food processing which is equivalent to less than 20 % of the appliance total net volume;",
+  "generated_definition": "'food processing refrigerating appliances with a direct sales function' means appliances designed for food processing and refrigeration, with the ability to sell products directly to consumers.",
+  "existing_sentences": {
+    "Article 1": [
+      "food processing refrigerating appliances with a direct sales function;"
+    ],
+    "Article 2": [
+      "\u2018food processing refrigerating appliances with a direct sales function\u2019 means a refrigerating appliance with a direct sales function specifically tested and approved for carrying out food processing such as ice-cream makers or microwave-equipped refrigerated vending machines or ice makers; this does not include refrigerating appliances with a direct sales function equipped with one compartment specifically designed for carrying out food processing which is equivalent to less than 20 % of the appliance total net volume;",
+      "\u2018food processing refrigerating appliances with a direct sales function\u2019 means arefrigerating appliance with a direct sales functionspecifically tested and approvedfor carrying out food processing such as ice-cream makers or microwave-equippedrefrigerated vending machines or ice makers; this does not include refrigerating appliances with a direct sales function equipped with onecompartmentspecifically designed for carrying out food processing which is equivalent to less than 20 % of the appliance totalnet volume;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

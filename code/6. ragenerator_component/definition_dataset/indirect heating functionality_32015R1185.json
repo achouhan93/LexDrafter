@@ -1,0 +1,35 @@
+{
+  "term": "indirect heating functionality",
+  "celex_id": "32015R1185",
+  "original_definition": "'indirect heating functionality' means the product is capable of transferring part of the total heat output to a heat transfer fluid, for use as space heating or domestic hot water generation;",
+  "generated_definition": "'indirect heating functionality' means the electric power consumption of a solid fuel local space heater without consideration of a circulator's power consumption, expressed in kw, when providing nominal or minimum heat output.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018indirect heating functionality\u2019 means the product is capable of transferring part of the total heat output to a heat transfer fluid, for use as space heating or domestic hot water generation;"
+    ],
+    "Article 9": [
+      "Indirect heating functionality:[yes/no]",
+      "\u2018electric power requirement at nominal heat output\u2019 (elmax) means the electric power consumption of the solid fuel local space heater while providing the nominal heat output. The electric power consumption shall be established without consideration of the power consumption of a circulator in case the product offers indirect heating functionality and a circulator is incorporated, expressed in kW;",
+      "\u2018electric power requirement at minimum heat output\u2019 (elmin) means the electric power consumption of the solid fuel local space heater while providing the minimum heat output. The electric power consumption shall be established without consideration of the power consumption of a circulator in case the product offers indirect heating functionality and a circulator is incorporated, expressed in kW;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

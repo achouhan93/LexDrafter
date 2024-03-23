@@ -1,0 +1,24 @@
+{
+  "term": "displacement water pump",
+  "celex_id": "32012R0547",
+  "original_definition": "'displacement water pump' means a water pump that moves clean water by enclosing a volume of clean water and forcing this volume to the outlet of the pump;",
+  "generated_definition": "'displacement water pump' means a device used to transfer water from one location to another by displacing the water in a pipe or container.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018displacement water pump\u2019 means a water pump that moves clean water by enclosing a volume of clean water and forcing this volume to the outlet of the pump;",
+      "\u2018displacement water pump\u2019 means a water pump that movesclean water by enclosing a volume of clean water and forcing this volume to the outlet of the pump;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "term": "batch",
+  "celex_id": "32005R0302",
+  "original_definition": "'batch' means a portion of nuclear material handled as a unit for accounting purposes at a key measurement point and for which the composition and quantity are defined by a single set of specifications or measurements. The nuclear material may be in bulk form or contained in a number of items;",
+  "generated_definition": "'batch' means a distinct quantity of nuclear material, identified by a unique identifier, that is accounted for in a material balance area, and may be subject to various safeguards provisions.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018shipper/receiver difference\u2019 means the difference between the quantity of nuclear material in abatchas measured at the receivingmaterial balance area and the quantity as stated by the shipping material balance area;",
+      "\u2018physical inventory\u2019 means the sum of all the measuredbatchquantities or derived estimates of batch quantities of nuclear material on hand at a given time within amaterial balance area, obtained in accordance with specified procedures;",
+      "\u2018physical inventory\u2019 means the sum of all the measured batch quantities or derived estimates of batch quantities of nuclear material on hand at a given time within a material balance area, obtained in accordance with specified procedures;",
+      "\u2018batch\u2019 means a portion of nuclear material handled as a unit for accounting purposes at a key measurement point and for which the composition and quantity are defined by a single set of specifications or measurements. The nuclear material may be in bulk form or contained in a number of items;",
+      "\u2018batch\u2019 means a portion of nuclear material handled as a unit for accounting purposes at akey measurement pointand for which the composition and quantity are defined by a single set of specifications or measurements. The nuclear material may be in bulk form or contained in a number ofitems;",
+      "\u2018shipper/receiver difference\u2019 means the difference between the quantity of nuclear material in a batch as measured at the receiving material balance area and the quantity as stated by the shipping material balance area;"
+    ],
+    "Article 13": [
+      "a physical inventory listing, in the format set out in Annex V, showing all batches separately.",
+      "aphysical inventorylisting, in the format set out in Annex V, showing allbatches separately."
+    ],
+    "Article 31": [
+      "This advance notification, using the form set out in Annex XII, shall include information on the amount of plutonium, high enriched uranium and uranium-233 per batch, the form (glass, high active liquid, etc.), the expected duration of the campaign, and the location of the material before and after the campaign. Such notification shall be communicated to the Commission at least 200 days before the campaign starts."
+    ],
+    "Article 40": [
+      "The number ofitems making up thebatch must be reported. If an inventory change consists of several lines, the sum of the number of items reported must equal the total number of items belonging to the same transaction ID. If the transaction involves more than one element the number of items should be declared in the line(s) for the element category of highest strategic value only (in descending order: P, H, L, N, D, T).",
+      "Unique identifier for a batch of nuclear material",
+      "The number of items making up the batch must be reported. If an inventory change consists of several lines, the sum of the number of items reported must equal the total number of items belonging to the same transaction ID. If the transaction involves more than one element the number of items should be declared in the line(s) for the element category of highest strategic value only (in descending order: P, H, L, N, D, T).",
+      "Rebatching",
+      "anticipated schedule ofwasteprocessing campaigns (other than repackaging, or further conditioning without separation of elements), stating the amount of material perbatch, the form (glass, high active liquid, etc.), anticipated duration and location,",
+      "batch size or flow rate;",
+      "batch size and/or flow rate;",
+      "If batch follow-up is required in the particular safeguard provisions, the batch designation previously used for the batch in an inventory change report or in a previous physical inventory listing must be used.",
+      "Each physical inventory line must indicate the number of items involved. If a group of items belonging to the same batch are reported as several lines, the sum of the number of items reported must equal the total number of items in the group. If the lines involve more than one element category, the number of items should be declared in the line(s) for the element category of highest strategic value only (in descending order: P, H, L, N, D, T).",
+      "Quantity of nuclear material, in one particular batch, accounted for in the nuclear material balance area, being the difference between a newly measured quantity and the quantity formerly accounted for, and which is neither a shipper/receiver difference nor a correction.",
+      "Ifbatchfollow-up is required in the particular safeguard provisions, the batch designation previously used for the batch in an inventory change report or in a previousphysical inventory listing must be used.",
+      "Eachphysical inventoryline must indicate the number ofitems involved. If a group of items belonging to the samebatch are reported as several lines, the sum of the number of items reported must equal the total number of items in the group. If the lines involve more than one element category, the number of items should be declared in the line(s) for the element category of highest strategic value only (in descending order: P, H, L, N, D, T).",
+      "Accountancy transfer of a quantity of nuclear material from one batch to another (only one line to be reported per rebatching).",
+      "The batch designation may be chosen by the operator, but:",
+      "Quantity of nuclear material, in one particularbatch, accounted for in the nuclearmaterial balance area, being the difference between a newly measured quantity and the quantity formerly accounted for, and which is neither ashipper/receiver difference nor a correction.",
+      "anticipated schedule of waste processing campaigns (other than repackaging, or further conditioning without separation of elements), stating the amount of material per batch, the form (glass, high active liquid, etc.), anticipated duration and location,",
+      "in the case of the inventory change \u2018Receipt (RD)\u2019, the batch designation used by the shipper must be reported;",
+      "Name of previous batch (for IC code RB only)",
+      "a batch designation must not be used again for another batch in the same material balance area.",
+      "Batch",
+      "Previous batch",
+      "expected schedule of arrival of materials, stating the amount of material per batch, the form (UF6, UO2, fresh or irradiated fuels, etc.), anticipated type of container or packaging,",
+      "abatchdesignation must not be used again for another batch in the samematerial balance area.",
+      "Batch designation before rebatching. The batch designation after the rebatching must be reported in field 11.",
+      "Operator-defined container number. Optional data element which can be used in those cases where the container number does not appear in the batch designation."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 4,
+      "statement_scores": [
+        0,
+        1,
+        2,
+        0,
+        0,
+        1
+      ]
+    },
+    "Article 13": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 31": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 40": {
+      "article_score": 25,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        3,
+        1,
+        1,
+        2,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1
+      ]
+    }
+  }
+}

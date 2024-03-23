@@ -1,0 +1,256 @@
+{
+  "term": "ENTSO for Electricity operational planning data environment",
+  "celex_id": "32017R1485",
+  "original_definition": "'ENTSO for Electricity operational planning data environment' means the set of application programs and equipment developed in order to allow the storage, exchange and management of the data used for operational planning processes between TSOs;",
+  "generated_definition": "'ENTSO for Electricity operational planning data environment' means a centralized repository for storing and sharing electricity grid models and related information across different time-frames, established by the european network of transmission system operators for electricity (entso for electricity).",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018ENTSO for Electricity operational planning data environment\u2019 means the set of application programs and equipment developed in order to allow the storage, exchange and management of the data used for operational planning processes between TSOs;"
+    ],
+    "Article 66": [
+      "1.   Each TSO shall determine ayear-aheadindividual grid model for each of the scenarios developed pursuant to Article 65, using its best estimates of the variables defined in Article 65(1). Each TSO shall publish its year-ahead individual grid models on theENTSO for Electricity operational planning data environment in accordance with Article 114(1).",
+      "1.   Each TSO shall determine a year-ahead individual grid model for each of the scenarios developed pursuant to Article 65, using its best estimates of the variables defined in Article 65(1). Each TSO shall publish its year-ahead individual grid models on the ENTSO for Electricity operational planning data environment in accordance with Article 114(1)."
+    ],
+    "Article 68": [
+      "1.   When a TSO modifies or notices a modification of its best estimates for the variables used for determining its year-ahead individual grid model established in accordance with Article 66(1), which is significant for operational security, it shall update its year-ahead individual grid model and publish it on the ENTSO for Electricity operational planning data environment.",
+      "1.   When a TSO modifies or notices a modification of its best estimates for the variables used for determining itsyear-aheadindividual grid model established in accordance with Article 66(1), which is significant foroperational security, it shall update its year-ahead individual grid model and publish it on theENTSO for Electricity operational planning data environment."
+    ],
+    "Article 70": [
+      "2.   Each TSO shall create day-ahead and intraday individual grid models in accordance with paragraph 1 and publish them on the ENTSO for Electricity operational planning data environment."
+    ],
+    "Article 79": [
+      "5.   In accordance with the methodologies referred to in Articles 67(1) and 70(1), and in accordance with Article 28 of Regulation (EU) 2015/1222, a regional security coordinator shall be appointed by all TSOs to build the common grid model for each time-frame and store it on the ENTSO for Electricity operational planning data environment.",
+      "2.   Each TSO shall make available to its regional security coordinator the individual grid model necessary to build the common grid model for each time-frame through the ENTSO for Electricity operational planning data environment."
+    ],
+    "Article 80": [
+      "the availability plans of its internal relevant assets, stored on the ENTSO for Electricity operational planning data environment;",
+      "theavailability plans of itsinternal relevant assets, stored on theENTSO for Electricity operational planning data environment;"
+    ],
+    "Article 85": [
+      "2.   All TSOs of an outage coordination region shall jointly make the list of relevant power generating modules and relevant demand facilities of that outage coordination region available on the ENTSO for Electricity operational planning data environment.",
+      "2.   All TSOs of anoutage coordination regionshall jointly make the list ofrelevant power generating modules and relevant demand facilities of that outage coordination region available on theENTSO for Electricity operational planning data environment."
+    ],
+    "Article 86": [
+      "3.   All TSOs of an outage coordination region shall make the updated list of that outage coordination region available on the ENTSO for Electricity operational planning data environment.",
+      "3.   All TSOs of anoutage coordination regionshall make the updated list of that outage coordination region available on theENTSO for Electricity operational planning data environment."
+    ],
+    "Article 87": [
+      "3.   All TSOs of anoutage coordination regionshall jointly make the list ofrelevant grid elements available on theENTSO for Electricity operational planning data environment.",
+      "3.   All TSOs of an outage coordination region shall jointly make the list of relevant grid elements available on the ENTSO for Electricity operational planning data environment."
+    ],
+    "Article 88": [
+      "3.   All TSOs of anoutage coordination regionshall make the updated list available on theENTSO for Electricity operational planning data environment.",
+      "3.   All TSOs of an outage coordination region shall make the updated list available on the ENTSO for Electricity operational planning data environment."
+    ],
+    "Article 96": [
+      "6.   Each TSO shall make available on the ENTSO for Electricity operational planning data environment all information at its disposal about grid-related conditions to be fulfilled and remedial actions to be prepared and activated before executing the \u2018unavailable\u2019 or \u2018testing\u2019 availability status of a relevant grid element.",
+      "6.   Each TSO shall make available on theENTSO for Electricity operational planning data environmentall information at its disposal about grid-related conditions to be fulfilled and remedial actions to be prepared and activated before executing the \u2018unavailable\u2019 or \u2018testing\u2019availability statusof arelevant grid element."
+    ],
+    "Article 97": [
+      "1.   Before 1 November of each calendar year, each TSO shall provide to all other TSOs, via the ENTSO for Electricity operational planning data environment, the preliminary year-ahead availability plans for the following calendar year for all the internal relevant assets.",
+      "1.   Before 1 November of each calendar year, each TSO shall provide to all other TSOs, via theENTSO for Electricity operational planning data environment, the preliminaryyear-aheadavailability plans for the following calendar year for all theinternal relevant assets."
+    ],
+    "Article 99": [
+      "finalise the year-ahead availability plans for internal relevant assets and store them on the ENTSO for Electricity operational planning data environment.",
+      "finalise theyear-aheadavailability plans forinternal relevant assets and store them on theENTSO for Electricity operational planning data environment."
+    ],
+    "Article 100": [
+      "where nooutage planning incompatibilityhas been detected or if no outage planning incompatibility remains, the recipient TSO shall validate the requested amendment, and the TSOs concerned shall consequently notify all affected parties and update the finalyear-aheadavailability planon theENTSO for Electricity operational planning data environment; and",
+      "where nooutage planning incompatibilityhas been detected or if a solution to an outage planning incompatibility is found, the concerned TSOs shall validate the requested amendment and consequently they shall notify all affected parties and update the finalyear-aheadavailability planon theENTSO for Electricity operational planning data environment;",
+      "where no outage planning incompatibility has been detected or if a solution to an outage planning incompatibility is found, the concerned TSOs shall validate the requested amendment and consequently they shall notify all affected parties and update the final year-ahead availability plan on the ENTSO for Electricity operational planning data environment;",
+      "where no outage planning incompatibility has been detected or if no outage planning incompatibility remains, the recipient TSO shall validate the requested amendment, and the TSOs concerned shall consequently notify all affected parties and update the final year-ahead availability plan on the ENTSO for Electricity operational planning data environment; and"
+    ],
+    "Article 102": [
+      "7.   Following any amendments to theavailability plandue toforced outages and in accordance with the time-frame established in Articles 7, 10 and 15 of Regulation (EU) No 543/2013, the concerned TSO shall update theENTSO for Electricity operational planning data environment with the most recent information.",
+      "7.   Following any amendments to the availability plan due to forced outages and in accordance with the time-frame established in Articles 7, 10 and 15 of Regulation (EU) No 543/2013, the concerned TSO shall update the ENTSO for Electricity operational planning data environment with the most recent information."
+    ],
+    "Article 104": [
+      "Each TSO shall make any forecast used for control area adequacy analyses pursuant to Articles 105 and 107 available to all other TSOs through the ENTSO for Electricity operational planning data environment.",
+      "Each TSO shall make any forecast used for control areaadequacyanalyses pursuant to Articles 105 and 107 available to all other TSOs through theENTSO for Electricity operational planning data environment."
+    ],
+    "Article 105": [
+      "4.   As soon as possible, following the assessment of an absence ofadequacywithin its control area, each TSO shall inform all TSOs through theENTSO for Electricity operational planning data environment.",
+      "4.   As soon as possible, following the assessment of an absence of adequacy within its control area, each TSO shall inform all TSOs through the ENTSO for Electricity operational planning data environment."
+    ],
+    "Article 114": [
+      "3.   All TSOs and regional security coordinators shall have access to all information contained on the ENTSO for Electricity operational planning data environment.",
+      "2.   By 6 months after entry into force of this Regulation, all TSOs shall define a harmonised data format for data exchange, which shall be an integral part of the ENTSO for Electricity operational planning data environment.",
+      "General provisions for ENTSO for Electricity operational planning data environment",
+      "1.   By 24 months after entry into force of this Regulation, ENTSO for Electricity shall, pursuant to Articles 115, 116 and 117, implement and operate an ENTSO for Electricity operational planning data environment for the storage, exchange and management of all relevant information.",
+      "4.   Until the ENTSO for Electricity operational planning data environment is implemented, all TSOs may exchange relevant data among themselves and regional security coordinators."
+    ],
+    "Article 115": [
+      "3.   The common grid model established for each of the time-frames shall be made available on the ENTSO for Electricity operational planning data environment.",
+      "2.   The information on individual grid models contained on the ENTSO for Electricity operational planning data environment shall allow for their merging into common grid models.",
+      "5.   For the day-ahead and intraday time-frames, the following information shall be available on the ENTSO for Electricity operational planning data environment:",
+      "4.   For the year-ahead time-frame, the following information shall be available on the ENTSO for Electricity operational planning data environment:",
+      "4.   For theyear-aheadtime-frame, the following information shall be available on theENTSO for Electricity operational planning data environment:",
+      "1.   The ENTSO for Electricity operational planning data environment shall store all individual grid models and related relevant information for all the relevant time-frames set out in this Regulation, in Article 14(1) of Regulation (EU) 2015/1222 and in Article 9 of Regulation (EU) 2016/1719."
+    ],
+    "Article 116": [
+      "1.   The ENTSO for Electricity operational planning data environment shall contain a module for the storage and exchange of all relevant information for outage coordination."
+    ],
+    "Article 117": [
+      "1.   The ENTSO for Electricity operational planning data environment shall contain a module for the storage and exchange of all relevant information for performing a coordinated adequacy analysis.",
+      "1.   TheENTSO for Electricity operational planning data environmentshall contain a module for the storage and exchange of all relevant information for performing a coordinatedadequacy analysis."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 66": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 68": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 70": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 79": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 80": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 85": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 86": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 87": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 88": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 96": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 97": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 99": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 100": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 102": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 104": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 105": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 114": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 115": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 116": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 117": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

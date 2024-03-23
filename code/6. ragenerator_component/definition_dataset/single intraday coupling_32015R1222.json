@@ -1,0 +1,169 @@
+{
+  "term": "single intraday coupling",
+  "celex_id": "32015R1222",
+  "original_definition": "'single intraday coupling' means the continuous process where collected orders are matched and cross-zonal capacity is allocated simultaneously for different bidding zones in the intraday market;",
+  "generated_definition": "'single intraday coupling' means the process of coupling the electricity markets of different member states in real-time, enabling the continuous matching of orders and allocation of cross-zonal capacities.",
+  "existing_sentences": {
+    "Article 1": [
+      "5.   Subject to the conditions in paragraph 4 above being fulfilled, participation by Switzerland in day-ahead coupling and single intraday coupling shall be decided by the Commission based on an opinion given by the Agency. The rights and responsibilities of Swiss NEMOs and TSOs joining single day-ahead coupling shall be consistent with the rights and responsibilities of NEMOs and TSOs operating in the Union to allow a smooth functioning of the single day-ahead and intraday coupling systems implemented at Union level and a level-playing field for all stakeholders.",
+      "5.   Subject to the conditions in paragraph 4 above being fulfilled, participation by Switzerland in day-ahead coupling andsingle intraday couplingshall be decided by the Commission based on an opinion given by the Agency. The rights and responsibilities of Swiss NEMOs and TSOs joiningsingle day-ahead coupling shall be consistent with the rights and responsibilities of NEMOs and TSOs operating in the Union to allow a smooth functioning of the single day-ahead and intraday coupling systems implemented at Union level and a level-playing field for all stakeholders."
+    ],
+    "Article 2": [
+      "\u2018nominated electricity market operator (NEMO)\u2019 means an entity designated by the competent authority to perform tasks related to single day-ahead or single intraday coupling;",
+      "\u2018shared order book\u2019 means a module in the continuous intraday coupling system collecting all matchable orders from the NEMOs participating in single intraday coupling and performing continuous matching of those orders;",
+      "\u2018single intraday coupling\u2019 means the continuous process where collectedorders are matched and cross-zonal capacity is allocated simultaneously for different bidding zones in the intraday market;",
+      "\u2018shared order book\u2019 means a module in the continuous intraday coupling system collecting all matchable orders from the NEMOs participating insingle intraday couplingand performing continuousmatching of those orders;",
+      "\u2018continuous trading matching algorithm\u2019 means the algorithm used insingle intraday couplingfor matchingorders and allocating cross-zonal capacities continuously;",
+      "\u2018single intraday coupling\u2019 means the continuous process where collected orders are matched and cross-zonal capacity is allocated simultaneously for different bidding zones in the intraday market;",
+      "\u2018continuous trading matching algorithm\u2019 means the algorithm used in single intraday coupling for matching orders and allocating cross-zonal capacities continuously;",
+      "\u2018nominated electricity market operator(NEMO)\u2019 means an entity designated by the competent authority to perform tasks related to single day-ahead orsingle intraday coupling;"
+    ],
+    "Article 50": [
+      "Objectives, conditions and results of single intraday coupling",
+      "Single intraday coupling"
+    ],
+    "Article 53": [
+      "1.   No later than 18 months after the entry into force of this Regulation NEMOs shall submit a joint proposal concerning products that can be taken into account in thesingle intraday coupling. NEMOs shall ensure that allorders resulting from these products submitted to enable the MCO functions to be performed in accordance with Article 7 are expressed in euros and make reference to themarket time and the market time unit.",
+      "1.   No later than 18 months after the entry into force of this Regulation NEMOs shall submit a joint proposal concerning products that can be taken into account in the single intraday coupling. NEMOs shall ensure that all orders resulting from these products submitted to enable the MCO functions to be performed in accordance with Article 7 are expressed in euros and make reference to the market time and the market time unit."
+    ],
+    "Article 54": [
+      "1.   By 18 months after the entry into force of this Regulation, all NEMOs shall, in cooperation with the relevant TSOs, develop a proposal on harmonised maximum and minimumclearing prices to be applied in all bidding zones which participate insingle intraday coupling. The proposal shall take into account an estimation of the value of lost load.",
+      "1.   By 18 months after the entry into force of this Regulation, all NEMOs shall, in cooperation with the relevant TSOs, develop a proposal on harmonised maximum and minimum clearing prices to be applied in all bidding zones which participate in single intraday coupling. The proposal shall take into account an estimation of the value of lost load."
+    ],
+    "Article 56": [
+      "1.   By 16 months after the entry into force of this Regulation, the TSOs which intend to calculatescheduled exchanges resulting fromsingle intraday coupling shall develop a proposal for a common methodology for this calculation.",
+      "1.   By 16 months after the entry into force of this Regulation, the TSOs which intend to calculate scheduled exchanges resulting from single intraday coupling shall develop a proposal for a common methodology for this calculation.",
+      "Methodology for calculatingscheduled exchanges resulting fromsingle intraday coupling",
+      "Methodology for calculating scheduled exchanges resulting from single intraday coupling"
+    ],
+    "Article 57": [
+      "The single intraday coupling process"
+    ],
+    "Article 59": [
+      "6.   Orders matched in single intraday coupling shall be considered firm.",
+      "6.Orders matched insingle intraday coupling shall be considered firm.",
+      "Operation of single intraday coupling"
+    ],
+    "Article 61": [
+      "Calculation of scheduled exchanges resulting from single intraday coupling",
+      "Calculation ofscheduled exchanges resulting fromsingle intraday coupling"
+    ],
+    "Article 63": [
+      "regional auctions shall not have an adverse impact on the liquidity of the single intraday coupling;",
+      "2.   Complementary regional intraday auctions may be implemented within or between bidding zones in addition to thesingle intraday couplingsolution referred to in Article 51. Inorderto hold regional intraday auctions, continuous trading within and between the relevant bidding zones may be stopped for a limited period of time before theintraday cross-zonal gate closure time, which shall not exceed the minimum time required to hold the auction and in any case 10 minutes.",
+      "5.   At least every two years after the decision on complementary regional auctions, the regulatory authorities of the Member States concerned shall review the compatibility of any regional solutions with single intraday coupling to ensure that the conditions above continue to be fulfilled.",
+      "2.   Complementary regional intraday auctions may be implemented within or between bidding zones in addition to the single intraday coupling solution referred to in Article 51. In order to hold regional intraday auctions, continuous trading within and between the relevant bidding zones may be stopped for a limited period of time before the intraday cross-zonal gate closure time, which shall not exceed the minimum time required to hold the auction and in any case 10 minutes.",
+      "the timetables for regional auctions shall be consistent with single intraday coupling to enable market participants to trade as close as possible to real-time;",
+      "the timetables for regional auctions shall be consistent withsingle intraday couplingto enable market participants totrade as close as possible to real-time;"
+    ],
+    "Article 68": [
+      "7.   All central counter parties or shipping agents shall collect congestion incomes arising from the single day-ahead coupling specified in Articles 46 to 48 and from the single intraday coupling specified in Articles 58 to 60.",
+      "7.   All central counter parties orshipping agents shall collectcongestion incomes arising from thesingle day-ahead couplingspecified in Articles 46 to 48 and from thesingle intraday coupling specified in Articles 58 to 60."
+    ],
+    "Not Article": [
+      "Rules for sharing the common costs ofsingle day-ahead couplingandsingle intraday couplingbetween NEMOs and TSOs from different Member States should be agreed before the implementation process starts inorder to avoid delays and disputes due to cost sharing.",
+      "Rules for sharing the common costs of single day-ahead coupling and single intraday coupling between NEMOs and TSOs from different Member States should be agreed before the implementation process starts in order to avoid delays and disputes due to cost sharing."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 50": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 53": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 54": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 56": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 57": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 59": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 61": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 63": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 68": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

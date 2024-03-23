@@ -1,0 +1,33 @@
+{
+  "term": "corner cabinet",
+  "celex_id": "32019R2018",
+  "original_definition": "'corner cabinet' means a refrigerating appliance with a direct sales function used to achieve geometrical continuity between two linear cabinets that are at an angle to each other and/or that form a curve. A corner cabinet does not have a recognisable longitudinal axis or length since it consists only of a filling shape (wedge or similar) and is not designed to function as a stand-alone refrigerated unit. The two ends of the corner cabinet are inclined at an angle between 30 \u00b0 and 90 \u00b0;",
+  "generated_definition": "'corner cabinet' means a piece of furniture designed to fit in a corner of a room, typically used for storing books, decorative items, or kitchen utensils.",
+  "existing_sentences": {
+    "Article 1": [
+      "corner cabinets;"
+    ],
+    "Article 2": [
+      "\u2018corner cabinet\u2019 means a refrigerating appliance with a direct sales function used to achieve geometrical continuity between two linear cabinets that are at an angle to each other and/or that form a curve. A corner cabinet does not have a recognisable longitudinal axis or length since it consists only of a filling shape (wedge or similar) and is not designed to function as a stand-alone refrigerated unit. The two ends of the corner cabinet are inclined at an angle between 30 \u00b0 and 90 \u00b0;",
+      "\u2018corner cabinet\u2019 means arefrigerating appliance with a direct sales function used to achieve geometrical continuity between two linear cabinets that are at an angle to each other and/or that form a curve. A corner cabinet does not have a recognisable longitudinal axis or length since it consists only of a filling shape (wedge or similar) and is not designed to function as a stand-alone refrigerated unit. The two ends of the corner cabinet are inclined at an angle between 30 \u00b0 and 90 \u00b0;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

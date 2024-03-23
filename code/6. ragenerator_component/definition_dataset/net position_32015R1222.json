@@ -1,0 +1,159 @@
+{
+  "term": "net position",
+  "celex_id": "32015R1222",
+  "original_definition": "'net position' means the netted sum of electricity exports and imports for each market time unit for a bidding zone;",
+  "generated_definition": "'net position' means the difference between the total value of a trader's long positions and the total value of their short positions, calculated on a daily basis.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018shipping agent\u2019 means the entity or entities with the task of transferring net positions between different central counter parties;",
+      "\u2018net position\u2019 means the netted sum of electricity exports and imports for eachmarket time unit for a bidding zone;",
+      "\u2018generation shift key\u2019 means a method of translating a net position change of a given bidding zone into estimated specific injection increases or decreases in the common grid model;",
+      "\u2018generation shift key\u2019 means a method of translating anet positionchange of a given bidding zone into estimated specific injection increases or decreases in thecommon grid model;",
+      "\u2018central counter party\u2019 means the entity or entities with the task of entering into contracts with market participants, by novation of the contracts resulting from the matching process, and of organising the transfer of net positions resulting from capacity allocation with other central counter parties or shipping agents;",
+      "\u2018net position\u2019 means the netted sum of electricity exports and imports for each market time unit for a bidding zone;",
+      "\u2018central counter party\u2019 means the entity or entities with the task of entering into contracts with market participants, by novation of the contracts resulting from thematchingprocess, and of organising the transfer ofnet positions resulting from capacity allocation with other central counter parties orshipping agents;",
+      "\u2018shipping agent\u2019 means the entity or entities with the task of transferringnet positions between different central counter parties;"
+    ],
+    "Article 8": [
+      "where so agreed, act as shipping agents transferring net positions in accordance with Article 68(6).",
+      "where so agreed, act asshipping agents transferringnet positions in accordance with Article 68(6)."
+    ],
+    "Article 18": [
+      "3.   For each scenario, all TSOs shall jointly draw up common rules for determining the net position in each bidding zone and the flow for each direct current line. These common rules shall be based on the best forecast of the net position for each bidding zone and on the best forecast of the flows on each direct current line for each scenario and shall include the overall balance between load and generation for the transmission system in the Union. There shall be no undue discrimination between internal and cross-zonal exchanges when defining scenarios, in line with point 1.7 of Annex I to Regulation (EC) No 714/2009.",
+      "3.   For eachscenario, all TSOs shall jointly draw up common rules for determining thenet position in each bidding zone and the flow for each direct current line. These common rules shall be based on the best forecast of the net position for each bidding zone and on the best forecast of the flows on each direct current line for each scenario and shall include the overall balance between load and generation for the transmission system in the Union. There shall be no undue discrimination between internal and cross-zonal exchanges when defining scenarios, in line with point 1.7 of Annex I to Regulation (EC) No 714/2009."
+    ],
+    "Article 19": [
+      "each TSO in the bidding zone shall provide an individual grid model for its control area, including interconnections, provided that the sum of net positions in the control areas, including interconnections, covering the bidding zone complies with Article 18(3).",
+      "each TSO in the bidding zone shall provide anindividual grid modelfor its control area, including interconnections, provided that the sum ofnet positions in the control areas, including interconnections, covering the bidding zone complies with Article 18(3)."
+    ],
+    "Article 24": [
+      "2.   The generation shift keys shall represent the best forecast of the relation of a change in the net position of a bidding zone to a specific change of generation or load in the common grid model. That forecast shall notably take into account the information from the generation and load data provision methodology.",
+      "2.   Thegeneration shift keys shall represent the best forecast of the relation of a change in thenet positionof a bidding zone to a specific change of generation or load in thecommon grid model. That forecast shall notably take into account the information from the generation and load data provision methodology."
+    ],
+    "Article 29": [
+      "ensure that all sets of bidding zonenet positions and flows on direct current lines not exceeding cross-zonal capacity comply withreliability margins andoperational security limits in accordance with Article 21(1)(a)(i) and (ii), and take into account previously allocated cross-zonal capacity in accordance with Article 21(1)(b)(iii).",
+      "ensure that all sets of bidding zone net positions and flows on direct current lines not exceeding cross-zonal capacity comply with reliability margins and operational security limits in accordance with Article 21(1)(a)(i) and (ii), and take into account previously allocated cross-zonal capacity in accordance with Article 21(1)(b)(iii).",
+      "use generation shift keys to calculate the impact of changes in bidding zone net positions and of flows on direct current lines;",
+      "usegeneration shift keys to calculate the impact of changes in bidding zonenet positions and of flows on direct current lines;",
+      "ignore those critical network elements that are not significantly influenced by the changes in bidding zone net positions according to the methodology set out in Article 21; and,"
+    ],
+    "Article 39": [
+      "a single net position for each bidding zone and each market time unit;",
+      "a singlenet positionfor each bidding zone and eachmarket time unit;"
+    ],
+    "Article 43": [
+      "3.   The calculation shall be based on net positions for each market time unit.",
+      "3.   The calculation shall be based onnet positions for eachmarket time unit."
+    ],
+    "Article 52": [
+      "a singlenet positionfor each bidding zone andmarket time unit within the intraday market.",
+      "a single net position for each bidding zone and market time unit within the intraday market."
+    ],
+    "Article 56": [
+      "3.   The calculation ofscheduled exchanges shall be based onnet positions as specified in Article 52(1)(b).",
+      "3.   The calculation of scheduled exchanges shall be based on net positions as specified in Article 52(1)(b)."
+    ],
+    "Article 60": [
+      "to all TSOs and scheduled exchange calculators, for results single net positions specified in Article 52(1)(b)."
+    ],
+    "Article 68": [
+      "net positions produced in accordance with Articles 39(2)(b) and 52(1)(b);"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 8": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 18": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Article 19": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 24": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 29": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 39": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 43": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 52": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 56": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 60": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 68": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

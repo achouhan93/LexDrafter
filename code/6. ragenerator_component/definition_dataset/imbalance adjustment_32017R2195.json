@@ -1,0 +1,80 @@
+{
+  "term": "imbalance adjustment",
+  "celex_id": "32017R2195",
+  "original_definition": "'imbalance adjustment' means an energy volume representing the balancing energy from a balancing service provider and applied by the connecting TSO for an imbalance settlement period to the concerned balance responsible parties, used for the calculation of the imbalance of these balance responsible parties;",
+  "generated_definition": "'imbalance adjustment' means adjustments made to the balance responsible party's calculated imbalance to reflect the actual volume of balancing energy used or activated for purposes other than balancing.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018imbalance\u2019 means an energy volume calculated for abalance responsible partyand representing the difference between theallocated volumeattributed to that balance responsible party and the finalpositionof that balance responsible party, including anyimbalance adjustmentapplied to that balance responsible party, within a givenimbalance settlement period;",
+      "\u2018imbalance adjustment\u2019 means an energy volume representing thebalancing energyfrom abalancing service providerand applied by theconnecting TSOfor animbalance settlement period to the concerned balance responsible parties, used for the calculation of the imbalance of these balance responsible parties;",
+      "\u2018imbalance\u2019 means an energy volume calculated for a balance responsible party and representing the difference between the allocated volume attributed to that balance responsible party and the final position of that balance responsible party, including any imbalance adjustment applied to that balance responsible party, within a given imbalance settlement period;",
+      "\u2018imbalance adjustment\u2019 means an energy volume representing the balancing energy from a balancing service provider and applied by the connecting TSO for an imbalance settlement period to the concerned balance responsible parties, used for the calculation of the imbalance of these balance responsible parties;"
+    ],
+    "Article 18": [
+      "require that each balancing energy bid from a balancing service provider is assigned to one or more balance responsible parties to enable the calculation of an imbalance adjustment pursuant to Article 49.",
+      "require that eachbalancing energybid from abalancing service provideris assigned to one or more balance responsible parties to enable the calculation of animbalance adjustment pursuant to Article 49."
+    ],
+    "Article 49": [
+      "Imbalance adjustment to the balance responsible party",
+      "Imbalance adjustmentto thebalance responsible party",
+      "2.   Forimbalance areas where several finalpositions for a singlebalance responsible partyare calculated pursuant to Article 54(3), animbalance adjustment may be calculated for each position.",
+      "3.   For eachimbalance adjustment, each TSO shall determine the activated volume ofbalancing energy calculated pursuant to Article 45 and any volume activated for purposes other than balancing.",
+      "2.   For imbalance areas where several final positions for a single balance responsible party are calculated pursuant to Article 54(3), an imbalance adjustment may be calculated for each position.",
+      "3.   For each imbalance adjustment, each TSO shall determine the activated volume of balancing energy calculated pursuant to Article 45 and any volume activated for purposes other than balancing."
+    ],
+    "Article 52": [
+      "the calculation of animbalance adjustmentpursuant to Article 49 and the calculation of aposition, an imbalance and anallocated volume following one of the approaches pursuant to Article 54(3);",
+      "the calculation of an imbalance adjustment pursuant to Article 49 and the calculation of a position, an imbalance and an allocated volume following one of the approaches pursuant to Article 54(3);"
+    ],
+    "Article 54": [
+      "1.   Each TSO shall calculate within its scheduling area or scheduling areas when appropriate the finalposition, theallocated volume, theimbalance adjustment and the imbalance:",
+      "1.   Each TSO shall calculate within its scheduling area or scheduling areas when appropriate the final position, the allocated volume, the imbalance adjustment and the imbalance:"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        0
+      ]
+    },
+    "Article 18": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 49": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 52": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 54": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

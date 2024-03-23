@@ -1,0 +1,28 @@
+{
+  "term": "gas supply contract",
+  "celex_id": "32009L0073",
+  "original_definition": "'gas supply contract' means a contract for the supply of natural gas, but does not include a gas derivative;",
+  "generated_definition": "'gas supply contract' means a contract between a supplier and a buyer for the sale of natural gas, regulated by specific terms, conditions, and prices for a defined period of time.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018emergent market\u2019 means a Member State in which the first commercialsupplyof its first long-term naturalgas supply contract was made not more than 10 years earlier;",
+      "\u2018gas supply contract\u2019 means a contract for the supply of natural gas, but does not include a gas derivative;",
+      "\u2018gas supply contract\u2019 means a contract for the supply of natural gas, but does not include agas derivative;",
+      "\u2018emergent market\u2019 means a Member State in which the first commercial supply of its first long-term natural gas supply contract was made not more than 10 years earlier;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        0,
+        1
+      ]
+    }
+  }
+}

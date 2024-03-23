@@ -1,0 +1,35 @@
+{
+  "term": "level 2 FRCE range",
+  "celex_id": "32017R1485",
+  "original_definition": "'level 2 FRCE range' means the second range used for system frequency quality evaluation purposes on LFC block level within which the FRCE should be kept for a specified percentage of the time;",
+  "generated_definition": "'level 2 FRCE range' means the range of frequency deviations from the nominal frequency of the ac grid that are tolerated in the synchronous area for the purpose of ensuring stable and secure operation, as specified in the synchronous area operational agreement.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018level 2 FRCE range\u2019 means the second range used forsystem frequencyquality evaluation purposes onLFC block level within which the FRCE should be kept for a specified percentage of the time;",
+      "\u2018level 2 FRCE range\u2019 means the second range used for system frequency quality evaluation purposes on LFC block level within which the FRCE should be kept for a specified percentage of the time;"
+    ],
+    "Article 128": [
+      "1.   All TSOs of the CE and Nordic synchronous areas shall specify in the synchronous area operational agreement the values of the level 1 FRCE range and the level 2 FRCE range for each LFC block of the CE and Nordic synchronous areas at least annually.",
+      "1.   All TSOs of the CE and Nordic synchronous areas shall specify in the synchronous area operational agreement the values of thelevel 1 FRCE rangeand thelevel 2 FRCE rangefor eachLFC block of the CE and Nordic synchronous areas at least annually."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 128": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

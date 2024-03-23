@@ -1,0 +1,121 @@
+{
+  "term": "capacity",
+  "celex_id": "32015R1095",
+  "original_definition": "'capacity' means, for blast cabinets, the food weight which can be processed (by the blast cabinet) to below 10 \u00b0C in the case of chilling and below \u2013 18 \u00b0C in the case of freezing in a single operation;",
+  "generated_definition": "'capacity' means the ability of a system or component to perform a certain function or task, often measured in terms of its output or effectiveness.",
+  "existing_sentences": {
+    "Article 1": [
+      "blast cabinets andblast rooms with acapacitysuperior to 300 kg offoodstuffs;",
+      "blast cabinets and blast rooms with a capacity superior to 300 kg of foodstuffs;"
+    ],
+    "Article 2": [
+      "\u2018capacity\u2019 means, forblast cabinets, the food weight which can be processed (by the blast cabinet) to below 10 \u00b0C in the case of chilling and below \u2013 18 \u00b0C in the case of freezing in a single operation;",
+      "\u2018capacity\u2019 means, for blast cabinets, the food weight which can be processed (by the blast cabinet) to below 10 \u00b0C in the case of chilling and below \u2013 18 \u00b0C in the case of freezing in a single operation;"
+    ],
+    "Article 7": [
+      "information requirement on a professional refrigerated storage cabinet's capacity to cool down foodstuffs;",
+      "information requirement on aprofessional refrigerated storage cabinet'scapacityto cool downfoodstuffs;"
+    ],
+    "Article 8": [
+      "Cooling capacity",
+      "Full loadcapacityof the cabinet expressed in kg offoodstuffs, and rounded to two decimal places;",
+      "\u2018capacitycontrol\u2019 means the ability of acondensing unit to change its capacity by changing the volumetric flow rate of the refrigerant, to be indicated as \u2018fixed\u2019 if the unit cannot change its volumetric flow rate, \u2018staged\u2019 if the volumetric flow rate is changed or varied in series of not more than two steps, or \u2018variable\u2019 if the volumetric flow rate is changed or varied in series of three or more steps;",
+      "For establishing the values of cooling capacity, power input, energy efficiency ratio and seasonal energy performance ratio, measurements shall be made under the following conditions:",
+      "\u2018declared cooling capacity\u2019 means the cooling capacity delivered by the chiller to meet the declared cooling demand;",
+      "the effect of the degradation of energy efficiency caused by cycling depending on the type of capacity control of the process chiller shall be taken into account.",
+      "\u2018capacity control\u2019 means the ability of a condensing unit to change its capacity by changing the volumetric flow rate of the refrigerant, to be indicated as \u2018fixed\u2019 if the unit cannot change its volumetric flow rate, \u2018staged\u2019 if the volumetric flow rate is changed or varied in series of not more than two steps, or \u2018variable\u2019 if the volumetric flow rate is changed or varied in series of three or more steps;",
+      "(2)  For staged capacity units, two values divided by a slash (\u2018/\u2019) shall be declared in each box in the section referring to \u2018cooling capacity\u2019 and \u2018EER\u2019.",
+      "declared cooling capacity and declared power input at rating points B, C and D, expressed in kW and rounded to two decimal places;",
+      "\u2018degradation coefficient\u2019 (Cdc) is set at 0,25 and means the measure of efficiency loss due to the possible on/off cycling of condensing units necessary to satisfy the required part load in case the unit's capacity control cannot unload to the required part load;",
+      "forcondensing units intended for use at ambient temperature above 35 \u00b0C, the COP value, at full load and 43 \u00b0C ambient temperature, rounded to two decimal places, and corresponding coolingcapacity and power input, expressed in kW and rounded to two decimal places;",
+      "For establishing the values of cooling capacity, power input, coefficient of performance and seasonal energy performance ratio, measurements shall be made under the following conditions:",
+      "the COP value, at full load and 25 \u00b0C ambient temperature, rounded to two decimal places, and corresponding cooling capacity and power input, expressed in kW and rounded to two decimal places;",
+      "\u2018degradation coefficient\u2019 (Cdc) is set at 0,25 and means the measure of efficiency loss due to the possible on/off cycling ofcondensing units necessary to satisfy the required part load in case the unit'scapacity control cannot unload to the required part load;",
+      "\u2018declared power input\u2019 means the electrical power input needed by the condensing unit to meet the declared cooling capacity, expressed in kW to two decimal places;",
+      "where applicable, the effect of the degradation of energy efficiency caused by cycling, depending on the type of capacity control of the condensing unit, shall be taken into account.",
+      "Degradation coefficient for fixed and staged capacity units (1)",
+      "\u2018declared cooling capacity\u2019 means the cooling capacity which the unit delivers to meet the specific cooling demand at a limited number of specified bins, expressed in kW to two decimal places;",
+      "\u2018declared power input\u2019 means the electrical power input needed by the process chiller to meet the declared cooling capacity;",
+      "Capacity control",
+      "\u2018capacity control\u2019 means the ability of a process chiller to change its capacity by changing the volumetric flow rate of the refrigerant, to be indicated as \u2018fixed\u2019 if the process chiller cannot change its volumetric flow rate, \u2018staged\u2019 if the volumetric flow rate is changed or varied in series of not more than two steps, or \u2018variable\u2019 if the volumetric flow rate is changed or varied in series of three or more steps;",
+      "where applicable, the effect of the degradation of energy efficiency caused by cycling, depending on the type ofcapacitycontrol of thecondensing unit, shall be taken into account.",
+      "the effect of the degradation of energy efficiency caused by cycling depending on the type ofcapacitycontrol of theprocess chiller shall be taken into account.",
+      "\u2018declared coefficient of performance\u2019 means the coefficient of performance at a limited number of specified bins, and calculated as the declared cooling capacity divided by the declared power input;",
+      "Full load capacity of the cabinet expressed in kg of foodstuffs, and rounded to two decimal places;",
+      "for condensing units intended for use at ambient temperature above 35 \u00b0C, the COP value, at full load and 43 \u00b0C ambient temperature, rounded to two decimal places, and corresponding cooling capacity and power input, expressed in kW and rounded to two decimal places;",
+      "the declared cooling capacity and declared power input, expressed in kW and rounded to three decimal places, and the COP value, rounded to two decimal places, at rating points B, C and D;",
+      "\u2018capacitycontrol\u2019 means the ability of aprocess chiller to change its capacity by changing the volumetric flow rate of the refrigerant, to be indicated as \u2018fixed\u2019 if the process chiller cannot change its volumetric flow rate, \u2018staged\u2019 if the volumetric flow rate is changed or varied in series of not more than two steps, or \u2018variable\u2019 if the volumetric flow rate is changed or varied in series of three or more steps;",
+      "\u2018declared power input\u2019 means the electrical power input needed by thecondensing unitto meet the declared coolingcapacity, expressed in kW to two decimal places;",
+      "Degradation coefficient for fixed and staged capacity units",
+      "Declared cooling capacity",
+      "\u2018coefficients of performance COPB, COPC and COPD\u2019 mean the cooling capacity, expressed in kW, divided by the power input, expressed in kW, expressed to two decimal places at rating points B, C and D;",
+      "Rated capacity PA",
+      "\u2018declared power input\u2019 means the electrical power input needed by theprocess chillerto meet the declared coolingcapacity;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 7": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 32,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        1,
+        2,
+        1,
+        2,
+        2,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0
+      ]
+    }
+  }
+}

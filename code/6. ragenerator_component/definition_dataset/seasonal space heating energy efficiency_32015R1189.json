@@ -1,0 +1,82 @@
+{
+  "term": "seasonal space heating energy efficiency",
+  "celex_id": "32015R1189",
+  "original_definition": "'seasonal space heating energy efficiency' means the ratio between the space heating demand for a designated heating season supplied by a solid fuel boiler and the annual energy consumption required to meet that demand, expressed in %;",
+  "generated_definition": "'seasonal space heating energy efficiency' means the efficiency of heating a building using a boiler or other heating system during the colder months, typically measured as a percentage of the total energy input to the system.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018seasonal space heating energy efficiency\u2019 or \u2018\u03b7s\n\u2019 means the ratio between the space heating demand for a designated heating season supplied by a solid fuel boiler and the annual energy consumption required to meet that demand, expressed in %;"
+    ],
+    "Article 8": [
+      "Until 1 January 2020 Member States may allow the placing on the market and putting into service of solid fuel boilers which are in conformity with the national provisions in force regarding seasonal space heating energy efficiency, and emissions of particulate matter, organic gaseous compounds, carbon monoxide and nitrogen oxides."
+    ],
+    "Article 9": [
+      "seasonal space heating energy efficiency for boilers with a rated heat output of 20 kW or less shall not be less than 75 %;",
+      "The seasonal space heating energy efficiency \u03b7s\n is defined as:",
+      "Seasonal space heating energy efficiency \u03b7s",
+      "Forseasonal space heating energy efficiency: 96 % forsolid fuel cogeneration boilers, 90 % for condensing boilers and 84 % for othersolid fuel boilers.",
+      "\u2018seasonal space heating energy efficiency in active mode\u2019 or \u2018\u03b7son\n\u2019 means:",
+      "F(1) accounts for a loss of seasonal space heating energy efficiency due to adjusted contributions of temperature controls; F(1) = 3 %;",
+      "Theseasonal space heating energy efficiency\u03b7s\n is defined as:",
+      "The benchmarks specified in points 1 and 2(a) to (d) do not necessarily imply that a combination of those values is achievable for a single solid fuel boiler. An example of a good combination is an existing model with a seasonal space heating energy efficiency of 81 % and seasonal space heating emissions of particulate matter of 7 mg/m3, of organic gaseous compounds of 2 mg/m3, of carbon monoxide of 6 mg/m3 and of nitrogen oxides of 120 mg/m3.",
+      "seasonal space heating energy efficiencyfor boilers with arated heat output of 20 kW or less shall not be less than 75 %;",
+      "Declared values for seasonal space heating energy efficiency and seasonal space heating emissions shall be rounded to the nearest integer.",
+      "F(2) accounts for a negative contribution to the seasonal space heating energy efficiency by auxiliary electricity consumption, expressed as a percentage, and is calculated as set out in point 4(c);",
+      "\u2018seasonal space heating energy efficiencyin active mode\u2019 or \u2018\u03b7son\n\u2019 means:",
+      "\u03b7son\n is the seasonal space heating energy efficiency in active mode expressed as a percentage, calculated as set out in point 4(b);",
+      "4.   Specific conditions for seasonal space heating energy efficiency",
+      "seasonal space heating energy efficiency for boilers with a rated heat output of more than 20 kW shall not be less than 77 %;",
+      "3.   General conditions for seasonal space heating energy efficiency",
+      "\u03b7son\n is theseasonal space heating energy efficiency in active mode expressed as a percentage, calculated as set out in point 4(b);",
+      "theseasonal space heating energy efficiencyin active mode,\u03b7son\n, is calculated as follows:",
+      "the seasonal space heating energy efficiency in active mode, \u03b7son\n, is calculated as follows:",
+      "Seasonal space heating energy efficiency\u03b7s",
+      "For seasonal space heating energy efficiency: 96 % for solid fuel cogeneration boilers, 90 % for condensing boilers and 84 % for other solid fuel boilers.",
+      "seasonal space heating energy efficiencyfor boilers with arated heat output of more than 20 kW shall not be less than 77 %;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 9": {
+      "article_score": 22,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

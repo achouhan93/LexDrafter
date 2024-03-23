@@ -1,0 +1,156 @@
+{
+  "term": "prequalification",
+  "celex_id": "32017R1485",
+  "original_definition": "'prequalification' means the process to verify the compliance of a reserve providing unit or a reserve providing group with the requirements set by the TSO;",
+  "generated_definition": "'prequalification' means the process of evaluating and selecting potential reserve providing units or groups for the purpose of providing active power reserves in the distribution system, based on agreed timelines and rules concerning information exchanges and delivery of active power reserves.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018prequalification\u2019 means the process to verify the compliance of a reserve providing unit or a reserve providing group with the requirements set by the TSO;",
+      "\u2018prequalification\u2019 means the process to verify the compliance of areserve providing unitor areserve providing group with the requirements set by the TSO;"
+    ],
+    "Article 155": [
+      "1.   By 12 months after entry into force of this regulation, each TSO shall develop an FCR prequalification process and shall make publicly available the details of the FCR prequalification process.",
+      "4.   Within 3 months from confirmation that the application is complete, the reserve connecting TSO shall evaluate the information provided and decide whether the potential FCR providing units or FCR providing groups meet the criteria for an FCR prequalification. The reserve connecting TSO shall notify its decision to the potential FCR provider.",
+      "5.   Where the compliance with certain requirements of this Regulation has already been verified by the reserve connecting TSO, it will be recognised in the prequalification.",
+      "FCR prequalification process",
+      "2.   A potential FCR provider shall demonstrate to the reserve connecting TSO that it complies with the technical and the additional requirements set out in Article 154 by completing successfully the prequalification process of potential FCR providing units or FCR providing groups, described in paragraphs 3 to 6 of this Article.",
+      "2.   A potentialFCRprovider shall demonstrate to thereserve connecting TSOthat it complies with the technical and the additional requirements set out in Article 154 by completing successfully theprequalification process of potential FCR providing units or FCR providing groups, described in paragraphs 3 to 6 of this Article.",
+      "5.   Where the compliance with certain requirements of this Regulation has already been verified by thereserve connecting TSO, it will be recognised in theprequalification.",
+      "1.   By 12 months after entry into force of this regulation, each TSO shall develop anFCRprequalification process and shall make publicly available the details of the FCR prequalification process.",
+      "4.   Within 3 months from confirmation that the application is complete, thereserve connecting TSOshall evaluate the information provided and decide whether the potentialFCRproviding units or FCR providing groups meet the criteria for an FCRprequalification. The reserve connecting TSO shall notify its decision to the potential FCR provider.",
+      "FCRprequalification process"
+    ],
+    "Article 156": [
+      "5.   Each FCR provider shall inform its reserve connecting TSO, as soon as possible, about any changes in the actual availability of its FCR providing unit and/or its FCR providing group, in whole or in part, relevant for the results of prequalification.",
+      "12.   TheFCRprovider shall specify the limitations of the energy reservoir of its FCR providing units or FCR providing groups in theprequalification process in accordance with Article 155.",
+      "5.   EachFCRprovider shall inform itsreserve connecting TSO, as soon as possible, about any changes in the actual availability of its FCR providing unit and/or its FCR providing group, in whole or in part, relevant for the results ofprequalification.",
+      "12.   The FCR provider shall specify the limitations of the energy reservoir of its FCR providing units or FCR providing groups in the prequalification process in accordance with Article 155."
+    ],
+    "Article 159": [
+      "4.   Within 3 months after the reserve connecting TSO or the designated TSO confirms that the application is complete, the reserve connecting TSO or the designated TSO shall evaluate the information provided and decide whether the potential FRR providing units or FRR providing groups meet the criteria for a FRR prequalification. The reserve connecting TSO or the designated TSO shall notify their decision to the potential FRR provider.",
+      "1.   By 12 months after entry into force of this Regulation each TSO shall develop a FRR prequalification process and shall clarify and make publicly available its details.",
+      "2.   A potential FRR provider shall demonstrate to the reserve connecting TSO or the TSO designated by the reserve connecting TSO in the FRR exchange agreement that it complies with the FRR minimum technical requirements in Article 158(1), the FRR availability requirements in Article 158(2), the ramping rate requirements in Article 158(1) and the connection requirements in Article 158(3) by completing successfully the prequalification process of potential FRR providing units or FRR providing groups, described in paragraphs 3 to 6 of this Article.",
+      "FRR prequalification process"
+    ],
+    "Article 161": [
+      "3.   The reserve connecting TSO shall adopt the technical requirements for the connection of RR providing units and RR providing groups to ensure the safe and secure delivery of RR in the prequalification process description.",
+      "3.   Thereserve connecting TSOshall adopt the technical requirements for the connection ofRRproviding units and RR providing groups to ensure the safe and secure delivery of RR in theprequalification process description."
+    ],
+    "Article 162": [
+      "2.   A potentialRRprovider shall demonstrate to thereserve connecting TSOor the TSO designated by the reserve connecting TSO in the RR exchange agreement that it complies with the RR technical minimum requirements, theRR availability requirementsand the connection requirements referred to in Article 161 by completing successfully theprequalification process of potential RR providing units or RR providing groups, described in paragraphs 3 to 6.",
+      "4.   Within 3 months from confirmation of the completeness of the application, the reserve connecting TSO or the designated TSO shall evaluate the information provided and decide whether the potential RR providing units or RR providing groups meet the criteria for a RR prequalification. The reserve connecting TSO or the designated TSO shall notify its decision to the potential RR provider.",
+      "1.   Each TSO of a LFC block which has implemented a RRP shall develop a RR prequalification process within 12 months after entry into force of this Regulation and shall clarify and make publicly available the details thereof.",
+      "RRprequalification process",
+      "RR prequalification process",
+      "4.   Within 3 months from confirmation of the completeness of the application, thereserve connecting TSOor the designated TSO shall evaluate the information provided and decide whether the potentialRRproviding units or RR providing groups meet the criteria for a RRprequalification. The reserve connecting TSO or the designated TSO shall notify its decision to the potential RR provider.",
+      "1.   Each TSO of aLFC blockwhich has implemented aRRPshall develop a RRprequalification process within 12 months after entry into force of this Regulation and shall clarify and make publicly available the details thereof.",
+      "2.   A potential RR provider shall demonstrate to the reserve connecting TSO or the TSO designated by the reserve connecting TSO in the RR exchange agreement that it complies with the RR technical minimum requirements, the RR availability requirements and the connection requirements referred to in Article 161 by completing successfully the prequalification process of potential RR providing units or RR providing groups, described in paragraphs 3 to 6."
+    ],
+    "Article 165": [
+      "the implementation of the FRR/RR prequalification for the reserve capacity on FRR and RR subject to exchange in accordance with Articles 159 and 162;",
+      "the implementation of theFRR/RRprequalificationfor thereserve capacity on FRR and RR subject to exchange in accordance with Articles 159 and 162;"
+    ],
+    "Article 171": [
+      "the implementation of the prequalification for the reserve capacity subject to the exchange of reserves in accordance with Articles 155, 159 and 162;",
+      "the implementation of theprequalificationfor thereserve capacitysubject to theexchange of reserves in accordance with Articles 155, 159 and 162;"
+    ],
+    "Article 182": [
+      "4.   During theprequalificationof areserve providing unitor group connected to its distribution system, eachreserve connecting DSOand each intermediate DSO, in cooperation with the TSO, shall have the right to set limits to or exclude the delivery ofactive power reserves located in its distribution system, based on technical reasons such as the geographical location of the reserve providing units andreserve providing groups.",
+      "3.   Theprequalificationprocess shall rely on the agreed timeline and rules concerning information exchanges and the delivery ofactive power reserves between the TSO, thereserve connecting DSOand the intermediate DSOs. The prequalification process shall have a maximum duration of 3 months from the submission of a complete formal application by thereserve providing unit or group.",
+      "2.   For the purposes of theprequalificationprocesses forFCRin Article 155,FRRin Article 159 and RR in Article 162, each TSO shall develop and specify, in an agreement with itsreserve connecting DSOs and intermediate DSOs, the terms of the exchange of information required for these prequalification processes forreserve providing units or groups located in the distribution systems and for the delivery ofactive power reserves. The prequalification processes for FCR in Article 155, FRR in Article 159 and RR in Article 162 shall specify the information to be provided by the potential reserve providing units or groups, which shall include:",
+      "4.   During the prequalification of a reserve providing unit or group connected to its distribution system, each reserve connecting DSO and each intermediate DSO, in cooperation with the TSO, shall have the right to set limits to or exclude the delivery of active power reserves located in its distribution system, based on technical reasons such as the geographical location of the reserve providing units and reserve providing groups.",
+      "2.   For the purposes of the prequalification processes for FCR in Article 155, FRR in Article 159 and RR in Article 162, each TSO shall develop and specify, in an agreement with its reserve connecting DSOs and intermediate DSOs, the terms of the exchange of information required for these prequalification processes for reserve providing units or groups located in the distribution systems and for the delivery of active power reserves. The prequalification processes for FCR in Article 155, FRR in Article 159 and RR in Article 162 shall specify the information to be provided by the potential reserve providing units or groups, which shall include:",
+      "3.   The prequalification process shall rely on the agreed timeline and rules concerning information exchanges and the delivery of active power reserves between the TSO, the reserve connecting DSO and the intermediate DSOs. The prequalification process shall have a maximum duration of 3 months from the submission of a complete formal application by the reserve providing unit or group."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 155": {
+      "article_score": 7,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    "Article 156": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "Article 159": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 161": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 162": {
+      "article_score": 4,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "Article 165": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 171": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 182": {
+      "article_score": 9,
+      "statement_scores": [
+        0,
+        1,
+        2,
+        1,
+        3,
+        2
+      ]
+    }
+  }
+}

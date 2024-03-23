@@ -1,0 +1,46 @@
+{
+  "term": "physical congestion",
+  "celex_id": "32015R1222",
+  "original_definition": "'physical congestion' means any network situation where forecasted or realised power flows violate the thermal limits of the elements of the grid and voltage stability or the angle stability limits of the power system;",
+  "generated_definition": "'physical congestion' means the state of excessive or unmanageable levels of electricity demand or supply in a transmission system, resulting in bottlenecks or limitations in the movement of electricity, causing inefficiencies, losses, or outages.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018physical congestion\u2019 means any network situation where forecasted or realised power flows violate the thermal limits of the elements of the grid and voltage stability or the angle stability limits of the power system;"
+    ],
+    "Article 34": [
+      "a list ofstructural congestionand other majorphysical congestion, including locations and frequency;",
+      "an analysis of the expected evolution or removal of physical congestion resulting from investment in networks or from significant changes in generation or in consumption patterns;",
+      "a list of structural congestion and other major physical congestion, including locations and frequency;"
+    ],
+    "Article 35": [
+      "2.   The methodology for coordinated redispatching and countertrading shall include actions of cross-borderrelevance and shall enable all TSOs in eachcapacity calculation regionto effectively relievephysical congestion irrespective of whether the reasons for the physical congestion fall mainly outside their control area or not. The methodology for coordinated redispatching and countertrading shall address the fact that its application may significantly influence flows outside the TSO's control area.",
+      "2.   The methodology for coordinated redispatching and countertrading shall include actions of cross-border relevance and shall enable all TSOs in each capacity calculation region to effectively relieve physical congestion irrespective of whether the reasons for the physical congestion fall mainly outside their control area or not. The methodology for coordinated redispatching and countertrading shall address the fact that its application may significantly influence flows outside the TSO's control area."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 34": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 35": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    }
+  }
+}

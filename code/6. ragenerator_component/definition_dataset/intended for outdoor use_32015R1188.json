@@ -1,0 +1,22 @@
+{
+  "term": "intended for outdoor use",
+  "celex_id": "32015R1188",
+  "original_definition": "'intended for outdoor use' means the product is suitable for safe operation outside enclosed spaces, including possible use in outdoor conditions;",
+  "generated_definition": "'intended for outdoor use' means used in outdoor settings, exposed to weather conditions.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018intended for outdoor use\u2019 means the product is suitable for safe operation outside enclosed spaces, including possible use in outdoor conditions;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

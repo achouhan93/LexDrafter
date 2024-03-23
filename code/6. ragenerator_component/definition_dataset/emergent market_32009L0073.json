@@ -1,0 +1,35 @@
+{
+  "term": "emergent market",
+  "celex_id": "32009L0073",
+  "original_definition": "'emergent market' means a Member State in which the first commercial supply of its first long-term natural gas supply contract was made not more than 10 years earlier;",
+  "generated_definition": "'emergent market' means a member state that, due to the implementation of this directive, would experience significant difficulties and is granted the right to derogate from certain provisions.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018emergent market\u2019 means a Member State in which the first commercialsupplyof its first long-term naturalgas supply contract was made not more than 10 years earlier;",
+      "\u2018emergent market\u2019 means a Member State in which the first commercial supply of its first long-term natural gas supply contract was made not more than 10 years earlier;"
+    ],
+    "Article\u00a049": [
+      "Cyprus may derogate from Articles 4 and 9, Article 13(1) and (3), Articles 14 and 24, Article 25(5), Articles 26, 31 and 32, Article 37(1) and/or Article 38. Such derogation shall expire from the moment when Cyprus is not qualifying as an emergent market.",
+      "2.   A Member State, qualifying as an emergent market, which, because of the implementation of this Directive, would experience substantial problems may derogate from Articles 4 and 9, Article 13(1) and (3), Articles 14 and 24, Article 25(5), Articles 26, 31 and 32, Article 37(1) and/or Article 38. Such derogation shall automatically expire from the moment when the Member State no longer qualifies as an emergent market. Any such derogation shall be notified to the Commission."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article\u00a049": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        2
+      ]
+    }
+  }
+}

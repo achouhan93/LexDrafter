@@ -1,0 +1,55 @@
+{
+  "term": "active permission",
+  "celex_id": "32023R1162",
+  "original_definition": "'active permission' means a permission that has not been revoked or expired;",
+  "generated_definition": "'active permission' means a legal basis for lawful data transmission or processing, established through explicit consent or other valid legal grounds, as required by applicable data protection laws, including regulation (eu) 2016/679.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018active permission\u2019 means a permission that has not been revoked or expired;"
+    ],
+    "Article\u00a05": [
+      "when transferring data to eligible parties, and respecting relevant personal data protection law, ensure, in cooperation with the permission administrator where applicable, that there is an active permission or another legal basis for the data to be lawfully transmitted or processed, including, where relevant, in accordance with Regulation (EU) 2016/679.",
+      "when transferring data to eligible parties, and respecting relevant personal data protection law, ensure, in cooperation with thepermission administratorwhere applicable, that there is anactive permission or another legal basis for the data to be lawfully transmitted or processed, including, where relevant, in accordance with Regulation (EU) 2016/679."
+    ],
+    "Article\u00a06": [
+      "Themetering point administratorshall inform thepermission administrator, and where relevant at national level themetered data administrator, without undue delay, of any changes in the assignment of final customers to metering points, and of any other external occurrences that invalidateactive permissions granted in their area of responsibility.",
+      "The metering point administrator shall inform the permission administrator, and where relevant at national level the metered data administrator, without undue delay, of any changes in the assignment of final customers to metering points, and of any other external occurrences that invalidate active permissions granted in their area of responsibility."
+    ],
+    "Article\u00a014": [
+      "Active permission is available.",
+      "Active permission is available or other legal or contractual basis."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article\u00a05": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article\u00a06": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article\u00a014": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

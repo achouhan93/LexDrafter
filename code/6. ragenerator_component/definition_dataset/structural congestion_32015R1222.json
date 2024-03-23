@@ -1,0 +1,42 @@
+{
+  "term": "structural congestion",
+  "celex_id": "32015R1222",
+  "original_definition": "'structural congestion' means congestion in the transmission system that can be unambiguously defined, is predictable, is geographically stable over time and is frequently reoccurring under normal power system conditions;",
+  "generated_definition": "'structural congestion' means a list of structural congestion and other major physical congestion, including locations and frequency.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018structural congestion\u2019 means congestion in the transmission system that can be unambiguously defined, is predictable, is geographically stable over time and is frequently reoccurring under normal power system conditions;"
+    ],
+    "Article 33": [
+      "the location and frequency of congestion, if structural congestion influences the delimitation of bidding zones, taking into account any future investment which may relieve existing congestion."
+    ],
+    "Article 34": [
+      "a list ofstructural congestionand other majorphysical congestion, including locations and frequency;",
+      "a list of structural congestion and other major physical congestion, including locations and frequency;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 33": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 34": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

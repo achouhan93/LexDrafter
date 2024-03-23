@@ -1,0 +1,26 @@
+{
+  "term": "permanent crops",
+  "celex_id": "32019R0807",
+  "original_definition": "'permanent crops' means non-rotational crops other than permanent grassland and permanent pasture that occupy the land for five years or more and yield repeated harvests.",
+  "generated_definition": "'permanent crops' means plants that are cultivated continuously for more than two years, excluding trees and bushes.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018dynamic yield baseline\u2019 means the average yield from the delineated area where anadditionality measurehas been taken, calculated over the 3-year period immediately preceding the year of the application of such measure, taking into account the average yield increase observed for that feedstock over the previous decade and the yield curves over the life time in case ofpermanent crops, excluding yield fluctuations;",
+      "\u2018permanent crops\u2019 means non-rotational crops other than permanent grassland and permanent pasture that occupy the land for five years or more and yield repeated harvests.",
+      "\u2018dynamic yield baseline\u2019 means the average yield from the delineated area where an additionality measure has been taken, calculated over the 3-year period immediately preceding the year of the application of such measure, taking into account the average yield increase observed for that feedstock over the previous decade and the yield curves over the life time in case of permanent crops, excluding yield fluctuations;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        1
+      ]
+    }
+  }
+}

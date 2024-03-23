@@ -1,0 +1,22 @@
+{
+  "term": "Components and sub-assemblies",
+  "celex_id": "32009L0125",
+  "original_definition": "'Components and sub-assemblies' means parts intended to be incorporated into products which are not placed on the market and/or put into service as individual parts for end-users or the environmental performance of which cannot be assessed independently;",
+  "generated_definition": "'Components and sub-assemblies' means a product made up of smaller parts, such as hardware, software, or both, that work together to form a more complex system or product.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Components and sub-assemblies\u2019 means parts intended to be incorporated into products which are not placed on the market and/or put into service as individual parts for end-users or the environmental performance of which cannot be assessed independently;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

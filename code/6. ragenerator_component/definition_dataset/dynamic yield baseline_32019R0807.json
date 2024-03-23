@@ -1,0 +1,28 @@
+{
+  "term": "dynamic yield baseline",
+  "celex_id": "32019R0807",
+  "original_definition": "'dynamic yield baseline' means the average yield from the delineated area where an additionality measure has been taken, calculated over the 3-year period immediately preceding the year of the application of such measure, taking into account the average yield increase observed for that feedstock over the previous decade and the yield curves over the life time in case of permanent crops, excluding yield fluctuations;",
+  "generated_definition": "'dynamic yield baseline' means additional feedstock produced in a clearly delineated area compared to the baseline yield, directly resulting from an additionality measure.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018dynamic yield baseline\u2019 means the average yield from the delineated area where anadditionality measurehas been taken, calculated over the 3-year period immediately preceding the year of the application of such measure, taking into account the average yield increase observed for that feedstock over the previous decade and the yield curves over the life time in case ofpermanent crops, excluding yield fluctuations;",
+      "\u2018additional feedstock\u2019 means the additional amount of a food and feed crop produced in a clearly delineated area compared to thedynamic yield baselineand that is the direct result of applying anadditionality measure;",
+      "\u2018dynamic yield baseline\u2019 means the average yield from the delineated area where an additionality measure has been taken, calculated over the 3-year period immediately preceding the year of the application of such measure, taking into account the average yield increase observed for that feedstock over the previous decade and the yield curves over the life time in case of permanent crops, excluding yield fluctuations;",
+      "\u2018additional feedstock\u2019 means the additional amount of a food and feed crop produced in a clearly delineated area compared to the dynamic yield baseline and that is the direct result of applying an additionality measure;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        0,
+        1
+      ]
+    }
+  }
+}

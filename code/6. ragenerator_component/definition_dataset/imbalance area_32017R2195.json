@@ -1,0 +1,53 @@
+{
+  "term": "imbalance area",
+  "celex_id": "32017R2195",
+  "original_definition": "'imbalance area' means the area in which an imbalance is calculated;",
+  "generated_definition": "'imbalance area' means the delineation of an imbalance area pursuant to article 54(2) and an imbalance price area.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018imbalance area\u2019 means the area in which an imbalance is calculated;"
+    ],
+    "Article 18": [
+      "the delineation of an imbalance area pursuant to Article 54(2) and an imbalance price area;",
+      "the delineation of animbalance areapursuant to Article 54(2) and animbalance price area;"
+    ],
+    "Article 49": [
+      "2.   Forimbalance areas where several finalpositions for a singlebalance responsible partyare calculated pursuant to Article 54(3), animbalance adjustment may be calculated for each position.",
+      "2.   For imbalance areas where several final positions for a single balance responsible party are calculated pursuant to Article 54(3), an imbalance adjustment may be calculated for each position."
+    ],
+    "Article 54": [
+      "in a central dispatching model, a balance responsible party can have several final positions per imbalance area equal to generation schedules of power generating facilities or consumption schedules of demand facilities."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 18": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 49": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 54": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

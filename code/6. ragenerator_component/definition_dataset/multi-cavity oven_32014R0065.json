@@ -1,0 +1,22 @@
+{
+  "term": "multi-cavity oven",
+  "celex_id": "32014R0065",
+  "original_definition": "'multi-cavity oven' means an oven with two or more cavities, each of which is heated separately;",
+  "generated_definition": "'multi-cavity oven' means an oven with multiple cavities or compartments for baking or heating multiple items simultaneously.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018multi-cavity oven\u2019 means an oven with two or more cavities, each of which is heated separately;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

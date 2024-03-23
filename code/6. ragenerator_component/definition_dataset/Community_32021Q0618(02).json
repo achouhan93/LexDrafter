@@ -1,0 +1,94 @@
+{
+  "term": "Community",
+  "celex_id": "32021Q0618(02)",
+  "original_definition": "'Community' means the European Atomic Energy Community (Euratom);",
+  "generated_definition": "'Community' means the european atomic energy community, established by the treaty, comprising the member states and governed by the rules.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018user\u2019 means any person or undertaking that buysnuclear materialsorrelated servicesto use in its own or affiliated nuclear power plants or research reactors within theCommunityor to use in the fields listed in Annex 1 to theTreaty;",
+      "a contract for the purchase, sale, loan or lease of ores and/or source materials where at least one party is auseror aproducerthat produces, processes, converts or shapes ores, source materials or special fissile materials within the territory of theCommunity; and",
+      "\u2018user\u2019 means any person or undertaking that buys nuclear materials or related services to use in its own or affiliated nuclear power plants or research reactors within the Community or to use in the fields listed in Annex 1 to the Treaty;",
+      "special fissile materials produced within the territory of theCommunityby enriching source materials owned by theproducer.",
+      "special fissile materials produced within the territory of the Community-based reactors after irradiation of nuclear fuel;",
+      "special fissile materials produced within the territory of the Community by enriching source materials owned by the producer.",
+      "a contract for the purchase, sale, loan or lease of ores and/or source materials where at least one party is a user or a producer that produces, processes, converts or shapes ores, source materials or special fissile materials within the territory of the Community; and",
+      "\u2018Treaty\u2019 means the Treaty establishing the European Atomic Energy Community;",
+      "source materials produced within the territory of the Community, including those acquired by a producer as a by-product of enrichment;",
+      "source materials produced within the territory of theCommunity, including those acquired by aproducer as a by-product of enrichment;",
+      "\u2018Rules\u2019 means these Rules of the Supply Agency of the European Atomic Energy Community determining the manner in which demand is to be balanced against the supply of ores, source materials and special fissile materials;",
+      "\u2018Treaty\u2019 means the Treaty establishing the European Atomic EnergyCommunity;",
+      "\u2018Community\u2019 means the European Atomic Energy Community (Euratom);",
+      "\u2018Rules\u2019 means these Rules of the SupplyAgencyof the European Atomic EnergyCommunity determining the manner in which demand is to be balanced against the supply of ores, source materials and special fissile materials;",
+      "ores mined within the territory of the Community;"
+    ],
+    "Article\u00a011": [
+      "7.   If the Agency establishes that the regular and equitable supply of nuclear materials to Community users is endangered, it may decide to suspend the application of this simplified procedure and revert to the centralised procedure provided for in Article 12 of the Rules.",
+      "7.   If theAgencyestablishes that the regular and equitable supply ofnuclear materialstoCommunityusers is endangered, it may decide to suspend the application of this simplified procedure and revert to the centralised procedure provided for in Article 12 of theRules."
+    ],
+    "Article\u00a012": [
+      "3.   In such situations, nuclear materials can only be supplied to and/or exchanged with non-Community customers after the requirements of Community users have been met.",
+      "3.   In such situations,nuclear materialscan only be supplied to and/or exchanged with non-Communitycustomers after the requirements of Communityusers have been met."
+    ],
+    "Article\u00a017": [
+      "2.   Any person who imports or exportssmall quantitiesand any supplier who transfers small quantities within theCommunityshall submit a quarterly statement of such transactions to theAgency.",
+      "2.   Any person who imports or exports small quantities and any supplier who transfers small quantities within the Community shall submit a quarterly statement of such transactions to the Agency."
+    ],
+    "Not Article": [
+      "of the SupplyAgencyof the European Atomic EnergyCommunity determining the manner in which demand is to be balanced against the supply of ores, source materials and special fissile materials",
+      "of the Supply Agency of the European Atomic Energy Community determining the manner in which demand is to be balanced against the supply of ores, source materials and special fissile materials"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 8,
+      "statement_scores": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "Article\u00a011": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article\u00a012": {
+      "article_score": 2,
+      "statement_scores": [
+        2,
+        0
+      ]
+    },
+    "Article\u00a017": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    }
+  }
+}

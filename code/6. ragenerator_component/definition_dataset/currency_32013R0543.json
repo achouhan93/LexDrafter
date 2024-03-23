@@ -1,0 +1,54 @@
+{
+  "term": "currency",
+  "celex_id": "32013R0543",
+  "original_definition": "'currency' is euro if at least one part of the bidding zone(s) concerned is part of a country in which euro is a legal tender. In any other case it is the local currency;",
+  "generated_definition": "'currency' means a monetary unit used for financial transactions and accounts",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018currency\u2019 is euro if at least one part of the bidding zone(s) concerned is part of a country in which euro is a legal tender. In any other case it is the local currency;",
+      "\u2018currency\u2019 is euro if at least one part of thebidding zone(s) concerned is part of a country in which euro is a legal tender. In any other case it is the local currency;"
+    ],
+    "Article 12": [
+      "the auction revenue (in Currency) per border between bidding zones;",
+      "the price of the capacity (Currency/MW),",
+      "for every market time unit the day-ahead prices in each bidding zone (Currency/MWh);",
+      "for everymarket time unitthe day-ahead prices in eachbidding zone(Currency/MWh);",
+      "in case of implicit allocations, for every market time unit the net positions of each bidding zone (MW) and the congestion income (in Currency) per border between bidding zones;",
+      "the auction revenue (inCurrency) per border betweenbidding zones;",
+      "in case ofimplicit allocations, for everymarket time unitthe net positions of eachbidding zone(MW) and the congestion income (inCurrency) per border between bidding zones;"
+    ],
+    "Article 17": [
+      "prices paid by the TSO per type of procured balancing reserve and per procurement period (Currency/MW/period);"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 12": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    "Article 17": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "term": "standard product",
+  "celex_id": "32017R2195",
+  "original_definition": "'standard product' means a harmonised balancing product defined by all TSOs for the exchange of balancing services;",
+  "generated_definition": "'standard product' means a pre-defined and pre-qualified product or service with standard characteristics, offered by a balancing service provider for the purpose of balancing energy and capacity in the internal energy market.",
+  "existing_sentences": {
+    "Article 1": [
+      "7.   Subject to the conditions of paragraph 6, the participation of Switzerland in the European platforms for the exchange of standard products for balancing energy shall be decided by the Commission based on an opinion given by the Agency and all TSOs in accordance with the procedures set out in paragraph 3 of Article 4. The rights and responsibilities of Swiss TSOs shall be consistent with the rights and responsibilities of TSOs operating in the Union, allowing for a smooth functioning of balancing market at Union level and a level-playing field for all stakeholders.",
+      "7.   Subject to the conditions of paragraph 6, the participation of Switzerland in the European platforms for the exchange ofstandard products forbalancing energyshall be decided by the Commission based on an opinion given by the Agency and all TSOs in accordance with the procedures set out in paragraph 3 of Article 4. The rights and responsibilities of Swiss TSOs shall be consistent with the rights and responsibilities of TSOs operating in the Union, allowing for a smooth functioning ofbalancing market at Union level and a level-playing field for all stakeholders."
+    ],
+    "Article 2": [
+      "\u2018specific product\u2019 means a product different from astandard product;",
+      "\u2018standard product\u2019 means a harmonised balancing product defined by all TSOs for the exchange of balancing services;",
+      "\u2018specific product\u2019 means a product different from a standard product;",
+      "\u2018standard product\u2019 means a harmonisedbalancingproduct defined by all TSOs for the exchange ofbalancing services;"
+    ],
+    "Article 16": [
+      "5.   Any balancing service provider shall have the right to submit to its connecting TSO the balancing energy bids from standard products or specific products or integrated scheduling process bids for which it has passed the prequalification process pursuant to Article 159 and Article 162 of Regulation (EU) 2017/1485.",
+      "5.   Anybalancing service providershall have the right to submit to itsconnecting TSOthebalancing energybids fromstandard products orspecific products orintegrated scheduling process bids for which it has passed the prequalification process pursuant to Article 159 and Article 162 of Regulation (EU) 2017/1485."
+    ],
+    "Article 18": [
+      "the definition of a location for eachstandard productand eachspecific product taking into account paragraph 5 (c);",
+      "the definition of a location for each standard product and each specific product taking into account paragraph 5 (c);"
+    ],
+    "Article 25": [
+      "4.   The list of standard products for balancing energy and balancing capacity may set out at least the following characteristics of a standard product bid:",
+      "Requirements for standard products",
+      "5.   The list of standard products for balancing energy and balancing capacity shall set out at least the following variable characteristics of a standard product to be determined by the balancing service providers during the prequalification or when submitting the standard product bid:",
+      "4.   The list ofstandard products forbalancing energyandbalancing capacity may set out at least the following characteristics of a standard product bid:",
+      "if applicable, proposed changes to the list of standard products and the number of common merit order lists pursuant to Article 31( 2);",
+      "6.Standard products forbalancing energyandbalancing capacity shall:",
+      "6.   Standard products for balancing energy and balancing capacity shall:",
+      "if applicable, proposed changes to the list ofstandard products and the number ofcommon merit order lists pursuant to Article 31( 2);",
+      "5.   The list ofstandard products forbalancing energyandbalancing capacityshall set out at least the following variable characteristics of a standard product to be determined by thebalancing service providers during the prequalification or when submitting the standard product bid:",
+      "3.   At least every two years, all TSOs shall review the list of standard products for balancing energy and balancing capacity. The review of standard products shall take into account:",
+      "3.   At least every two years, all TSOs shall review the list ofstandard products forbalancing energyandbalancing capacity. The review of standard products shall take into account:"
+    ],
+    "Article 26": [
+      "3.   Thespecific products shall be implemented in parallel to the implementation of thestandard products. Following the use of the specific products, theconnecting TSO may alternatively:",
+      "3.   The specific products shall be implemented in parallel to the implementation of the standard products. Following the use of the specific products, the connecting TSO may alternatively:",
+      "a demonstration thatstandard products are not sufficient to ensure operational security and to maintain the system balance efficiently or a demonstration that somebalancingresources cannot participate in thebalancing market through standard products;",
+      "a demonstration that standard products are not sufficient to ensure operational security and to maintain the system balance efficiently or a demonstration that some balancing resources cannot participate in the balancing market through standard products;"
+    ],
+    "Article 27": [
+      "3.   Each TSO applying acentral dispatching modelshall convert as far as possible theintegrated scheduling processbids pursuant to paragraph 2 intostandard products taking into account operational security. The rules for converting the integrated scheduling process bids into standard products shall:",
+      "3.   Each TSO applying a central dispatching model shall convert as far as possible the integrated scheduling process bids pursuant to paragraph 2 into standard products taking into account operational security. The rules for converting the integrated scheduling process bids into standard products shall:"
+    ],
+    "Article 59": [
+      "analyse the suitability of standard products with respect to the latest development and evolution of different balancing resources and propose possible improvements of standard products;",
+      "analyse the suitability ofstandard products with respect to the latest development and evolution of differentbalancing resources and propose possible improvements of standard products;",
+      "the benefits from the use of standard products;",
+      "the volume and price ofbalancing energyused for balancing purposes, both available and activated, fromstandard products and fromspecific products;",
+      "the volume and price of balancing energy used for balancing purposes, both available and activated, from standard products and from specific products;"
+    ],
+    "Not Article": [
+      "In order to allow an exchange of balancing services, the creation of common merit order lists and adequate liquidity in the balancing market, it is necessary to regulate the standardisation of balancing products. This Regulation lists the minimum set of standard characteristics and additional characteristics defining standard products.",
+      "The pricing method forstandard products forbalancing energyshould create positive incentives for market participants in keeping and/or helping to restore the system balance of theirimbalance pricearea, reduce system imbalances and costs for society. Such pricing approach should strive for an economically efficient use of demand response and other balancing resources subject to operational security limits. The pricing method used in the procurement ofbalancing capacity should strive for an economically efficient use of demand response and other balancing resources subject to operational security limits.",
+      "In order to allow an exchange ofbalancing services, the creation ofcommon merit order lists and adequate liquidity in thebalancing market, it is necessary to regulate the standardisation of balancing products. This Regulation lists the minimum set of standard characteristics and additional characteristics definingstandard products.",
+      "The pricing method for standard products for balancing energy should create positive incentives for market participants in keeping and/or helping to restore the system balance of their imbalance price area, reduce system imbalances and costs for society. Such pricing approach should strive for an economically efficient use of demand response and other balancing resources subject to operational security limits. The pricing method used in the procurement of balancing capacity should strive for an economically efficient use of demand response and other balancing resources subject to operational security limits."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        0
+      ]
+    },
+    "Article 16": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 18": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 25": {
+      "article_score": 19,
+      "statement_scores": [
+        2,
+        1,
+        3,
+        2,
+        1,
+        1,
+        1,
+        1,
+        3,
+        2,
+        2
+      ]
+    },
+    "Article 26": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        2,
+        2
+      ]
+    },
+    "Article 27": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Article 59": {
+      "article_score": 7,
+      "statement_scores": [
+        2,
+        2,
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

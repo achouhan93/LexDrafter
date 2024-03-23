@@ -1,0 +1,28 @@
+{
+  "term": "sustainability and greenhouse gas emissions saving characteristics",
+  "celex_id": "32022R0996",
+  "original_definition": "'sustainability and greenhouse gas emissions saving characteristics' means the set of information describing a consignment of raw material or fuel that is required for demonstrating compliance of that consignment with the sustainability and greenhouse gas emissions saving criteria for biofuels, bioliquids and biomass fuels or the greenhouse gas emission savings requirements applicable for renewable liquid and gaseous transport fuels of non-biological origin and recycled carbon fuels;",
+  "generated_definition": "'sustainability and greenhouse gas emissions saving characteristics' means the ability of raw materials or fuels to be produced, processed, and used in a manner that minimizes environmental impact, including greenhouse gas emissions, and promotes sustainable development.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018economic operator\u2019 means a producer of raw material, a collector of waste and residues, an operator of installations processing raw material into final fuels or intermediate products, an operator of installations producing energy (electricity, heating or cooling) or any other operator, including of storage facilities or traders that are in physical possession of raw material or fuels, provided that they process information on the sustainability and greenhouse gas emissions saving characteristics of those raw materials or fuels;",
+      "\u2018economic operator\u2019 means a producer ofraw material, a collector of waste and residues, an operator of installations processing raw material into finalfuelsor intermediate products, an operator of installations producing energy (electricity, heating or cooling) or any other operator, including of storage facilities or traders that are in physical possession of raw material or fuels, provided that they process information on thesustainability and greenhouse gas emissions saving characteristics of those raw materials or fuels;",
+      "\u2018sustainability and greenhouse gas emissions saving characteristics\u2019 means the set of information describing a consignment of raw material or fuel that is required for demonstrating compliance of that consignment with the sustainability and greenhouse gas emissions saving criteria for biofuels, bioliquids and biomass fuels or the greenhouse gas emission savings requirements applicable for renewable liquid and gaseous transport fuels of non-biological origin and recycled carbon fuels;",
+      "\u2018sustainability and greenhouse gas emissions saving characteristics\u2019 means the set of information describing a consignment ofraw materialor fuel that is required for demonstrating compliance of that consignment with the sustainability and greenhouse gas emissions saving criteria for biofuels, bioliquids and biomass fuels or the greenhouse gas emission savings requirements applicable for renewable liquid and gaseous transport fuels of non-biological origin and recycled carbon fuels;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1,
+        0,
+        0
+      ]
+    }
+  }
+}
