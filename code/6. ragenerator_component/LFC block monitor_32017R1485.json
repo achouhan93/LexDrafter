@@ -1,0 +1,47 @@
+{
+  "term": "LFC block monitor",
+  "celex_id": "32017R1485",
+  "original_definition": "'LFC block monitor' means a TSO responsible for collecting the frequency quality evaluation criteria data and applying the frequency quality evaluation criteria for the LFC block;",
+  "generated_definition": "'LFC block monitor' means a tso of a lfc block appointed in the lfc block operational agreement to collect and deliver frequency quality evaluation data for the lfc block and its lfc areas, every 3 months or within 2 months after the end of the analysed period.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018LFC block monitor\u2019 means a TSO responsible for collecting the frequency quality evaluation criteria data and applying the frequency quality evaluation criteria for the LFC block;",
+      "\u2018LFC block monitor\u2019 means a TSO responsible for collecting thefrequency quality evaluation criteria data and applying the frequency quality evaluation criteria for the LFC block;"
+    ],
+    "Article 134": [
+      "4.   TheLFC block monitorshall deliver thefrequency quality evaluation dataof the LFC block and itsLFC areas once every 3 months and within 2 months after the end of the analysed period.",
+      "1.   All TSOs of aLFC blockshall appoint one TSO of that LFC block in theLFC block operational agreementasLFC block monitor.",
+      "2.   The LFC block monitor shall collect the frequency quality evaluation data for the LFC block in accordance with the criteria application process referred to in Article 129.",
+      "3.   Each TSO of aLFC areashall provide theLFC block monitorwith the LFC area measurements necessary for collectingfrequency quality evaluation data for the LFC block.",
+      "4.   The LFC block monitor shall deliver the frequency quality evaluation data of the LFC block and its LFC areas once every 3 months and within 2 months after the end of the analysed period.",
+      "1.   All TSOs of a LFC block shall appoint one TSO of that LFC block in the LFC block operational agreement as LFC block monitor.",
+      "2.   TheLFC block monitorshall collect thefrequency quality evaluation datafor the LFC block in accordance with thecriteria application process referred to in Article 129.",
+      "3.   Each TSO of a LFC area shall provide the LFC block monitor with the LFC area measurements necessary for collecting frequency quality evaluation data for the LFC block."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 134": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

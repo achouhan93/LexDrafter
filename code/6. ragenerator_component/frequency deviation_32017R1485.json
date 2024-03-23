@@ -1,0 +1,190 @@
+{
+  "term": "frequency deviation",
+  "celex_id": "32017R1485",
+  "original_definition": "'frequency deviation' means the difference between the actual and the nominal frequency of the synchronous area which can be negative or positive;",
+  "generated_definition": "'frequency deviation' means the absolute value of the steady state system frequency deviation has continuously exceeded 50% of the maximum steady state frequency deviation for a time period longer than the alert state trigger time or the standard frequency range for a time period longer than time to restore frequency.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018frequency deviation\u2019 means the difference between the actual and the nominal frequency of the synchronous area which can be negative or positive;",
+      "\u2018frequency restoration control error\u2019 or \u2018FRCE\u2019 means the control error for theFRPwhich is equal to theACEof aLFC areaor equal to thefrequency deviation where the LFC area geographically corresponds to the synchronous area;",
+      "\u2018area control error\u2019 or \u2018ACE\u2019 means the sum of the power control error (\u2018\u0394P\u2019), that is the real-time difference between the measured actual real time power interchange value (\u2018P\u2019) and thecontrol program(\u2018P0\u2019) of a specificLFC areaorLFC blockand the frequency control error (\u2018K*\u0394f\u2019), that is the product of the K-factor and thefrequency deviation of that specific LFC area or LFC block, where the area control error equals \u0394P+K*\u0394f;",
+      "\u2018frequency restoration control error\u2019 or \u2018FRCE\u2019 means the control error for the FRP which is equal to the ACE of a LFC area or equal to the frequency deviation where the LFC area geographically corresponds to the synchronous area;",
+      "\u2018area control error\u2019 or \u2018ACE\u2019 means the sum of the power control error (\u2018\u0394P\u2019), that is the real-time difference between the measured actual real time power interchange value (\u2018P\u2019) and the control program (\u2018P0\u2019) of a specific LFC area or LFC block and the frequency control error (\u2018K*\u0394f\u2019), that is the product of the K-factor and the frequency deviation of that specific LFC area or LFC block, where the area control error equals \u0394P+K*\u0394f;"
+    ],
+    "Article 16": [
+      "a description and date of implementation of any mitigation measures and ramping requirements to alleviate deterministic frequency deviations taken in the previous calendar year in accordance with Articles 137 and 138, in which TSOs of the Member State were involved."
+    ],
+    "Article 18": [
+      "the absolute value of the steady state system frequency deviation is not larger than the maximum steady state frequency deviation; and",
+      "the absolute value of the steady state system frequency deviation has continuously exceeded 50 % of the maximum steady state frequency deviation for a time period longer than the alert state trigger time or the standard frequency range for a time period longer than time to restore frequency; or",
+      "the absolute value of the steady statesystem frequencyfrequency deviationis not larger than the maximumsteady state frequency deviationand the system frequency limits established for thealert state are not fulfilled;",
+      "the steady state system frequency deviation is within the standard frequency range; or",
+      "the steady statesystem frequencyfrequency deviationis within thestandard frequency range; or",
+      "the absolute value of the steady state system frequency deviation is not larger than the maximum steady state frequency deviation and the system frequency limits established for the alert state are not fulfilled;",
+      "the absolute value of the steady statesystem frequencyfrequency deviationis not larger than the maximumsteady state frequency deviation; and"
+    ],
+    "Article 22": [
+      "activate frequency deviation management procedures;"
+    ],
+    "Article 118": [
+      "operational procedures to reduce thesystem frequencyfrequency deviationto restore thesystem statetonormal stateand to limit the risk of entering into theemergency state in accordance with Article 152(10);",
+      "operational procedures to reduce the system frequency deviation to restore the system state to normal state and to limit the risk of entering into the emergency state in accordance with Article 152(10);"
+    ],
+    "Article 137": [
+      "4.   All TSOs of an LFC block shall have the right to determine in the LFC block operational agreement the following measures to support the fulfilment of the FRCE target parameter of the LFC block and to alleviate deterministic frequency deviations, taking into account the technological restrictions of power generating modules and demand units:",
+      "4.   All TSOs of anLFC blockshall have the right to determine in theLFC block operational agreementthe following measures to support the fulfilment of theFRCEtarget parameter of the LFC block and to alleviate deterministicfrequency deviations, taking into account the technological restrictions of power generating modules and demand units:"
+    ],
+    "Article 142": [
+      "2.   The overall characteristic forFCRactivation in a synchronous area shall reflect a monotonic decrease of the FCR activation as a function of thefrequency deviation.",
+      "2.   The overall characteristic for FCR activation in a synchronous area shall reflect a monotonic decrease of the FCR activation as a function of the frequency deviation."
+    ],
+    "Article 143": [
+      "thefrequency deviation, where oneLFC areacorresponds to theLFC block and the synchronous area.",
+      "3.   The ACE of a LFC area shall be calculated as the sum of the product of the K-Factor of the LFC area with the frequency deviation plus de subtraction of:",
+      "3.   TheACEof aLFC areashall be calculated as the sum of the product of the K-Factor of the LFC area with thefrequency deviation plus de subtraction of:",
+      "the frequency deviation, where one LFC area corresponds to the LFC block and the synchronous area."
+    ],
+    "Article 152": [
+      "15.   For the cases referred to in paragraphs 11 to 13 all the TSOs of each synchronous area shall specify in the synchronous area operational agreement actions to enable the TSOs of aLFC blockto actively reduce thefrequency deviationwith the cross-border activation of reserves. In cases referred to in paragraphs 11 to 13 the TSOs of the synchronous area shall endeavour to enable the TSOs of the concerned LFC block to reduce theirFRCE.",
+      "5.   The synchronous area monitor shall ensure that all TSOs of all synchronous areas are informed in case the system frequency deviation fulfils one of the criteria for the alert state referred to in Article 18.",
+      "2.   Each TSO shall monitor close to real-time generation and exchange schedules, power flows, node injections and withdrawals and other parameters within its control area relevant for anticipating a risk of a frequency deviation and shall take, in coordination with other TSOs of its synchronous area, measures to limit their negative effects on the balance between generation and demand.",
+      "5.   Thesynchronous area monitorshall ensure that all TSOs of all synchronous areas are informed in case thesystem frequencyfrequency deviationfulfils one of the criteria for thealert state referred to in Article 18.",
+      "15.   For the cases referred to in paragraphs 11 to 13 all the TSOs of each synchronous area shall specify in the synchronous area operational agreement actions to enable the TSOs of a LFC block to actively reduce the frequency deviation with the cross-border activation of reserves. In cases referred to in paragraphs 11 to 13 the TSOs of the synchronous area shall endeavour to enable the TSOs of the concerned LFC block to reduce their FRCE.",
+      "2.   Each TSO shall monitorclose to real-timegeneration and exchangeschedules, power flows, node injections and withdrawals and other parameters within its control area relevant for anticipating a risk of afrequency deviation and shall take, in coordination with other TSOs of its synchronous area, measures to limit their negative effects on the balance between generation and demand.",
+      "10.   All TSOs of a synchronous area shall specify in the synchronous area operational agreement the operational procedures for the alert state due to a violation of system frequency limits. The operational procedures shall aim at reducing the system frequency deviation in order to restore the system state to the normal state and to limit the risk of entering the emergency state. The operational procedures shall include the right of TSOs to deviate from the obligation set in Article 143(1).",
+      "10.   All TSOs of a synchronous area shall specify in the synchronous area operational agreement the operational procedures for thealert statedue to a violation ofsystem frequencylimits. The operational procedures shall aim at reducing the systemfrequency deviationin order to restore thesystem stateto thenormal stateand to limit the risk of entering theemergency state. The operational procedures shall include the right of TSOs to deviate from the obligation set in Article 143(1)."
+    ],
+    "Article 154": [
+      "in case of afrequency deviationequal to or larger than 200 mHz, 100 % of the fullFCR capacity shall be delivered at the latest after 30 seconds;",
+      "the activation of FCR shall not be artificially delayed and begin as soon as possible after a frequency deviation;",
+      "in case of afrequency deviationsmaller than 200 mHz the related activatedFCR capacity shall be at least proportional with the same time behaviour referred to in points (a) to (d).",
+      "in case of a frequency deviation equal to or larger than 200 mHz, the activation of the full FCR capacity shall rise at least linearly from 15 to 30 seconds; and",
+      "6.   Each FCR providing unit and each FCR providing group shall comply with the properties required for FCR in the Table of Annex V and with any additional properties or requirements specified in accordance with paragraphs 2 and 3 and activate the agreed FCR by means of a proportional governor reacting to frequency deviations or alternatively based on a monotonic piecewise linear power-frequency characteristic in case of relay activated FCR. They shall be capable of activating FCR within the frequency ranges specified in Article 13(1) of Regulation (EU) 2016/631.",
+      "in case of a frequency deviation equal to or larger than 200 mHz, at least 50 % of the full FCR capacity shall be delivered at the latest after 15 seconds;",
+      "in case of a frequency deviation equal to or larger than 200 mHz, 100 % of the full FCR capacity shall be delivered at the latest after 30 seconds;",
+      "in case of a frequency deviation smaller than 200 mHz the related activated FCR capacity shall be at least proportional with the same time behaviour referred to in points (a) to (d).",
+      "in case of afrequency deviationequal to or larger than 200 mHz, the activation of the fullFCR capacity shall rise at least linearly from 15 to 30 seconds; and",
+      "in case of afrequency deviationequal to or larger than 200 mHz, at least 50 % of the fullFCR capacity shall be delivered at the latest after 15 seconds;",
+      "6.   EachFCRproviding unit and each FCR providing group shall comply with the properties required for FCR in the Table of Annex V and with any additional properties or requirements specified in accordance with paragraphs 2 and 3 and activate the agreed FCR by means of a proportional governor reacting tofrequency deviations or alternatively based on a monotonic piecewise linear power-frequency characteristic in case of relay activated FCR. They shall be capable of activating FCR within the frequency ranges specified in Article 13(1) of Regulation (EU) 2016/631.",
+      "the activation ofFCRshall not be artificially delayed and begin as soon as possible after afrequency deviation;"
+    ],
+    "Article 156": [
+      "7.   AnFCRproviding unit or FCR providing group with an energy reservoir that does not limit its capability to provide FCR shall activate its FCR for as long as thefrequency deviationpersists. For the GB and IE/NI synchronous areas, a FCR providing unit or FCR providing group with an energy reservoir that does not limit its capability to provide FCR shall activate its FCR until it activates itsFRR or for the period specified in the synchronous area operational agreement.",
+      "8.   AFCRproviding unit or FCR providing group with an energy reservoir that limits its capability to provide FCR shall activate its FCR for as long as thefrequency deviationpersists, unless its energy reservoir is exhausted in either the positive or negative direction. For the GB and IE/NI synchronous areas, a FCR providing unit or FCR providing group with an energy reservoir that limits its capability to provide FCR shall activate its FCR until it activates itsFRR or for the period specified in the synchronous area operational agreement.",
+      "9.   For the CE and Nordic synchronous areas, eachFCRprovider shall ensure that the FCR from its FCR providing units or groups with limited energy reservoirs are continuously available duringnormal state. For the CE and Nordic synchronous areas, as of triggering thealert stateand during the alert state, each FCR provider shall ensure that its FCR providing units or groups with limited energy reservoirs are able to fully activate FCR continuously for a time period to be defined pursuant to paragraphs 10 and 11. Where no period has been determined pursuant to paragraphs 10 and 11, each FCR provider shall ensure that its FCR providing units or groups with limited energy reservoirs are able to fully activate FCR continuously for at least 15 minutes or, in case offrequency deviations that are smaller than a frequency deviation requiring full FCR activation, for an equivalent length of time, or for a period defined by each TSO, which shall not be greater than 30 or smaller than 15 minutes.",
+      "8.   A FCR providing unit or FCR providing group with an energy reservoir that limits its capability to provide FCR shall activate its FCR for as long as the frequency deviation persists, unless its energy reservoir is exhausted in either the positive or negative direction. For the GB and IE/NI synchronous areas, a FCR providing unit or FCR providing group with an energy reservoir that limits its capability to provide FCR shall activate its FCR until it activates its FRR or for the period specified in the synchronous area operational agreement.",
+      "7.   An FCR providing unit or FCR providing group with an energy reservoir that does not limit its capability to provide FCR shall activate its FCR for as long as the frequency deviation persists. For the GB and IE/NI synchronous areas, a FCR providing unit or FCR providing group with an energy reservoir that does not limit its capability to provide FCR shall activate its FCR until it activates its FRR or for the period specified in the synchronous area operational agreement.",
+      "9.   For the CE and Nordic synchronous areas, each FCR provider shall ensure that the FCR from its FCR providing units or groups with limited energy reservoirs are continuously available during normal state. For the CE and Nordic synchronous areas, as of triggering the alert state and during the alert state, each FCR provider shall ensure that its FCR providing units or groups with limited energy reservoirs are able to fully activate FCR continuously for a time period to be defined pursuant to paragraphs 10 and 11. Where no period has been determined pursuant to paragraphs 10 and 11, each FCR provider shall ensure that its FCR providing units or groups with limited energy reservoirs are able to fully activate FCR continuously for at least 15 minutes or, in case of frequency deviations that are smaller than a frequency deviation requiring full FCR activation, for an equivalent length of time, or for a period defined by each TSO, which shall not be greater than 30 or smaller than 15 minutes."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 4,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 16": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 18": {
+      "article_score": 12,
+      "statement_scores": [
+        2,
+        2,
+        2,
+        1,
+        1,
+        2,
+        2
+      ]
+    },
+    "Article 22": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 118": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 137": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 142": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 143": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 152": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 154": {
+      "article_score": 12,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 156": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        1,
+        2,
+        1,
+        1,
+        2
+      ]
+    }
+  }
+}

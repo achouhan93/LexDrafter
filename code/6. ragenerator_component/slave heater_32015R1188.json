@@ -1,0 +1,33 @@
+{
+  "term": "slave heater",
+  "celex_id": "32015R1188",
+  "original_definition": "'slave heater' means an electric local space heater which is not capable of autonomous operation and needs to receive signals sent from an external master controller, not being part of the product but connected to it by pilot wire, wireless, power line communication or an equivalent technique, in order to regulate the emission of heat into the room in which the product is installed;",
+  "generated_definition": "'slave heater' means electric local space heater which is not an electric fixed local space heater, electric storage local space heater, electric underfloor local space heater, electric radiant local space heater, electric visibly glowing local space heater.",
+  "existing_sentences": {
+    "Article 1": [
+      "slave heaters."
+    ],
+    "Article 2": [
+      "\u2018electric portable local space heater\u2019 means anelectric local space heaterwhich is not anelectric fixed local space heater,electric storage local space heater,electric underfloor local space heater,electric radiant local space heater, electric visibly glowing local space heater orslave heater;",
+      "\u2018electric portable local space heater\u2019 means an electric local space heater which is not an electric fixed local space heater, electric storage local space heater, electric underfloor local space heater, electric radiant local space heater, electric visibly glowing local space heater or slave heater;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

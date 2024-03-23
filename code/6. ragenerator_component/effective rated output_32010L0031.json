@@ -1,0 +1,54 @@
+{
+  "term": "effective rated output",
+  "celex_id": "32010L0031",
+  "original_definition": "'effective rated output' means the maximum calorific output, expressed in kW, specified and guaranteed by the manufacturer as being deliverable during continuous operation while complying with the useful efficiency indicated by the manufacturer;",
+  "generated_definition": "'effective rated output' means the boiler efficiency and sizing compared with heating requirements of the building",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018effective rated output\u2019 means the maximum calorific output, expressed in kW, specified and guaranteed by the manufacturer as being deliverable during continuous operation while complying with the useful efficiency indicated by the manufacturer;"
+    ],
+    "Article 14": [
+      "1.   Member States shall lay down the necessary measures to establish a regular inspection of the accessible parts of systems used for heating buildings, such as the heat generator, control system and circulation pump(s), with boilers of an effective rated output for space heating purposes of more than 20 kW. That inspection shall include an assessment of the boiler efficiency and the boiler sizing compared with the heating requirements of the building. The assessment of the boiler sizing does not have to be repeated as long as no changes were made to the heating system or as regards the heating requirements of the building in the meantime.",
+      "2.   Member States may set different inspection frequencies depending on the type and effective rated output of the heating system whilst taking into account the costs of the inspection of the heating system and the estimated energy cost savings that may result from the inspection.",
+      "1.   Member States shall lay down the necessary measures to establish a regular inspection of the accessible parts of systems used for heatingbuildings, such as the heat generator, control system and circulation pump(s), withboilers of aneffective rated output for space heating purposes of more than 20 kW. That inspection shall include an assessment of the boiler efficiency and the boiler sizing compared with the heating requirements of the building. The assessment of the boiler sizing does not have to be repeated as long as no changes were made to the heating system or as regards the heating requirements of the building in the meantime.",
+      "3.   Heating systems with boilers of an effective rated output of more than 100 kW shall be inspected at least every two years.",
+      "3.   Heating systems withboilers of aneffective rated output of more than 100 kW shall be inspected at least every two years."
+    ],
+    "Article 15": [
+      "1.   Member States shall lay down the necessary measures to establish a regular inspection of the accessible parts of air-conditioning systems of an effective rated output of more than 12 kW. The inspection shall include an assessment of the air-conditioning efficiency and the sizing compared to the cooling requirements of the building. The assessment of the sizing does not have to be repeated as long as no changes were made to this air-conditioning system or as regards the cooling requirements of the building in the meantime.",
+      "1.   Member States shall lay down the necessary measures to establish a regular inspection of the accessible parts ofair-conditioning systems of aneffective rated outputof more than 12 kW. The inspection shall include an assessment of the air-conditioning efficiency and the sizing compared to the cooling requirements of thebuilding. The assessment of the sizing does not have to be repeated as long as no changes were made to this air-conditioning system or as regards the cooling requirements of the building in the meantime.",
+      "2.   The Member States may set different inspection frequencies depending on the type and effective rated output of the air-conditioning system, whilst taking into account the costs of the inspection of the air-conditioning system and the estimated energy cost savings that may result from the inspection.",
+      "2.   The Member States may set different inspection frequencies depending on the type andeffective rated outputof theair-conditioning system, whilst taking into account the costs of the inspection of the air-conditioning system and the estimated energy cost savings that may result from the inspection."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 14": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 15": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

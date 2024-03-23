@@ -1,0 +1,51 @@
+{
+  "term": "product database",
+  "celex_id": "32019R2023",
+  "original_definition": "'product database' means a collection of data concerning products, which is arranged in a systematic manner and consists of a consumer-oriented public part, where information concerning individual product parameters is accessible by electronic means, an online portal for accessibility and a compliance part, with clearly specified accessibility and security requirements, as laid down in Regulation (EU) 2017/1369;",
+  "generated_definition": "'product database' means a database that stores information on products subject to eu regulations, including model information as defined in regulation (eu) 2019/2014.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018product database\u2019 means a collection of data concerning products, which is arranged in a systematic manner and consists of a consumer-oriented public part, where information concerning individual product parameters is accessible by electronic means, an online portal for accessibility and a compliance part, with clearly specified accessibility and security requirements, as laid down in Regulation (EU) 2017/1369;"
+    ],
+    "Article 4": [
+      "4.   The technical documentation shall include the information in the order and as set out in Annex VI of Delegated Regulation (EU) 2019/2014. For market surveillance purposes, manufacturers, importers or authorised representatives may, without prejudice to point 2(g) of Annex IV to Directive 2009/125/EC, refer to the technical documentation uploaded to the product database which contains the same information laid down in Delegated Regulation (EU) 2019/2014."
+    ],
+    "Article 12": [
+      "instruction on how to find the model information stored in theproduct database, as defined in Regulation (EU) 2019/2014 by means of a weblink that links to the model information as stored in the product database or a link to the product database and information on how to find themodel identifier on the product;",
+      "instruction on how to find the model information stored in the product database, as defined in Regulation (EU) 2019/2014 by means of a weblink that links to the model information as stored in the product database or a link to the product database and information on how to find the model identifier on the product;"
+    ],
+    "Not Article": [
+      "Where parameters of the technical documentation, as defined by this Regulation, are identical to parameters of the product information sheet defined by Commission Delegated Regulation (EU) 2019/2014 (12), manufacturers, importers or authorised representatives should enter the corresponding data into the product database defined by Regulation (EU) 2017/1369 of the European Parliament and of the Council (13) and should no longer need to provide them to market surveillance authorities as part of the technical documentation."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 4": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 12": {
+      "article_score": 6,
+      "statement_scores": [
+        3,
+        3
+      ]
+    },
+    "Not Article": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

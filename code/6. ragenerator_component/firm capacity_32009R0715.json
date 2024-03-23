@@ -1,0 +1,49 @@
+{
+  "term": "firm capacity",
+  "celex_id": "32009R0715",
+  "original_definition": "'firm capacity' means gas transmission capacity contractually guaranteed as uninterruptible by the transmission system operator;",
+  "generated_definition": "'firm capacity' means the maximum capacity that the transmission system operator can offer to network users, taking into account system integrity and operational requirements.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018firm capacity\u2019 means gastransmission capacity contractually guaranteed as uninterruptible by the transmission system operator;",
+      "\u2018technical capacity\u2019 means the maximumfirm capacitythat thetransmissionsystem operator can offer to thenetwork users, taking account ofsystem integrity and the operational requirements of the transmission network;",
+      "\u2018contractual congestion\u2019 means a situation where the level of firm capacity demand exceeds the technical capacity;",
+      "\u2018firm capacity\u2019 means gas transmission capacity contractually guaranteed as uninterruptible by the transmission system operator;",
+      "\u2018firm services\u2019 mean services offered by the transmission system operator in relation to firm capacity;",
+      "\u2018unused capacity\u2019 means firm capacity which a network user has acquired under a transport contract but which that user has not nominated by the deadline specified in the contract;",
+      "\u2018technical capacity\u2019 means the maximum firm capacity that the transmission system operator can offer to the network users, taking account of system integrity and the operational requirements of the transmission network;",
+      "\u2018contractual congestion\u2019 means a situation where the level offirm capacitydemand exceeds thetechnical capacity;",
+      "\u2018unused capacity\u2019 meansfirm capacitywhich anetwork userhas acquired under atransport contract but which that user has not nominated by the deadline specified in the contract;"
+    ],
+    "Article\u00a032": [
+      "4.   Where appropriate, transmission system operators shall make reasonable endeavours to offer at least parts of the unused capacity to the market as firm capacity.",
+      "4.   Where appropriate,transmissionsystem operators shall make reasonable endeavours to offer at least parts of theunused capacityto the market asfirm capacity."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 7,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article\u00a032": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

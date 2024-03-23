@@ -1,0 +1,187 @@
+{
+  "term": "heater",
+  "celex_id": "32013R0813",
+  "original_definition": "'heater' means a space heater or combination heater;",
+  "generated_definition": "'heater' means a device that generates heat, typically for space or water heating, and may be powered by electricity, gas, or other fuels.",
+  "existing_sentences": {
+    "Article 1": [
+      "heaters specifically designed for using gaseous or liquid fuels predominantly produced from biomass;",
+      "heaters specifically designed for using gaseous or liquid fuels predominantly produced frombiomass;",
+      "heaters for heating and distributing gaseous heat transfer media such as vapour or air;",
+      "heat generators designed forheaters andheater housings to be equipped with such heat generators placed on the market before 1 January 2018 to replace identical heat generators and identical heater housings. The replacement product or its packaging shall clearly indicate the heater for which it is intended.",
+      "heat generators designed for heaters and heater housings to be equipped with such heat generators placed on the market before 1 January 2018 to replace identical heat generators and identical heater housings. The replacement product or its packaging shall clearly indicate the heater for which it is intended.",
+      "heaters generating heat only for the purpose of providing hot drinking or sanitary water;",
+      "heaters using solid fuels;",
+      "heaters within the scope of Directive 2010/75/EU of the European Parliament and of the Council (6);"
+    ],
+    "Article 2": [
+      "\u2018heat generator\u2019 means the part of a heater that generates the heat using one or more of the following processes:",
+      "\u2018heat generator\u2019 means the part of aheater that generates the heat using one or more of the following processes:",
+      "\u2018seasonal space heating energy efficiency\u2019 (\u03b7s\n) means the ratio between the space heating demand for a designated heating season, supplied by a heater and the annual energy consumption required to meet this demand, expressed in %;",
+      "\u2018heater\u2019 means a space heater or combination heater;",
+      "\u2018seasonal space heating energy efficiency\u2019 (\u03b7s\n) means the ratio between the space heating demand for a designated heating season, supplied by aheater and the annual energy consumption required to meet this demand, expressed in %;",
+      "\u2018rated heat output\u2019 (Prated) means the declared heat output of a heater when providing space heating and, if applicable, water heating at standard rating conditions, expressed in kW; for heat pump space heaters and heat pump combination heaters the standard rating conditions for establishing the rated heat output are the reference design conditions, as set out in Annex III, Table 4;",
+      "\u2018standard rating conditions\u2019 means the operating conditions of heaters under average climate conditions for establishing the rated heat output, seasonal space heating energy efficiency, water heating energy efficiency, sound power level and nitrogen oxide emissions;",
+      "\u2018heater\u2019 means aspace heaterorcombination heater;",
+      "whereby aheat generatordesigned for aheaterand aheater housing to be equipped with such a heat generator shall be also considered a heater;",
+      "\u2018standard rating conditions\u2019 means the operating conditions ofheaters under average climate conditions for establishing therated heat output,seasonal space heating energy efficiency,water heating energy efficiency,sound power level and nitrogen oxide emissions;",
+      "whereby a heat generator designed for a heater and a heater housing to be equipped with such a heat generator shall be also considered a heater;"
+    ],
+    "Article 3": [
+      "from 26 September 2018 heaters shall meet the requirements set out in Annex II, point 4(a).",
+      "1.   The ecodesign requirements for heaters are set out in Annex II.",
+      "heaters shall meet the requirements set out in Annex II, points 1(a), 3 and 5;"
+    ],
+    "Article 6": [
+      "The indicative benchmarks for best-performing heaters available on the market at the time of entry into force of this Regulation are set out in Annex V."
+    ],
+    "Article 7": [
+      "The Commission shall review this Regulation in the light of technological progress with heaters and present the result of that review to the Ecodesign Consultation Forum no later than five years from the date of entry into force of this Regulation. In particular, the review shall include an assessment of the following aspects:",
+      "the appropriateness of setting ecodesign requirements forheaters specifically designed for using gaseous or liquid fuels predominantly produced frombiomass;",
+      "the appropriateness of setting ecodesign requirements for heaters specifically designed for using gaseous or liquid fuels predominantly produced from biomass;"
+    ],
+    "Article 8": [
+      "1.   Until 26 September 2015 Member States may allow the placing on the market and/or putting into service of heaters which are in conformity with the national provisions in force when this Regulation is adopted regarding seasonal space heating energy efficiency, water heating energy efficiency and sound power level.",
+      "1.   Until 26 September 2015 Member States may allow the placing on the market and/or putting into service ofheaters which are in conformity with the national provisions in force when this Regulation is adopted regardingseasonal space heating energy efficiency,water heating energy efficiencyandsound power level.",
+      "2.   Until 26 September 2018 Member States may allow the placing on the market and/or putting into service of heaters, which are in conformity with the national provisions in force when this Regulation is adopted regarding emissions of nitrogen oxides."
+    ],
+    "Article 10": [
+      "\u2018crankcase heater mode power consumption\u2019 (PCK\n) means the power consumption of the heat pump space heater or heat pump combination heater while in crankcase heater mode, expressed in kW;",
+      "From 26 September 2015 the seasonal space heating energy efficiency and useful efficiencies of heaters shall not fall below the following values:",
+      "From 26 September 2018 emissions of nitrogen oxides, expressed in nitrogen dioxide, of heaters shall not exceed the following values:",
+      "\u2018temperature control\u2019 means the equipment that interfaces with the end-user regarding the values and timing of the desired indoor temperature, and communicates relevant data to an interface of the heater such as a central processing unit, thus helping to regulate the indoor temperature(s);",
+      "From 26 September 2015 theseasonal space heating energy efficiencyand useful efficiencies ofheaters shall not fall below the following values:",
+      "Definitions related to heaters",
+      "The heater model shall be considered to comply with the applicable requirements set out in Annex II to this Regulation if:",
+      "for heat generators designed for heaters, and heater housings to be equipped with such heat generators, their characteristics, the requirements for assembly, to ensure compliance with the ecodesign requirements for heaters and, where appropriate, the list of combinations recommended by the manufacturer;",
+      "For heaters equipped with supplementary heaters, the measurement and calculation of rated heat output, seasonal space heating energy efficiency, water heating energy efficiency, sound power level and emissions of nitrogen oxides shall take account of the supplementary heater.",
+      "Any heat generator designed for a heater, and any heater housing to be equipped with such a heat generator, shall be tested with an appropriate heater housing and heat generator, respectively.",
+      "\u2018standby mode\u2019 means a condition where the heater is connected to the mains power source, depends on energy input from the mains power source to work as intended and provides only the following functions, which may persist for an indefinite time: reactivation function, or reactivation function and only an indication of enabled reactivation function, and/or information or status display;",
+      "the following information shall be durably marked on the heater:",
+      "(2)  Low temperature means for condensing boilers 30 \u00b0C, for low-temperature boilers 37 \u00b0C and for other heaters 50 \u00b0C return temperature (at heater inlet).",
+      "\u2018crankcase heater mode\u2019 means the condition in which a heating device is activated to avoid the refrigerant migrating to the compressor so as to limit the refrigerant concentration in oil when the compressor is started;",
+      "the energy consumption for off, thermostat-off, standby, and crankcase heater mode during the heating season.",
+      "forheat generators designed forheaters, andheater housings to be equipped with such heat generators, their characteristics, the requirements for assembly, to ensure compliance with the ecodesign requirements for heaters and, where appropriate, the list of combinations recommended by the manufacturer;",
+      "\u2018standby mode power consumption\u2019 (PSB\n) means the power consumption of a heater in standby mode, expressed in kW;",
+      "At the time of entry into force of this Regulation, the best available technology on the market forheaters in terms ofseasonal space heating energy efficiency,water heating energy efficiency,sound power level and emissions of nitrogen oxides was identified as follows:",
+      "At the time of entry into force of this Regulation, the best available technology on the market for heaters in terms of seasonal space heating energy efficiency, water heating energy efficiency, sound power level and emissions of nitrogen oxides was identified as follows:",
+      "Anyheat generatordesigned for aheater, and anyheater housing to be equipped with such a heat generator, shall be tested with an appropriate heater housing and heat generator, respectively.",
+      "From 26 September 2015 the following product information on heaters shall be provided:",
+      "Crankcase heater mode",
+      "any specific precautions that shall be taken when the heater is assembled, installed or maintained;",
+      "The benchmarks specified in points 1 to 4 do not necessarily imply that a combination of these values is achievable for a single heater.",
+      "(1)  High-temperature regime means 60 \u00b0C return temperature at heater inlet and 80 \u00b0C feed temperature at heater outlet.",
+      "Forheaters equipped withsupplementary heaters, the measurement and calculation ofrated heat output,seasonal space heating energy efficiency,water heating energy efficiency,sound power level and emissions of nitrogen oxides shall take account of the supplementary heater."
+    ],
+    "Not Article": [
+      "Heaters that are designed for using gaseous or liquid fuels predominantly (more than 50 %) produced frombiomass have specific technical characteristics which require further technical, economic and environmental analyses. Depending on the outcome of the analyses, ecodesign requirements for those heaters should be set at a later stage, if appropriate.",
+      "Directive 92/42/EEC should be repealed, except for Articles 7(2) and 8 thereof and Annexes III to V thereto, and new provisions should be laid down by this Regulation to ensure that the scope is extended to heaters other than boilers, to further improve the energy efficiency of space heaters and combination heaters, and to improve other significant environmental aspects of space heaters and combination heaters.",
+      "Heaters that are designed for using gaseous or liquid fuels predominantly (more than 50 %) produced from biomass have specific technical characteristics which require further technical, economic and environmental analyses. Depending on the outcome of the analyses, ecodesign requirements for those heaters should be set at a later stage, if appropriate.",
+      "Directive 92/42/EEC should be repealed, except for Articles 7(2) and 8 thereof and Annexes III to V thereto, and new provisions should be laid down by this Regulation to ensure that the scope is extended toheaters other than boilers, to further improve the energy efficiency ofspace heaters andcombination heaters, and to improve other significant environmental aspects of space heaters and combination heaters."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 5,
+      "statement_scores": [
+        0,
+        0,
+        0,
+        2,
+        3,
+        0,
+        0,
+        0
+      ]
+    },
+    "Article 2": {
+      "article_score": 7,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        3
+      ]
+    },
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0,
+        0
+      ]
+    },
+    "Article 6": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 7": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0,
+        0
+      ]
+    },
+    "Article 10": {
+      "article_score": 24,
+      "statement_scores": [
+        4,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        2,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+}

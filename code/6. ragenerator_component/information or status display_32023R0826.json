@@ -1,0 +1,45 @@
+{
+  "term": "information or status display",
+  "celex_id": "32023R0826",
+  "original_definition": "'information or status display' means a continuous function providing information or indicating the status of the equipment on a display, including clocks. A simple light indicator is not considered a status display;",
+  "generated_definition": "'information or status display' means a display that provides only information or status, or a combination of a reactivation function and information or status display, or a reactivation function and an indication of enabled reactivation function and information or status display, with a maximum power consumption of 0.80 w for equipment other than household tumble driers, and 1.00 w for household tumble driers, excluding displays integrated in or connected to the equipment.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018information or status display\u2019 means a continuous function providing information or indicating the status of theequipment on a display, including clocks. A simple light indicator is not considered a status display;",
+      "information or status display;",
+      "\u2018information or status display\u2019 means a continuous function providing information or indicating the status of the equipment on a display, including clocks. A simple light indicator is not considered a status display;"
+    ],
+    "Article\u00a010": [
+      "Theequipmentmay offer the user the option to deactivate the power management function. In such cases the users shall be warned about the increased energy consumption of that action. That warning shall be included in the instruction manuals and, where applicable, be made available on the displays integrated in or connected to the equipment, excludinginformation or status displays. That option shall not be part of the installation procedure of the equipment and shall require a separate user action on the equipment.",
+      "The power consumption ofequipmentin any condition providing onlyinformation or status display, or providing only a combination ofreactivation function and information or status display, or providing only a reactivation function and an indication of enabled reactivation function and information or status display shall not exceed 0,80 W, except for household tumble driers covered by Commission Regulation (EU) No 932/2012 (1) for which this value shall be 1,00 W.",
+      "The equipment may offer the user the option to deactivate the power management function. In such cases the users shall be warned about the increased energy consumption of that action. That warning shall be included in the instruction manuals and, where applicable, be made available on the displays integrated in or connected to the equipment, excluding information or status displays. That option shall not be part of the installation procedure of the equipment and shall require a separate user action on the equipment.",
+      "Standby mode: 0,1 W withreactivation function; 0,1 W with simple or low power LEDsinformation or status display (larger displays \u2013 e.g. for clocks \u2013 require more power).",
+      "Standby mode: 0,1 W with reactivation function; 0,1 W with simple or low power LEDs information or status display (larger displays \u2013 e.g. for clocks \u2013 require more power).",
+      "The power consumption of equipment in any condition providing only information or status display, or providing only a combination of reactivation function and information or status display, or providing only a reactivation function and an indication of enabled reactivation function and information or status display shall not exceed 0,80 W, except for household tumble driers covered by Commission Regulation (EU) No 932/2012 (1) for which this value shall be 1,00 W."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1,
+        0
+      ]
+    },
+    "Article\u00a010": {
+      "article_score": 10,
+      "statement_scores": [
+        1,
+        3,
+        1,
+        1,
+        1,
+        3
+      ]
+    }
+  }
+}

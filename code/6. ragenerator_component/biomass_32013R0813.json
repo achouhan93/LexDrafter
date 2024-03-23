@@ -1,0 +1,59 @@
+{
+  "term": "biomass",
+  "celex_id": "32013R0813",
+  "original_definition": "'biomass' means the biodegradable fraction of products, waste and residues from biological origin from agriculture (including vegetal and animal substances), forestry and related industries including fisheries and aquaculture, as well as the biodegradable fraction of industrial and municipal waste;",
+  "generated_definition": "'biomass' means gaseous or liquid fuels predominantly produced from organic matter, including dedicated heaters for such fuels.",
+  "existing_sentences": {
+    "Article 1": [
+      "heaters specifically designed for using gaseous or liquid fuels predominantly produced from biomass;",
+      "heaters specifically designed for using gaseous or liquid fuels predominantly produced frombiomass;"
+    ],
+    "Article 2": [
+      "\u2018biomass\u2019 means the biodegradable fraction of products, waste and residues from biological origin from agriculture (including vegetal and animal substances), forestry and related industries including fisheries and aquaculture, as well as the biodegradable fraction of industrial and municipal waste;"
+    ],
+    "Article 7": [
+      "the appropriateness of setting ecodesign requirements forheaters specifically designed for using gaseous or liquid fuels predominantly produced frombiomass;",
+      "the appropriateness of setting ecodesign requirements for heaters specifically designed for using gaseous or liquid fuels predominantly produced from biomass;"
+    ],
+    "Not Article": [
+      "Heaters that are designed for using gaseous or liquid fuels predominantly (more than 50 %) produced frombiomass have specific technical characteristics which require further technical, economic and environmental analyses. Depending on the outcome of the analyses, ecodesign requirements for those heaters should be set at a later stage, if appropriate.",
+      "The scope of this Regulation should include boiler space heaters, cogeneration space heaters and heat pump space heaters providing heat to water-based central heating systems for space heating purposes, and boiler combination heaters and heat pump combination heaters providing heat to water-based central heating systems for space heating purposes and heat to deliver hot drinking and sanitary water. These heaters are designed to use gaseous or liquid fuels, including from biomass (unless predominantly), electricity and ambient or waste heat.",
+      "Heaters that are designed for using gaseous or liquid fuels predominantly (more than 50 %) produced from biomass have specific technical characteristics which require further technical, economic and environmental analyses. Depending on the outcome of the analyses, ecodesign requirements for those heaters should be set at a later stage, if appropriate.",
+      "The scope of this Regulation should includeboiler space heaters,cogeneration space heaters andheat pump space heaters providing heat towater-based central heating systems for space heating purposes, and boilercombination heaters andheat pump combination heaters providing heat to water-based central heating systems for space heating purposes and heat to deliver hot drinking and sanitary water. These heaters are designed to use gaseous or liquid fuels, including frombiomass (unless predominantly), electricity and ambient or waste heat."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 7": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        0
+      ]
+    }
+  }
+}

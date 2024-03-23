@@ -1,0 +1,247 @@
+{
+  "term": "outage coordination region",
+  "celex_id": "32017R1485",
+  "original_definition": "'outage coordination region' means a combination of control areas for which TSOs define procedures to monitor and where necessary coordinate the availability status of relevant assets in all time-frames;",
+  "generated_definition": "'outage coordination region' means a geographical area where tsos coordinate the validation and updating of year-ahead availability plans for all relevant assets, in order to ensure a secure and reliable electricity supply.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018outage coordination region\u2019 means a combination of control areas for which TSOs define procedures to monitor and where necessary coordinate theavailability statusofrelevant assets in all time-frames;",
+      "\u2018outage coordination region\u2019 means a combination of control areas for which TSOs define procedures to monitor and where necessary coordinate the availability status of relevant assets in all time-frames;"
+    ],
+    "Article 80": [
+      "1.   The outage coordination regions within which the TSOs shall proceed to outage coordination shall be at least equal to the capacity calculation regions.",
+      "4.   Each regional security coordinator shall perform regional operational security analyses on the basis of the information provided by the relevant TSOs in order to detect any outage planning incompatibility. It shall provide all TSOs of the outage coordination region with a list of detected outage planning incompatibilities and the solutions it proposes to solve those outage planning incompatibilities.",
+      "2.   The TSOs of two or more outage coordination regions can agree to merge them into one unique outage coordination region. In that case they shall identify the regional security coordinator performing the tasks referred to in Article 77(3).",
+      "4.   Each regional security coordinator shall perform regionaloperational securityanalyses on the basis of the information provided by the relevant TSOs in order to detect anyoutage planning incompatibility. It shall provide all TSOs of theoutage coordination region with a list of detected outage planning incompatibilities and the solutions it proposes to solve those outage planning incompatibilities."
+    ],
+    "Article 81": [
+      "Outage coordination regions,relevant assets",
+      "Outage coordination regions, relevant assets"
+    ],
+    "Article 83": [
+      "4.   Each TSO shall provide to the other TSOs from the same outage coordination region all relevant information at its disposal on the infrastructure projects related to the transmission system, distribution systems, closed distribution systems, power generating modules, or demand facilities that may have an impact on the operation of the control area of another TSO within the outage coordination region.",
+      "3.   If outage planning incompatibilities arise between different outage coordination regions, all TSOs and regional security coordinators of those regions shall coordinate to resolve those outage planning incompatibilities.",
+      "1.   All TSOs of an outage coordination region shall jointly develop a regional coordination operational procedure, aimed at establishing operational aspects for the implementation of the outage coordination in each region, which includes:",
+      "2.   Each TSO shall participate in the outage coordination of its outage coordination regions and apply the regional coordination operational procedures established in accordance with paragraph 1."
+    ],
+    "Article 85": [
+      "2.   All TSOs of an outage coordination region shall jointly make the list of relevant power generating modules and relevant demand facilities of that outage coordination region available on the ENTSO for Electricity operational planning data environment.",
+      "2.   All TSOs of anoutage coordination regionshall jointly make the list ofrelevant power generating modules and relevant demand facilities of that outage coordination region available on theENTSO for Electricity operational planning data environment.",
+      "3.   Each TSO shall notify to its regulatory authority the list ofrelevant power generating modules and relevant demand facilities for eachoutage coordination region in which it participates.",
+      "1.   By 3 months after the approval of the methodology for assessing the relevance of assets for outage coordination in Article 84(1), all TSOs of each outage coordination region shall jointly assess the relevance of power generating modules and demand facilities for outage coordination on the basis of this methodology, and establish a single list, for each outage coordination region, of relevant power generating modules and relevant demand facilities.",
+      "1.   By 3 months after the approval of the methodology for assessing the relevance of assets for outage coordination in Article 84(1), all TSOs of eachoutage coordination regionshall jointly assess the relevance of power generating modules and demand facilities for outage coordination on the basis of this methodology, and establish a single list, for each outage coordination region, ofrelevant power generating modules and relevant demand facilities.",
+      "3.   Each TSO shall notify to its regulatory authority the list of relevant power generating modules and relevant demand facilities for each outage coordination region in which it participates."
+    ],
+    "Article 86": [
+      "1.   Before 1 July of each calendar year, all TSOs of each outage coordination region shall jointly re-assess the relevance of power generating modules and demand facilities for outage coordination on the basis of the methodology developed in accordance with Article 84(1).",
+      "3.   All TSOs of anoutage coordination regionshall make the updated list of that outage coordination region available on theENTSO for Electricity operational planning data environment.",
+      "3.   All TSOs of an outage coordination region shall make the updated list of that outage coordination region available on the ENTSO for Electricity operational planning data environment.",
+      "2.   Where necessary, all TSOs of each outage coordination region shall jointly decide to update the list of relevant power generating modules and relevant demand facilities of that outage coordination region before 1 August of each calendar year.",
+      "2.   Where necessary, all TSOs of eachoutage coordination regionshall jointly decide to update the list ofrelevant power generating modules and relevant demand facilities of that outage coordination region before 1 August of each calendar year.",
+      "4.   Each TSO of an outage coordination region shall inform the parties referred to in Article 85(4) about the content of the updated list."
+    ],
+    "Article 87": [
+      "2.   The list ofrelevant grid elements of anoutage coordination region shall contain all grid elements of a transmission system or a distribution system, including a closed distribution system located in that outage coordination region, which are identified as relevant by application of the methodology established pursuant to Article 84(1).",
+      "3.   All TSOs of anoutage coordination regionshall jointly make the list ofrelevant grid elements available on theENTSO for Electricity operational planning data environment.",
+      "2.   The list of relevant grid elements of an outage coordination region shall contain all grid elements of a transmission system or a distribution system, including a closed distribution system located in that outage coordination region, which are identified as relevant by application of the methodology established pursuant to Article 84(1).",
+      "1.   By 3 months after the approval of the methodology for assessing the relevance of assets for outage coordination in Article 84(1), all TSOs of eachoutage coordination regionshall jointly assess, on the basis of this methodology, the relevance for the outage coordination of grid elements located in a transmission system or in a distribution system including a closed distribution system and shall establish a single list, per outage coordination region, ofrelevant grid elements.",
+      "4.   Each TSO shall notify to its regulatory authority the list ofrelevant grid elements for eachoutage coordination region in which it participates.",
+      "3.   All TSOs of an outage coordination region shall jointly make the list of relevant grid elements available on the ENTSO for Electricity operational planning data environment.",
+      "1.   By 3 months after the approval of the methodology for assessing the relevance of assets for outage coordination in Article 84(1), all TSOs of each outage coordination region shall jointly assess, on the basis of this methodology, the relevance for the outage coordination of grid elements located in a transmission system or in a distribution system including a closed distribution system and shall establish a single list, per outage coordination region, of relevant grid elements.",
+      "4.   Each TSO shall notify to its regulatory authority the list of relevant grid elements for each outage coordination region in which it participates."
+    ],
+    "Article 88": [
+      "3.   All TSOs of an outage coordination region shall make the updated list available on the ENTSO for Electricity operational planning data environment.",
+      "2.   Where necessary, all TSOs of an outage coordination region shall jointly decide to update the list of relevant grid elements of that outage coordination region before 1 August of each calendar year.",
+      "3.   All TSOs of anoutage coordination regionshall make the updated list available on theENTSO for Electricity operational planning data environment.",
+      "1.   Before 1 July of each calendar year, all TSOs of each outage coordination region shall jointly re-assess, on the basis of the methodology established pursuant to Article 84(1), the relevance for the outage coordination of grid elements located in a transmission system or a distribution system including a closed distribution system.",
+      "4.   Each TSO of an outage coordination region shall inform the parties referred to in Article 85(4) about the content of the updated list.",
+      "2.   Where necessary, all TSOs of anoutage coordination regionshall jointly decide to update the list ofrelevant grid elements of that outage coordination region before 1 August of each calendar year."
+    ],
+    "Article 94": [
+      "1.   Before 1 August of each calendar year, an outage planning agent other than a TSO taking part in an outage coordination region, a DSO or a CDSO, shall submit to the TSO(s) taking part in an outage coordination region, and where relevant to the DSO(s) or CDSO(s), an availability plan covering the following calendar year for each of its relevant assets.",
+      "1.   Before 1 August of each calendar year, anoutage planning agentother than a TSO taking part in anoutage coordination region, a DSO or a CDSO, shall submit to the TSO(s) taking part in an outage coordination region, and where relevant to the DSO(s) or CDSO(s), anavailability plancovering the following calendar year for each of itsrelevant assets."
+    ],
+    "Article 95": [
+      "Year-ahead coordination of the availability status of relevant assets for which the outage planning agent is not a TSO taking part in an outage coordination region, nor a DSO or a CDSO",
+      "Year-aheadcoordination of theavailability statusofrelevant assets for which theoutage planning agentis not a TSO taking part in anoutage coordination region, nor a DSO or a CDSO"
+    ],
+    "Article 96": [
+      "Year-ahead coordination of the availability status of relevant assets for which the outage planning agent is a TSO taking part in an outage coordination region, a DSO or a CDSO",
+      "Year-aheadcoordination of theavailability statusofrelevant assets for which theoutage planning agentis a TSO taking part in anoutage coordination region, a DSO or a CDSO",
+      "4.   Where a TSO detects anoutage planning incompatibility, the TSO shall be entitled to propose a change to theavailability plans of theinternal relevant assets for which theoutage planning agentis neither a TSO taking part in anoutage coordination region, nor a DSO or a CDSO and shall identify a solution in coordination with the outage planning agents, DSOs and CDSOs concerned, using the means at its disposal.",
+      "4.   Where a TSO detects an outage planning incompatibility, the TSO shall be entitled to propose a change to the availability plans of the internal relevant assets for which the outage planning agent is neither a TSO taking part in an outage coordination region, nor a DSO or a CDSO and shall identify a solution in coordination with the outage planning agents, DSOs and CDSOs concerned, using the means at its disposal.",
+      "1.   Each TSO shall plan the availability status of relevant grid elements interconnecting different control areas for which it acts as an outage planning agent in coordination with the TSOs of the same outage coordination region.",
+      "1.   Each TSO shall plan theavailability statusofrelevant grid elements interconnecting different control areas for which it acts as anoutage planning agentin coordination with the TSOs of the sameoutage coordination region."
+    ],
+    "Article 98": [
+      "3.   If a TSO detects an outage planning incompatibility, the involved TSOs of the outage coordination region(s) concerned shall jointly identify a solution in coordination with the concerned outage planning agents, DSOs and CDSOs, using the means at their disposal, while respecting to the extent possible the availability plans submitted by outage planning agents, which are neither a TSO taking part in an outage coordination region, nor a DSO or a CDSO, and developed in accordance with Articles 95 and 96. Where a solution is identified, all TSOs of the concerned outage coordination region(s) shall update and validate the year-ahead availability plans for all relevant assets.",
+      "Validation of year-ahead availability plans within outage coordination regions",
+      "5.   All TSOs of the concerned outage coordination regions shall consequently update and validate the year-ahead availability plans for all relevant assets.",
+      "3.   If a TSO detects anoutage planning incompatibility, the involved TSOs of theoutage coordination region(s) concerned shall jointly identify a solution in coordination with the concernedoutage planning agents, DSOs and CDSOs, using the means at their disposal, while respecting to the extent possible theavailability plans submitted by outage planning agents, which are neither a TSO taking part in an outage coordination region, nor a DSO or a CDSO, and developed in accordance with Articles 95 and 96. Where a solution is identified, all TSOs of the concerned outage coordination region(s) shall update and validate theyear-aheadavailability plans for allrelevant assets.",
+      "2.   In the absence of outage planning incompatibilities, all TSOs of an outage coordination region shall jointly validate the year-ahead availability plans for all relevant assets of that outage coordination region.",
+      "2.   In the absence of outage planning incompatibilities, all TSOs of anoutage coordination regionshall jointly validate theyear-aheadavailability plans for allrelevant assets of that outage coordination region.",
+      "Validation ofyear-aheadavailability plans withinoutage coordination regions",
+      "5.   All TSOs of the concernedoutage coordination regions shall consequently update and validate theyear-aheadavailability plans for allrelevant assets."
+    ],
+    "Article 100": [
+      "4.   When a TSO taking part in anoutage coordination regionintends to amend the finalyear-aheadavailability planof arelevant assetfor which it acts as theoutage planning agent, it shall initiate the following procedure:",
+      "where outage planning incompatibilities are detected, the involved TSOs of theoutage coordination regionshall jointly identify a solution in coordination with theoutage planning agents concerned and, if relevant, the DSOs and CDSOs, using the means at their disposal;",
+      "where outage planning incompatibilities are detected, the involved TSOs of theoutage coordination regionshall jointly identify a solution in coordination with the concernedoutage planning agents and, if relevant, the DSOs and the CDSOs, using the means at their disposal;",
+      "where outage planning incompatibilities are detected, the involved TSOs of the outage coordination region shall jointly identify a solution in coordination with the outage planning agents concerned and, if relevant, the DSOs and CDSOs, using the means at their disposal;",
+      "the requesting TSO shall prepare a proposal for amendment to the year-ahead availability plan, including an assessment of whether it could lead to outage planning incompatibilities and shall submit its proposal to all other TSOs of its outage coordination region(s);",
+      "where outage planning incompatibilities are detected, the involved TSOs of the outage coordination region shall jointly identify a solution in coordination with the concerned outage planning agents and, if relevant, the DSOs and the CDSOs, using the means at their disposal;",
+      "4.   When a TSO taking part in an outage coordination region intends to amend the final year-ahead availability plan of a relevant asset for which it acts as the outage planning agent, it shall initiate the following procedure:",
+      "the requesting TSO shall prepare a proposal for amendment to theyear-aheadavailability plan, including an assessment of whether it could lead to outage planning incompatibilities and shall submit its proposal to all other TSOs of itsoutage coordination region(s);",
+      "2.   Theoutage planning agentwhich is not a TSO taking part in anoutage coordination regionshall be able to submit to the relevant TSO(s) a request for amendment of the finalyear-aheadavailability planof therelevant assets under its responsibility.",
+      "2.   The outage planning agent which is not a TSO taking part in an outage coordination region shall be able to submit to the relevant TSO(s) a request for amendment of the final year-ahead availability plan of the relevant assets under its responsibility."
+    ],
+    "Article 101": [
+      "3.   The TSO of arelevant assettheavailability statusof which has been declared as \u2018testing\u2019 shall provide the information received in accordance with paragraph 1 to all other TSOs of itsoutage coordination region(s), upon their request.",
+      "3.   The TSO of a relevant asset the availability status of which has been declared as \u2018testing\u2019 shall provide the information received in accordance with paragraph 1 to all other TSOs of its outage coordination region(s), upon their request."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 80": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        2,
+        1
+      ]
+    },
+    "Article 81": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 83": {
+      "article_score": 5,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 85": {
+      "article_score": 10,
+      "statement_scores": [
+        2,
+        2,
+        1,
+        2,
+        2,
+        1
+      ]
+    },
+    "Article 86": {
+      "article_score": 10,
+      "statement_scores": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        1
+      ]
+    },
+    "Article 87": {
+      "article_score": 12,
+      "statement_scores": [
+        2,
+        1,
+        2,
+        2,
+        1,
+        1,
+        2,
+        1
+      ]
+    },
+    "Article 88": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        2,
+        1,
+        1,
+        1,
+        2
+      ]
+    },
+    "Article 94": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Article 95": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 96": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 98": {
+      "article_score": 14,
+      "statement_scores": [
+        3,
+        1,
+        1,
+        3,
+        2,
+        2,
+        1,
+        1
+      ]
+    },
+    "Article 100": {
+      "article_score": 10,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 101": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

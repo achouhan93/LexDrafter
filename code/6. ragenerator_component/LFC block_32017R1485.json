@@ -1,0 +1,792 @@
+{
+  "term": "LFC block",
+  "celex_id": "32017R1485",
+  "original_definition": "'LFC block' means a part of a synchronous area or an entire synchronous area, physically demarcated by points of measurement at interconnectors to other LFC blocks, consisting of one or more LFC areas, operated by one or more TSOs fulfilling the obligations of load-frequency control;",
+  "generated_definition": "'LFC block' means a group of transmission system operators (tsos) of a synchronous area, responsible for determining and exchanging reserve capacity on frequency restoration (frr) to ensure operational security and compliance with eu legislation.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018load-frequency control block\u2019 or \u2018LFC block\u2019 means a part of a synchronous area or an entire synchronous area, physically demarcated by points of measurement at interconnectors to other LFC blocks, consisting of one or more LFC areas, operated by one or more TSOs fulfilling the obligations of load-frequency control;",
+      "\u2018RR availability requirements\u2019 means a set of requirements defined by the TSOs of a LFC block regarding the availability of RR;",
+      "\u2018control program\u2019 means a sequence of set-point values for the netted power interchange of aLFC areaorLFC block over alternating current (\u2018AC\u2019) interconnectors;",
+      "\u2018FRCE target parameters\u2019 means the main targetLFC blockvariables on the basis of which the dimensioning criteria forFRR and RR of the LFC block are determined and evaluated and which are used to reflect the LFC block behaviour in normal operation;",
+      "\u2018criteria application process\u2019 means the process of calculating the target parameters for the synchronous area, theLFC blockand theLFC areabased on the data obtained in thedata collection and delivery process;",
+      "\u2018level 2 FRCE range\u2019 means the second range used for system frequency quality evaluation purposes on LFC block level within which the FRCE should be kept for a specified percentage of the time;",
+      "\u2018level 1 FRCE range\u2019 means the first range used forsystem frequencyquality evaluation purposes onLFC block level within which the FRCE should be kept for a specified percentage of the time;",
+      "\u2018FRR dimensioning rules\u2019 means the specifications of the FRR dimensioning process of a LFC block;",
+      "\u2018FRCE target parameters\u2019 means the main target LFC block variables on the basis of which the dimensioning criteria for FRR and RR of the LFC block are determined and evaluated and which are used to reflect the LFC block behaviour in normal operation;",
+      "\u2018load-frequency control block\u2019 or \u2018LFC block\u2019 means a part of a synchronous area or an entire synchronous area, physically demarcated by points of measurement at interconnectors to other LFC blocks, consisting of one or moreLFC areas, operated by one or more TSOs fulfilling the obligations of load-frequency control;",
+      "\u2018RR availability requirements\u2019 means a set of requirements defined by the TSOs of aLFC block regarding the availability of RR;",
+      "\u2018level 1 FRCE range\u2019 means the first range used for system frequency quality evaluation purposes on LFC block level within which the FRCE should be kept for a specified percentage of the time;",
+      "\u2018control program\u2019 means a sequence of set-point values for the netted power interchange of a LFC area or LFC block over alternating current (\u2018AC\u2019) interconnectors;",
+      "\u2018dimensioning incident\u2019 means the highest expected instantaneously occurring active power imbalance within a LFC block in both positive and negative direction;",
+      "\u2018level 2 FRCE range\u2019 means the second range used forsystem frequencyquality evaluation purposes onLFC block level within which the FRCE should be kept for a specified percentage of the time;",
+      "\u2018area control error\u2019 or \u2018ACE\u2019 means the sum of the power control error (\u2018\u0394P\u2019), that is the real-time difference between the measured actual real time power interchange value (\u2018P\u2019) and the control program (\u2018P0\u2019) of a specific LFC area or LFC block and the frequency control error (\u2018K*\u0394f\u2019), that is the product of the K-factor and the frequency deviation of that specific LFC area or LFC block, where the area control error equals \u0394P+K*\u0394f;",
+      "\u2018RR dimensioning rules\u2019 means the specifications of the RR dimensioning process of a LFC block;",
+      "\u2018area control error\u2019 or \u2018ACE\u2019 means the sum of the power control error (\u2018\u0394P\u2019), that is the real-time difference between the measured actual real time power interchange value (\u2018P\u2019) and thecontrol program(\u2018P0\u2019) of a specificLFC areaorLFC blockand the frequency control error (\u2018K*\u0394f\u2019), that is the product of the K-factor and thefrequency deviation of that specific LFC area or LFC block, where the area control error equals \u0394P+K*\u0394f;",
+      "\u2018exchange of reserves\u2019 means the possibility of a TSO to access reserve capacity connected to another LFC area, LFC block, or synchronous area to fulfil its reserve requirements resulting from its own reserve dimensioning process of either FCR, FRR or RR and where that reserve capacity is exclusively for that TSO, and is not taken into account by any other TSO to fulfil its reserve requirements resulting from their respective reserve dimensioning processes;",
+      "\u2018dimensioning incident\u2019 means the highest expected instantaneously occurring active power imbalance within aLFC block in both positive and negative direction;",
+      "\u2018average FRCE data\u2019 means the set of data consisting of the average value of the recorded instantaneous FRCE of a LFC area or a LFC block within a given measured period time;",
+      "\u2018exchange of reserves\u2019 means the possibility of a TSO to accessreserve capacityconnected to anotherLFC area,LFC block, or synchronous area to fulfil its reserve requirements resulting from its own reserve dimensioning process of eitherFCR,FRR or RR and where that reserve capacity is exclusively for that TSO, and is not taken into account by any other TSO to fulfil its reserve requirements resulting from their respective reserve dimensioning processes;",
+      "\u2018instantaneous FRCE data\u2019 means a set of data of the FRCE of a LFC block with a measurement period equal to or shorter than 10 seconds used for system frequency quality evaluation purposes;",
+      "\u2018instantaneous FRCE data\u2019 means a set of data of the FRCE of aLFC blockwith a measurement period equal to or shorter than 10 seconds used forsystem frequency quality evaluation purposes;",
+      "\u2018RR dimensioning rules\u2019 means the specifications of the RR dimensioning process of aLFC block;",
+      "\u2018average FRCE data\u2019 means the set of data consisting of the average value of the recorded instantaneous FRCE of aLFC areaor aLFC block within a given measured period time;",
+      "\u2018criteria application process\u2019 means the process of calculating the target parameters for the synchronous area, the LFC block and the LFC area based on the data obtained in the data collection and delivery process;",
+      "\u2018FRR availability requirements\u2019 means a set of requirements defined by the TSOs of a LFC block regarding the availability of FRR;"
+    ],
+    "Article 6": [
+      "mitigation measures per synchronous area or LFC block in accordance with Article 138;",
+      "common proposal per synchronous area for the determination of LFC blocks in accordance with Article 141(2)."
+    ],
+    "Article 8": [
+      "ramping restrictions on LFC block level in accordance with Article 137(3);"
+    ],
+    "Article 16": [
+      "the data related to the frequency quality evaluation criteria for each synchronous area and each LFC block in subparagraphs (a), (b) and (c) covering each month of at least 2 previous calendar years;",
+      "the data related to thefrequency quality evaluation criteriafor each synchronous area and eachLFC block in subparagraphs (a), (b) and (c) covering each month of at least 2 previous calendar years;",
+      "3.   The data provided by the TSOs shall cover the preceding year. The information concerning synchronous areas, LFC blocks, LFC areas and monitoring areas in subparagraphs (a), (b) and (c) shall be reported once. Where these areas change, this information shall be reported by 1 March of the following year.",
+      "the identification of LFC blocks that are not in the Member State and that contain LFC areas and monitoring areas that are in the Member State;",
+      "the identification of the LFC blocks, LFC areas and monitoring areas in the Member State;",
+      "4.   Where appropriate, all TSOs of a synchronous area or LFC block shall cooperate in collecting the data listed in paragraph 2.",
+      "the identification of theLFC blocks,LFC areas andmonitoring areas in the Member State;",
+      "the identification ofLFC blocks that are not in the Member State and that containLFC areas andmonitoring areas that are in the Member State;",
+      "3.   The data provided by the TSOs shall cover the preceding year. The information concerning synchronous areas,LFC blocks,LFC areas andmonitoring areas in subparagraphs (a), (b) and (c) shall be reported once. Where these areas change, this information shall be reported by 1 March of the following year."
+    ],
+    "Article 118": [
+      "for the Continental Europe (\u2018CE\u2019) and Nordic synchronous areas, the frequency restoration control error target parameters for each LFC block in accordance with Article 128;",
+      "for the Continental Europe (\u2018CE\u2019) and Nordic synchronous areas, thefrequency restoration control errortarget parameters for eachLFC block in accordance with Article 128;"
+    ],
+    "Article 119": [
+      "2.   All TSOs of eachLFC blockshall submit the methodologies and conditions listed in Article 6(3)(e) for approval by all the regulatory authorities of the concerned LFC block. Within 1 month after the approval of these methodologies and conditions, all TSOs of each LFC block shall conclude anLFC block operational agreement which shall enter into force within 3 months after the approval of the methodologies and conditions.",
+      "where the LFC block is operated by more than one TSO, the specific allocation of responsibilities between TSOs within the LFC block in accordance with Article 141(9);",
+      "the roles and the responsibilities of thereserve connecting TSO, thereserve receiving TSOand of theaffected TSOfor the exchange ofFRRand/or RR with TSOs of otherLFC blocks defined in accordance with Article 165(6);",
+      "where theLFC blockconsists of more than oneLFC area,FRCE target parameters for each LFC area defined in accordance with Article 128(4);",
+      "where the LFC block is operated by more than one TSO, the specific allocation of responsibilities defined in accordance with Article 157(3), and, if applicable, the specific allocation of responsibilities defined in accordance Article 160(6);",
+      "2.   All TSOs of each LFC block shall submit the methodologies and conditions listed in Article 6(3)(e) for approval by all the regulatory authorities of the concerned LFC block. Within 1 month after the approval of these methodologies and conditions, all TSOs of each LFC block shall conclude an LFC block operational agreement which shall enter into force within 3 months after the approval of the methodologies and conditions.",
+      "if applicable, any limits on the exchange ofFCRbetween theLFC areas of the differentLFC blocks within the CE synchronous area and the exchange ofFRR or RR between the LFC areas of an LFC block of a synchronous area consisting of more than one LFC block defined in accordance with Article 163(2), Article 167 and Article 169(2);",
+      "1.   By 12 months after entry into force of this Regulation, all TSOs of each LFC block shall jointly develop common proposals for:",
+      "if applicable, any limits on the exchange of FCR between the LFC areas of the different LFC blocks within the CE synchronous area and the exchange of FRR or RR between the LFC areas of an LFC block of a synchronous area consisting of more than one LFC block defined in accordance with Article 163(2), Article 167 and Article 169(2);",
+      "the roles and the responsibilities of the reserve connecting TSO, the reserve receiving TSO and of the affected TSO for the exchange of FRR and/or RR with TSOs of other LFC blocks defined in accordance with Article 165(6);",
+      "where the LFC block consists of more than one LFC area, FRCE target parameters for each LFC area defined in accordance with Article 128(4);"
+    ],
+    "Article 128": [
+      "4.   Where anLFC blockconsists of more than oneLFC area, all TSOs of the LFC block shall specify in theLFC block operational agreementthe values of theFRCE target parameters for each LFC area.",
+      "3.   All TSOs of the CE and Nordic synchronous areas shall endeavour to comply with the following FRCE target parameters for each LFC block of the synchronous area:",
+      "1.   All TSOs of the CE and Nordic synchronous areas shall specify in the synchronous area operational agreement the values of thelevel 1 FRCE rangeand thelevel 2 FRCE rangefor eachLFC block of the CE and Nordic synchronous areas at least annually.",
+      "1.   All TSOs of the CE and Nordic synchronous areas shall specify in the synchronous area operational agreement the values of the level 1 FRCE range and the level 2 FRCE range for each LFC block of the CE and Nordic synchronous areas at least annually.",
+      "4.   Where an LFC block consists of more than one LFC area, all TSOs of the LFC block shall specify in the LFC block operational agreement the values of the FRCE target parameters for each LFC area."
+    ],
+    "Article 130": [
+      "for each LFC block of the synchronous area, the instantaneous FRCE data."
+    ],
+    "Article 131": [
+      "the TSOs of theLFC areas constituting aLFC blockshall have the right to specify in theLFC block operational agreementinternal limits for the exchange ofFCR between the LFC areas of the same LFC block in order to:",
+      "TSOs of adjacent LFC blocks",
+      "for eachLFC blockof the CE or Nordic synchronous areas during operation innormal stateoralert state in accordance with Article 18(1) and (2), on a monthly basis:",
+      "All synchronous areas consisting of more than one LFC block",
+      "TSOs of different LFC blocks",
+      "for a data-set containing the average values of theFRCEof theLFC blockover time intervals equal to thetime to restore frequency:",
+      "for each LFC block of the CE or Nordic synchronous areas during operation in normal state or alert state in accordance with Article 18(1) and (2), on a monthly basis:",
+      "the amount of reserve capacity on FCR, physically located in an LFC block as a result of the exchange of FCR with other LFC blocks, shall be limited to the maximum of:",
+      "The TSOs of theLFC areas constituting aLFC blockshall ensure that at least 50 % of their total combinedreserve capacityonRRresulting from theRR dimensioning rules according to Article 160(3) and before any reduction of reserve capacity on RR as a result of the sharing of RR according to Article 160(4) and Article 160(5) remains located within their LFC block.",
+      "30 % of the total combined initial FCR obligations of the TSOs of the LFC block to which the reserve capacity on FCR is physically connected; and",
+      "for the LFC blocks of the GB or IE/NI synchronous area, during operation in normal state or alert state in accordance with Article 18(1) and (2), on a monthly basis and for a data-set containing the average values of the FRCE of the LFC block over time intervals with a length of one minute: the number of events for which the absolute value of the FRCE exceeded the maximum steady-state frequency deviation and the FRCE was not returned to 10 % of the maximum steady-state frequency deviation within the time to restore frequency, distinguishing between negative and positive FRCE.",
+      "The TSOs of theLFC areas constituting aLFC blockshall have the right, if required, to define internal limits for the exchange ofRRbetween LFC areas of the LFC block in theLFC block operational agreement as to:",
+      "for a data-set containing the average values of the FRCE of the LFC block over time intervals equal to the time to restore frequency:",
+      "for theLFC blocks of the GB or IE/NI synchronous area, during operation innormal stateoralert statein accordance with Article 18(1) and (2), on a monthly basis and for a data-set containing the average values of theFRCEof the LFC block over time intervals with a length of one minute: the number of events for which the absolute value of the FRCE exceeded themaximum steady-state frequency deviationand the FRCE was not returned to 10 % of the maximum steady-state frequency deviation within thetime to restore frequency, distinguishing between negative and positive FRCE.",
+      "the amount ofreserve capacityonFCR, physically located in anLFC block as a result of the exchange of FCR with other LFC blocks, shall be limited to the maximum of:",
+      "TSOs of the LFC areas of the same LFC block",
+      "30 % of the total combinedinitial FCR obligations of the TSOs of theLFC blockto which thereserve capacity on FCR is physically connected; and",
+      "the TSOs of the LFC areas constituting a LFC block shall have the right to specify in the LFC block operational agreement internal limits for the exchange of FCR between the LFC areas of the same LFC block in order to:",
+      "for a data-set containing the average values of the FRCE of the LFC block over time intervals with a length of one minute: the number of events on a monthly basis for which the FRCE exceeded 60 % of the reserve capacity on FRR and was not returned to 15 % of the reserve capacity on FRR within the time to restore frequency, distinguishing between negative and positive FRCE;",
+      "The TSOs of a LFC block shall ensure that at least 50 % of their total combined reserve capacity on FRR resulting from the FRR dimensioning rules in Article 157(1) and before any reduction due to the sharing of FRR in accordance with Article 157(2) remains located within their LFC block.",
+      "TSOs of theLFC areas of the sameLFC block",
+      "The TSOs of the LFC areas constituting a LFC block shall ensure that at least 50 % of their total combined reserve capacity on RR resulting from the RR dimensioning rules according to Article 160(3) and before any reduction of reserve capacity on RR as a result of the sharing of RR according to Article 160(4) and Article 160(5) remains located within their LFC block.",
+      "The TSOs of the LFC areas constituting a LFC block shall have the right, if needed, to specify internal limits, for the exchange of FRR between the LFC areas of the LFC block in the LFC block operational agreement to:",
+      "The TSOs of the LFC areas constituting a LFC block shall have the right, if required, to define internal limits for the exchange of RR between LFC areas of the LFC block in the LFC block operational agreement as to:",
+      "ensure an even distribution of FRR throughout the synchronous area and LFC blocks in case of network splitting;"
+    ],
+    "Article 134": [
+      "1.   All TSOs of a LFC block shall appoint one TSO of that LFC block in the LFC block operational agreement as LFC block monitor.",
+      "1.   All TSOs of aLFC blockshall appoint one TSO of that LFC block in theLFC block operational agreementasLFC block monitor."
+    ],
+    "Article 137": [
+      "coordination of the ramping between power generating modules, demand units and active power consumption within the LFC block.",
+      "4.   All TSOs of an LFC block shall have the right to determine in the LFC block operational agreement the following measures to support the fulfilment of the FRCE target parameter of the LFC block and to alleviate deterministic frequency deviations, taking into account the technological restrictions of power generating modules and demand units:",
+      "obligations on individual ramping starting times for power generating modules and/or demand units within the LFC block; and",
+      "4.   All TSOs of anLFC blockshall have the right to determine in theLFC block operational agreementthe following measures to support the fulfilment of theFRCEtarget parameter of the LFC block and to alleviate deterministicfrequency deviations, taking into account the technological restrictions of power generating modules and demand units:"
+    ],
+    "Article 138": [
+      "Where the values calculated for the period of one calendar year concerning the frequency quality target parameters or the FRCE target parameters are outside the targets set for the synchronous area or for the LFC block, all TSOs of the relevant synchronous area or of the relevant LFC block shall:",
+      "develop mitigation measures to ensure that the targets for the synchronous area or for the LFC block can be met in the future.",
+      "analyse whether the frequency quality target parameters or the FRCE target parameters will remain outside the targets set for the synchronous area or for the LFC block and in case of a justified risk that this may happen, analyse the causes and develop recommendations; and"
+    ],
+    "Article 141": [
+      "a LFC block corresponds to or is part of only one synchronous area; and",
+      "endeavour to fulfil the FRCE target parameters of the LFC block as defined in Article 128; and",
+      "each network element is part of only onemonitoring area, only oneLFC areaand only oneLFC block.",
+      "11.   All TSOs of two or moreLFC areas connected by interconnections shall have the right to form anLFC block if the requirements for the LFC block set out in paragraph 5 are fulfilled.",
+      "11.   All TSOs of two or more LFC areas connected by interconnections shall have the right to form an LFC block if the requirements for the LFC block set out in paragraph 5 are fulfilled.",
+      "a LFC area corresponds to or is part of only one LFC block;",
+      "each network element is part of only one monitoring area, only one LFC area and only one LFC block.",
+      "2.   By 4 months after entry into force of this Regulation, all TSOs of a synchronous area shall jointly develop a common proposal regarding the determination of the LFC blocks, which shall comply with the following requirements:",
+      "5.   All TSOs of each LFC block shall:",
+      "aLFC areacorresponds to or is part of only oneLFC block;",
+      "9.   All TSOs of eachLFC blockshall specify in theLFC block operational agreement the allocation of responsibilities between TSOs in the LFC block for the implementation of the obligations set out paragraph 5.",
+      "9.   All TSOs of each LFC block shall specify in the LFC block operational agreement the allocation of responsibilities between TSOs in the LFC block for the implementation of the obligations set out paragraph 5."
+    ],
+    "Article 143": [
+      "thefrequency deviation, where oneLFC areacorresponds to theLFC block and the synchronous area.",
+      "the frequency deviation, where one LFC area corresponds to the LFC block and the synchronous area."
+    ],
+    "Article 145": [
+      "calculate and monitor the FRCE of the whole LFC block; and",
+      "6.   In addition to the aFRP implementation in the LFC areas, all TSOs of an LFC block which consists of more than one LFC area shall have the right to appoint one TSO of the LFC block in the LFC block operational agreement to:",
+      "calculate and monitor theFRCEof the wholeLFC block; and",
+      "3.   If anLFC areaconsists of more than onemonitoring area, all TSOs of the LFC area shall set out a process for the implementation of an aFRPand an mFRP in the LFC area operational agreement. Where anLFC blockconsists of more than one LFC area, all TSOs of the LFC areas shall set out a process for the implementation of an mFRP in theLFC block operational agreement.",
+      "6.   In addition to the aFRPimplementation in theLFC areas, all TSOs of anLFC blockwhich consists of more than one LFC area shall have the right to appoint one TSO of the LFC block in theLFC block operational agreement to:",
+      "take the FRCE of the whole LFC block into account for the calculation of the setpoint value for aFRR activation in accordance with Article 143(3) in addition to the FRCE of its LFC area.",
+      "3.   If an LFC area consists of more than one monitoring area, all TSOs of the LFC area shall set out a process for the implementation of an aFRP and an mFRP in the LFC area operational agreement. Where an LFC block consists of more than one LFC area, all TSOs of the LFC areas shall set out a process for the implementation of an mFRP in the LFC block operational agreement."
+    ],
+    "Article 146": [
+      "9.   Where aLFC blockconsists of more than oneLFC areaand thereserve capacityonFRRas well as the reserve capacity on RR is calculated based on theLFC block imbalances, all TSOs of the same LFC block shall implement animbalance netting process and interchange the maximum amount of imbalance netting power defined in paragraph 6 with other LFC areas of the same LFC block.",
+      "2.   Each TSO shall have the right to implement the imbalance netting process for the LFC areas in the same LFC block, between different LFC blocks or between different synchronous areas, by concluding an imbalance netting agreement.",
+      "11.   Where an imbalance netting process is implemented for LFC areas which are not part of the same LFC block, all TSOs of the LFC blocks involved shall comply with the obligations in Article 141(5) regardless of imbalance netting power interchange.",
+      "2.   Each TSO shall have the right to implement theimbalance netting processfor theLFC areas in the sameLFC block, between different LFC blocks or between different synchronous areas, by concluding an imbalance netting agreement.",
+      "9.   Where a LFC block consists of more than one LFC area and the reserve capacity on FRR as well as the reserve capacity on RR is calculated based on the LFC block imbalances, all TSOs of the same LFC block shall implement an imbalance netting process and interchange the maximum amount of imbalance netting power defined in paragraph 6 with other LFC areas of the same LFC block.",
+      "11.   Where animbalance netting processis implemented forLFC areas which are not part of the sameLFC block, all TSOs of the LFC blocks involved shall comply with the obligations in Article 141(5) regardless ofimbalance netting power interchange."
+    ],
+    "Article 147": [
+      "2.   Each TSO shall have the right to implement the cross-border FRR activation process for LFC areas within the same LFC block, between different LFC blocks or between different synchronous areas by concluding a cross-border FRR activation agreement."
+    ],
+    "Article 148": [
+      "2.   Each TSO shall have the right to implement thecross-border RR activation processforLFC areas within the sameLFC block, between different LFC blocks or between different synchronous areas by concluding a cross-border RR activation agreement.",
+      "2.   Each TSO shall have the right to implement the cross-border RR activation process for LFC areas within the same LFC block, between different LFC blocks or between different synchronous areas by concluding a cross-border RR activation agreement."
+    ],
+    "Article 151": [
+      "3.   All TSOs of aLFC blockshall set out additional requirements for the availability, reliability and redundancy of the technical infrastructure in theLFC block operational agreement.",
+      "3.   All TSOs of a LFC block shall set out additional requirements for the availability, reliability and redundancy of the technical infrastructure in the LFC block operational agreement."
+    ],
+    "Article 152": [
+      "the real-time measurement data of the FRCE of the LFC blocks and LFC areas of the synchronous area.",
+      "12.   If the 1-minute average of theFRCEof aLFC block is above the Level 2 FRCE range at least during the time necessary to restore frequency and where the TSOs of a LFC block do not expect that FRCE will be sufficiently reduced by undertaking the actions in paragraph 15, TSOs shall have the right to require changes in the active power production or consumption of power generating modules and demand units within their respective areas to reduce the FRCE as specified in paragraph 16.",
+      "11.   If the system state is in the alert state due to insufficient active power reserves in accordance with Article 18, the TSOs of the concerned LFC blocks shall, in close cooperation with the other TSOs of the synchronous area and the TSOs of other synchronous areas, act to restore and replace the necessary levels of active power reserves. For that purpose, the TSOs of a LFC block shall have the right to require changes in the active power production or consumption of power generating modules or demand units within its control area to reduce or to remove the violation of the requirements concerning active power reserve.",
+      "15.   For the cases referred to in paragraphs 11 to 13 all the TSOs of each synchronous area shall specify in the synchronous area operational agreement actions to enable the TSOs of aLFC blockto actively reduce thefrequency deviationwith the cross-border activation of reserves. In cases referred to in paragraphs 11 to 13 the TSOs of the synchronous area shall endeavour to enable the TSOs of the concerned LFC block to reduce theirFRCE.",
+      "together with the TSOs of the LFC block shall implement coordinated actions to reduce the FRCE which shall be specified in the LFC block operational agreement.",
+      "15.   For the cases referred to in paragraphs 11 to 13 all the TSOs of each synchronous area shall specify in the synchronous area operational agreement actions to enable the TSOs of a LFC block to actively reduce the frequency deviation with the cross-border activation of reserves. In cases referred to in paragraphs 11 to 13 the TSOs of the synchronous area shall endeavour to enable the TSOs of the concerned LFC block to reduce their FRCE.",
+      "9.   The TSOs of a LFC block shall endeavour to avoid FRCEs which last longer than the time to restore frequency.",
+      "12.   If the 1-minute average of the FRCE of a LFC block is above the Level 2 FRCE range at least during the time necessary to restore frequency and where the TSOs of a LFC block do not expect that FRCE will be sufficiently reduced by undertaking the actions in paragraph 15, TSOs shall have the right to require changes in the active power production or consumption of power generating modules and demand units within their respective areas to reduce the FRCE as specified in paragraph 16.",
+      "shall inform the other TSOs of the LFC block; and",
+      "16.   The TSOs of a LFC block shall specify, in the LFC block operational agreement, measures to reduce the FRCE by means of changes in the active power production or consumption of power generating modules and demand units within their area.",
+      "together with the TSOs of theLFC blockshall implement coordinated actions to reduce theFRCEwhich shall be specified in theLFC block operational agreement.",
+      "13.   For the CE and Nordic synchronous areas, where the FRCE of a LFC block exceeds 25 % of the reference incident of the synchronous area for more than 30 consecutive minutes and if the TSOs of that LFC block do not expect to reduce sufficiently the FRCE with the actions taken pursuant to paragraph 15, the TSOs shall require changes in the active power production or consumption of power generating modules and demand units within their respective areas to reduce the FRCE as specified in paragraph 16.",
+      "8.   All TSOs of a LFC block shall specify operational procedures for cases of exhausted FRR or RR in the LFC block operational agreement. In those operational procedures the TSOs of a LFC block shall have the right to require changes in the active power production or consumption of power generating modules and demand units.",
+      "11.   If thesystem stateis in thealert statedue to insufficientactive power reserves in accordance with Article 18, the TSOs of the concernedLFC blocks shall, in close cooperation with the other TSOs of the synchronous area and the TSOs of other synchronous areas, act to restore and replace the necessary levels of active power reserves. For that purpose, the TSOs of a LFC block shall have the right to require changes in the active power production or consumption of power generating modules or demand units within its control area to reduce or to remove the violation of the requirements concerning active power reserve.",
+      "16.   The TSOs of aLFC blockshall specify, in theLFC block operational agreement, measures to reduce theFRCE by means of changes in the active power production or consumption of power generating modules and demand units within their area.",
+      "9.   The TSOs of aLFC blockshall endeavour to avoidFRCEs which last longer than thetime to restore frequency.",
+      "13.   For the CE and Nordic synchronous areas, where theFRCEof aLFC blockexceeds 25 % of thereference incident of the synchronous area for more than 30 consecutive minutes and if the TSOs of that LFC block do not expect to reduce sufficiently the FRCE with the actions taken pursuant to paragraph 15, the TSOs shall require changes in the active power production or consumption of power generating modules and demand units within their respective areas to reduce the FRCE as specified in paragraph 16.",
+      "the real-time measurement data of theFRCEof theLFC blocks andLFC areas of the synchronous area.",
+      "8.   All TSOs of aLFC blockshall specify operational procedures for cases of exhaustedFRRor RR in theLFC block operational agreement. In those operational procedures the TSOs of a LFC block shall have the right to require changes in the active power production or consumption of power generating modules and demand units."
+    ],
+    "Article 156": [
+      "experiences gathered with different timeframes and shares of emerging technologies in different LFC blocks;"
+    ],
+    "Article 157": [
+      "all TSOs of a LFC block shall determine the positive reserve capacity on FRR, which shall not be less than the positive dimensioning incident of the LFC block;",
+      "all TSOs of a LFC block shall ensure that the negative reserve capacity on FRR or a combination of reserve capacity on FRR and RR is sufficient to cover the negative LFC block imbalances for at least 99 % of the time, based on the historical record referred to in point (a);",
+      "all TSOs of aLFC blockin the CE and Nordic synchronous areas shall determine thereserve capacityonFRRof the LFC block sufficient to respect the currentFRCE target parametersin Article 128 for the time period referred to in point (a) based at least on a probabilistic methodology. In using that probabilistic methodology, the TSOs shall take into account the restrictions defined in the agreements for the sharing orexchange of reservesdue to possible violations ofoperational securityand theFRR availability requirements. All TSOs of a LFC block shall take into account any expected significant changes to the distribution ofLFC block imbalances or take into account other relevant influencing factors relative to the time period considered;",
+      "3.   All TSOs of a LFC block where the LFC block comprises more than one TSO shall set out, in the LFC block operational agreement, the specific allocation of responsibilities between the TSOs of the LFC areas for the implementation of the obligations established in paragraph 2.",
+      "all TSOs of a LFC block may reduce the positive reserve capacity on FRR of the LFC block resulting from the FRR dimensioning process by concluding a FRR sharing agreement with other LFC blocks in accordance with provisions in Title 8. The following requirements shall apply to that sharing agreement:",
+      "all TSOs of a LFC block shall determine the ratio of automatic FRR, manual FRR, the automatic FRR full activation time and manual FRR full activation time in order to comply with the requirement of paragraph (b). For that purpose, the automatic FRR full activation time of a LFC block and the manual FRR full activation time of the LFC block shall not be more than the time to restore frequency;",
+      "all TSOs of aLFC blockshall determine thereserve capacityonFRRof a LFC block, any possible geographical limitations for its distribution within the LFC block and any possible geographical limitations for anyexchange of reservesorsharing of reserveswith other LFC blocks to comply with theoperational security limits;",
+      "all TSOs of a LFC block shall determine the negative reserve capacity on FRR, which shall not be less than the negative dimensioning incident of the LFC block;",
+      "for the CE and Nordic synchronous areas, the reduction of the negative reserve capacity on FRR of a LFC block shall be limited to the difference, if positive, between the size of the negative dimensioning incident and the reserve capacity on FRR required to cover the negative LFC block imbalances during 99 % of the time, based on the historical records referred to in point (a);",
+      "the TSOs of a LFC block shall determine the size of the reference incident which shall be the largest imbalance that may result from an instantaneous change of active power of a single power generating module, single demand facility, or single HVDC interconnector or from a tripping of an AC line within the LFC block;",
+      "all TSOs of a LFC block shall ensure that the positive reserve capacity on FRR or a combination of reserve capacity on FRR and RR is sufficient to cover the positive LFC block imbalances for at least 99 % of the time, based on the historical records referred to in point (a);",
+      "all TSOs of a LFC block in the CE and Nordic synchronous areas shall determine the required reserve capacity of FRR of the LFC block based on consecutive historical records comprising at least the historical LFC block imbalance values. The sampling of those historical records shall cover at least the time to restore frequency. The time period considered for those records shall be representative and include at least one full year period ending not earlier than 6 months before the calculation date;",
+      "all TSOs of aLFC blockshall ensure that the positivereserve capacityonFRRor a combination of reserve capacity on FRR and RR is sufficient to cover the positiveLFC block imbalances for at least 99 % of the time, based on the historical records referred to in point (a);",
+      "for the GB and IE/NI synchronous areas, the negative reserve capacity on FRR and the risk of non-delivery due to sharing shall be assessed continually by the TSOs of the LFC block.",
+      "all TSOs of a LFC block shall determine the reserve capacity on FRR of a LFC block, any possible geographical limitations for its distribution within the LFC block and any possible geographical limitations for any exchange of reserves or sharing of reserves with other LFC blocks to comply with the operational security limits;",
+      "for the CE and Nordic synchronous areas, the reduction of the positive reserve capacity on FRR of a LFC block shall be limited to the difference, if positive, between the size of the positive dimensioning incident and the reserve capacity on FRR required to cover the positive LFC block imbalances during 99 % of the time, based on the historical records referred to in point (a). The reduction of the positive reserve capacity shall not exceed 30 % of the size of the positive dimensioning incident;",
+      "all TSOs of a LFC block in the CE and Nordic synchronous areas shall determine the reserve capacity on FRR of the LFC block sufficient to respect the current FRCE target parameters in Article 128 for the time period referred to in point (a) based at least on a probabilistic methodology. In using that probabilistic methodology, the TSOs shall take into account the restrictions defined in the agreements for the sharing or exchange of reserves due to possible violations of operational security and the FRR availability requirements. All TSOs of a LFC block shall take into account any expected significant changes to the distribution of LFC block imbalances or take into account other relevant influencing factors relative to the time period considered;",
+      "3.   All TSOs of aLFC blockwhere the LFC block comprises more than one TSO shall set out, in theLFC block operational agreement, the specific allocation of responsibilities between the TSOs of theLFC areas for the implementation of the obligations established in paragraph 2.",
+      "for the GB and IE/NI synchronous areas, the positive reserve capacity on FRR and the risk of non-delivery due to sharing shall be assessed continually by the TSOs of the LFC block;",
+      "the TSOs of aLFC blockshall determine the size of thereference incident which shall be the largest imbalance that may result from an instantaneous change of active power of a single power generating module, single demand facility, or single HVDC interconnector or from a tripping of an AC line within the LFC block;",
+      "4.   All TSOs of a LFC block shall have sufficient reserve capacity on FRR at any time in accordance with the FRR dimensioning rules. The TSOs of a LFC block shall specify in the LFC block operational agreement an escalation procedure for cases of severe risk of insufficient reserve capacity on FRR in the LFC block.",
+      "all TSOs of a LFC block may reduce the negative reserve capacity on FRR of the LFC block, resulting from the FRR dimensioning process by concluding a FRR sharing agreement with other LFC blocks in accordance with the provisions of Title 8. The following requirements shall apply to that sharing agreement:",
+      "all TSOs of aLFC blockshall ensure that the negativereserve capacityonFRRor a combination of reserve capacity on FRR and RR is sufficient to cover the negativeLFC block imbalances for at least 99 % of the time, based on the historical record referred to in point (a);"
+    ],
+    "Article 158": [
+      "a FRR providing unit or FRR providing group shall fulfil the ramping rate requirements of the LFC block.",
+      "2.   All TSOs of a LFC block shall specify FRR availability requirements and requirements on the control quality of FRR providing units and FRR providing groups for their LFC block in the LFC block operational agreement pursuant to Article 119."
+    ],
+    "Article 160": [
+      "6.   Where aLFC blockis operated by more than one TSO and if the process is necessary for the LFC block, all TSOs of that LFC block shall specify in theLFC block operational agreementthe allocation of responsibilities between the TSOs of differentLFC areas for the implementation of the dimensioning rules set out in paragraph 3.",
+      "7.   A TSO shall have sufficient reserve capacity on RR in accordance with the RR dimensioning rules at any time. The TSOs of a LFC block shall specify in the LFC block operational agreement an escalation procedure for cases of severe risk of insufficient reserve capacity on RR in the LFC block.",
+      "5.   All TSOs of a LFC block may reduce the negative reserve capacity on RR of the LFC block, resulting from the RR dimensioning process, by developing a RR sharing agreement for that negative reserve capacity on RR with other LFC blocks in accordance with the provisions of Title 8 of Part IV. The control capability receiving TSO shall limit the reduction of its negative reserve capacity on RR in order to:",
+      "ensure that the reduction of the positive reserve capacity on RR does not exceed the remaining positive reserve capacity on RR of the LFC block.",
+      "compliance with the operational security within a LFC block to determine the reserve capacity on RR.",
+      "compliance with theoperational securitywithin aLFC blockto determine thereserve capacityonRR.",
+      "1.   All TSOs of anLFC blockshall have the right to implement areserve replacement process.",
+      "ensure that the reduction of the positivereserve capacityonRRdoes not exceed the remaining positive reserve capacity on RR of theLFC block.",
+      "1.   All TSOs of an LFC block shall have the right to implement a reserve replacement process.",
+      "5.   All TSOs of aLFC blockmay reduce the negativereserve capacityonRRof the LFC block, resulting from the RR dimensioning process, by developing a RR sharing agreement for that negative reserve capacity on RR with other LFC blocks in accordance with the provisions of Title 8 of Part IV. Thecontrol capability receiving TSO shall limit the reduction of its negative reserve capacity on RR in order to:",
+      "ensure that the reduction of the negative reserve capacity on RR does not exceed the remaining negative reserve capacity on RR of the LFC block.",
+      "4.   All TSOs of an LFC block may reduce the positive reserve capacity on RR of the LFC block, resulting from the RR dimensioning process, by developing a RR sharing agreement for that positive reserve capacity on RR with other LFC blocks in accordance with the provisions of Title 8 of Part IV. The control capability receiving TSO shall limit the reduction of its positive reserve capacity on RR in order to:",
+      "4.   All TSOs of anLFC blockmay reduce the positivereserve capacityonRRof the LFC block, resulting from the RR dimensioning process, by developing a RR sharing agreement for that positive reserve capacity on RR with other LFC blocks in accordance with the provisions of Title 8 of Part IV. Thecontrol capability receiving TSO shall limit the reduction of its positive reserve capacity on RR in order to:",
+      "2.   To comply with theFRCE target parametersreferred to in Article 128, all TSOs of aLFC blockwith aRRP, performing a combined dimensioning process ofFRRand RR to fulfil the requirements of Article 157(2), shall defineRR dimensioning rulesin theLFC block operational agreement.",
+      "7.   A TSO shall have sufficientreserve capacityonRRin accordance with theRR dimensioning rulesat any time. The TSOs of aLFC blockshall specify in theLFC block operational agreement an escalation procedure for cases of severe risk of insufficient reserve capacity on RR in the LFC block.",
+      "6.   Where a LFC block is operated by more than one TSO and if the process is necessary for the LFC block, all TSOs of that LFC block shall specify in the LFC block operational agreement the allocation of responsibilities between the TSOs of different LFC areas for the implementation of the dimensioning rules set out in paragraph 3.",
+      "ensure that the reduction of the negativereserve capacityonRRdoes not exceed the remaining negative reserve capacity on RR of theLFC block.",
+      "2.   To comply with the FRCE target parameters referred to in Article 128, all TSOs of a LFC block with a RRP, performing a combined dimensioning process of FRR and RR to fulfil the requirements of Article 157(2), shall define RR dimensioning rules in the LFC block operational agreement."
+    ],
+    "Article 161": [
+      "2.   All TSOs of a LFC block shall specify RR availability requirements and requirements on the control quality of RR providing units and RR providing groups in the LFC block operational agreement.",
+      "2.   All TSOs of aLFC blockshall specifyRR availability requirementsand requirements on the control quality of RR providing units and RR providing groups in theLFC block operational agreement."
+    ],
+    "Article 162": [
+      "1.   Each TSO of a LFC block which has implemented a RRP shall develop a RR prequalification process within 12 months after entry into force of this Regulation and shall clarify and make publicly available the details thereof.",
+      "1.   Each TSO of aLFC blockwhich has implemented aRRPshall develop a RRprequalification process within 12 months after entry into force of this Regulation and shall clarify and make publicly available the details thereof."
+    ],
+    "Article 165": [
+      "6.   All TSOs of aLFC blockshall specify in theLFC block operational agreementthe roles and responsibilities of thereserve connecting TSO, thereserve receiving TSOand theaffected TSOfor the exchange ofFRR and/or RR with TSOs of other LFC blocks.",
+      "6.   All TSOs of a LFC block shall specify in the LFC block operational agreement the roles and responsibilities of the reserve connecting TSO, the reserve receiving TSO and the affected TSO for the exchange of FRR and/or RR with TSOs of other LFC blocks."
+    ],
+    "Article 166": [
+      "7.   All TSOs of aLFC blockshall specify in theLFC block operational agreementtheir roles and responsibilities of thecontrol capability providing TSO, thecontrol capability receiving TSOand theaffected TSOfor the sharing ofFRR and RR with TSOs of other LFC blocks.",
+      "7.   All TSOs of a LFC block shall specify in the LFC block operational agreement their roles and responsibilities of the control capability providing TSO, the control capability receiving TSO and the affected TSO for the sharing of FRR and RR with TSOs of other LFC blocks."
+    ],
+    "Article 167": [
+      "All TSOs in a synchronous area consisting of more than one LFC block involved in the exchange of FRR within the synchronous area shall comply with the requirements and limits for the exchange of FRR set out in the Table of Annex VII."
+    ],
+    "Article 168": [
+      "Each TSO of a LFC block shall have the right to share FRR with other LFC blocks of its synchronous area within the limits set by the FRR dimensioning rules in Article 157(1) and in accordance with Article 166."
+    ],
+    "Article 169": [
+      "All TSOs in a synchronous area consisting of more than oneLFC blockinvolved in the exchange ofRR within the synchronous area shall comply with the requirements and limits for the exchange of RR set out in the Table of Annex VIII.",
+      "All TSOs in a synchronous area consisting of more than one LFC block involved in the exchange of RR within the synchronous area shall comply with the requirements and limits for the exchange of RR set out in the Table of Annex VIII."
+    ],
+    "Article 170": [
+      "Each TSO of aLFC blockshall have the right to shareRRwith other LFC blocks of the same synchronous area within the limits set by theRR dimensioning rules in Article 160(4) and (5) and in accordance with Article 166.",
+      "Each TSO of a LFC block shall have the right to share RR with other LFC blocks of the same synchronous area within the limits set by the RR dimensioning rules in Article 160(4) and (5) and in accordance with Article 166."
+    ],
+    "Article 175": [
+      "2.   All TSOs of an LFC block shall specify in the LFC block operational agreement their roles and responsibilities of the control capability providing TSO, the control capability receiving TSO and the affected TSO for the sharing of FRR and RR with TSOs of other LFC blocks in other synchronous areas.",
+      "2.   All TSOs of anLFC blockshall specify in theLFC block operational agreementtheir roles and responsibilities of thecontrol capability providing TSO, thecontrol capability receiving TSOand theaffected TSOfor the sharing ofFRR and RR with TSOs of other LFC blocks in other synchronous areas."
+    ],
+    "Article 176": [
+      "5.   All TSOs of the LFC blocks to which the reserve connecting TSO and the reserve receiving TSO belong shall specify the conditions for exchange of FRR in an FRR exchange agreement.",
+      "3.   The share of the total reserve capacity on FRR required for the LFC block in the synchronous area where it is exchanged shall be provided from the LFC block in the second synchronous area in addition to the total reserve capacity on FRR required for that second LFC block in accordance with Article 157(1).",
+      "2.   All TSOs of the LFC blocks involved in the exchange of FRR between synchronous areas shall organise that exchange so that the TSOs of a LFC block in the first synchronous area may receive a share of the total reserve capacity on FRR required for their LFC block as determined in accordance with the Article 157(1) from a LFC block in the second synchronous area."
+    ],
+    "Article 177": [
+      "4.   All TSOs of the LFC blocks to which the control capability providing TSO and the control capability receiving TSOs belong shall specify the conditions for sharing FRR in an FRR sharing agreement.",
+      "2.   All TSOs of the LFC blocks involved in the sharing of FRR between synchronous areas shall organise that sharing so that the TSOs of a LFC block in the first synchronous area may receive a share of the total reserve capacity on FRR required for their LFC block as defined in accordance with the Article 157(1) from a LFC block in the second synchronous area."
+    ],
+    "Article 178": [
+      "3.   The share of the total reserve capacity on RR required for the LFC block in the synchronous area where it is exchanged shall be provided from the LFC block in the second synchronous area in addition to the total reserve capacity on RR required for that second LFC block in accordance with Article 160(2).",
+      "5.   All TSOs of theLFC blocks to which thereserve connecting TSOand thereserve receiving TSObelong shall specify the conditions for the exchange ofRR in an RR exchange agreement.",
+      "5.   All TSOs of the LFC blocks to which the reserve connecting TSO and the reserve receiving TSO belong shall specify the conditions for the exchange of RR in an RR exchange agreement.",
+      "2.   All TSOs of the LFC blocks involved in the exchange of RR between synchronous areas shall organise that exchange so that the TSOs of a LFC block in the first synchronous area may receive a share of the total reserve capacity on RR required for their LFC block as defined in Article 160(2) from a LFC block in the second synchronous area.",
+      "2.   All TSOs of theLFC blocks involved in the exchange ofRRbetween synchronous areas shall organise that exchange so that the TSOs of a LFC block in the first synchronous area may receive a share of the totalreserve capacity on RR required for their LFC block as defined in Article 160(2) from a LFC block in the second synchronous area.",
+      "3.   The share of the totalreserve capacityonRRrequired for theLFC block in the synchronous area where it is exchanged shall be provided from the LFC block in the second synchronous area in addition to the total reserve capacity on RR required for that second LFC block in accordance with Article 160(2)."
+    ],
+    "Article 179": [
+      "2.   All TSOs of theLFC blocks involved in the sharing ofRRbetween synchronous areas shall organise that sharing so that the TSOs of an LFC block in the first synchronous area may receive a share of the totalreserve capacity on RR required for their LFC block as defined in accordance with Article 160(2) from a LFC block in the second synchronous area.",
+      "the ability of the TSOs of the synchronous area to comply with thefrequency quality target parameters defined in accordance with Article 127 and the ability of theLFC blocks to comply with theFRCE error target parameters defined in accordance with Article 128; and",
+      "the ability of the TSOs of the synchronous area to comply with the frequency quality target parameters defined in accordance with Article 127 and the ability of the LFC blocks to comply with the FRCE error target parameters defined in accordance with Article 128; and",
+      "4.   All TSOs of eachLFC blockto which the reservecontrol capability providing TSOand reservecontrol capability receiving TSObelong to, shall specify the conditions for the sharing ofRR in an RR sharing agreement.",
+      "2.   All TSOs of the LFC blocks involved in the sharing of RR between synchronous areas shall organise that sharing so that the TSOs of an LFC block in the first synchronous area may receive a share of the total reserve capacity on RR required for their LFC block as defined in accordance with Article 160(2) from a LFC block in the second synchronous area.",
+      "4.   All TSOs of each LFC block to which the reserve control capability providing TSO and reserve control capability receiving TSO belong to, shall specify the conditions for the sharing of RR in an RR sharing agreement."
+    ],
+    "Article 184": [
+      "3.   Each TSO of each LFC block shall share the contents of its LFC block operational agreement with its regulatory authority or, where applicable, with another competent authority.",
+      "3.   Each TSO of eachLFC blockshall share the contents of itsLFC block operational agreement with its regulatory authority or, where applicable, with another competent authority."
+    ],
+    "Article 185": [
+      "2.   Where applicable, all TSOs of each synchronous area shall notify the values of the FRCE target parameters for each LFC block and each LFC area to ENTSO for Electricity for publication at least 1 month before their applicability.",
+      "2.   Where applicable, all TSOs of each synchronous area shall notify the values of theFRCE target parametersfor eachLFC blockand eachLFC area to ENTSO for Electricity for publication at least 1 month before their applicability.",
+      "the values of thefrequency quality evaluation criteriacalculated for the synchronous area and for eachLFC block within the synchronous area in accordance with Article 133(3); and",
+      "the values of the frequency quality evaluation criteria calculated for the synchronous area and for each LFC block within the synchronous area in accordance with Article 133(3); and"
+    ],
+    "Article 186": [
+      "information on theprocess activation structureof the synchronous area, including at least information on themonitoring areas,LFC areas andLFC blocks defined and their respective TSOs; and",
+      "information on the process activation structure of the synchronous area, including at least information on the monitoring areas, LFC areas and LFC blocks defined and their respective TSOs; and"
+    ],
+    "Article 188": [
+      "3.   All TSOs of each synchronous area shall notify, by 30 November of each year, an outlook of the reserve capacities on FRR of each LFC block for the next year to ENTSO for Electricity for publication.",
+      "4.   All TSOs of each synchronous area shall notify, within 30 days after the end of the quarter, the actual reserve capacities on FRR of each LFC block of the past quarter to ENTSO for Electricity for publication."
+    ],
+    "Article 189": [
+      "3.   All TSOs of each synchronous area shall notify, within 30 days after the end of the quarter, the actual reserve capacities RR of each LFC block of the past quarter to ENTSO for Electricity for publication.",
+      "2.   All TSOs of each synchronous area shall notify, by 30 November of each year, an outlook of the reserve capacities RR of each LFC block for the following year to ENTSO for Electricity for publication.",
+      "3.   All TSOs of each synchronous area shall notify, within 30 days after the end of the quarter, the actual reserve capacitiesRRof eachLFC block of the past quarter to ENTSO for Electricity for publication.",
+      "2.   All TSOs of each synchronous area shall notify, by 30 November of each year, an outlook of the reserve capacitiesRRof eachLFC block for the following year to ENTSO for Electricity for publication."
+    ],
+    "Article 190": [
+      "the identity of the LFC blocks where there is an agreement for the sharing of FRR or RR; and",
+      "1.   All TSOs of each synchronous area shall notify the annual compilations of the agreements for the sharing ofFRRand for the sharing of RR for eachLFC block within the synchronous area to ENTSO for Electricity for publication in accordance with Articles 188(3) and 189(2). Those compilations shall include the following information:",
+      "1.   All TSOs of each synchronous area shall notify the annual compilations of the agreements for the sharing of FRR and for the sharing of RR for each LFC block within the synchronous area to ENTSO for Electricity for publication in accordance with Articles 188(3) and 189(2). Those compilations shall include the following information:",
+      "the identity of theLFC blocks where there is an agreement for the sharing ofFRR or RR; and"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 32,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        3,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 6": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 8": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 16": {
+      "article_score": 9,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 118": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 119": {
+      "article_score": 22,
+      "statement_scores": [
+        4,
+        2,
+        1,
+        1,
+        1,
+        4,
+        3,
+        1,
+        3,
+        1,
+        1
+      ]
+    },
+    "Article 128": {
+      "article_score": 9,
+      "statement_scores": [
+        3,
+        1,
+        1,
+        1,
+        3
+      ]
+    },
+    "Article 130": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 131": {
+      "article_score": 42,
+      "statement_scores": [
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        2,
+        3,
+        1,
+        2,
+        2,
+        1,
+        1,
+        3,
+        1,
+        2,
+        1,
+        2,
+        3,
+        3,
+        1
+      ]
+    },
+    "Article 134": {
+      "article_score": 8,
+      "statement_scores": [
+        4,
+        4
+      ]
+    },
+    "Article 137": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        3,
+        1,
+        3
+      ]
+    },
+    "Article 138": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        1,
+        1
+      ]
+    },
+    "Article 141": {
+      "article_score": 18,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        3,
+        3
+      ]
+    },
+    "Article 143": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 145": {
+      "article_score": 13,
+      "statement_scores": [
+        1,
+        3,
+        1,
+        2,
+        3,
+        1,
+        2
+      ]
+    },
+    "Article 146": {
+      "article_score": 16,
+      "statement_scores": [
+        4,
+        2,
+        2,
+        2,
+        4,
+        2
+      ]
+    },
+    "Article 147": {
+      "article_score": 2,
+      "statement_scores": [
+        2
+      ]
+    },
+    "Article 148": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Article 151": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Article 152": {
+      "article_score": 35,
+      "statement_scores": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        1,
+        2,
+        2,
+        2,
+        3,
+        2,
+        2,
+        1,
+        2,
+        1,
+        3
+      ]
+    },
+    "Article 156": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 157": {
+      "article_score": 60,
+      "statement_scores": [
+        2,
+        2,
+        4,
+        3,
+        3,
+        3,
+        4,
+        2,
+        2,
+        2,
+        2,
+        3,
+        2,
+        1,
+        4,
+        2,
+        4,
+        3,
+        1,
+        2,
+        4,
+        3,
+        2
+      ]
+    },
+    "Article 158": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        3
+      ]
+    },
+    "Article 160": {
+      "article_score": 38,
+      "statement_scores": [
+        4,
+        3,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        3,
+        1,
+        3,
+        3,
+        2,
+        3,
+        4,
+        1,
+        2
+      ]
+    },
+    "Article 161": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Article 162": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 165": {
+      "article_score": 6,
+      "statement_scores": [
+        3,
+        3
+      ]
+    },
+    "Article 166": {
+      "article_score": 6,
+      "statement_scores": [
+        3,
+        3
+      ]
+    },
+    "Article 167": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 168": {
+      "article_score": 2,
+      "statement_scores": [
+        2
+      ]
+    },
+    "Article 169": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 170": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Article 175": {
+      "article_score": 6,
+      "statement_scores": [
+        3,
+        3
+      ]
+    },
+    "Article 176": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        3,
+        4
+      ]
+    },
+    "Article 177": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        4
+      ]
+    },
+    "Article 178": {
+      "article_score": 16,
+      "statement_scores": [
+        3,
+        1,
+        1,
+        4,
+        4,
+        3
+      ]
+    },
+    "Article 179": {
+      "article_score": 12,
+      "statement_scores": [
+        4,
+        1,
+        1,
+        1,
+        4,
+        1
+      ]
+    },
+    "Article 184": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Article 185": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 186": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 188": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 189": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 190": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

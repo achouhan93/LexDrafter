@@ -1,0 +1,33 @@
+{
+  "term": "digital photo frame",
+  "celex_id": "32019R2013",
+  "original_definition": "'digital photo frame' means an electronic display that displays exclusively still visual information;",
+  "generated_definition": "'digital photo frame' means an electronic device displaying digital images stored on a memory card or wirelessly transmitted from a device, typically with a touch-sensitive screen and built-in speakers.",
+  "existing_sentences": {
+    "Article 1": [
+      "digital photo frames;"
+    ],
+    "Article 2": [
+      "\u2018digital photo frame\u2019 means an electronic display that displays exclusively still visual information;",
+      "\u2018digital photo frame\u2019 means anelectronic display that displays exclusively still visual information;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "term": "water pump",
+  "celex_id": "32012R0547",
+  "original_definition": "'water pump' is the hydraulic part of a device that moves clean water by physical or mechanical action and is of one of the following designs:End suction own bearing (ESOB),End suction close coupled (ESCC),End suction close coupled inline (ESCCi),Vertical multistage (MS-V),Submersible multistage (MSS);",
+  "generated_definition": "'water pump' means a device that moves water from one location to another, typically using an impeller to increase the pressure and flow rate of the water.",
+  "existing_sentences": {
+    "Article 1": [
+      "water pumps designed only for fire-fighting applications;",
+      "water pumps designed specifically for pumping clean water at temperatures below \u2013 10 \u00b0C or above 120 \u00b0C, except with regard to the information requirements of Annex II, points 2(11) to 2(13);",
+      "water pumps designed specifically for pumpingclean water at temperatures below \u2013 10 \u00b0C or above 120 \u00b0C, except with regard to the information requirements of Annex II, points 2(11) to 2(13);"
+    ],
+    "Article 2": [
+      "\u2018water pump\u2019 is the hydraulic part of a device that moves clean water by physical or mechanical action and is of one of the following designs:",
+      "\u2018water pump\u2019 is the hydraulic part of a device that movesclean water by physical or mechanical action and is of one of the following designs:"
+    ],
+    "Article 3": [
+      "from 1 January 2013,water pumps shall have a minimum efficiency as defined in Annex II, point 1(a);",
+      "from 1 January 2015, water pumps shall have a minimum efficiency as defined in Annex II, point 1(b);",
+      "from 1 January 2015,water pumps shall have a minimum efficiency as defined in Annex II, point 1(b);",
+      "from 1 January 2013, water pumps shall have a minimum efficiency as defined in Annex II, point 1(a);",
+      "from 1 January 2013, the information onwater pumps shall comply with the requirements set out in Annex II, point 2.",
+      "from 1 January 2013, the information on water pumps shall comply with the requirements set out in Annex II, point 2."
+    ],
+    "Article 6": [
+      "The indicative benchmarks for the best-performing water pumps available on the market at the time of entry into force of this Regulation are set out in Annex V.",
+      "The indicative benchmarks for the best-performingwater pumps available on the market at the time of entry into force of this Regulation are set out in Annex V."
+    ],
+    "Article 8": [
+      "From 1 January 2015,water pumps shall have:",
+      "\u2018Over load\u2019 (OL) means the operating point of thewater pump at 110 % of the flow at BEP;",
+      "\u2018Best efficiency point\u2019 (BEP) means the operating point of the water pump at which it is at the maximum hydraulic pump efficiency measured with clean cold water,",
+      "free access websites of manufacturers of water pumps.",
+      "Standard text: \u2018The operation of this water pump with variable duty points may be more efficient and economic when controlled, for example, by the use of a variable speed drive that matches the pump duty to the system\u2019;",
+      "At the time of entry into force of this Regulation, the indicative benchmark for the best available technology on the market forwater pumps is a minimum efficiency index (MEI) \u2265 0,70.",
+      "free access websites of manufacturers ofwater pumps.",
+      "\u2018Head\u2019 (H) means the increase in the hydraulic energy of water in meters [m], produced by the water pump at the specified point of operation,",
+      "From 1 January 2013, water pumps shall have a minimum efficiency:",
+      "\u2018Stage\u2019 (i) means the number of series impellers in the water pump,",
+      "From 1 January 2013, the information on water pumps referred to in Article 1 set out in following points (1) to (15) shall be visibly displayed on:",
+      "the technical documentation of water pumps;",
+      "\u2018Specific speed\u2019 (ns) means a dimensional value characterising the shape of thewater pump impeller by head, flow and speed (n):",
+      "The information shall be provided in the order as presented in points (1) to (15). The information referred to in points (1) and (3) to (6) shall be durably marked on or near the rating plate of the water pump.",
+      "\u2018Flow\u2019 (Q) means the volume flow rate [m3/s] of water through thewater pump,",
+      "At the time of entry into force of this Regulation, the indicative benchmark for the best available technology on the market for water pumps is a minimum efficiency index (MEI) \u2265 0,70.",
+      "the technical documentation ofwater pumps;",
+      "\u2018Head\u2019 (H) means the increase in the hydraulic energy of water in meters [m], produced by thewater pump at the specified point of operation,",
+      "\u2018Hydraulic pump efficiency\u2019 (\u03b7) is the ratio between the mechanical power transferred to the liquid during its passage through the water pump and the mechanical input power transmitted to the pump at its shaft;",
+      "\u2018Full impeller\u2019 means the impeller with the maximum diameter for which performance characteristics are given for a pump size in the catalogues of awater pump manufacturer;",
+      "Ecodesign requirements forwater pumps",
+      "Standard text for water pumps designed only for pumping clean water at temperatures above 120 \u00b0C: \u2018Designed for use above 120 \u00b0C only\u2019;",
+      "Standard text: \u2018The benchmark for most efficient water pumps is MEI \u2265 0,70\u2019, or, alternatively, the indication \u2018Benchmark MEI \u2265 0,70\u2019;",
+      "\u2018Best efficiency point\u2019 (BEP) means the operating point of thewater pump at which it is at the maximum hydraulic pump efficiency measured with clean cold water,",
+      "\u2018Stage\u2019 (i) means the number of series impellers in thewater pump,",
+      "Standard text for water pumps designed only for pumping clean water at temperatures below \u2013 10 \u00b0C: \u2018Designed for use below \u2013 10 \u00b0C only\u2019;",
+      "\u2018Flow\u2019 (Q) means the volume flow rate [m3/s] of water through the water pump,",
+      "\u2018Part load\u2019 (PL) means the operating point of the water pump at 75 % of the flow at BEP;",
+      "From 1 January 2015, water pumps shall have:",
+      "The information shall be provided in the order as presented in points (1) to (15). The information referred to in points (1) and (3) to (6) shall be durably marked on or near the rating plate of thewater pump.",
+      "\u2018Specific speed\u2019 (ns) means a dimensional value characterising the shape of the water pump impeller by head, flow and speed (n):",
+      "\u2018Hydraulic pump efficiency\u2019 (\u03b7) is the ratio between the mechanical power transferred to the liquid during its passage through thewater pump and the mechanical input power transmitted to the pump at its shaft;",
+      "\u2018C\u2019 means a constant for each specific water pump type quantifying the differences in efficiency for different pump types.",
+      "Standard text forwater pumps designed only for pumpingclean water at temperatures below \u2013 10 \u00b0C: \u2018Designed for use below \u2013 10 \u00b0C only\u2019;",
+      "Ecodesign requirements for water pumps",
+      "From 1 January 2013,water pumps shall have a minimum efficiency:",
+      "\u2018Over load\u2019 (OL) means the operating point of the water pump at 110 % of the flow at BEP;",
+      "Standard text: \u2018The benchmark for most efficientwater pumps is MEI \u2265 0,70\u2019, or, alternatively, the indication \u2018Benchmark MEI \u2265 0,70\u2019;",
+      "From 1 January 2013, the information onwater pumps referred to in Article 1 set out in following points (1) to (15) shall be visibly displayed on:",
+      "\u2018Full impeller\u2019 means the impeller with the maximum diameter for which performance characteristics are given for a pump size in the catalogues of a water pump manufacturer;",
+      "Standard text: \u2018The operation of thiswater pump with variable duty points may be more efficient and economic when controlled, for example, by the use of a variable speed drive that matches the pump duty to the system\u2019;",
+      "\u2018C\u2019 means a constant for each specificwater pump type quantifying the differences in efficiency for different pump types.",
+      "\u2018Part load\u2019 (PL) means the operating point of thewater pump at 75 % of the flow at BEP;",
+      "Standard text forwater pumps designed only for pumpingclean water at temperatures above 120 \u00b0C: \u2018Designed for use above 120 \u00b0C only\u2019;"
+    ],
+    "Not Article": [
+      "This Regulation should increase the market penetration of technologies that improve the life-cycle environmental impact of water pumps, leading to estimated energy savings of 3,3 TWh by 2020, compared to the situation where no measures are taken.",
+      "Ecodesign requirements should harmonise power consumption requirements forwater pumps throughout the European Union, thus contributing to the functioning of the internal market and to the improvement of the environmental performance of these products.",
+      "The preparatory study shows thatwater pumps are placed on the European Union market in large quantities. Their energy consumption in the use phase is the most significant environmental aspect of all life-cycle phases, with their annual electricity consumption amounting to 109 TWh in 2005, corresponding to 50 Mt in CO2 emissions. In the absence of measures to limit this consumption, it is predicted that energy consumption will increase to 136 TWh in 2020. It has been concluded that use-phase electricity consumption can be improved significantly.",
+      "Ecodesign requirements should harmonise power consumption requirements for water pumps throughout the European Union, thus contributing to the functioning of the internal market and to the improvement of the environmental performance of these products.",
+      "Article 16(2) of Directive 2009/125/EC provides that, in accordance with the procedure referred to in Article 19(3) and the criteria set out in Article 15(2), and after consulting the Consultation Forum, the Commission shall, as appropriate, introduce implementing measures for products used in electric motor systems, such as water pumps.",
+      "Article 16(2) of Directive 2009/125/EC provides that, in accordance with the procedure referred to in Article 19(3) and the criteria set out in Article 15(2), and after consulting the Consultation Forum, the Commission shall, as appropriate, introduce implementing measures for products used in electric motor systems, such aswater pumps.",
+      "In order to further limit the environmental impact of water pumps, manufacturers should provide relevant information on disassembly, recycling or disposal at end-of-life.",
+      "An appropriate timeframe should be provided for manufacturers to redesign products. The timeframe should be such as to avoid negative impacts on the functionalities of water pumps and to take into account cost impacts for manufacturers, in particular small and medium-sized enterprises, while ensuring timely achievement of the objectives of this Regulation.",
+      "The preparatory study shows that water pumps are placed on the European Union market in large quantities. Their energy consumption in the use phase is the most significant environmental aspect of all life-cycle phases, with their annual electricity consumption amounting to 109 TWh in 2005, corresponding to 50 Mt in CO2 emissions. In the absence of measures to limit this consumption, it is predicted that energy consumption will increase to 136 TWh in 2020. It has been concluded that use-phase electricity consumption can be improved significantly.",
+      "Improvements in electricity consumption in the use phase of water pumps should be achieved by applying existing non-proprietary cost-effective technologies that can reduce the total combined costs of purchase and operation.",
+      "An appropriate timeframe should be provided for manufacturers to redesign products. The timeframe should be such as to avoid negative impacts on the functionalities ofwater pumps and to take into account cost impacts for manufacturers, in particular small and medium-sized enterprises, while ensuring timely achievement of the objectives of this Regulation.",
+      "implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements forwater pumps",
+      "This Regulation should increase the market penetration of technologies that improve the life-cycle environmental impact ofwater pumps, leading to estimated energy savings of 3,3 TWh by 2020, compared to the situation where no measures are taken.",
+      "Water pumps forming parts of electric motor systems are essential in various pumping processes. There is a total cost-effective potential for improving the energy efficiency of these pumping systems by approximately 20 % to 30 %. Even though the main savings can be achieved by motors, one of the factors contributing to such improvements is the use of energy-efficient pumps. Consequently, water pumps are a priority product for which ecodesign requirements should be established.",
+      "Many pumps are integrated in other products without being separately placed on the market. To achieve the full cost-effective energy-saving potential,water pumps integrated in other products should also be subject to the provisions of this Regulation.",
+      "Electric motor systems include a number of energy-related products, such as motors, drives, pumps or fans. Water pumps are one of these products. Minimum requirements are established for motors in a separate measure, Commission Regulation (EC) No 640/2009 (2). Consequently, the present Regulation only sets minimum requirements for the hydraulic performance of water pumps without the motor.",
+      "The Commission has carried out a preparatory study to analyse the technical, environmental and economic aspects of water pumps. The study has been developed together with stakeholders and interested parties from the Union and third countries, and the results have been made publicly available.",
+      "In order to further limit the environmental impact ofwater pumps, manufacturers should provide relevant information on disassembly, recycling or disposal at end-of-life.",
+      "Many pumps are integrated in other products without being separately placed on the market. To achieve the full cost-effective energy-saving potential, water pumps integrated in other products should also be subject to the provisions of this Regulation.",
+      "The Commission has carried out a preparatory study to analyse the technical, environmental and economic aspects ofwater pumps. The study has been developed together with stakeholders and interested parties from the Union and third countries, and the results have been made publicly available.",
+      "Electric motor systems include a number of energy-related products, such as motors, drives, pumps or fans.Water pumps are one of these products. Minimum requirements are established for motors in a separate measure, Commission Regulation (EC) No 640/2009 (2). Consequently, the present Regulation only sets minimum requirements for the hydraulic performance of water pumps without the motor.",
+      "implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for water pumps",
+      "Improvements in electricity consumption in the use phase ofwater pumps should be achieved by applying existing non-proprietary cost-effective technologies that can reduce the total combined costs of purchase and operation."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 3": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 6": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 8": {
+      "article_score": 44,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 26,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1
+      ]
+    }
+  }
+}

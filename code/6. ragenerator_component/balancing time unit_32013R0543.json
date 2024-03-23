@@ -1,0 +1,43 @@
+{
+  "term": "balancing time unit",
+  "celex_id": "32013R0543",
+  "original_definition": "'balancing time unit' means the time period for which the price for balancing reserves is established;",
+  "generated_definition": "'balancing time unit' means a standardized unit of time used to measure the volume of imbalance, prices, and other balancing-related data, typically set by the tso and used across the entire grid.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018balancing time unit\u2019 means the time period for which the price forbalancing reserves is established;",
+      "\u2018balancing time unit\u2019 means the time period for which the price for balancing reserves is established;"
+    ],
+    "Article 17": [
+      "total imbalance volume per balancing time unit;",
+      "prices paid by the TSO for activated balancing energy per balancing time unit and per type of reserve; price information shall be provided separately for up and down regulation;",
+      "accepted aggregated offers per balancing time unit, separately for each type of balancing reserve;",
+      "the amount of activated balancing energy (MW) per balancing time unit and per type of reserve;",
+      "imbalance prices per balancing time unit;",
+      "if applicable, information regarding Cross Control Area Balancing per balancing time unit, specifying:"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 17": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

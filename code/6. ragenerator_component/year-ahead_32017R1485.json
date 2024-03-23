@@ -1,0 +1,359 @@
+{
+  "term": "year-ahead",
+  "celex_id": "32017R1485",
+  "original_definition": "'year-ahead' means the year prior to the calendar year of operation;",
+  "generated_definition": "'year-ahead' means the period of time (usually one year) used for long-term planning and scheduling of electricity transmission system operations and maintenance, including outage coordination and availability planning.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018year-ahead\u2019 means the year prior to the calendar year of operation;"
+    ],
+    "Article 64": [
+      "year-ahead, in accordance with Articles 66, 67 and 68;"
+    ],
+    "Article 65": [
+      "Year-ahead scenarios",
+      "the year-ahead grid development.",
+      "1.   All TSOs shall jointly develop a common list of year-ahead scenarios against which they assess the operation of the interconnected transmission system for the following year. Those scenarios shall allow the identification and the assessment of the influence of the interconnected transmission system on operational security. The scenarios shall include the following variables:",
+      "1.   All TSOs shall jointly develop a common list ofyear-aheadscenarios against which they assess the operation of the interconnected transmission system for the following year. Those scenarios shall allow the identification and the assessment of the influence of the interconnected transmission system onoperational security. The scenarios shall include the following variables:"
+    ],
+    "Article 66": [
+      "1.   Each TSO shall determine a year-ahead individual grid model for each of the scenarios developed pursuant to Article 65, using its best estimates of the variables defined in Article 65(1). Each TSO shall publish its year-ahead individual grid models on the ENTSO for Electricity operational planning data environment in accordance with Article 114(1).",
+      "1.   Each TSO shall determine ayear-aheadindividual grid model for each of the scenarios developed pursuant to Article 65, using its best estimates of the variables defined in Article 65(1). Each TSO shall publish its year-ahead individual grid models on theENTSO for Electricity operational planning data environment in accordance with Article 114(1).",
+      "2.   When defining its year-ahead individual grid model, each TSO shall:",
+      "3.   Each TSO shall include in its year-ahead individual grid models the aggregated power outputs for power generating facilities connected to distribution systems. Those aggregated power outputs shall:",
+      "Year-ahead individual grid models"
+    ],
+    "Article 67": [
+      "deadlines for gathering the year-ahead individual grid models, for merging them into a common grid model and for saving the individual and common grid models;",
+      "Year-ahead common grid models",
+      "1.   By 6 months after entry into force of this Regulation, all TSOs shall jointly develop a proposal for the methodology for building the year-ahead common grid models from the individual grid models established in accordance with Article 66(1) and for saving them. The methodology shall take into account, and complement where necessary, the operational conditions of the common grid model methodology developed in accordance with Article 17 of Regulation (EU) 2015/1222 and Article 18 of Regulation (EU) 2016/1719, as regards the following elements:"
+    ],
+    "Article 68": [
+      "1.   When a TSO modifies or notices a modification of its best estimates for the variables used for determining its year-ahead individual grid model established in accordance with Article 66(1), which is significant for operational security, it shall update its year-ahead individual grid model and publish it on the ENTSO for Electricity operational planning data environment.",
+      "1.   When a TSO modifies or notices a modification of its best estimates for the variables used for determining itsyear-aheadindividual grid model established in accordance with Article 66(1), which is significant foroperational security, it shall update its year-ahead individual grid model and publish it on theENTSO for Electricity operational planning data environment.",
+      "2.   Whenever an individual grid model is updated, the year-ahead common grid model shall be updated accordingly applying the methodology determined in accordance with Article 67(1).",
+      "Updates of year-ahead individual and common grid models"
+    ],
+    "Article 72": [
+      "year-ahead;"
+    ],
+    "Article 73": [
+      "1.   Each TSO shall perform year-ahead and, where applicable, week-ahead operational security analyses in order to detect at least the following constraints:",
+      "1.   Each TSO shall performyear-aheadand, where applicable,week-aheadoperational securityanalyses in order to detect at least the followingconstraints:"
+    ],
+    "Article 77": [
+      "regional operational security coordination in accordance with Article 78 in order to support TSOs fulfil their obligations for the year-ahead, day-ahead and intraday time-frames in Article 34(3) and Articles 72 and 74;",
+      "regionaloperational securitycoordination in accordance with Article 78 in order to support TSOs fulfil their obligations for theyear-ahead, day-ahead and intraday time-frames in Article 34(3) and Articles 72 and 74;"
+    ],
+    "Article 83": [
+      "frequency, scope and type of coordination for, at least, theyear-aheadandweek-ahead time-frames;",
+      "frequency, scope and type of coordination for, at least, the year-ahead and week-ahead time-frames;",
+      "practical arrangements for the validation of theyear-aheadrelevant grid elementavailability plans, as required by Article 98.",
+      "practical arrangements for the validation of the year-ahead relevant grid element availability plans, as required by Article 98."
+    ],
+    "Article 84": [
+      "quantitative aspects based on the evaluation of changes of electrical values such as voltages, power flows, rotor angle on at least one grid element of a TSO's control area, due to the change of availability status of a potential relevant asset located in another control area. That evaluation shall take place on the basis of year-ahead common grid models;",
+      "quantitative aspects based on the evaluation of changes of electrical values such as voltages, power flows, rotor angle on at least one grid element of a TSO's control area, due to the change ofavailability statusof a potentialrelevant assetlocated in another control area. That evaluation shall take place on the basis ofyear-ahead common grid models;"
+    ],
+    "Article 91": [
+      "Variations to deadlines for the year-ahead outage coordination",
+      "All TSOs within a synchronous area may jointly agree to adopt and implement a time-frame for the year-ahead outage coordination that deviates from the time-frame defined in Articles 94, 97 and 99, provided that the outage coordination of other synchronous areas is not impacted."
+    ],
+    "Article 92": [
+      "4.   The availability status for each relevant asset in the year-ahead time-frame shall be provided with daily resolution.",
+      "4.   Theavailability statusfor eachrelevant assetin theyear-ahead time-frame shall be provided with daily resolution."
+    ],
+    "Article 93": [
+      "2.   Each TSO shall carry out the assessment concerning the indicative availability plans for internal relevant assets referred to in paragraph 1 every year until the start of the year-ahead outage coordination.",
+      "1.   By 2 years before the start of any year-ahead outage coordination, each TSO shall assess the corresponding indicative availability plans for internal relevant assets, provided by the outage planning agents in accordance with Articles 4, 7 and 15 of Regulation (EU) No 543/2013, and shall provide its preliminary comments including any detected outage planning incompatibilities, to all affected outage planning agents.",
+      "2.   Each TSO shall carry out the assessment concerning the indicativeavailability plans forinternal relevant assets referred to in paragraph 1 every year until the start of theyear-ahead outage coordination.",
+      "1.   By 2 years before the start of anyyear-aheadoutage coordination, each TSO shall assess the corresponding indicativeavailability plans forinternal relevant assets, provided by theoutage planning agents in accordance with Articles 4, 7 and 15 of Regulation (EU) No 543/2013, and shall provide its preliminary comments including any detected outage planning incompatibilities, to all affected outage planning agents."
+    ],
+    "Article 94": [
+      "2.   The TSO(s) referred to in paragraph 1 shall endeavour to examine the requests for amendment of an availability plan when received. Where this is not possible, it shall examine the requests for amendment of an availability plan after the year-ahead outage coordination has been finalised.",
+      "3.   The TSO(s) referred to in paragraph 1 shall examine the requests for amendment of anavailability planafter theyear-ahead outage coordination has been finalised:",
+      "Provision of year-ahead availability plan proposals",
+      "Provision ofyear-aheadavailability plan proposals",
+      "2.   The TSO(s) referred to in paragraph 1 shall endeavour to examine the requests for amendment of anavailability planwhen received. Where this is not possible, it shall examine the requests for amendment of an availability plan after theyear-ahead outage coordination has been finalised.",
+      "3.   The TSO(s) referred to in paragraph 1 shall examine the requests for amendment of an availability plan after the year-ahead outage coordination has been finalised:"
+    ],
+    "Article 95": [
+      "Year-ahead coordination of the availability status of relevant assets for which the outage planning agent is not a TSO taking part in an outage coordination region, nor a DSO or a CDSO",
+      "1.   Each TSO shall assess on ayear-aheadtime-frame whether outage planning incompatibilities arise from theavailability plans received pursuant to Article 94.",
+      "Year-aheadcoordination of theavailability statusofrelevant assets for which theoutage planning agentis not a TSO taking part in anoutage coordination region, nor a DSO or a CDSO",
+      "1.   Each TSO shall assess on a year-ahead time-frame whether outage planning incompatibilities arise from the availability plans received pursuant to Article 94."
+    ],
+    "Article 96": [
+      "Year-ahead coordination of the availability status of relevant assets for which the outage planning agent is a TSO taking part in an outage coordination region, a DSO or a CDSO",
+      "Year-aheadcoordination of theavailability statusofrelevant assets for which theoutage planning agentis a TSO taking part in anoutage coordination region, a DSO or a CDSO"
+    ],
+    "Article 97": [
+      "3.   Before 1 November of each calendar year, for every internal relevant asset located in a closed distribution system, the TSO shall provide the CDSO with the preliminary year-ahead availability plan.",
+      "3.   Before 1 November of each calendar year, for everyinternal relevant assetlocated in a closed distribution system, the TSO shall provide the CDSO with the preliminaryyear-aheadavailability plan.",
+      "Provision of preliminaryyear-aheadavailability plans",
+      "2.   Before 1 November of each calendar year, for eachinternal relevant assetlocated in a distribution system, the TSO shall provide the DSO with the preliminaryyear-aheadavailability plan.",
+      "Provision of preliminary year-ahead availability plans",
+      "1.   Before 1 November of each calendar year, each TSO shall provide to all other TSOs, via theENTSO for Electricity operational planning data environment, the preliminaryyear-aheadavailability plans for the following calendar year for all theinternal relevant assets.",
+      "2.   Before 1 November of each calendar year, for each internal relevant asset located in a distribution system, the TSO shall provide the DSO with the preliminary year-ahead availability plan.",
+      "1.   Before 1 November of each calendar year, each TSO shall provide to all other TSOs, via the ENTSO for Electricity operational planning data environment, the preliminary year-ahead availability plans for the following calendar year for all the internal relevant assets."
+    ],
+    "Article 98": [
+      "3.   If a TSO detects an outage planning incompatibility, the involved TSOs of the outage coordination region(s) concerned shall jointly identify a solution in coordination with the concerned outage planning agents, DSOs and CDSOs, using the means at their disposal, while respecting to the extent possible the availability plans submitted by outage planning agents, which are neither a TSO taking part in an outage coordination region, nor a DSO or a CDSO, and developed in accordance with Articles 95 and 96. Where a solution is identified, all TSOs of the concerned outage coordination region(s) shall update and validate the year-ahead availability plans for all relevant assets.",
+      "Validation of year-ahead availability plans within outage coordination regions",
+      "5.   All TSOs of the concerned outage coordination regions shall consequently update and validate the year-ahead availability plans for all relevant assets.",
+      "3.   If a TSO detects anoutage planning incompatibility, the involved TSOs of theoutage coordination region(s) concerned shall jointly identify a solution in coordination with the concernedoutage planning agents, DSOs and CDSOs, using the means at their disposal, while respecting to the extent possible theavailability plans submitted by outage planning agents, which are neither a TSO taking part in an outage coordination region, nor a DSO or a CDSO, and developed in accordance with Articles 95 and 96. Where a solution is identified, all TSOs of the concerned outage coordination region(s) shall update and validate theyear-aheadavailability plans for allrelevant assets.",
+      "2.   In the absence of outage planning incompatibilities, all TSOs of anoutage coordination regionshall jointly validate theyear-aheadavailability plans for allrelevant assets of that outage coordination region.",
+      "2.   In the absence of outage planning incompatibilities, all TSOs of an outage coordination region shall jointly validate the year-ahead availability plans for all relevant assets of that outage coordination region.",
+      "1.   Each TSO shall analyse whether any outage planning incompatibility arises when taking into account all the preliminary year-ahead availability plans.",
+      "Validation ofyear-aheadavailability plans withinoutage coordination regions",
+      "1.   Each TSO shall analyse whether anyoutage planning incompatibilityarises when taking into account all the preliminaryyear-aheadavailability plans.",
+      "5.   All TSOs of the concernedoutage coordination regions shall consequently update and validate theyear-aheadavailability plans for allrelevant assets."
+    ],
+    "Article 99": [
+      "2.   Before 1 December of each calendar year, the TSO shall provide to its outage planning agent the final year-ahead availability plan of each internal relevant asset.",
+      "finalise the year-ahead availability plans for internal relevant assets and store them on the ENTSO for Electricity operational planning data environment.",
+      "Final year-ahead availability plans",
+      "2.   Before 1 December of each calendar year, the TSO shall provide to itsoutage planning agentthe finalyear-aheadavailability planof eachinternal relevant asset.",
+      "finalise the year-ahead outage coordination of internal relevant assets; and",
+      "3.   Before 1 December of each calendar year, the TSO shall provide to the relevant DSO the finalyear-aheadavailability planfor eachinternal relevant asset located in a distribution system.",
+      "finalise theyear-aheadavailability plans forinternal relevant assets and store them on theENTSO for Electricity operational planning data environment.",
+      "3.   Before 1 December of each calendar year, the TSO shall provide to the relevant DSO the final year-ahead availability plan for each internal relevant asset located in a distribution system.",
+      "4.   Before 1 December of each calendar year, the TSO shall provide to the relevant CDSO the finalyear-aheadavailability planfor eachinternal relevant asset located in a closed distribution system.",
+      "Finalyear-aheadavailability plans",
+      "4.   Before 1 December of each calendar year, the TSO shall provide to the relevant CDSO the final year-ahead availability plan for each internal relevant asset located in a closed distribution system."
+    ],
+    "Article 100": [
+      "4.   When a TSO taking part in anoutage coordination regionintends to amend the finalyear-aheadavailability planof arelevant assetfor which it acts as theoutage planning agent, it shall initiate the following procedure:",
+      "1.   An outage planning agent shall be able to launch a procedure for the amendment of the final year-ahead availability plan in the time between the finalisation of the year-ahead outage coordination and its real-time execution.",
+      "where nooutage planning incompatibilityhas been detected or if no outage planning incompatibility remains, the recipient TSO shall validate the requested amendment, and the TSOs concerned shall consequently notify all affected parties and update the finalyear-aheadavailability planon theENTSO for Electricity operational planning data environment; and",
+      "Updates to the final year-ahead availability plans",
+      "the requesting TSO shall prepare a proposal for amendment to the year-ahead availability plan, including an assessment of whether it could lead to outage planning incompatibilities and shall submit its proposal to all other TSOs of its outage coordination region(s);",
+      "where no outage planning incompatibility has been detected or if no outage planning incompatibility remains, the recipient TSO shall validate the requested amendment, and the TSOs concerned shall consequently notify all affected parties and update the final year-ahead availability plan on the ENTSO for Electricity operational planning data environment; and",
+      "1.   Anoutage planning agentshall be able to launch a procedure for the amendment of the finalyear-aheadavailability plan in the time between the finalisation of the year-ahead outage coordination and its real-time execution.",
+      "where nooutage planning incompatibilityhas been detected or if a solution to an outage planning incompatibility is found, the concerned TSOs shall validate the requested amendment and consequently they shall notify all affected parties and update the finalyear-aheadavailability planon theENTSO for Electricity operational planning data environment;",
+      "Updates to the finalyear-aheadavailability plans",
+      "where no outage planning incompatibility has been detected or if a solution to an outage planning incompatibility is found, the concerned TSOs shall validate the requested amendment and consequently they shall notify all affected parties and update the final year-ahead availability plan on the ENTSO for Electricity operational planning data environment;",
+      "4.   When a TSO taking part in an outage coordination region intends to amend the final year-ahead availability plan of a relevant asset for which it acts as the outage planning agent, it shall initiate the following procedure:",
+      "the requesting TSO shall prepare a proposal for amendment to theyear-aheadavailability plan, including an assessment of whether it could lead to outage planning incompatibilities and shall submit its proposal to all other TSOs of itsoutage coordination region(s);",
+      "2.   Theoutage planning agentwhich is not a TSO taking part in anoutage coordination regionshall be able to submit to the relevant TSO(s) a request for amendment of the finalyear-aheadavailability planof therelevant assets under its responsibility.",
+      "2.   The outage planning agent which is not a TSO taking part in an outage coordination region shall be able to submit to the relevant TSO(s) a request for amendment of the final year-ahead availability plan of the relevant assets under its responsibility."
+    ],
+    "Article 115": [
+      "year-ahead common grid model per scenario defined in accordance with Article 67.",
+      "year-ahead individual grid model per TSO and per scenario determined in accordance with Article 66; and",
+      "4.   For theyear-aheadtime-frame, the following information shall be available on theENTSO for Electricity operational planning data environment:",
+      "4.   For the year-ahead time-frame, the following information shall be available on the ENTSO for Electricity operational planning data environment:"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 64": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 65": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        0
+      ]
+    },
+    "Article 66": {
+      "article_score": 6,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 67": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 68": {
+      "article_score": 5,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 72": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 73": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 77": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 83": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    "Article 84": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 91": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 92": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 93": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    "Article 94": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "Article 95": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "Article 96": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 97": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 98": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    "Article 99": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "Article 100": {
+      "article_score": 9,
+      "statement_scores": [
+        0,
+        2,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "Article 115": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        0,
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "term": "fossil fuel",
+  "celex_id": "32018R1999",
+  "original_definition": "'fossil fuel' means non-renewable carbon-based energy sources such as solid fuels, natural gas and oil.",
+  "generated_definition": "'fossil fuel' means a fuel derived from the fossilized remains of ancient plants and animals, including coal, oil, and natural gas.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018fossil fuel\u2019 means non-renewable carbon-based energy sources such as solid fuels, natural gas and oil."
+    ],
+    "Article 25": [
+      "national objectives to phase out energy subsidies, in particular for fossil fuels;"
+    ],
+    "Article 35": [
+      "Member States' progress towards phasing out energy subsidies, in particular for fossil fuels;"
+    ],
+    "Article 59": [
+      "Where applicable, national policies, timelines and measures planned to phase out energy subsidies, in particular for fossil fuels",
+      "Global energy trends, international fossil fuel prices, EU ETS carbon price",
+      "Description of energy subsidies, including for fossil fuels"
+    ],
+    "Not Article": [
+      "In view of the international commitments in the Paris Agreement, Member States should report on actions that they undertake to phase out energy subsidies, in particular for fossil fuels. When reporting, Member States may choose to base themselves on existing definitions for fossil fuel subsidies used internationally."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 25": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 35": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 59": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        2
+      ]
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "term": "user",
+  "celex_id": "32021Q0618(02)",
+  "original_definition": "'user' means any person or undertaking that buys nuclear materials or related services to use in its own or affiliated nuclear power plants or research reactors within the Community or to use in the fields listed in Annex 1 to the Treaty;",
+  "generated_definition": "'user' means an individual or entity that purchases, sells, exchanges, loans, or leases ores, source materials, or special fissile materials, or produces, processes, converts, or shapes such materials within the territory of the community.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018user\u2019 means any person or undertaking that buysnuclear materialsorrelated servicesto use in its own or affiliated nuclear power plants or research reactors within theCommunityor to use in the fields listed in Annex 1 to theTreaty;",
+      "a contract for the purchase, sale, loan or lease of ores and/or source materials where at least one party is auseror aproducerthat produces, processes, converts or shapes ores, source materials or special fissile materials within the territory of theCommunity; and",
+      "\u2018user\u2019 means any person or undertaking that buys nuclear materials or related services to use in its own or affiliated nuclear power plants or research reactors within the Community or to use in the fields listed in Annex 1 to the Treaty;",
+      "a contract for the purchase, sale, loan or lease of ores and/or source materials where at least one party is a user or a producer that produces, processes, converts or shapes ores, source materials or special fissile materials within the territory of the Community; and",
+      "a contract for the purchase, sale, exchange, loan or lease of special fissile materials where at least one party is a user, a producer or an intermediary;",
+      "\u2018proformae\u2019 refers to theAgency\u2019s end-of-year questionnaires collecting data directly fromusers;",
+      "a contract for the purchase, sale, exchange, loan or lease of special fissile materials where at least one party is auser, aproduceror anintermediary;",
+      "\u2018proformae\u2019 refers to the Agency\u2019s end-of-year questionnaires collecting data directly from users;"
+    ],
+    "Article\u00a04": [
+      "Submission of information by users",
+      "1.   When requested to do so by theAgency,users shall fill out and submit the proformae for a given year by 31 January of the following year.",
+      "1.   When requested to do so by the Agency, users shall fill out and submit the proformae for a given year by 31 January of the following year."
+    ],
+    "Article\u00a07": [
+      "When requested to do so by the Agency, users, producers and intermediaries shall communicate to the Agency any additional information it needs to be able to perform the tasks conferred upon it by the Treaty. The information shall be communicated to the Agency within 10 (ten) working days from the date on which the request is received (or, upon a justified request, a longer period of time as agreed by the Agency in writing).",
+      "When requested to do so by theAgency,users,producers and intermediaries shall communicate to the Agency any additional information it needs to be able to perform the tasks conferred upon it by theTreaty. The information shall be communicated to the Agency within 10 (ten) working days from the date on which the request is received (or, upon a justified request, a longer period of time as agreed by the Agency in writing)."
+    ],
+    "Article\u00a011": [
+      "country of origin of the nuclear materials to be supplied; if this is unknown when the supply contract is signed, the user shall communicate it to the Agency in writing as soon as possible;",
+      "country of origin of thenuclear materialsto be supplied; if this is unknown when thesupply contractis signed, theusershall communicate it to theAgency in writing as soon as possible;",
+      "1.   Users are authorised to invite tenders directly from producers, intermediaries or other users of their choice and to negotiate the supply contract freely.",
+      "7.   If theAgencyestablishes that the regular and equitable supply ofnuclear materialstoCommunityusers is endangered, it may decide to suspend the application of this simplified procedure and revert to the centralised procedure provided for in Article 12 of theRules.",
+      "1.Users are authorised to invite tenders directly fromproducers, intermediaries or other users of their choice and to negotiate thesupply contract freely.",
+      "7.   If the Agency establishes that the regular and equitable supply of nuclear materials to Community users is endangered, it may decide to suspend the application of this simplified procedure and revert to the centralised procedure provided for in Article 12 of the Rules."
+    ],
+    "Article\u00a012": [
+      "1.   This procedure applies if the Agency establishes that the regular supply of nuclear materials to users is endangered, including but not limited to situations where nuclear materials are not available to users within a reasonable period of time or are available only at excessively high prices.",
+      "1.   This procedure applies if theAgencyestablishes that the regular supply ofnuclear materialstousers is endangered, including but not limited to situations where nuclear materials are not available to users within a reasonable period of time or are available only at excessively high prices.",
+      "3.   In such situations, nuclear materials can only be supplied to and/or exchanged with non-Community customers after the requirements of Community users have been met.",
+      "3.   In such situations,nuclear materialscan only be supplied to and/or exchanged with non-Communitycustomers after the requirements of Communityusers have been met."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    "Article\u00a04": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0,
+        0
+      ]
+    },
+    "Article\u00a07": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article\u00a011": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Article\u00a012": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+}

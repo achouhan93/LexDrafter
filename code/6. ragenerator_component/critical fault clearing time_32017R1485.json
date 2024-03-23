@@ -1,0 +1,33 @@
+{
+  "term": "critical fault clearing time",
+  "celex_id": "32017R1485",
+  "original_definition": "'critical fault clearing time' means the maximum fault duration for which the transmission system retains stability of operation;",
+  "generated_definition": "'critical fault clearing time' means the time required to clear faults that may lead to wide area state transmission system instability, calculated by the tso in its dynamic stability assessment.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018critical fault clearing time\u2019 means the maximum fault duration for which the transmission system retains stability of operation;"
+    ],
+    "Article 39": [
+      "2.   Each TSO shall ensure that the fault clearing times for faults that may lead to wide area state transmission system instability are shorter than the critical fault clearing time calculated by the TSO in its dynamic stability assessment carried out in accordance with Article 38.",
+      "2.   Each TSO shall ensure that thefaultclearing times for faults that may lead towide area statetransmission system instability are shorter than thecritical fault clearing timecalculated by the TSO in itsdynamic stability assessment carried out in accordance with Article 38."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 39": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

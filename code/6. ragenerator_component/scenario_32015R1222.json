@@ -1,0 +1,124 @@
+{
+  "term": "scenario",
+  "celex_id": "32015R1222",
+  "original_definition": "'scenario' means the forecasted status of the power system for a given time-frame;",
+  "generated_definition": "'scenario' means a hypothetical or simulated situation or event used for planning, analysis, or prediction purposes, particularly in relation to the determination of the net position and flows in a bidding zone or direct current line.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018scenario\u2019 means the forecasted status of the power system for a given time-frame;"
+    ],
+    "Article 17": [
+      "a definition of scenarios in accordance with Article 18;"
+    ],
+    "Article 18": [
+      "2.   One scenario per market time unit shall be developed both for the day-ahead and the intraday capacity calculation time-frames.",
+      "1.   All TSOs shall jointly develop commonscenarios for each capacity calculation time-frame referred to in Article 14(1)(a) and (b). The common scenarios shall be used to describe a specific forecast situation for generation, load and grid topology for the transmission system in thecommon grid model.",
+      "3.   For eachscenario, all TSOs shall jointly draw up common rules for determining thenet position in each bidding zone and the flow for each direct current line. These common rules shall be based on the best forecast of the net position for each bidding zone and on the best forecast of the flows on each direct current line for each scenario and shall include the overall balance between load and generation for the transmission system in the Union. There shall be no undue discrimination between internal and cross-zonal exchanges when defining scenarios, in line with point 1.7 of Annex I to Regulation (EC) No 714/2009.",
+      "3.   For each scenario, all TSOs shall jointly draw up common rules for determining the net position in each bidding zone and the flow for each direct current line. These common rules shall be based on the best forecast of the net position for each bidding zone and on the best forecast of the flows on each direct current line for each scenario and shall include the overall balance between load and generation for the transmission system in the Union. There shall be no undue discrimination between internal and cross-zonal exchanges when defining scenarios, in line with point 1.7 of Annex I to Regulation (EC) No 714/2009.",
+      "2.   Onescenariopermarket time unit shall be developed both for the day-ahead and the intraday capacity calculation time-frames.",
+      "1.   All TSOs shall jointly develop common scenarios for each capacity calculation time-frame referred to in Article 14(1)(a) and (b). The common scenarios shall be used to describe a specific forecast situation for generation, load and grid topology for the transmission system in the common grid model.",
+      "Scenarios"
+    ],
+    "Article 19": [
+      "2.   Eachindividual grid modelshall represent the best possible forecast of transmission system conditions for eachscenario specified by the TSO(s) at the time when the individual grid model is created.",
+      "2.   Each individual grid model shall represent the best possible forecast of transmission system conditions for each scenario specified by the TSO(s) at the time when the individual grid model is created.",
+      "1.   For each bidding zone and for each scenario:"
+    ],
+    "Article 24": [
+      "1.   The proposal for a common capacity calculation methodology shall include a proposal for a methodology to determine a commongeneration shift keyfor each bidding zone andscenario developed in accordance with Article 18.",
+      "1.   The proposal for a common capacity calculation methodology shall include a proposal for a methodology to determine a common generation shift key for each bidding zone and scenario developed in accordance with Article 18."
+    ],
+    "Article 28": [
+      "3.   For each capacity calculation time-frame, each TSO shall establish theindividual grid modelfor eachscenarioin accordance with Article 19, inorderto merge individual grid models into acommon grid model.",
+      "5.   For each capacity calculation time-frame a single, Union-widecommon grid modelshall be created for eachscenario as set out in Article 18 by merging inputs from all TSOs applying the capacity calculation process as set out in paragraph 3 of this Article.",
+      "3.   For each capacity calculation time-frame, each TSO shall establish the individual grid model for each scenario in accordance with Article 19, in order to merge individual grid models into a common grid model.",
+      "5.   For each capacity calculation time-frame a single, Union-wide common grid model shall be created for each scenario as set out in Article 18 by merging inputs from all TSOs applying the capacity calculation process as set out in paragraph 3 of this Article."
+    ],
+    "Article 29": [
+      "calculate flows on critical network elements for eachscenario(taking into account contingencies), and adjust them by assuming no cross-zonal power exchanges within thecapacity calculation region, applying the rules for avoiding undue discrimination between internal and cross-zonal power exchanges established in accordance with Article 21(1)(b)(ii);",
+      "calculate flows on critical network elements for each scenario (taking into account contingencies), and adjust them by assuming no cross-zonal power exchanges within the capacity calculation region, applying the rules for avoiding undue discrimination between internal and cross-zonal power exchanges established in accordance with Article 21(1)(b)(ii);",
+      "2.   Eachcoordinated capacity calculatorshall perform an operational security analysis applyingoperational security limitsby using thecommon grid modelcreated for eachscenario in accordance with Article 28(5).",
+      "2.   Each coordinated capacity calculator shall perform an operational security analysis applying operational security limits by using the common grid model created for each scenario in accordance with Article 28(5)."
+    ],
+    "Article 33": [
+      "2.   A bidding zone review in accordance with Article 32 shall include scenarios which take into account a range of likely infrastructure developments throughout the period of 10 years starting from the year following the year in which the decision to launch the review was taken."
+    ],
+    "Article 34": [
+      "a scenario encompassing a ten year time-frame."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 17": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 18": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        2,
+        0,
+        0,
+        0
+      ]
+    },
+    "Article 19": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 24": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    },
+    "Article 28": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 29": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    "Article 33": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 34": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

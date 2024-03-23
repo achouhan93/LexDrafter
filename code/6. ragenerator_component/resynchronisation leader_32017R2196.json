@@ -1,0 +1,54 @@
+{
+  "term": "resynchronisation leader",
+  "celex_id": "32017R2196",
+  "original_definition": "'resynchronisation leader' means the TSO appointed and responsible for the resynchronisation of two synchronised regions;",
+  "generated_definition": "'resynchronisation leader' means a person or entity responsible for coordinating and overseeing the process of resynchronizing the electrical power system in a particular region, involving the consultation and collaboration of frequency leaders and tsos.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018resynchronisation leader\u2019 means the TSO appointed and responsible for the resynchronisation of two synchronised regions;",
+      "\u2018resynchronisation leader\u2019 means the TSO appointed and responsible for the resynchronisation of twosynchronised regions;"
+    ],
+    "Article 33": [
+      "3.   Where more than one TSO fulfils the criteria under paragraph 2, the TSO with the highest number of potentialresynchronisation points between the twosynchronised regions shall be appointed as theresynchronisation leader, unless thefrequency leaders of the two synchronised regions agree to appoint another TSO as resynchronisation leader.",
+      "3.   Where more than one TSO fulfils the criteria under paragraph 2, the TSO with the highest number of potential resynchronisation points between the two synchronised regions shall be appointed as the resynchronisation leader, unless the frequency leaders of the two synchronised regions agree to appoint another TSO as resynchronisation leader."
+    ],
+    "Article 34": [
+      "2.   When carrying out the tasks enumerated in paragraph 1, theresynchronisation leadershall consult thefrequency leaders of the involvedsynchronised regions and, for the tasks listed in points (b) to (e), it shall also consult the TSOs operating the substations used for resynchronisation.",
+      "1.   Prior to the resynchronisation, the resynchronisation leader shall:",
+      "2.   When carrying out the tasks enumerated in paragraph 1, the resynchronisation leader shall consult the frequency leaders of the involved synchronised regions and, for the tasks listed in points (b) to (e), it shall also consult the TSOs operating the substations used for resynchronisation.",
+      "4.   When all conditions established in accordance with point (a) of paragraph 1 are fulfilled, theresynchronisation leader shall execute the resynchronisation by activating the actions established in accordance with point (c) and (d) of paragraph 1.",
+      "4.   When all conditions established in accordance with point (a) of paragraph 1 are fulfilled, the resynchronisation leader shall execute the resynchronisation by activating the actions established in accordance with point (c) and (d) of paragraph 1.",
+      "1.   Prior to theresynchronisation, theresynchronisation leader shall:"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 33": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Article 34": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

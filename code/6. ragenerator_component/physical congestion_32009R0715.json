@@ -1,0 +1,46 @@
+{
+  "term": "physical congestion",
+  "celex_id": "32009R0715",
+  "original_definition": "'physical congestion' means a situation where the level of demand for actual deliveries exceeds the technical capacity at some point in time;",
+  "generated_definition": "'physical congestion' means congestion caused by the physical limitations of a transmission system, such as capacity constraints or bottlenecks.",
+  "existing_sentences": {
+    "Article\u00a016": [
+      "4.   In the event thatphysical congestionexists, non-discriminatory, transparentcapacity-allocation mechanisms shall be applied by thetransmission system operator or, as appropriate, by the regulatory authorities.",
+      "4.   In the event that physical congestion exists, non-discriminatory, transparent capacity-allocation mechanisms shall be applied by the transmission system operator or, as appropriate, by the regulatory authorities."
+    ],
+    "Article\u00a032": [
+      "all essential points within the network of a given transmission system operator including points connecting to gas hubs. All points are considered essential which, based on experience, are likely to experience physical congestion;",
+      "all essential points within the network of a giventransmissionsystem operator including points connecting to gas hubs. All points are considered essential which, based on experience, are likely to experiencephysical congestion;"
+    ],
+    "Not Article": [
+      "Althoughphysical congestionof networks is, at present, rarely a problem in the Community, it may become one in the future. It is important, therefore, to provide the basic principle for the allocation of congestedcapacity in such circumstances.",
+      "Although physical congestion of networks is, at present, rarely a problem in the Community, it may become one in the future. It is important, therefore, to provide the basic principle for the allocation of congested capacity in such circumstances."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a016": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article\u00a032": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "term": "load-frequency control structure",
+  "celex_id": "32017R1485",
+  "original_definition": "'load-frequency control structure' means the basic structure considering all relevant aspects of load-frequency control in particular concerning respective responsibilities and obligations as well as types and purposes of active power reserves;",
+  "generated_definition": "'load-frequency control structure' means a system of rules, protocols, and devices used to manage the relationship between electricity load and generation in a synchronous area, ensuring a stable and reliable power supply.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018load-frequency control structure\u2019 means the basic structure considering all relevant aspects of load-frequency control in particular concerning respective responsibilities and obligations as well as types and purposes of active power reserves;",
+      "\u2018load-frequency control structure\u2019 means the basic structure considering all relevant aspects of load-frequency control in particular concerning respective responsibilities and obligations as well as types and purposes ofactive power reserves;"
+    ],
+    "Article 139": [
+      "2.   The load-frequency control structure of each synchronous area shall include:"
+    ],
+    "Article 186": [
+      "Information on the load-frequency control structure"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 139": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 186": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

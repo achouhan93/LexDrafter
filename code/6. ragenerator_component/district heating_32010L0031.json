@@ -1,0 +1,46 @@
+{
+  "term": "district heating",
+  "celex_id": "32010L0031",
+  "original_definition": "'district heating' means the distribution of thermal energy in the form of steam, hot water or chilled liquids, from a central source of production through a network to multiple buildings or sites, for the use of space or process heating or cooling.",
+  "generated_definition": "'district heating' means a system for distributing heat from a central source to multiple buildings or areas through insulated pipes, typically using renewable energy sources such as biomass, geothermal, or waste heat.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018district heating\u2019 or \u2018district cooling\u2019 means the distribution of thermal energy in the form of steam, hot water or chilled liquids, from a central source of production through a network to multiple buildings or sites, for the use of space or process heating or cooling.",
+      "\u2018district heating\u2019 or \u2018district cooling\u2019 means the distribution of thermal energy in the form of steam, hot water or chilled liquids, from a central source of production through a network to multiplebuildings or sites, for the use of space or process heating or cooling."
+    ],
+    "Article 20": [
+      "3.   Member States shall ensure that guidance and training are made available for those responsible for implementing this Directive. Such guidance and training shall address the importance of improving energy performance, and shall enable consideration of the optimal combination of improvements in energy efficiency, use ofenergy from renewable sourcesand use ofdistrict heatingand cooling when planning, designing,building and renovating industrial or residential areas.",
+      "3.   Member States shall ensure that guidance and training are made available for those responsible for implementing this Directive. Such guidance and training shall address the importance of improving energy performance, and shall enable consideration of the optimal combination of improvements in energy efficiency, use of energy from renewable sources and use of district heating and cooling when planning, designing, building and renovating industrial or residential areas."
+    ],
+    "Not Article": [
+      "Since local and regional authorities are critical for the successful implementation of this Directive, they should be consulted and involved, as and when appropriate in accordance with applicable national legislation, on planning issues, the development of programmes to provide information, training and awareness-raising, and on the implementation of this Directive at national or regional level. Such consultations may also serve to promote the provision of adequate guidance to local planners andbuildinginspectors to carry out the necessary tasks. Furthermore, Member States should enable and encourage architects and planners to properly consider the optimal combination of improvements in energy efficiency, use ofenergy from renewable sourcesand use ofdistrict heating and cooling when planning, designing, building and renovating industrial or residential areas.",
+      "Since local and regional authorities are critical for the successful implementation of this Directive, they should be consulted and involved, as and when appropriate in accordance with applicable national legislation, on planning issues, the development of programmes to provide information, training and awareness-raising, and on the implementation of this Directive at national or regional level. Such consultations may also serve to promote the provision of adequate guidance to local planners and building inspectors to carry out the necessary tasks. Furthermore, Member States should enable and encourage architects and planners to properly consider the optimal combination of improvements in energy efficiency, use of energy from renewable sources and use of district heating and cooling when planning, designing, building and renovating industrial or residential areas."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 20": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

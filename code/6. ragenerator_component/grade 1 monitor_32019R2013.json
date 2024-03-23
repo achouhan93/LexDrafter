@@ -1,0 +1,22 @@
+{
+  "term": "grade 1 monitor",
+  "celex_id": "32019R2013",
+  "original_definition": "'grade 1 monitor' means a monitor for high-level technical quality evaluation of images at key points in a production or broadcast workflow, such as image capture, post- production, transmission and storage;",
+  "generated_definition": "'grade 1 monitor' means a monitor that is assigned to grade 1 students to assist them in their learning and academic progress.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018grade 1 monitor\u2019 means a monitor for high-level technical quality evaluation of images at key points in a production or broadcast workflow, such as image capture, post- production, transmission and storage;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

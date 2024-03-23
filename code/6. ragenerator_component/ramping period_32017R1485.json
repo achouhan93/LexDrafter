@@ -1,0 +1,70 @@
+{
+  "term": "ramping period",
+  "celex_id": "32017R1485",
+  "original_definition": "'ramping period' means a period of time defined by a fixed starting point and a length of time during which the input and/or output of active power will be increased or decreased;",
+  "generated_definition": "'ramping period' means a common period of time specified in the synchronous area operational agreement for aggregated netted schedules between lfc areas in the synchronous area to be used for control program calculation.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018ramping period\u2019 means a period of time defined by a fixed starting point and a length of time during which the input and/or output of active power will be increased or decreased;"
+    ],
+    "Article 118": [
+      "the calculation of the control program from the netted area AC position with a common ramping period for ACE calculation for a synchronous area with more than one LFC area in accordance with Article 136;",
+      "the calculation of thecontrol programfrom thenetted area AC positionwith a commonramping periodforACEcalculation for a synchronous area with more than oneLFC area in accordance with Article 136;"
+    ],
+    "Article 136": [
+      "All TSOs of each synchronous area with more than one LFC area shall specify in the synchronous area operational agreement a common ramping period of aggregated netted schedules between the LFC areas in the synchronous area. The calculation of the control program from the netted area AC position for ACE calculation shall be performed with the common ramping period.",
+      "Ramping period within the synchronous area",
+      "All TSOs of each synchronous area with more than oneLFC areashall specify in the synchronous area operational agreement a commonramping periodof aggregated nettedschedules between the LFC areas in the synchronous area. The calculation of thecontrol programfrom thenetted area AC positionforACE calculation shall be performed with the common ramping period."
+    ],
+    "Article 137": [
+      "obligations onramping periods and/or maximumramping rates for power generating modules and/or demand units;",
+      "obligations on ramping periods and/or maximum ramping rates for power generating modules and/or demand units;",
+      "3.   All connecting TSOs of an HVDC interconnector shall have the right to determine in theLFC block operational agreementcommon restrictions for the active power output of that HVDC interconnector to limit its influence on the fulfilment of theFRCEtarget parameter of the connected LFC blocks by agreeing onramping periods and/or maximumramping rates for this HVDC interconnector. Those common restrictions shall not apply for imbalance netting, frequency coupling as well as cross-border activation ofFRR and RR over HVDC interconnectors. All TSOs of a synchronous area shall coordinate these measures within the synchronous area.",
+      "3.   All connecting TSOs of an HVDC interconnector shall have the right to determine in the LFC block operational agreement common restrictions for the active power output of that HVDC interconnector to limit its influence on the fulfilment of the FRCE target parameter of the connected LFC blocks by agreeing on ramping periods and/or maximum ramping rates for this HVDC interconnector. Those common restrictions shall not apply for imbalance netting, frequency coupling as well as cross-border activation of FRR and RR over HVDC interconnectors. All TSOs of a synchronous area shall coordinate these measures within the synchronous area."
+    ],
+    "Article 185": [
+      "5.   All TSOs of each synchronous area shall notify the ramping period specified in accordance with Article 136 to ENTSO for Electricity for publication at least 3 months before their applicability."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 118": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 136": {
+      "article_score": 5,
+      "statement_scores": [
+        2,
+        1,
+        2
+      ]
+    },
+    "Article 137": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 185": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

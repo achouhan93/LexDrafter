@@ -1,0 +1,28 @@
+{
+  "term": "electric fixed local space heater",
+  "celex_id": "32015R1188",
+  "original_definition": "'electric fixed local space heater' means an electric local space heater not intended to accumulate thermal energy and designed to be used while fastened or secured in a specific location or wall mounted and not incorporated in the building structure or building finishing;",
+  "generated_definition": "'electric fixed local space heater' means an electric heating appliance designed to provide heat to a specific local area or space, typically installed in a fixed location and not intended for portability.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018electric portable local space heater\u2019 means anelectric local space heaterwhich is not anelectric fixed local space heater,electric storage local space heater,electric underfloor local space heater,electric radiant local space heater, electric visibly glowing local space heater orslave heater;",
+      "\u2018electric portable local space heater\u2019 means an electric local space heater which is not an electric fixed local space heater, electric storage local space heater, electric underfloor local space heater, electric radiant local space heater, electric visibly glowing local space heater or slave heater;",
+      "\u2018electric fixed local space heater\u2019 means anelectric local space heater not intended to accumulate thermal energy and designed to be used while fastened or secured in a specific location or wall mounted and not incorporated in the building structure or building finishing;",
+      "\u2018electric fixed local space heater\u2019 means an electric local space heater not intended to accumulate thermal energy and designed to be used while fastened or secured in a specific location or wall mounted and not incorporated in the building structure or building finishing;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1,
+        0,
+        0
+      ]
+    }
+  }
+}

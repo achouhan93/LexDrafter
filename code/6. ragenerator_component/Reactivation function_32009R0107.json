@@ -1,0 +1,22 @@
+{
+  "term": "Reactivation function",
+  "celex_id": "32009R0107",
+  "original_definition": "'Reactivation function' means a function enabling the activation of other modes, including active mode, by remote switch, including remote control, internal sensor, timer to a condition providing additional functions, including the main function.",
+  "generated_definition": "'Reactivation function' means a mechanism by which a previously inactive or dormant legal provision is restored to effect, typically through a specific process or event.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Reactivation function\u2019 means a function enabling the activation of other modes, including active mode, by remote switch, including remote control, internal sensor, timer to a condition providing additional functions, including the main function."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

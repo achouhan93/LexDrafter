@@ -1,0 +1,47 @@
+{
+  "term": "reactivation function",
+  "celex_id": "32008R1275",
+  "original_definition": "'reactivation function' means a function facilitating the activation of other modes, including active mode, by remote switch, including remote control, internal sensor, timer to a condition providing additional functions, including the main function;",
+  "generated_definition": "'reactivation function' means a function that allows the equipment to resume its original state after a temporary stop or hibernation, characterized by a low power consumption of no more than 1,00 w in any condition.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018reactivation function\u2019 means a function facilitating the activation of other modes, including active mode, by remote switch, including remote control, internal sensor, timer to a condition providing additional functions, including the main function;",
+      "\u2018reactivation function\u2019 means a function facilitating the activation of other modes, includingactive mode, by remote switch, including remote control, internal sensor, timer to a condition providing additional functions, including the main function;",
+      "reactivation function, or reactivation function and only an indication of enabled reactivation function, and/or"
+    ],
+    "Article 8": [
+      "The power consumption of equipment in any condition providing onlyinformation or status display, or providing only a combination ofreactivation function and information or status display shall not exceed 1,00 W.",
+      "The power consumption of equipment in any condition providing only information or status display, or providing only a combination of reactivation function and information or status display, shall not exceed 2,00 W.",
+      "The power consumption of equipment in any condition providing only a reactivation function, or providing only a reactivation function and a mere indication of enabled reactivation function, shall not exceed 1,00 W.",
+      "The power consumption of equipment in any condition providing onlyinformation or status display, or providing only a combination ofreactivation function and information or status display, shall not exceed 2,00 W.",
+      "The power consumption of equipment in any condition providing only information or status display, or providing only a combination of reactivation function and information or status display shall not exceed 1,00 W.",
+      "Standby \u2014 reactivation function: 0,1 W.",
+      "The power consumption of equipment in any condition providing only a reactivation function, or providing only a reactivation function and a mere indication of enabled reactivation function, shall not exceed 0,50 W."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 3,
+      "statement_scores": [
+        0,
+        0,
+        3
+      ]
+    },
+    "Article 8": {
+      "article_score": 11,
+      "statement_scores": [
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        3
+      ]
+    }
+  }
+}

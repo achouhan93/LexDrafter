@@ -1,0 +1,89 @@
+{
+  "term": "building envelope",
+  "celex_id": "32010L0031",
+  "original_definition": "'building envelope' means the integrated elements of a building which separate its interior from the outdoor environment;",
+  "generated_definition": "'building envelope' means the building elements that form part of the building envelope and have a significant impact on the energy performance of the building envelope when retrofitted or replaced.",
+  "existing_sentences": {
+    "Article 1": [
+      "building elements that form part of thebuilding envelope and that have a significant impact on the energy performance of the building envelope when they are retrofitted or replaced; and",
+      "building elements that form part of the building envelope and that have a significant impact on the energy performance of the building envelope when they are retrofitted or replaced; and"
+    ],
+    "Article 2": [
+      "the total cost of the renovation relating to thebuilding envelopeor thetechnical building systems is higher than 25 % of the value of the building, excluding the value of the land upon which the building is situated; or",
+      "\u2018building envelope\u2019 means the integrated elements of a building which separate its interior from the outdoor environment;",
+      "\u2018building element\u2019 means a technical building system or an element of the building envelope;",
+      "the total cost of the renovation relating to the building envelope or the technical building systems is higher than 25 % of the value of the building, excluding the value of the land upon which the building is situated; or",
+      "\u2018building element\u2019 means atechnical building systemor an element of thebuilding envelope;"
+    ],
+    "Article 4": [
+      "Member States shall take the necessary measures to ensure that minimum energy performance requirements are set forbuilding elements that form part of thebuilding envelopeand that have a significant impact on the energy performance of the building envelope when they are replaced or retrofitted, with a view to achievingcost-optimal levels.",
+      "Member States shall take the necessary measures to ensure that minimum energy performance requirements are set for building elements that form part of the building envelope and that have a significant impact on the energy performance of the building envelope when they are replaced or retrofitted, with a view to achieving cost-optimal levels."
+    ],
+    "Article 7": [
+      "Member States shall in addition take the necessary measures to ensure that when a building element that forms part of the building envelope and has a significant impact on the energy performance of the building envelope, is retrofitted or replaced, the energy performance of the building element meets minimum energy performance requirements in so far as this is technically, functionally and economically feasible.",
+      "Member States shall in addition take the necessary measures to ensure that when abuilding elementthat forms part of thebuilding envelope and has a significant impact on the energy performance of the building envelope, is retrofitted or replaced, the energy performance of the building element meets minimum energy performance requirements in so far as this is technically, functionally and economically feasible."
+    ],
+    "Article 11": [
+      "measures carried out in connection with amajor renovationof thebuilding envelopeortechnical building system(s); and",
+      "measures for individualbuilding elements independent of amajor renovationof thebuilding envelopeortechnical building system(s).",
+      "measures carried out in connection with a major renovation of the building envelope or technical building system(s); and",
+      "measures for individual building elements independent of a major renovation of the building envelope or technical building system(s)."
+    ],
+    "Not Article": [
+      "Major renovations of existing buildings, regardless of their size, provide an opportunity to take cost-effective measures to enhance energy performance. For reasons of cost-effectiveness, it should be possible to limit the minimum energy performance requirements to the renovated parts that are most relevant for the energy performance of the building. Member States should be able to choose to define a \u2018major renovation\u2019 either in terms of a percentage of the surface of the building envelope or in terms of the value of the building. If a Member State decides to define a major renovation in terms of the value of the building, values such as the actuarial value, or the current value based on the cost of reconstruction, excluding the value of the land upon which the building is situated, could be used.",
+      "Major renovations of existingbuildings, regardless of their size, provide an opportunity to take cost-effective measures to enhance energy performance. For reasons of cost-effectiveness, it should be possible to limit the minimum energy performance requirements to the renovated parts that are most relevant for the energy performance of the building. Member States should be able to choose to define a \u2018major renovation\u2019 either in terms of a percentage of the surface of thebuilding envelope or in terms of the value of the building. If a Member State decides to define a major renovation in terms of the value of the building, values such as the actuarial value, or the current value based on the cost of reconstruction, excluding the value of the land upon which the building is situated, could be used."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Article 2": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 4": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Article 7": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Article 11": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

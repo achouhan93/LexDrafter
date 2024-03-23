@@ -1,0 +1,24 @@
+{
+  "term": "internal commercial trade schedule",
+  "celex_id": "32017R1485",
+  "original_definition": "'internal commercial trade schedule' means a schedule representing the commercial exchange of electricity within a scheduling area between different market participants;",
+  "generated_definition": "'internal commercial trade schedule' means a schedule of commercial transactions between entities within the same country or region, regulating the terms and conditions of trade, including prices, quantities, delivery dates, and payment terms.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018internal commercial trade schedule\u2019 means a schedule representing the commercial exchange of electricity within a scheduling area between different market participants;",
+      "\u2018internal commercial trade schedule\u2019 means a schedule representing the commercial exchange of electricity within ascheduling area between different market participants;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

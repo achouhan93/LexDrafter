@@ -1,0 +1,98 @@
+{
+  "term": "exchange of balancing capacity",
+  "celex_id": "32017R2195",
+  "original_definition": "'exchange of balancing capacity' means the provision of balancing capacity to a TSO in a different scheduling area than the one in which the procured balancing service provider is connected;",
+  "generated_definition": "'exchange of balancing capacity' means the exchange of balancing energy or capacity between different tsos or between a tso and a dso, as part of the frequency restoration or replacement reserve mechanisms, based on the tso-bsp model.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018exchange of balancing capacity\u2019 means the provision of balancing capacity to a TSO in a different scheduling area than the one in which the procured balancing service provider is connected;",
+      "\u2018exchange ofbalancing services\u2019 means either or both exchange ofbalancing energyandexchange of balancing capacity;",
+      "\u2018exchange of balancing capacity\u2019 means the provision of balancing capacity to a TSO in a different scheduling area than the one in which the procuredbalancing service provider is connected;",
+      "\u2018exchange of balancing services\u2019 means either or both exchange of balancing energy and exchange of balancing capacity;"
+    ],
+    "Article 29": [
+      "balancing energy bids submitted by the requesting TSO not resulting from sharing of reserves or exchange of balancing capacity;",
+      "balancing energybids submitted by therequesting TSOnot resulting from sharing of reserves orexchange of balancing capacity;"
+    ],
+    "Article 35": [
+      "5.   TheTSO-BSP modelfor the exchange ofbalancing energyfrom frequency restoration reserves may be applied only where the TSO-BSP model is also applied for theexchange of balancing capacity for frequency restoration reserves.",
+      "6.   The TSO-BSP model for the exchange of balancing energy from replacement reserves may be applied where the TSO-BSP model is applied for the exchange of balancing capacity for replacement reserves or where one of the two involved TSOs does not operate the reserve replacement process as part of the load-frequency-control structure pursuant to Part IV of Regulation (EU) 2017/1485.",
+      "5.   The TSO-BSP model for the exchange of balancing energy from frequency restoration reserves may be applied only where the TSO-BSP model is also applied for the exchange of balancing capacity for frequency restoration reserves.",
+      "6.   TheTSO-BSP modelfor the exchange ofbalancing energyfrom replacement reserves may be applied where the TSO-BSP model is applied for theexchange of balancing capacity for replacement reserves or where one of the two involved TSOs does not operate the reserve replacement process as part of the load-frequency-control structure pursuant to Part IV of Regulation (EU) 2017/1485."
+    ],
+    "Article 38": [
+      "9.   When cross-zonal capacity allocated for theexchange of balancing capacityor sharing of reserves has not been used for the associated exchange ofbalancing energy, it shall be released for the exchange of balancing energy with shorter activation times or for operating theimbalance netting process.",
+      "9.   When cross-zonal capacity allocated for the exchange of balancing capacity or sharing of reserves has not been used for the associated exchange of balancing energy, it shall be released for the exchange of balancing energy with shorter activation times or for operating the imbalance netting process."
+    ],
+    "Article 40": [
+      "4.   Cross-zonal capacity allocated to bids for theexchange of balancing capacityor sharing of reserves via the co-optimised allocation process shall be used only for the exchange of balancing capacity or sharing of reserves and associated exchange ofbalancing energy.",
+      "4.   Cross-zonal capacity allocated to bids for the exchange of balancing capacity or sharing of reserves via the co-optimised allocation process shall be used only for the exchange of balancing capacity or sharing of reserves and associated exchange of balancing energy."
+    ],
+    "Article 41": [
+      "5.   Cross-zonal capacity allocated for the exchange of balancing capacity or sharing of reserves via the market-based allocation process shall be used only for the exchange of balancing capacity or sharing of reserves and associated exchange of balancing energy.",
+      "5.   Cross-zonal capacity allocated for theexchange of balancing capacityor sharing of reserves via the market-based allocation process shall be used only for the exchange of balancing capacity or sharing of reserves and associated exchange ofbalancing energy."
+    ],
+    "Article 43": [
+      "2.   Balancing service providers which use cross-zonal capacity for the exchange of balancing capacity on the basis of a TSO-BSP model pursuant to Article 35 shall nominate their physical transmission rights for the exchange of balancing capacity to the concerned TSOs. Such physical transmission rights shall provide the right to their holders to nominate the exchange of balancing energy to the concerned TSOs and shall therefore be excluded from the application of the UIOSI principle.",
+      "2.Balancing service providers which use cross-zonal capacity for theexchange of balancing capacityon the basis of aTSO-BSP modelpursuant to Article 35 shall nominate their physical transmission rights for the exchange of balancing capacity to the concerned TSOs. Such physical transmission rights shall provide the right to their holders to nominate the exchange ofbalancing energy to the concerned TSOs and shall therefore be excluded from the application of the UIOSI principle."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    "Article 29": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 35": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 38": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 40": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Article 41": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Article 43": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "term": "frequency restoration power interchange",
+  "celex_id": "32017R1485",
+  "original_definition": "'frequency restoration power interchange' means the power which is interchanged between LFC areas within the cross-border FRR activation process;",
+  "generated_definition": "'frequency restoration power interchange' means the adjustment of active power flows over hvdc interconnectors to restore synchronous area frequency in the event of a deviation, through the exchange of power between lfc areas of different or same synchronous areas.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018LFC block imbalances\u2019 means the sum of the FRCE, FRR activation and RR activation within the LFC block and the imbalance netting power interchange, the frequency restoration power interchange and the replacement power interchange of this LFC block with other LFC blocks;",
+      "\u2018LFC block imbalances\u2019 means the sum of theFRCE,FRRactivation and RR activation within the LFC block and theimbalance netting power interchange, thefrequency restoration power interchangeand thereplacement power interchange of this LFC block with other LFC blocks;"
+    ],
+    "Article 147": [
+      "5.   TSOs shall implement the frequency restoration power interchange between LFC areas of different synchronous areas by adjusting the active power flows over HVDC interconnectors.",
+      "4.   TSOs shall implement thefrequency restoration power interchangebetweenLFC areas of the same synchronous area through one of the following actions:",
+      "4.   TSOs shall implement the frequency restoration power interchange between LFC areas of the same synchronous area through one of the following actions:",
+      "7.   The cross-border FRR activation process shall include a fallback mechanism which shall ensure that the frequency restoration power interchange of each LFC area is zero or limited to a value for which operational security can be guaranteed.",
+      "5.   TSOs shall implement thefrequency restoration power interchangebetweenLFC areas of different synchronous areas by adjusting the active power flows over HVDC interconnectors."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 147": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

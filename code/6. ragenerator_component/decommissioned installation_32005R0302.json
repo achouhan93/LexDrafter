@@ -1,0 +1,22 @@
+{
+  "term": "decommissioned installation",
+  "celex_id": "32005R0302",
+  "original_definition": "'decommissioned installation' means an installation for which it has been verified that residual structures and equipment essential for its use have been removed or rendered inoperable so that it is not used to store and can no longer be used to handle, process or utilise source material or special fissile material;",
+  "generated_definition": "'decommissioned installation' means a facility or installation that has been retired from service and is no longer in operation, including those that have been dismantled, demolished, or abandoned.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018decommissioned installation\u2019 means an installation for which it has been verified that residual structures and equipment essential for its use have been removed or rendered inoperable so that it is not used to store and can no longer be used to handle, process or utilise source material or special fissile material;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

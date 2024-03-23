@@ -1,0 +1,69 @@
+{
+  "term": "minimum heat output",
+  "celex_id": "32015R1188",
+  "original_definition": "'minimum heat output' means the heat output of a local space heater comprising both direct heat output and indirect heat output (where applicable), when operating at the setting for the lowest heat output, as declared by the manufacturer, expressed in kW;",
+  "generated_definition": "'minimum heat output' means the minimum heat output of a local space heater, expressed as a percentage of the nominal heat output.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018minimum heat output\u2019 (Pmin\n) means the heat output of a local space heater comprising both direct heat output and indirect heat output (where applicable), when operating at the setting for the lowest heat output, as declared by the manufacturer, expressed in kW;",
+      "\u2018minimum heat output\u2019 (Pmin\n) means the heat output of alocal space heatercomprising bothdirect heat outputandindirect heat output (where applicable), when operating at the setting for the lowest heat output, as declared by the manufacturer, expressed in kW;"
+    ],
+    "Article 9": [
+      "\u03b7th,min\n is the useful efficiency at minimum heat output, expressed in %, based on GCV.",
+      "\u2018electric power requirement atminimum heat output\u2019 (elmin) means the electric power consumption of thelocal space heaterwhile providing the minimum heat output. The electric power consumption shall be established without consideration of the power consumption of a circulator in case the product offersindirect heating functionality and a circulator is incorporated, expressed in kW;",
+      "RFmin\n, is the radiant factor at minimum heat output, expressed in %.",
+      "\u2018electric power requirement at minimum heat output\u2019 (elmin) means the electric power consumption of the local space heater while providing the minimum heat output. The electric power consumption shall be established without consideration of the power consumption of a circulator in case the product offers indirect heating functionality and a circulator is incorporated, expressed in kW;",
+      "Minimum heat output",
+      "radiant factor at minimum heat output",
+      "elmin\n is the electric power consumption atminimum heat output, expressed in kW. In case the product does not offer a minimum heat output the value for the electric power consumption atnominal heat output shall be used;",
+      "\u2018useful efficiency, at either nominal or minimum heat output\u2019, (\u03b7th,nom or \u03b7th,min respectively) means the ratio of the useful heat output and the total energy input of a local space heater, expressed in %, whereby:",
+      "At minimum heat output",
+      "Useful efficiency of tube segment at minimum heat output (if applicable)",
+      "\u2018radiant factor, at either nominal or minimum heat output\u2019 (RFnom or RFmin respectively) means the ratio of the infrared heat output of the product compared to the total energy input when providing the nominal or minimum heat output, calculated as infrared energy output divided by total energy input on the basis of the net calorific value (NCV) of the fuel when providing the nominal or minimum heat output, expressed in %;",
+      "Useful efficiency at minimum heat output",
+      "Minimum heat output (indicative)",
+      "elmin\n is the electric power consumption at minimum heat output, expressed in kW. In case the product does not offer a minimum heat output the value for the electric power consumption at nominal heat output shall be used;",
+      "Useful efficiency at minimum heat output (indicative)",
+      "Minimum heat output (as percentage of nominal heat output)",
+      "RFmin,i\n, is the radiant factor per tube segment at minimum heat output, expressed in %;",
+      "\u2018useful efficiency, at either nominal orminimum heat output\u2019, (\u03b7th,nom or \u03b7th,min respectively) means the ratio of the useful heat output and the total energy input of alocal space heater, expressed in %, whereby:",
+      "Minimum heat output(as percentage ofnominal heat output)"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 25,
+      "statement_scores": [
+        1,
+        2,
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

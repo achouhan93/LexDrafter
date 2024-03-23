@@ -1,0 +1,359 @@
+{
+  "term": "balancing service provider",
+  "celex_id": "32017R2195",
+  "original_definition": "'balancing service provider' means a market participant with reserve-providing units or reserve-providing groups able to provide balancing services to TSOs;",
+  "generated_definition": "'balancing service provider' means a provider of balancing services to tsos, including the transfer of balancing capacity, provision of balancing energy, and exchange of balancing capacity.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018TSO-TSO model\u2019 means a model for the exchange ofbalancing serviceswhere thebalancing service providerprovides balancing services to itsconnecting TSO, which then provides these balancing services to therequesting TSO;",
+      "\u2018TSO energy bid submission gate closure time\u2019 means the latest point in time when aconnecting TSOcan forward thebalancing energybids received from abalancing service providerto theactivation optimisation function;",
+      "\u2018imbalance adjustment\u2019 means an energy volume representing thebalancing energyfrom abalancing service providerand applied by theconnecting TSOfor animbalance settlement period to the concerned balance responsible parties, used for the calculation of the imbalance of these balance responsible parties;",
+      "\u2018TSO-BSP model\u2019 means a model for the exchange of balancing services where the balancing service provider provides balancing services directly to the contracting TSO, which then provides these balancing services to the requesting TSO;",
+      "\u2018balancing energy\u2019 means energy used by TSOs to perform balancing and provided by a balancing service provider;",
+      "\u2018exchange of balancing capacity\u2019 means the provision of balancing capacity to a TSO in a different scheduling area than the one in which the procured balancing service provider is connected;",
+      "\u2018connecting TSO\u2019 means the TSO that operates the scheduling area in which balancing service providers and balance responsible parties shall be compliant with the terms and conditions related to balancing;",
+      "\u2018transfer of balancing capacity\u2019 means a transfer of balancing capacity from the initially contracted balancing service provider to another balancing service provider;",
+      "\u2018transfer ofbalancing capacity\u2019 means a transfer of balancing capacity from the initially contractedbalancing service provider to another balancing service provider;",
+      "\u2018validity period\u2019 means the period when the balancing energy bid offered by the balancing service provider can be activated, where all the characteristics of the product are respected. The validity period is defined by a start time and an end time;",
+      "\u2018imbalance adjustment\u2019 means an energy volume representing the balancing energy from a balancing service provider and applied by the connecting TSO for an imbalance settlement period to the concerned balance responsible parties, used for the calculation of the imbalance of these balance responsible parties;",
+      "\u2018contracting TSO\u2019 means the TSO that has contractual arrangements forbalancing serviceswith abalancing service provider in another scheduling area;",
+      "\u2018connecting TSO\u2019 means the TSO that operates the scheduling area in whichbalancing service providers and balance responsible parties shall be compliant with the terms and conditions related to balancing;",
+      "\u2018balancing capacity\u2019 means a volume of reserve capacity that abalancing service providerhas agreed to hold and in respect to which the balancing service provider has agreed to submit bids for a corresponding volume ofbalancing energy to the TSO for the duration of the contract;",
+      "\u2018exchange ofbalancing energy\u2019 means the activation of balancing energy bids for the delivery of balancing energy to a TSO in a different scheduling area than the one in which the activatedbalancing service provider is connected;",
+      "\u2018balancing service provider\u2019 means a market participant with reserve-providing units or reserve-providing groups able to providebalancing services to TSOs;",
+      "\u2018TSO-TSO model\u2019 means a model for the exchange of balancing services where the balancing service provider provides balancing services to its connecting TSO, which then provides these balancing services to the requesting TSO;",
+      "\u2018transfer ofbalancing capacity\u2019 means atransfer of balancing capacityfrom the initially contractedbalancing service provider to another balancing service provider;",
+      "\u2018contracting TSO\u2019 means the TSO that has contractual arrangements for balancing services with a balancing service provider in another scheduling area;",
+      "\u2018divisibility\u2019 means the possibility for a TSO to use only part of the balancing energy bids or balancing capacity bids offered by the balancing service provider, either in terms of power activation or time duration;",
+      "\u2018balancing energy\u2019 means energy used by TSOs to perform balancing and provided by abalancing service provider;",
+      "\u2018TSO energy bid submission gate closure time\u2019 means the latest point in time when a connecting TSO can forward the balancing energy bids received from a balancing service provider to the activation optimisation function;",
+      "\u2018validity period\u2019 means the period when thebalancing energybid offered by thebalancing service provider can be activated, where all the characteristics of the product are respected. The validity period is defined by a start time and an end time;",
+      "\u2018balancing capacity\u2019 means a volume of reserve capacity that a balancing service provider has agreed to hold and in respect to which the balancing service provider has agreed to submit bids for a corresponding volume of balancing energy to the TSO for the duration of the contract;",
+      "\u2018divisibility\u2019 means the possibility for a TSO to use only part of thebalancing energybids orbalancing capacitybids offered by thebalancing service provider, either in terms of power activation or time duration;",
+      "\u2018balancing service provider\u2019 means a market participant with reserve-providing units or reserve-providing groups able to provide balancing services to TSOs;",
+      "\u2018exchange of balancing energy\u2019 means the activation of balancing energy bids for the delivery of balancing energy to a TSO in a different scheduling area than the one in which the activated balancing service provider is connected;",
+      "\u2018exchange of balancing capacity\u2019 means the provision of balancing capacity to a TSO in a different scheduling area than the one in which the procuredbalancing service provider is connected;",
+      "\u2018TSO-BSP model\u2019 means a model for the exchange ofbalancing serviceswhere thebalancing service providerprovides balancing services directly to thecontracting TSO, which then provides these balancing services to therequesting TSO;"
+    ],
+    "Article 5": [
+      "the exemption, for the geographical area in which the procurement of balancing capacity has taken place, for not allowing balancing service providers to transfer their obligations to provide balancing capacity pursuant to Article 34(1);",
+      "the exemption, for the geographical area in which the procurement ofbalancing capacityhas taken place, for not allowingbalancing service providers to transfer their obligations to provide balancing capacity pursuant to Article 34(1);"
+    ],
+    "Article 14": [
+      "1.   Each TSO shall be responsible for procuringbalancing servicesfrombalancing service providers in order to ensure operational security.",
+      "1.   Each TSO shall be responsible for procuring balancing services from balancing service providers in order to ensure operational security."
+    ],
+    "Article 15": [
+      "1.   DSOs, TSOs,balancing service providers and balance responsible parties shall cooperate in order to ensure efficient and effective balancing.",
+      "1.   DSOs, TSOs, balancing service providers and balance responsible parties shall cooperate in order to ensure efficient and effective balancing."
+    ],
+    "Article 16": [
+      "5.   Any balancing service provider shall have the right to submit to its connecting TSO the balancing energy bids from standard products or specific products or integrated scheduling process bids for which it has passed the prequalification process pursuant to Article 159 and Article 162 of Regulation (EU) 2017/1485.",
+      "4.   Each balancing service provider with a contract for balancing capacity shall submit to its connecting TSO the balancing energy bids or integrated scheduling process bids corresponding to the volume, products, and other requirements set out in the balancing capacity contract.",
+      "1.   A balancing service provider shall qualify for providing bids for balancing energy or balancing capacity which are activated or procured by the connecting TSO or, in a TSO-BSP model, by the contracting TSO. Successful completion of the prequalification, ensured by the connecting TSO and processed pursuant to Article 159 and Article 162 of Regulation (EU) 2017/1485 shall be considered as a prerequisite for the successful completion of the qualification process to become a balancing service provider pursuant to this Regulation.",
+      "3.   Each balancing service provider participating in the procurement process for balancing capacity shall submit and have the right to update its balancing capacity bids before the gate closure time of the procurement process.",
+      "2.   Eachbalancing service providershall submit to theconnecting TSOitsbalancing capacity bids that affect one or more balance responsible parties.",
+      "1.   Abalancing service providershall qualify for providing bids forbalancing energyorbalancing capacitywhich are activated or procured by theconnecting TSOor, in aTSO-BSP model, by thecontracting TSO. Successful completion of the prequalification, ensured by the connecting TSO and processed pursuant to Article 159 and Article 162 of Regulation (EU) 2017/1485 shall be considered as a prerequisite for the successful completion of the qualification process to become a balancing service provider pursuant to this Regulation.",
+      "3.   Eachbalancing service providerparticipating in the procurement process forbalancing capacity shall submit and have the right to update its balancing capacity bids before the gate closure time of the procurement process.",
+      "4.   Eachbalancing service providerwith a contract forbalancing capacityshall submit to itsconnecting TSOthebalancing energybids orintegrated scheduling process bids corresponding to the volume, products, and other requirements set out in the balancing capacity contract.",
+      "2.   Each balancing service provider shall submit to the connecting TSO its balancing capacity bids that affect one or more balance responsible parties.",
+      "5.   Anybalancing service providershall have the right to submit to itsconnecting TSOthebalancing energybids fromstandard products orspecific products orintegrated scheduling process bids for which it has passed the prequalification process pursuant to Article 159 and Article 162 of Regulation (EU) 2017/1485."
+    ],
+    "Article 18": [
+      "where justified, a requirement forbalancing service providers to offer the unused generation capacity or other balancing resources throughbalancing energybids orintegrated scheduling processbids in thebalancing markets after day ahead market gate closure time, without prejudice to the possibility of balancing service providers to change their balancing energy bids prior to thebalancing energy gate closure timeor theintegrated scheduling process gate closure time due to trading within intraday market;",
+      "the rules for the determination of the volume ofbalancing energyto be settled with thebalancing service provider pursuant to Article 45;",
+      "require that eachbalancing energybid from abalancing service provideris assigned to one or more balance responsible parties to enable the calculation of animbalance adjustment pursuant to Article 49.",
+      "a maximum period for the finalisation of the settlement of balancing energy with a balancing service provider in accordance with Article 45, for any given imbalance settlement period;",
+      "the rules and conditions for the assignment of eachbalancing energybid from abalancing service provider to one or more balance responsible parties pursuant to paragraph 4 (d);",
+      "the rules and conditions for the assignment of each balancing energy bid from a balancing service provider to one or more balance responsible parties pursuant to paragraph 4 (d);",
+      "where justified, a requirement for balancing service providers to offer the unused generation capacity or other balancing resources through balancing energy bids or integrated scheduling process bids in the balancing markets after intraday cross-zonal gate closure time;",
+      "where justified, a requirement forbalancing service providers to offer the unused generation capacity or other balancing resources throughbalancing energybids orintegrated scheduling processbids in thebalancing markets after intraday cross-zonal gate closure time;",
+      "a maximum period for the finalisation of the settlement ofbalancing energywith abalancing service providerin accordance with Article 45, for any givenimbalance settlement period;",
+      "a requirement forbalancing service providers to provide information on unused generation capacity and other balancing resources from balancing service providers, after the day-ahead market gate closure time and after the intraday cross-zonal gate closure time;",
+      "where justified, a requirement for balancing service providers to offer the unused generation capacity or other balancing resources through balancing energy bids or integrated scheduling process bids in the balancing markets after day ahead market gate closure time, without prejudice to the possibility of balancing service providers to change their balancing energy bids prior to the balancing energy gate closure time or the integrated scheduling process gate closure time due to trading within intraday market;",
+      "the rules for the determination of the volume of balancing energy to be settled with the balancing service provider pursuant to Article 45;",
+      "a requirement for balancing service providers to provide information on unused generation capacity and other balancing resources from balancing service providers, after the day-ahead market gate closure time and after the intraday cross-zonal gate closure time;",
+      "require that each balancing energy bid from a balancing service provider is assigned to one or more balance responsible parties to enable the calculation of an imbalance adjustment pursuant to Article 49."
+    ],
+    "Article 24": [
+      "4.   After thebalancing energy gate closure time,balancing service providers shall report to theconnecting TSO any unavailable volumes of balancing energy bids without undue delay in accordance to 158(4)(b) and 161(4)(b) of Regulation (EU) 2017/1485. If the balancing service provider has a connection point to a DSO, and if required by the DSO, the balancing service provider shall also report any unavailable volumes of balancing energy bids to the DSO without undue delay.",
+      "3.   After thebalancing energy gate closure time, thebalancing service providers shall no longer be permitted to submit or update their balancing energy bids.",
+      "3.   After the balancing energy gate closure time, the balancing service providers shall no longer be permitted to submit or update their balancing energy bids.",
+      "6.   After eachintegrated scheduling process gate closure time, the integrated scheduling process bid may only be changed in accordance with the rules defined by theconnecting TSOin the terms and conditions forbalancing service providers set up pursuant to Article 18. Those rules shall be implemented before the connecting TSO joins any process for the exchange ofbalancing energy and shall allow balancing service providers to update their integrated scheduling bids to the extent possible until the intraday cross-zonal gate closure time, while ensuring:",
+      "6.   After each integrated scheduling process gate closure time, the integrated scheduling process bid may only be changed in accordance with the rules defined by the connecting TSO in the terms and conditions for balancing service providers set up pursuant to Article 18. Those rules shall be implemented before the connecting TSO joins any process for the exchange of balancing energy and shall allow balancing service providers to update their integrated scheduling bids to the extent possible until the intraday cross-zonal gate closure time, while ensuring:",
+      "4.   After the balancing energy gate closure time, balancing service providers shall report to the connecting TSO any unavailable volumes of balancing energy bids without undue delay in accordance to 158(4)(b) and 161(4)(b) of Regulation (EU) 2017/1485. If the balancing service provider has a connection point to a DSO, and if required by the DSO, the balancing service provider shall also report any unavailable volumes of balancing energy bids to the DSO without undue delay."
+    ],
+    "Article 25": [
+      "5.   The list of standard products for balancing energy and balancing capacity shall set out at least the following variable characteristics of a standard product to be determined by the balancing service providers during the prequalification or when submitting the standard product bid:",
+      "5.   The list ofstandard products forbalancing energyandbalancing capacityshall set out at least the following variable characteristics of a standard product to be determined by thebalancing service providers during the prequalification or when submitting the standard product bid:"
+    ],
+    "Article 29": [
+      "9.   Each connecting TSO shall submit, prior to the TSO energy bid submission gate closure time, all balancing energy bids received from balancing service providers to the activation optimisation function, taking into account the requirements in Articles 26 and 27. The connecting TSOs shall not modify or withhold balancing energy bids, except for:",
+      "6.   The request for activation of a balancing energy bid from the activation optimisation function shall oblige the requesting TSO and connecting TSO to accept the firm exchange of balancing energy. Each connecting TSO shall ensure the activation of the balancing energy bid selected by the activation optimisation function. The balancing energy shall be settled pursuant to Article 50 and between the connecting TSO and the balancing service provider pursuant to Chapter 2 of Title V.",
+      "6.   The request for activation of abalancing energybid from theactivation optimisation functionshall oblige therequesting TSOandconnecting TSOto accept the firmexchange of balancing energy. Each connecting TSO shall ensure the activation of the balancing energy bid selected by the activation optimisation function. The balancing energy shall be settled pursuant to Article 50 and between the connecting TSO and thebalancing service provider pursuant to Chapter 2 of Title V.",
+      "9.   Eachconnecting TSOshall submit, prior to theTSO energy bid submission gate closure time, allbalancing energybids received frombalancing service providers to theactivation optimisation function, taking into account the requirements in Articles 26 and 27. The connecting TSOs shall not modify or withhold balancing energy bids, except for:"
+    ],
+    "Article 31": [
+      "7.   Theactivation optimisation functionshall selectbalancing energybids and request the activation of selected balancing energy bids from theconnecting TSOs where thebalancing service provider, associated with the selected balancing energy bid, is connected.",
+      "8.   Theactivation optimisation functionshall submit the confirmation of the activatedbalancing energybids to the TSO requesting the activation of the balancing energy bids. The activatedbalancing service providers shall be responsible for delivering the requested volume until the end of thedelivery period.",
+      "8.   The activation optimisation function shall submit the confirmation of the activated balancing energy bids to the TSO requesting the activation of the balancing energy bids. The activated balancing service providers shall be responsible for delivering the requested volume until the end of the delivery period.",
+      "7.   The activation optimisation function shall select balancing energy bids and request the activation of selected balancing energy bids from the connecting TSOs where the balancing service provider, associated with the selected balancing energy bid, is connected.",
+      "11.   Except in the normal state, TSOs may decide to balance the system using only the balancing energy bids from balancing service providers in its own control area if such decision helps alleviate the severity of the current system state. The TSO shall publish a justification for such decision without undue delay.",
+      "11.   Except in the normal state, TSOs may decide to balance the system using only thebalancing energybids frombalancing service providers in its own control area if such decision helps alleviate the severity of the current system state. The TSO shall publish a justification for such decision without undue delay."
+    ],
+    "Article 32": [
+      "2.   Each TSO procuringbalancing capacityshall define the rules for the procurement of balancing capacity in the proposal for the terms and conditions related tobalancing service providers developed pursuant to Article 18. The rules for the procurement of balancing capacity shall comply with the following principles:",
+      "2.   Each TSO procuring balancing capacity shall define the rules for the procurement of balancing capacity in the proposal for the terms and conditions related to balancing service providers developed pursuant to Article 18. The rules for the procurement of balancing capacity shall comply with the following principles:"
+    ],
+    "Article 34": [
+      "1.   Within the geographical area in which the procurement of balancing capacity has taken place, the TSOs shall allow balancing service providers to transfer their obligations to provide balancing capacity. The concerned TSO or TSOs may request an exemption where contracting periods for balancing capacity pursuant to Article 32(2)(b) are strictly less than one week.",
+      "5.   If a TSO does not allow the transfer ofbalancing capacity, the concerned TSO shall explain the reason for the rejection to thebalancing service providers involved.",
+      "5.   If a TSO does not allow the transfer of balancing capacity, the concerned TSO shall explain the reason for the rejection to the balancing service providers involved.",
+      "the receivingbalancing service providerhas passed the qualification process for thebalancing capacity for which the transfer is performed;",
+      "1.   Within the geographical area in which the procurement ofbalancing capacityhas taken place, the TSOs shall allowbalancing service providers to transfer their obligations to provide balancing capacity. The concerned TSO or TSOs may request an exemption where contracting periods for balancing capacity pursuant to Article 32(2)(b) are strictly less than one week.",
+      "the receiving balancing service provider has passed the qualification process for the balancing capacity for which the transfer is performed;"
+    ],
+    "Article 35": [
+      "4.   Where the TSO-BSP model applies, the involved TSOs shall agree on the technical and contractual requirements and on information exchanges for the activation of balancing energy bids. The contracting TSO and the balancing service provider shall establish contractual arrangements based on the TSO-BSP model.",
+      "4.   Where theTSO-BSP modelapplies, the involved TSOs shall agree on the technical and contractual requirements and on information exchanges for the activation ofbalancing energybids. Thecontracting TSOand thebalancing service provider shall establish contractual arrangements based on the TSO-BSP model."
+    ],
+    "Article 43": [
+      "2.   Balancing service providers which use cross-zonal capacity for the exchange of balancing capacity on the basis of a TSO-BSP model pursuant to Article 35 shall nominate their physical transmission rights for the exchange of balancing capacity to the concerned TSOs. Such physical transmission rights shall provide the right to their holders to nominate the exchange of balancing energy to the concerned TSOs and shall therefore be excluded from the application of the UIOSI principle.",
+      "2.Balancing service providers which use cross-zonal capacity for theexchange of balancing capacityon the basis of aTSO-BSP modelpursuant to Article 35 shall nominate their physical transmission rights for the exchange of balancing capacity to the concerned TSOs. Such physical transmission rights shall provide the right to their holders to nominate the exchange ofbalancing energy to the concerned TSOs and shall therefore be excluded from the application of the UIOSI principle."
+    ],
+    "Article 44": [
+      "provide incentives tobalancing service providers to offer and deliverbalancing servicesto theconnecting TSO;",
+      "provide incentives to balancing service providers to offer and deliver balancing services to the connecting TSO;"
+    ],
+    "Article 45": [
+      "3.   Eachconnecting TSOshall settle all activated volumes ofbalancing energycalculated pursuant to paragraph 2, with the concernedbalancing service providers.",
+      "3.   Each connecting TSO shall settle all activated volumes of balancing energy calculated pursuant to paragraph 2, with the concerned balancing service providers."
+    ],
+    "Article 46": [
+      "1.   Eachconnecting TSOmay calculate and settle the activated volume ofbalancing energyfor the frequency containment process withbalancing service providers pursuant to paragraphs 1 and 2 of Article 45.",
+      "1.   Each connecting TSO may calculate and settle the activated volume of balancing energy for the frequency containment process with balancing service providers pursuant to paragraphs 1 and 2 of Article 45."
+    ],
+    "Article 47": [
+      "1.   Eachconnecting TSOshall calculate and settle the activated volume ofbalancing energyfor the frequency restoration process withbalancing service providers pursuant to paragraphs 1 and 2 of Article 45",
+      "1.   Each connecting TSO shall calculate and settle the activated volume of balancing energy for the frequency restoration process with balancing service providers pursuant to paragraphs 1 and 2 of Article 45"
+    ],
+    "Article 48": [
+      "1.   Eachconnecting TSOshall calculate and settle the activated volume ofbalancing energyfor the reserve replacement process withbalancing service providers pursuant to paragraphs 1 and 2 of Article 45.",
+      "1.   Each connecting TSO shall calculate and settle the activated volume of balancing energy for the reserve replacement process with balancing service providers pursuant to paragraphs 1 and 2 of Article 45."
+    ],
+    "Not Article": [
+      "Eachbalancing service providerintending to providebalancing energyorbalancing capacity should successfully pass a qualification process defined by the TSOs in close cooperation with DSOs where necessary.",
+      "Each balancing service provider intending to provide balancing energy or balancing capacity should successfully pass a qualification process defined by the TSOs in close cooperation with DSOs where necessary.",
+      "The rules defining the role ofbalancing service providers and the role of balance responsible parties ensure a fair, transparent and non-discriminatory approach. Moreover, the rules concerning the terms and conditions related to balancing set out the principles and roles by which the balancing activities governed by this Regulation will take place, and ensure adequate competition based on a level-playing field between market participants, including demand-response aggregators and assets located at the distribution level.",
+      "The rules defining the role of balancing service providers and the role of balance responsible parties ensure a fair, transparent and non-discriminatory approach. Moreover, the rules concerning the terms and conditions related to balancing set out the principles and roles by which the balancing activities governed by this Regulation will take place, and ensure adequate competition based on a level-playing field between market participants, including demand-response aggregators and assets located at the distribution level."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 32,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        0,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 5": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 14": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 15": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 16": {
+      "article_score": 12,
+      "statement_scores": [
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 18": {
+      "article_score": 18,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        2,
+        1
+      ]
+    },
+    "Article 24": {
+      "article_score": 12,
+      "statement_scores": [
+        3,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    },
+    "Article 25": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 29": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 31": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 32": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 34": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 35": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 43": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 44": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 45": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 46": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 47": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 48": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

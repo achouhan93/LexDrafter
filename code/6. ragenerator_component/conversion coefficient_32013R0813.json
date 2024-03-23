@@ -1,0 +1,42 @@
+{
+  "term": "conversion coefficient",
+  "celex_id": "32013R0813",
+  "original_definition": "'conversion coefficient' means a coefficient reflecting the estimated 40 % average EU generation efficiency referred to in Directive 2012/27/EU of the European Parliament and of the Council (7); the value of the conversion coefficient is CC = 2,5.",
+  "generated_definition": "'conversion coefficient' means a multiplier (2,5) used to calculate energy efficiency in points 3-5, multiplying consumption of electricity.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018conversion coefficient\u2019 (CC) means a coefficient reflecting the estimated 40 % average EU generation efficiency referred to in Directive 2012/27/EU of the European Parliament and of the Council (7); the value of the conversion coefficient is CC = 2,5."
+    ],
+    "Article 7": [
+      "the validity of the conversion coefficient value;"
+    ],
+    "Article 10": [
+      "For the purposes of the calculations set out in points 3 to 5, consumption of electricity shall be multiplied by a conversion coefficient CC of 2,5.",
+      "The seasonal space heating energy efficiency \u03b7s\n shall be calculated as the seasonal coefficient of performance SCOP divided by the conversion coefficient CC or the seasonal primary energy ratio SPER, corrected by contributions accounting for temperature controls and, for water-/brine-to-water heat pump space heaters and heat pump combination heaters, the electricity consumption of one or more ground water pumps."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 7": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 10": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

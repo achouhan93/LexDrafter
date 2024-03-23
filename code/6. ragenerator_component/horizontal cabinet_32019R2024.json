@@ -1,0 +1,43 @@
+{
+  "term": "horizontal cabinet",
+  "celex_id": "32019R2024",
+  "original_definition": "'horizontal cabinet' means a refrigerating appliance with a direct sales function with horizontal display, opening on its top, and accessible from above;",
+  "generated_definition": "'horizontal cabinet' means a refrigerating appliance with a direct sales function combining display and opening directions from a vertical and a horizontal cabinet.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018horizontal serve-over counter with integrated storage\u2019 means a horizontal cabinet for assisted service, which includes refrigerated storage which is of at least 100 litres (L) per meter (m) length and which is normally placed at the serve-over counter's base;",
+      "\u2018horizontal serve-over counter with integrated storage\u2019 means ahorizontal cabinet for assisted service, which includes refrigerated storage which is of at least 100 litres (L) per meter (m) length and which is normally placed at the serve-over counter's base;",
+      "\u2018horizontal cabinet\u2019 means a refrigerating appliance with a direct sales function with horizontal display, opening on its top, and accessible from above;",
+      "\u2018horizontal cabinet\u2019 means arefrigerating appliance with a direct sales function with horizontal display, opening on its top, and accessible from above;"
+    ],
+    "Article 9": [
+      "\u2018combined cabinet\u2019 means arefrigerating appliance with a direct sales functionwhich combines display and opening directions from a vertical and ahorizontal cabinet;",
+      "\u2018combined cabinet\u2019 means a refrigerating appliance with a direct sales function which combines display and opening directions from a vertical and a horizontal cabinet;",
+      "\u2018ice-cream freezer\u2019 means a horizontal cabinet intended to store and/or display and sell pre-packed ice cream, where access by the consumer to the pre-packed ice cream is achieved by opening a non-transparent or transparent lid from the top, with a net volume \u2264 600 litres (L) and, only in the case of transparent lid ice-cream freezers, a net volume divided by the total display area \u2265 0,35 meters (m);",
+      "\u2018ice-cream freezer\u2019 means ahorizontal cabinetintended to store and/or display and sell pre-packed ice cream, where access by the consumer to the pre-packed ice cream is achieved by opening a non-transparent or transparent lid from the top, with anet volume \u2264 600 litres (L) and, only in the case of transparent lid ice-cream freezers, a net volume divided by the total display area \u2265 0,35 meters (m);"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

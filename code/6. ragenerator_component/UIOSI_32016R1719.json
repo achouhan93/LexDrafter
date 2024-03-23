@@ -1,0 +1,51 @@
+{
+  "term": "UIOSI",
+  "celex_id": "32016R1719",
+  "original_definition": "'UIOSI' means the principle according to which the underlying cross-zonal capacity of physical transmission rights purchased and non-nominated is automatically made available for day-ahead capacity allocation and according to which the holder of these physical transmission rights receives remuneration from the TSOs.",
+  "generated_definition": "'UIOSI' means uniform interconnection offer and standardization",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018UIOSI\u2019 means the principle according to which the underlying cross-zonal capacity of physical transmission rights purchased and non-nominated is automatically made available for day-ahead capacity allocation and according to which the holder of these physical transmission rights receives remuneration from the TSOs."
+    ],
+    "Article 31": [
+      "1.   Long-term cross-zonal capacity shall be allocated to market participants by the allocation platform in the form of physical transmission rights pursuant to the UIOSI principle or in the form of FTRs \u2014 options or FTRs \u2014 obligations."
+    ],
+    "Article 52": [
+      "harmonised UIOSI provisions in case of physical transmission rights pursuant to Article 32;"
+    ],
+    "Not Article": [
+      "Those harmonised allocation rules should at least contain the description of the allocation process/procedure for long-term transmission rights, including the minimum requirements for participation, financial matters, type of products offered in explicit auctions, nomination rules, curtailment and compensation rules, rules for market participants in case they are transferring their long-term transmission rights, the use-it-or-sell-it (hereinafter \u2018UIOSI\u2019) principle, rules as regards force majeure and liability. Those harmonised allocation rules should also outline the contractual obligations to be respected by market participants.",
+      "Those harmonisedallocation rulesshould at least contain the description of the allocation process/procedure forlong-term transmission rights, including the minimum requirements for participation, financial matters, type of products offered in explicitauctions,nomination rules, curtailment andcompensation rules, rules for market participants in case they are transferring their long-term transmission rights, the use-it-or-sell-it (hereinafter \u2018UIOSI\u2019) principle, rules as regards force majeure and liability. Those harmonised allocation rules should also outline the contractual obligations to be respected by market participants."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 31": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 52": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

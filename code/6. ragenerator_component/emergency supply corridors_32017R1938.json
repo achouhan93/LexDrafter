@@ -1,0 +1,44 @@
+{
+  "term": "emergency supply corridors",
+  "celex_id": "32017R1938",
+  "original_definition": "'emergency supply corridors' means Union gas supply routes that help Member States to better mitigate the effects of potential disruption of supply or infrastructure;",
+  "generated_definition": "'emergency supply corridors' means routes or paths designated for the rapid transport of gas in case of an emergency or shortage, facilitating cooperation and coordination among member states to ensure the security of gas supply.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018emergency supply corridors\u2019 means Union gas supply routes that help Member States to better mitigate the effects of potential disruption of supply or infrastructure;"
+    ],
+    "Article 3": [
+      "7.   In accordance with Article 7(2), major transnational risks to thesecurityof gas supply in the Union are to be identified and risk groups are to be established on that basis. Those risk groups shall serve as the basis for enhanced regional cooperation to increase the security of gas supply and shall enable agreement on appropriate and effective cross-border measures of all Member States concerned within the risk groups or outside the risk groups along theemergency supply corridors.",
+      "7.   In accordance with Article 7(2), major transnational risks to the security of gas supply in the Union are to be identified and risk groups are to be established on that basis. Those risk groups shall serve as the basis for enhanced regional cooperation to increase the security of gas supply and shall enable agreement on appropriate and effective cross-border measures of all Member States concerned within the risk groups or outside the risk groups along the emergency supply corridors."
+    ],
+    "Not Article": [
+      "In a spirit of solidarity, regional cooperation, involving both public authorities and natural gas undertakings, should be the guiding principle of this Regulation, to mitigate the identified risks and optimise the benefits of coordinated measures and to implement the most cost-effective measures for Union consumers. Regional cooperation should gradually be complemented with a stronger Union perspective, allowing recourse to all available supplies and tools in the entire internal gas market. Union-level assessment of the emergency supply corridors should be incorporated into the regional cooperation.",
+      "In a spirit of solidarity, regional cooperation, involving both public authorities andnatural gas undertakings, should be the guiding principle of this Regulation, to mitigate the identified risks and optimise the benefits of coordinated measures and to implement the most cost-effective measures for Union consumers. Regional cooperation should gradually be complemented with a stronger Union perspective, allowing recourse to all available supplies and tools in the entire internal gas market. Union-level assessment of theemergency supply corridors should be incorporated into the regional cooperation."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 3": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

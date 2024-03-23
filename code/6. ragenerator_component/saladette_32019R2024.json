@@ -1,0 +1,44 @@
+{
+  "term": "saladette",
+  "celex_id": "32019R2024",
+  "original_definition": "'saladette' means a refrigerating appliance with a direct sales function with one or more doors or drawer fronts in the vertical plane that has cut-outs in the top surface into which temporary storage bins can be inserted for easy-access storage of foodstuffs such as pizza toppings or salad items;",
+  "generated_definition": "'saladette' means a small, green, leafy vegetable, typically used in salads.",
+  "existing_sentences": {
+    "Article 1": [
+      "saladettes;"
+    ],
+    "Article 2": [
+      "\u2018saladette\u2019 means arefrigerating appliance with a direct sales functionwith one or more doors or drawer fronts in the vertical plane that has cut-outs in the top surface into which temporary storage bins can be inserted for easy-access storage offoodstuffs such as pizza toppings or salad items;",
+      "\u2018saladette\u2019 means a refrigerating appliance with a direct sales function with one or more doors or drawer fronts in the vertical plane that has cut-outs in the top surface into which temporary storage bins can be inserted for easy-access storage of foodstuffs such as pizza toppings or salad items;"
+    ],
+    "Article 8": [
+      "the appropriateness to set energy efficiency requirements and additional information requirements for saladettes, horizontal serve-over counters with integrated storage working at chilled operating temperatures, corner cabinets, vending machines designed to work at a frozen operating temperature and serve-over fish counters with flaked ice;",
+      "the appropriateness to set energy efficiency requirements and additional information requirements forsaladettes, horizontal serve-over counters with integrated storage working atchilled operating temperatures,corner cabinets, vending machines designed to work at afrozen operating temperature and serve-over fish counters with flaked ice;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

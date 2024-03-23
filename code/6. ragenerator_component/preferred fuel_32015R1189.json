@@ -1,0 +1,65 @@
+{
+  "term": "preferred fuel",
+  "celex_id": "32015R1189",
+  "original_definition": "'preferred fuel' means the single solid fuel which is to be preferably used for the boiler according to the manufacturer's instructions;",
+  "generated_definition": "'preferred fuel' means other woody biomass, non-woody biomass, other fossil fuel or other blend of biomass and fossil fuel as referred to in table 1, with a sufficient description for unambiguous identification and technical standard or specification, including measured moisture content, ash content, and volatile content for fossil fuel (if applicable).",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018rated heat output\u2019 or \u2018Pr\u2019 means the declared heat output of asolid fuel boilerwhen providing heating of enclosed spaces with thepreferred fuel, expressed in kW;",
+      "\u2018non-woody biomass boiler\u2019 means a biomass boiler that uses non-woody biomass as thepreferred fueland for which woody biomass,fossil fuelor a blend of biomass and fossil fuel are not listed among itsother suitable fuels;",
+      "\u2018biomass boiler\u2019 means a solid fuel boiler that uses biomass as the preferred fuel;",
+      "\u2018other suitable fuel\u2019 means a solid fuel, other than the preferred fuel, which can be used in the solid fuel boiler according to the manufacturer's instructions and includes any fuel that is mentioned in the instruction manual for installers and end-users, on free access websites of manufacturers, in technical promotional material and in advertisements;",
+      "\u2018preferred fuel\u2019 means the singlesolid fuel which is to be preferably used for the boiler according to the manufacturer's instructions;",
+      "\u2018other suitable fuel\u2019 means asolid fuel, other than thepreferred fuel, which can be used in thesolid fuel boiler according to the manufacturer's instructions and includes any fuel that is mentioned in the instruction manual for installers and end-users, on free access websites of manufacturers, in technical promotional material and in advertisements;",
+      "\u2018preferred fuel\u2019 means the single solid fuel which is to be preferably used for the boiler according to the manufacturer's instructions;",
+      "\u2018rated heat output\u2019 or \u2018Pr\u2019 means the declared heat output of a solid fuel boiler when providing heating of enclosed spaces with the preferred fuel, expressed in kW;",
+      "\u2018non-woody biomass boiler\u2019 means a biomass boiler that uses non-woody biomass as the preferred fuel and for which woody biomass, fossil fuel or a blend of biomass and fossil fuel are not listed among its other suitable fuels;"
+    ],
+    "Article 9": [
+      "where the preferred fuel or any other suitable fuel is other woody biomass, non-woody biomass, other fossil fuel or other blend of biomass and fossil fuel as referred to in Table 1, a description of the fuel sufficient for its unambiguous identification and the technical standard or specification of the fuel, including the measured moisture content, and the measured ash content, and for other fossil fuel also the measured volatile content of the fuel;",
+      "(3)  For the preferred fuel Pn\n equals Pr",
+      "Solid fuel boilers shall be tested for the preferred fuel and any other suitable fuels indicated in Table 1 of Annex II, with the exception that boilers tested for chipped wood with a moisture content of more than 35 % meeting the applicable requirements are considered to also meet such requirements for chipped wood with a moisture content of 15-35 % and are not required to be tested for chipped wood with a moisture content of 15-35 %.",
+      "Solid fuel boilers shall be tested for thepreferred fueland anyother suitable fuels indicated in Table 1 of Annex II, with the exception that boilers tested for chipped wood with a moisture content of more than 35 % meeting the applicable requirements are considered to also meet such requirements for chipped wood with a moisture content of 15-35 % and are not required to be tested for chipped wood with a moisture content of 15-35 %.",
+      "(3)  For thepreferred fuelPn\n equalsPr",
+      "Characteristics when operating with the preferred fuel only:",
+      "\u2018fossil fuel boiler\u2019 means a solid fuel boiler that has fossil fuel or a blend of biomass and fossil fuel as preferred fuel;",
+      "where thepreferred fuelor anyother suitable fuelis otherwoody biomass,non-woody biomass, otherfossil fuel or other blend of biomass and fossil fuel as referred to in Table 1, a description of the fuel sufficient for its unambiguous identification and the technical standard or specification of the fuel, including the measured moisture content, and the measured ash content, and for other fossil fuel also the measured volatile content of the fuel;",
+      "These requirements shall be met for the preferred fuel and for any other suitable fuel for the solid fuel boiler.",
+      "instruction on the proper way to operate the solid fuel boiler and on the quality requirements for the preferred fuel and any other suitable fuels;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 7,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 9": {
+      "article_score": 10,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "term": "contingency list",
+  "celex_id": "32017R1485",
+  "original_definition": "'contingency list' means the list of contingencies to be simulated in order to test the compliance with the operational security limits;",
+  "generated_definition": "'contingency list' means a list of contingencies, including both ordinary and exceptional contingencies, that could endanger the operational security of a transmission system operator's (tso) control area, established by assessing the probability of occurrence and applying a methodology developed pursuant to article 75 of the eu regulation.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018alert state\u2019 means thesystem statein which the system is withinoperational securitylimits, but a contingency from thecontingency listhas been detected and in case of its occurrence the available remedial actions are not sufficient to keep thenormal state;",
+      "\u2018contingency list\u2019 means the list of contingencies to be simulated in order to test the compliance with theoperational security limits;",
+      "\u2018contingency analysis\u2019 means a computer based simulation of contingencies from the contingency list;",
+      "\u2018normal state\u2019 means a situation in which the system is withinoperational securitylimits in theN-situationand after the occurrence of any contingency from thecontingency list, taking into account the effect of the available remedial actions;",
+      "\u2018(N-1) situation\u2019 means the situation in the transmission system in which one contingency from the contingency list occurred;",
+      "\u2018contingency analysis\u2019 means a computer based simulation of contingencies from thecontingency list;",
+      "\u2018alert state\u2019 means the system state in which the system is within operational security limits, but a contingency from the contingency list has been detected and in case of its occurrence the available remedial actions are not sufficient to keep the normal state;",
+      "\u2018contingency list\u2019 means the list of contingencies to be simulated in order to test the compliance with the operational security limits;",
+      "\u2018normal state\u2019 means a situation in which the system is within operational security limits in the N-situation and after the occurrence of any contingency from the contingency list, taking into account the effect of the available remedial actions;"
+    ],
+    "Article 15": [
+      "number of events in which an incident contained in the contingency list led to a degradation of the system operation state;"
+    ],
+    "Article 18": [
+      "active andreactive power reserves are sufficient to withstand contingencies from thecontingency listdefined in accordance with Article 33 without violatingoperational security limits;",
+      "operation of the concerned TSO's control area is and will remain withinoperational securitylimits after the activation of remedial actions following the occurrence of a contingency from thecontingency list defined in accordance with Article 33.",
+      "at least one contingency from the contingency list defined in accordance with Article 33 leads to a violation of the TSO's operational security limits, even after the activation of remedial actions.",
+      "active and reactive power reserves are sufficient to withstand contingencies from the contingency list defined in accordance with Article 33 without violating operational security limits;",
+      "operation of the concerned TSO's control area is and will remain within operational security limits after the activation of remedial actions following the occurrence of a contingency from the contingency list defined in accordance with Article 33.",
+      "at least one contingency from thecontingency listdefined in accordance with Article 33 leads to a violation of the TSO'soperational security limits, even after the activation of remedial actions."
+    ],
+    "Article 32": [
+      "1.   Each TSO shall maintain power flows within the operational security limits defined when the system is in normal state and after the occurrence of a contingency from the contingency list referred to in Article 33(1).",
+      "1.   Each TSO shall maintain power flows within theoperational securitylimits defined when the system is innormal stateand after the occurrence of a contingency from thecontingency list referred to in Article 33(1)."
+    ],
+    "Article 33": [
+      "1.   Each TSO shall establish a contingency list, including the internal and external contingencies of its observability area, by assessing whether any of those contingencies endangers the operational security of the TSO's control area. The contingency list shall include both ordinary contingencies and exceptional contingencies identified by application of the methodology developed pursuant to Article 75.",
+      "2.   To establish a contingency list, each TSO shall classify each contingency on the basis of whether it is ordinary, exceptional or out-of-range, taking into account the probability of occurrence and the following principles:",
+      "when operational or weather conditions significantly increase the probability of anexceptional contingency, each TSO shall include that exceptional contingency in itscontingency list; and",
+      "in order to account for exceptional contingencies with high impact on its own or neighbouring transmission systems, each TSO shall include such exceptional contingencies in its contingency list.",
+      "6.   Each TSO shall inform, sufficiently in advance, the TSOs concerned in its observability area of any intended topological changes on its transmission system elements which are included as external contingencies in the contingency lists of the TSOs concerned.",
+      "5.   Each TSO shall inform the TSOs in itsobservability areaabout the external contingencies included in itscontingency list.",
+      "1.   Each TSO shall establish acontingency list, including the internal and external contingencies of itsobservability area, by assessing whether any of those contingencies endangers theoperational security of the TSO's control area. The contingency list shall include both ordinary contingencies and exceptional contingencies identified by application of the methodology developed pursuant to Article 75.",
+      "Contingency lists",
+      "4.   Each TSO shall coordinate its contingency analysis in terms of coherent contingency lists at least with the TSOs from its observability area, in accordance with the Article 75.",
+      "6.   Each TSO shall inform, sufficiently in advance, the TSOs concerned in itsobservability areaof any intended topological changes on itstransmission system elements which are included as external contingencies in thecontingency lists of the TSOs concerned.",
+      "when operational or weather conditions significantly increase the probability of an exceptional contingency, each TSO shall include that exceptional contingency in its contingency list; and",
+      "5.   Each TSO shall inform the TSOs in its observability area about the external contingencies included in its contingency list.",
+      "4.   Each TSO shall coordinate itscontingency analysisin terms of coherentcontingency lists at least with the TSOs from itsobservability area, in accordance with the Article 75."
+    ],
+    "Article 35": [
+      "1.   Each TSO shall assess the risks associated with the contingencies after simulating each contingency from itscontingency listand after assessing whether it can maintain its transmission system within theoperational security limits in the (N-1) situation.",
+      "1.   Each TSO shall assess the risks associated with the contingencies after simulating each contingency from its contingency list and after assessing whether it can maintain its transmission system within the operational security limits in the (N-1) situation."
+    ],
+    "Article 38": [
+      "if the transmission system is in theN-situationwith respect to thecontingency listandstability limitsare reached before steady-state limits, the TSO shall perform adynamic stability assessment in all phases of operational planning and re-assess the stability limits as soon as possible after a significant change in the N-situation is detected.",
+      "if, under planned outage conditions, with respect to the contingency list, steady-state limits and stability limits are close to each other or stability limits are reached before steady-state limits, the TSO shall perform a dynamic stability assessment in the day-ahead operational planning phase while those conditions remain. The TSO shall plan remedial actions to be used in real-time operation if necessary; and",
+      "if the transmission system is in the N-situation with respect to the contingency list and stability limits are reached before steady-state limits, the TSO shall perform a dynamic stability assessment in all phases of operational planning and re-assess the stability limits as soon as possible after a significant change in the N-situation is detected.",
+      "if, with respect to the contingency list, steady-state limits are reached before stability limits, the TSO shall base the dynamic stability assessment only on the offline stability studies carried out in the longer term operational planning phase;"
+    ],
+    "Article 41": [
+      "2.   To coordinate the protection of their transmission systems, neighbouring TSOs shall exchange the protection setpoints of the lines for which the contingencies are included as external contingencies in their contingency lists.",
+      "2.   To coordinate the protection of their transmission systems,neighbouring TSOsshall exchange the protection setpoints of the lines for which the contingencies are included as external contingencies in theircontingency lists."
+    ],
+    "Article 72": [
+      "3.   To perform operational security analyses, each TSO shall, in the N-Situation, simulate each contingency from its contingency list established in accordance with Article 33 and verify that, in the (N-1)-situation, the operational security limits defined in accordance with Article 25 are not exceeded in its control area.",
+      "3.   To performoperational securityanalyses, each TSO shall, in the N-Situation, simulate each contingency from itscontingency list established in accordance with Article 33 and verify that, in the (N-1)-situation, the operational security limits defined in accordance with Article 25 are not exceeded in its control area."
+    ],
+    "Article 75": [
+      "the choice of the contingency influence thresholds shall minimize the risk that the occurrence of a contingency identified in another TSO's control area and not in the TSO's external contingency list could lead to a TSO's system behaviour deemed not acceptable for any element of its internal contingency list, such as an emergency state;",
+      "the choice of thecontingency influence thresholds shall minimize the risk that the occurrence of a contingency identified in another TSO's control area and not in the TSO'sexternal contingencycontingency listcould lead to a TSO's system behaviour deemed not acceptable for any element of itsinternal contingencylist, such as anemergency state;",
+      "the consideration of exceptional contingencies in a TSO's contingency list when their probability exceeds a common threshold.",
+      "4.   The methods referred to in point (a) of paragraph 1 shall allow the identification of all elements of a TSO'sexternal contingencycontingency list with the following characteristics:",
+      "4.   The methods referred to in point (a) of paragraph 1 shall allow the identification of all elements of a TSO's external contingency list with the following characteristics:"
+    ],
+    "Article 78": [
+      "perform the coordinated regional operational security assessment in accordance with Article 76 on the basis of the common grid models established in accordance with Article 79, the contingency list and the operational security limits provided by each TSOs in paragraph 1. It shall deliver the results of the coordinated regional operational security assessment at least to all TSOs of the capacity calculation region. Where it detects a constraint, it shall recommend to the relevant TSOs the most effective and economically efficient remedial actions and may also recommend remedial actions other than those provided by the TSOs. This recommendation for remedial actions shall be accompanied by explanations as to its rationale;",
+      "perform the coordinated regionaloperational securityassessment in accordance with Article 76 on the basis of the common grid models established in accordance with Article 79, thecontingency listand the operational security limits provided by each TSOs in paragraph 1. It shall deliver the results of the coordinated regional operational security assessment at least to all TSOs of the capacity calculation region. Where it detects aconstraint, it shall recommend to the relevant TSOs the most effective and economically efficient remedial actions and may also recommend remedial actions other than those provided by the TSOs. This recommendation for remedial actions shall be accompanied by explanations as to its rationale;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 7,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1
+      ]
+    },
+    "Article 15": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 18": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 32": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 33": {
+      "article_score": 15,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 35": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 38": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 41": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 72": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 75": {
+      "article_score": 6,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 78": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

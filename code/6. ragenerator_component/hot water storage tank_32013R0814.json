@@ -1,0 +1,193 @@
+{
+  "term": "hot water storage tank",
+  "celex_id": "32013R0814",
+  "original_definition": "'hot water storage tank' means a vessel for storing hot water for water and/or space heating purposes, including any additives, which is not equipped with any heat generator except possibly one or more back-up immersion heaters;",
+  "generated_definition": "'hot water storage tank' means a tank storing heat energy produced by one or more solar collectors.",
+  "existing_sentences": {
+    "Article 1": [
+      "1.   This Regulation establishes ecodesign requirements for the placing on the market and/or putting into service ofwater heaters with arated heat output\u2264 400 kW andhot water storage tanks with astorage volume \u2264 2 000 litres, including those integrated in packages of water heater and solar device as defined in Article 2 of Delegated Regulation (EU) No 812/2013.",
+      "1.   This Regulation establishes ecodesign requirements for the placing on the market and/or putting into service of water heaters with a rated heat output \u2264 400 kW and hot water storage tanks with a storage volume \u2264 2 000 litres, including those integrated in packages of water heater and solar device as defined in Article 2 of Delegated Regulation (EU) No 812/2013."
+    ],
+    "Article 2": [
+      "\u2018back-up immersion heater\u2019 means a Joule effect electric resistance heater that is part of ahot water storage tank and generates heat only when the external heat source is disrupted (including during maintenance periods) or out of order, or that is part of a solar hot water storage tank and provides heat when the solar heat source is not sufficient to satisfy required comfort levels;",
+      "\u2018standing loss\u2019 (S) means the heating power dissipated from ahot water storage tank at given water and ambient temperatures, expressed in W;",
+      "\u2018hot water storage tank\u2019 means a vessel for storing hot water for water and/or space heating purposes, including any additives, which is not equipped with any heat generator except possibly one or more back-up immersion heaters;",
+      "\u2018storage volume\u2019 (V) means the rated volume of a hot water storage tank or a storage water heater, expressed in litres;",
+      "\u2018hot water storage tank\u2019 means a vessel for storing hot water for water and/or space heating purposes, including any additives, which is not equipped with anyheat generatorexcept possibly one or moreback-up immersion heaters;",
+      "\u2018solar water heater\u2019 means a water heater equipped with one or more solar collectors, solar hot water storage tanks, heat generators and possibly pumps in the collector loop and other parts; a solar water heater is placed on the market as one unit;",
+      "\u2018storage volume\u2019 (V) means the rated volume of ahot water storage tankor a storagewater heater, expressed in litres;",
+      "\u2018solar water heater\u2019 means a water heater equipped with one or more solar collectors, solarhot water storage tanks,heat generators and possibly pumps in the collector loop and other parts; a solar water heater is placed on the market as one unit;",
+      "\u2018back-up immersion heater\u2019 means a Joule effect electric resistance heater that is part of a hot water storage tank and generates heat only when the external heat source is disrupted (including during maintenance periods) or out of order, or that is part of a solar hot water storage tank and provides heat when the solar heat source is not sufficient to satisfy required comfort levels;",
+      "\u2018standing loss\u2019 (S) means the heating power dissipated from a hot water storage tank at given water and ambient temperatures, expressed in W;",
+      "\u2018standard rating conditions\u2019 means the operating conditions of water heaters for establishing the rated heat output, water heating energy efficiency, sound power level and nitrogen oxide emissions, and of hot water storage tanks for establishing the standing loss;",
+      "\u2018standard rating conditions\u2019 means the operating conditions ofwater heaters for establishing therated heat output,water heating energy efficiency,sound power leveland nitrogen oxide emissions, and ofhot water storage tanks for establishing thestanding loss;"
+    ],
+    "Article 3": [
+      "1.   The ecodesign requirements for water heaters and hot water storage tanks are set out in Annex II.",
+      "1.   The ecodesign requirements forwater heaters andhot water storage tanks are set out in Annex II.",
+      "hot water storage tanks shall meet the requirements set out in Annex II, point 2.1;",
+      "hot water storage tanks shall meet the requirements set out in Annex II, point 2.2;"
+    ],
+    "Article 6": [
+      "The indicative benchmarks for best-performingwater heaters andhot water storage tanks available on the market at the time of entry into force of this Regulation are set out in Annex VI.",
+      "The indicative benchmarks for best-performing water heaters and hot water storage tanks available on the market at the time of entry into force of this Regulation are set out in Annex VI."
+    ],
+    "Article 7": [
+      "1.   The Commission shall review this Regulation in the light of technological progress with water heaters and hot water storage tanks and present the result of that review to the Ecodesign Consultation Forum no later than five years from the date of entry into force of this Regulation. In particular, the review shall include an assessment of the following aspects:",
+      "1.   The Commission shall review this Regulation in the light of technological progress withwater heaters andhot water storage tanks and present the result of that review to the Ecodesign Consultation Forum no later than five years from the date of entry into force of this Regulation. In particular, the review shall include an assessment of the following aspects:"
+    ],
+    "Article 8": [
+      "3.   Until 26 September 2017 Member States may allow the placing on the market and/or putting into service of hot water storage tanks, which are in conformity with the national provisions in force upon adoption of this Regulation regarding standing losses.",
+      "3.   Until 26 September 2017 Member States may allow the placing on the market and/or putting into service ofhot water storage tanks, which are in conformity with the national provisions in force upon adoption of this Regulation regardingstanding losses."
+    ],
+    "Article 9": [
+      "For the purposes of checking conformity with the requirements laid down in Annex II, Member State authorities shall test a singlewater heaterorhot water storage tank. The values declared by the manufacturer shall meet the requirements set out in Annex II. If the measured parameters do not meet the values declared by the manufacturer, in accordance with Article 4(2), within the ranges set out in Table 7, the measurement shall be carried out on three additional water heaters or hot water storage tanks. The arithmetic mean of the measured values of these three water heaters or hot water storage tanks shall meet the requirements laid down in Annex II within the ranges set out in Table 7.",
+      "any specific precautions that shall be taken when the hot water storage tank is assembled, installed or maintained;",
+      "From 26 September 2017 the standing loss S of hot water storage tanks with storage volume V, expressed in litres, shall not exceed the following limit:",
+      "The solar collector, solar hot water storage tank, pump in the collector loop (if applicable) and heat generator shall be tested separately. Where the solar collector and solar hot water storage tank cannot be tested separately, they shall be tested in combination. The heat generator shall be tested under the conditions set out in point 2 of this Annex.",
+      "The following parameters shall be established for hot water storage tanks:",
+      "Otherwise, the model and all other equivalentwater heatermodels orhot water storage tanks models shall be considered not to comply. The Member States authorities shall provide the test results and other relevant information to the authorities of the other Member States and to the Commission within one month of the decision being taken on the non-compliance of the model.",
+      "\u2018storage water heater\u2019 means a water heater equipped with hot water storage tank(s), heat generator(s) and possibly other parts, which are contained in a single housing;",
+      "At the time of entry into force of this Regulation, the best available technology on the market forwater heaters andhot water storage tanks in terms ofwater heating energy efficiency,sound power level,standing loss and emissions of nitrogen oxides was identified as follows:",
+      "\u2018solar hot water storage tank\u2019 means a hot water storage tank storing heat energy produced by one or more solar collectors;",
+      "For the purposes of checking conformity with the requirements laid down in Annex II, Member State authorities shall test a single water heater or hot water storage tank. The values declared by the manufacturer shall meet the requirements set out in Annex II. If the measured parameters do not meet the values declared by the manufacturer, in accordance with Article 4(2), within the ranges set out in Table 7, the measurement shall be carried out on three additional water heaters or hot water storage tanks. The arithmetic mean of the measured values of these three water heaters or hot water storage tanks shall meet the requirements laid down in Annex II within the ranges set out in Table 7.",
+      "From 26 September 2017 thestanding lossS ofhot water storage tanks withstorage volume V, expressed in litres, shall not exceed the following limit:",
+      "\u2018storagewater heater\u2019 means a water heater equipped withhot water storage tank(s),heat generator(s) and possibly other parts, which are contained in a single housing;",
+      "Otherwise, the model and all other equivalent water heater models or hot water storage tanks models shall be considered not to comply. The Member States authorities shall provide the test results and other relevant information to the authorities of the other Member States and to the Commission within one month of the decision being taken on the non-compliance of the model.",
+      "2.2.   Requirements for product information related to hot water storage tanks",
+      "The solar collector, solarhot water storage tank, pump in the collector loop (if applicable) andheat generator shall be tested separately. Where the solar collector and solar hot water storage tank cannot be tested separately, they shall be tested in combination. The heat generator shall be tested under the conditions set out in point 2 of this Annex.",
+      "At the time of entry into force of this Regulation, the best available technology on the market for water heaters and hot water storage tanks in terms of water heating energy efficiency, sound power level, standing loss and emissions of nitrogen oxides was identified as follows:"
+    ],
+    "Not Article": [
+      "The energy consumption ofwater heaters andhot water storage tanks can be reduced by applying existing cost-effective non-proprietary technologies which lead to a reduction in the combined costs of purchasing and operating these products.",
+      "The combined effect of the ecodesign requirements set out in this Regulation and the Commission Delegated Regulation (EU) No 812/2013 of 18 February 2013 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to energy labelling of water heaters, hot water storage tanks and packages of water heater and solar device (3) is expected to result by 2020 in estimated annual energy savings of about 450 PJ (11 Mtoe), corresponding to around 26 Mt CO2 emissions, and a reduction in annual nitrogen oxides emissions of some 130 kt SOx equivalent, compared to what would happen if no measures were taken.",
+      "Annual energy consumption related towater heaters andhot water storage tanks was estimated to have been 2 156 PJ (51 Mtoe) in the Union in 2005, corresponding to 124 Mt CO2 emissions. Unless specific measures are taken, annual energy consumption is expected to be 2 243 PJ in 2020. Annual emissions of nitrogen oxides related to water heaters and hot water storage tanks were estimated to have been 559 kt SOx equivalent in the Union in 2005. Unless specific measures are taken, annual emissions are expected to be 603 kt SOx equivalent in 2020. The preparatory study shows that the use-phase energy consumption and the nitrogen oxides emissions of water heaters can be significantly reduced.",
+      "Ecodesign requirements should harmonise energy consumption, sound power level and nitrogen oxides emission requirements for water heaters, and requirements for standing losses of hot water storage tanks throughout the Union, thus helping to make the internal market operate better and to improve the environmental performance of these products.",
+      "To further limit the environmental impact ofwater heaters andhot water storage tanks, manufacturers should provide information on disassembly, recycling and/or disposal.",
+      "In addition to the legally binding requirements laid down in this Regulation, indicative benchmarks for best available technologies should be identified to ensure that information on the life-cycle environmental performance ofwater heaters andhot water storage tanks is widely available and easily accessible.",
+      "The combined effect of the ecodesign requirements set out in this Regulation and the Commission Delegated Regulation (EU) No 812/2013 of 18 February 2013 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to energy labelling ofwater heaters,hot water storage tanks and packages of water heater and solar device (3) is expected to result by 2020 in estimated annual energy savings of about 450 PJ (11 Mtoe), corresponding to around 26 Mt CO2 emissions, and a reduction in annual nitrogen oxides emissions of some 130 kt SOx equivalent, compared to what would happen if no measures were taken.",
+      "The preparatory study shows that requirements regarding the other ecodesign parameters referred to in Annex I, Part 1 to Directive 2009/125/EC are not necessary in the case of water heaters and hot water storage tanks. In particular, greenhouse gas emissions related to refrigerants used in heat pump water heaters for heating today\u2019s European building stock are not identified as significant. The appropriateness of setting ecodesign requirements for these greenhouse gas emissions will be reassessed when reviewing this Regulation.",
+      "implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for water heaters and hot water storage tanks",
+      "In addition to the legally binding requirements laid down in this Regulation, indicative benchmarks for best available technologies should be identified to ensure that information on the life-cycle environmental performance of water heaters and hot water storage tanks is widely available and easily accessible.",
+      "The Commission has carried out a preparatory study on the technical, environmental and economic aspects of water heaters and hot water storage tanks typically used in the domestic and commercial sector. The study was devised together with stakeholders and interested parties from the Union and third countries, and the results have been made publicly available.",
+      "The energy consumption of water heaters and hot water storage tanks can be reduced by applying existing cost-effective non-proprietary technologies which lead to a reduction in the combined costs of purchasing and operating these products.",
+      "The preparatory study shows that requirements regarding the other ecodesign parameters referred to in Annex I, Part 1 to Directive 2009/125/EC are not necessary in the case ofwater heaters andhot water storage tanks. In particular, greenhouse gas emissions related to refrigerants used inheat pump water heaters for heating today\u2019s European building stock are not identified as significant. The appropriateness of setting ecodesign requirements for these greenhouse gas emissions will be reassessed when reviewing this Regulation.",
+      "The ecodesign requirements should not affect the functionality or affordability of water heaters or hot water storage tanks from the end-user\u2019s perspective and should not negatively affect health, safety or the environment.",
+      "The environmental aspects ofwater heaters that have been identified as significant for the purposes of this Regulation are energy consumption in the use phase and (forheat pump water heaters)sound power levels. In addition, for water heaters usingfossil fuels, emissions of nitrogen oxides, carbon monoxide and hydrocarbons are also identified as significant environmental aspects. The significant environmental aspect ofhot water storage tanks is energy consumption due to theirstanding losses.",
+      "The ecodesign requirements should not affect the functionality or affordability ofwater heaters orhot water storage tanks from the end-user\u2019s perspective and should not negatively affect health, safety or the environment.",
+      "Ecodesign requirements should harmonise energy consumption,sound power leveland nitrogen oxides emission requirements forwater heaters, and requirements forstanding losses ofhot water storage tanks throughout the Union, thus helping to make the internal market operate better and to improve the environmental performance of these products.",
+      "The environmental aspects of water heaters that have been identified as significant for the purposes of this Regulation are energy consumption in the use phase and (for heat pump water heaters) sound power levels. In addition, for water heaters using fossil fuels, emissions of nitrogen oxides, carbon monoxide and hydrocarbons are also identified as significant environmental aspects. The significant environmental aspect of hot water storage tanks is energy consumption due to their standing losses.",
+      "Annual energy consumption related to water heaters and hot water storage tanks was estimated to have been 2 156 PJ (51 Mtoe) in the Union in 2005, corresponding to 124 Mt CO2 emissions. Unless specific measures are taken, annual energy consumption is expected to be 2 243 PJ in 2020. Annual emissions of nitrogen oxides related to water heaters and hot water storage tanks were estimated to have been 559 kt SOx equivalent in the Union in 2005. Unless specific measures are taken, annual emissions are expected to be 603 kt SOx equivalent in 2020. The preparatory study shows that the use-phase energy consumption and the nitrogen oxides emissions of water heaters can be significantly reduced.",
+      "To further limit the environmental impact of water heaters and hot water storage tanks, manufacturers should provide information on disassembly, recycling and/or disposal.",
+      "implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements forwater heaters andhot water storage tanks",
+      "The Commission has carried out a preparatory study on the technical, environmental and economic aspects ofwater heaters andhot water storage tanks typically used in the domestic and commercial sector. The study was devised together with stakeholders and interested parties from the Union and third countries, and the results have been made publicly available."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 12,
+      "statement_scores": [
+        2,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 3": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 6": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 7": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 8": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 9": {
+      "article_score": 23,
+      "statement_scores": [
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 24,
+      "statement_scores": [
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

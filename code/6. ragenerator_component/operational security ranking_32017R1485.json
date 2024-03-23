@@ -1,0 +1,24 @@
+{
+  "term": "operational security ranking",
+  "celex_id": "32017R1485",
+  "original_definition": "'operational security ranking' means the ranking used by TSOs to monitor the operational security on the basis of the operational security indicators;",
+  "generated_definition": "'operational security ranking' means a measure of the level of security applied to an organization's operations, based on factors such as risk assessment, security controls, and compliance with regulatory requirements.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018operational security ranking\u2019 means the ranking used by TSOs to monitor the operational security on the basis of theoperational security indicators;",
+      "\u2018operational security ranking\u2019 means the ranking used by TSOs to monitor the operational security on the basis of the operational security indicators;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

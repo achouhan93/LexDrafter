@@ -1,0 +1,24 @@
+{
+  "term": "unfrozen compartment",
+  "celex_id": "32019R2019",
+  "original_definition": "'unfrozen compartment' means a compartment type with a target temperature equal to or above 4 \u00b0C; that is a pantry, wine storage, cellar or fresh food compartment with storage conditions and target temperatures, as set out in Annex III, Table 3;",
+  "generated_definition": "'unfrozen compartment' means compartment for storing food that is not frozen.",
+  "existing_sentences": {
+    "Article 10": [
+      "Each compartment shall be marked with the appropriate identification symbol. For the frozen compartments this shall be the number of stars of the compartment. For the chill and unfrozen compartments, this shall be an indication, chosen by the manufacturer, the importer or authorised representative, of the type of food that should be stored in the compartment.",
+      "Eachcompartmentshall be marked with the appropriate identification symbol. For thefrozen compartments this shall be the number of stars of the compartment. For the chill andunfrozen compartments, this shall be an indication, chosen by the manufacturer, the importer or authorised representative, of the type of food that should be stored in the compartment."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 10": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

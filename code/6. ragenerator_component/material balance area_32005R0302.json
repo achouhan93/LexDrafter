@@ -1,0 +1,256 @@
+{
+  "term": "material balance area",
+  "celex_id": "32005R0302",
+  "original_definition": "'material balance area' means an area such that, for the purpose of establishing the material balance:the quantity of nuclear material in each transfer into or out of each material balance area can be determined;the physical inventory of nuclear material in each material balance area can be determined when necessary in accordance with specified procedures;",
+  "generated_definition": "'material balance area' means a location within a nuclear installation where nuclear material is measured, identified, and inventoried as part of the material balance method of accounting for nuclear material.",
+  "existing_sentences": {
+    "Article 2": [
+      "the quantity of nuclear material in each transfer into or out of eachmaterial balance area can be determined;",
+      "\u2018shipper/receiver difference\u2019 means the difference between the quantity of nuclear material in abatchas measured at the receivingmaterial balance area and the quantity as stated by the shipping material balance area;",
+      "thephysical inventoryof nuclear material in eachmaterial balance area can be determined when necessary in accordance with specified procedures;",
+      "\u2018physical inventory\u2019 means the sum of all the measuredbatchquantities or derived estimates of batch quantities of nuclear material on hand at a given time within amaterial balance area, obtained in accordance with specified procedures;",
+      "\u2018physical inventory\u2019 means the sum of all the measured batch quantities or derived estimates of batch quantities of nuclear material on hand at a given time within a material balance area, obtained in accordance with specified procedures;",
+      "the quantity of nuclear material in each transfer into or out of each material balance area can be determined;",
+      "\u2018retained waste\u2019 means waste, generated from processing or from an operational accident, measured or estimated on the basis of measurements, which has been transferred to a specific location within the material balance area from which it can be retrieved;",
+      "the physical inventory of nuclear material in each material balance area can be determined when necessary in accordance with specified procedures;",
+      "\u2018book inventory\u2019 of a material balance area means the algebraic sum of the most recent physical inventory of that material balance area, and of all inventory changes that have occurred since that physical inventory was taken;",
+      "\u2018retained waste\u2019 means waste, generated from processing or from an operational accident, measured or estimated on the basis of measurements, which has been transferred to a specific location within thematerial balance area from which it can be retrieved;",
+      "\u2018book inventory\u2019 of amaterial balance areameans the algebraic sum of the most recentphysical inventory of that material balance area, and of all inventory changes that have occurred since that physical inventory was taken;",
+      "\u2018key measurement point\u2019 means a location where nuclear material appears in such a form that it may be measured to determine material flow or inventory, including but not limited to, the places where nuclear material enters, leaves or is stored in, material balance areas;",
+      "\u2018shipper/receiver difference\u2019 means the difference between the quantity of nuclear material in a batch as measured at the receiving material balance area and the quantity as stated by the shipping material balance area;",
+      "\u2018key measurement point\u2019 means a location where nuclear material appears in such a form that it may be measured to determine material flow or inventory, including but not limited to, the places where nuclear material enters, leaves or is stored in,material balance areas;",
+      "\u2018material balance area\u2019 means an area such that, for the purpose of establishing the material balance:"
+    ],
+    "Article 6": [
+      "the procedures for keeping records ofnuclear materialsfor eachmaterial balance area and for drawing up reports;",
+      "the procedures for keeping records of nuclear materials for each material balance area and for drawing up reports;",
+      "the material balance areas and the selection of key measurement points for determining the flow and stocks of nuclear materials;",
+      "thematerial balance areas and the selection ofkey measurement points for determining the flow and stocks ofnuclear materials;"
+    ],
+    "Article 8": [
+      "For eachmaterial balance area, the operating records shall include, where appropriate:",
+      "For each material balance area, the operating records shall include, where appropriate:"
+    ],
+    "Article 9": [
+      "The accounting records relating to any inventory change andphysical inventoryshall show the material identification,batch dataandsource datafor each batch. These records shall account separately for uranium, thorium and plutonium, in accordance with thecategorieslisted in Article 18(2)(b). In addition, for each inventory change, the date of the change and, when appropriate, the dispatchingmaterial balance area or the shipper and the receiving material balance area or the recipient shall be indicated.",
+      "In respect of eachmaterial balance area the accounting records shall show the following:",
+      "In respect of each material balance area the accounting records shall show the following:",
+      "The accounting records relating to any inventory change and physical inventory shall show the material identification, batch data and source data for each batch. These records shall account separately for uranium, thorium and plutonium, in accordance with the categories listed in Article 18(2)(b). In addition, for each inventory change, the date of the change and, when appropriate, the dispatching material balance area or the shipper and the receiving material balance area or the recipient shall be indicated."
+    ],
+    "Article 12": [
+      "1.   For each material balance area, the persons or undertakings referred to in the first subparagraph of Article 3(1) shall transmit to the Commission inventory change reports in respect of all nuclear materials using the format set out in Annex III.",
+      "1.   For eachmaterial balance area, the persons or undertakings referred to in the first subparagraph of Article 3(1) shall transmit to the Commission inventory change reports in respect of allnuclear materials using the format set out in Annex III."
+    ],
+    "Article 13": [
+      "For each material balance area, the persons or undertakings referred to in the first subparagraph of Article 3(1) shall transmit to the Commission:",
+      "For eachmaterial balance area, the persons or undertakings referred to in the first subparagraph of Article 3(1) shall transmit to the Commission:"
+    ],
+    "Article 16": [
+      "In respect of reactors, calculated data on nuclear transformations shall be reported in the inventory change report at the latest when irradiated fuel is transferred from the reactormaterial balance area. In addition, other procedures for recording and reporting nuclear transformations may be specified in the particular safeguard provisions referred to in Article 6.",
+      "In respect of reactors, calculated data on nuclear transformations shall be reported in the inventory change report at the latest when irradiated fuel is transferred from the reactor material balance area. In addition, other procedures for recording and reporting nuclear transformations may be specified in the particular safeguard provisions referred to in Article 6."
+    ],
+    "Article 19": [
+      "The derogation shall be granted only for a whole material balance area in which nuclear material is not processed or stored together with nuclear material for which no derogation can be granted.",
+      "The derogation shall be granted only for a wholematerial balance area in which nuclear material is not processed or stored together with nuclear material for which no derogation can be granted.",
+      "2.   The Commission may grant a derogation for amaterial balance area holding:",
+      "2.   The Commission may grant a derogation for a material balance area holding:"
+    ],
+    "Article 40": [
+      "Expected or actual date of arrival in the reportingmaterial balance area.",
+      "The quantity of nuclear material involved is to be subtracted from the inventory of thematerial balance area.",
+      "Unique identifier for the reprocessing campaign. Use only for inventory changes in the processmaterial balance area(s) of spent fuel reprocessinginstallations.",
+      "Material balance area code:",
+      "Indicate the location within thematerial balance area where the material will be unpacked and can be identified, and where its quantity and composition can be verified.",
+      "Transfer of nuclear material to a material balance area within the European Union.",
+      "Indicate the location within the material balance area where the material will be unpacked and can be identified, and where its quantity and composition can be verified.",
+      "Use only for inventory change codes RD and RF. For inventory change code RD, the code of the shipping material balance area is reported. If this code is unknown, the code \u2018F\u2019, \u2018Q\u2019 or \u2018W\u2019 (for the shipping MBA in France, the United Kingdom or a non-nuclear-weapon State) is reported and the shipper\u2019s full name and address must be entered in the comment field (40). For inventory change code RF, the country code of the exporting state, or the MBA code of the exporting installation if known, is reported, and the shipper\u2019s full name and addressmust be entered in the comment field (40).",
+      "Nuclear material contained inwastethat is measured or estimated on the basis of measurements, and which has been conditioned in such a way (e.g. in glass, cement, concrete or bitumen) that it is not suitable for further nuclear use. The quantity of nuclear material involved is to be subtracted from the inventory of thematerial balance area. Separate records must be kept for this type of material.",
+      "Nuclear material generated from processing or from an operational accident contained inwastethat is measured or estimated on the basis of measurements, and which has been transferred to a specific location within thematerial balance area from which it could be retrieved. The quantity of nuclear material involved is to be subtracted from the inventory of the material balance area. Separate records must be kept for this type of material.",
+      "Rounding adjustment to make the sum of the quantities reported in a given period coincide with the endingbook inventoryof thematerial balance area.",
+      "Quantity of nuclear material accounted for in the material balance area, being the difference between the result of a physical inventory taken by the plant operator for his own purposes (without reporting a physical inventory listing to the Commission) and the book inventory established on the same date.",
+      "Code of the reportingmaterial balance area. This code is notified to theinstallation concerned by the Commission.",
+      "In the reporting material balance area when the weights have already been given in a previous inventory change report or physical inventory listing.",
+      "Transfer of nuclear material to amaterial balance area within the European Union.",
+      "Adjustment to make the sum of the isotope quantities reported coincide with the endingbook inventoryfor U-235 of thematerial balance area.",
+      "In another material balance area.",
+      "In another material balance area when the weights have already been given in a previous inventory change report or physical inventory listing for the present material balance area.",
+      "Expected or actual date of arrival in the reporting material balance area.",
+      "Quantity of nuclear material, in one particular batch, accounted for in the nuclear material balance area, being the difference between a newly measured quantity and the quantity formerly accounted for, and which is neither a shipper/receiver difference nor a correction.",
+      "Receipt of nuclear material from amaterial balance area within the European Union.",
+      "Rounding adjustment to make the sum of the quantities reported in a given period coincide with the ending book inventory of the material balance area.",
+      "Use only for inventory change codes RD and RF. For inventory change code RD, the code of the shippingmaterial balance areais reported. If this code is unknown, the code \u2018F\u2019, \u2018Q\u2019 or \u2018W\u2019 (for the shipping MBA in France, the United Kingdom or a non-nuclear-weapon State) is reported and the shipper\u2019s full name and address must be entered in the comment field (40). For inventory change code RF, the country code of the exporting state, or the MBA code of the exportinginstallation if known, is reported, and the shipper\u2019s full name and addressmust be entered in the comment field (40).",
+      "Nuclear material generated from processing or from an operational accident contained inwastethat is measured or estimated on the basis of measurements and which has been transferred to a specific location within thematerial balance area from which it could be retrieved. The quantity of nuclear material involved is to be subtracted from the inventory of the material balance area. Separate records must be kept for this type of material.",
+      "Nuclear material contained inwastethat is measured or estimated on the basis of measurements, and which has been irrevocably discarded to the environment as the result of a planned discharge. The quantity of nuclear material involved is to be subtracted from the inventory of thematerial balance area.",
+      "Quantity of nuclear material accounted for in thematerial balance area, being the difference between the result of aphysical inventorytaken by the plant operator for his own purposes (without reporting a physical inventory listing to the Commission) and thebook inventory established on the same date.",
+      "Use only for inventory change codes SD and SF. For inventory change code SD, the code of the receiving material balance area is reported. If this code is unknown, the code \u2018F\u2019, \u2018Q\u2019 or \u2018W\u2019 (for the receiving MBA in France, the United Kingdom or a non-nuclear-weapon State) is reported and the receiver\u2019s full name and address must be entered in the comment field (40). For inventory change code SF, the country code of the importing state or the MBA code of the importing installation if known, is reported, and the receiver\u2019s full name and addressmust be entered in the comment field (40).",
+      "Nuclear material generated from processing or from an operational accident contained in waste that is measured or estimated on the basis of measurements, and which has been transferred to a specific location within the material balance area from which it could be retrieved. The quantity of nuclear material involved is to be subtracted from the inventory of the material balance area. Separate records must be kept for this type of material.",
+      "Flow sheet showing: points where nuclear material is identified or measured;material balance areas and inventory locations used for material accountancy; and the estimated range of nuclear material inventories at these locations under normal operating conditions.",
+      "Nuclear material contained in waste that is measured or estimated on the basis of measurements, and which has been irrevocably discarded to the environment as the result of a planned discharge. The quantity of nuclear material involved is to be subtracted from the inventory of the material balance area.",
+      "Code of the reportingmaterial balance areaas notified by the Commission to theinstallation concerned.",
+      "In anothermaterial balance areawhen the weights have already been given in a previous inventory change report orphysical inventory listing for the present material balance area.",
+      "In the reporting material balance area.",
+      "In the reportingmaterial balance areawhen the weights have already been given in a previous inventory change report orphysical inventory listing.",
+      "Use only for inventory change codes SD and SF. For inventory change code SD, the code of the receivingmaterial balance areais reported. If this code is unknown, the code \u2018F\u2019, \u2018Q\u2019 or \u2018W\u2019 (for the receiving MBA in France, the United Kingdom or a non-nuclear-weapon State) is reported and the receiver\u2019s full name and address must be entered in the comment field (40). For inventory change code SF, the country code of the importing state or the MBA code of the importinginstallation if known, is reported, and the receiver\u2019s full name and addressmust be entered in the comment field (40).",
+      "Receipt of nuclear material from a material balance area within the European Union.",
+      "Quantity of nuclear material, in one particularbatch, accounted for in the nuclearmaterial balance area, being the difference between a newly measured quantity and the quantity formerly accounted for, and which is neither ashipper/receiver difference nor a correction.",
+      "Flow sheet showing: points where nuclear material is identified or measured; material balance areas and inventory locations used for material accountancy; and the estimated range of nuclear material inventories at these locations under normal operating conditions.",
+      "Flow sheet showing: points where nuclear material is identified or measured; material balance areas and inventory locations used for material accountancy; and the estimated range of nuclear material inventories at these locations under normal operating conditions. The description should include (if applicable):",
+      "Code of the reporting material balance area as notified by the Commission to the installation concerned.",
+      "Adjustment to make the sum of the isotope quantities reported coincide with the ending book inventory for U-235 of the material balance area.",
+      "If, on the date the physical inventory was taken, there was no nuclear material in the material balance area, only labels from 1 to 7, 16, 17 and 28 above should be completed on the report.",
+      "If, on the date thephysical inventorywas taken, there was no nuclear material in thematerial balance area, only labels from 1 to 7, 16, 17 and 28 above should be completed on the report.",
+      "Code of the reporting material balance area. This code is notified to the installation concerned by the Commission.",
+      "Nuclear material contained in waste that is measured or estimated on the basis of measurements, and which has been conditioned in such a way (e.g. in glass, cement, concrete or bitumen) that it is not suitable for further nuclear use. The quantity of nuclear material involved is to be subtracted from the inventory of the material balance area. Separate records must be kept for this type of material.",
+      "a batch designation must not be used again for another batch in the same material balance area.",
+      "Indicate the location within the material balance area where the nuclear material is prepared for shipping and can be identified, and where its quantity and composition can if possible be verified.",
+      "In anothermaterial balance area.",
+      "abatchdesignation must not be used again for another batch in the samematerial balance area.",
+      "In the reportingmaterial balance area.",
+      "Unique identifier for the reprocessing campaign. Use only for inventory changes in the process material balance area(s) of spent fuel reprocessing installations.",
+      "Nuclear material generated from processing or from an operational accident contained in waste that is measured or estimated on the basis of measurements and which has been transferred to a specific location within the material balance area from which it could be retrieved. The quantity of nuclear material involved is to be subtracted from the inventory of the material balance area. Separate records must be kept for this type of material.",
+      "Indicate the location within thematerial balance area where the nuclear material is prepared for shipping and can be identified, and where its quantity and composition can if possible be verified.",
+      "Flow sheet showing: points where nuclear material is identified or measured;material balance areas and inventory locations used for material accountancy; and the estimated range of nuclear material inventories at these locations under normal operating conditions. The description should include (if applicable):",
+      "The quantity of nuclear material involved is to be subtracted from the inventory of the material balance area."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 18,
+      "statement_scores": [
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        2,
+        1,
+        0
+      ]
+    },
+    "Article 6": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 8": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 9": {
+      "article_score": 6,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        2
+      ]
+    },
+    "Article 12": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 13": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 16": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 19": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 40": {
+      "article_score": 61,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

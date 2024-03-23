@@ -1,0 +1,65 @@
+{
+  "term": "standard cotton programme",
+  "celex_id": "32012R0932",
+  "original_definition": "'standard cotton programme' means the cycle which dries cotton laundry with an initial moisture content of the load of 60 % up to a remaining moisture content of the load of 0 %.",
+  "generated_definition": "'standard cotton programme' means a household tumble drier programme designed to dry standard cotton loads, characterized by its rated capacity, program time, energy consumption, and condensation efficiency.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018equivalent household tumble drier\u2019 means a model of household tumble drier placed on the market with the samerated capacity, technical and performance characteristics, energy consumption,condensation efficiencywhere relevant,standard cotton programmeprogramme time and airborne acoustical noise emissions during drying as another model of household tumble drier placed on the market under a different commercial code number by the same manufacturer.",
+      "\u2018equivalent household tumble drier\u2019 means a model of household tumble drier placed on the market with the same rated capacity, technical and performance characteristics, energy consumption, condensation efficiency where relevant, standard cotton programme time and airborne acoustical noise emissions during drying as another model of household tumble drier placed on the market under a different commercial code number by the same manufacturer."
+    ],
+    "Article 8": [
+      "information about the \u2018standard cotton programme\u2019 and shall specify that it is suitable to dry normal wet cotton laundry and that it is the most efficient programme in terms of energy consumption for drying wet cotton laundry;",
+      "c is the rated capacity of the household tumble drier for the standard cotton programme,",
+      "For the calculation of the energy consumption and other parameters forhousehold tumble driers, thecyclewhich dries cotton laundry (with an initial moisture content of the load of 60 %) up to a remaining moisture content of the load of 0 % (hereinafter the \u2018standard cotton programme\u2019) shall be used. That cycle shall be clearly identifiable on the programme selection device(s) of the household tumble drier or the household tumble drier display, if any, or both, and indicated as \u2018standard cotton programme\u2019 or by a uniform symbol or an appropriate combination thereof, and shall be set as the default cycle for household tumble driers equipped with automatic programme selection or any function for automatically selecting a drying programme or maintaining the selection of a programme. If the tumble drier isautomatic tumble drier the \u2018standard cotton programme\u2019 shall be automatic.",
+      "The weighted programme time (Tt\n) for the standard cotton programme is calculated in minutes as follows and rounded to the nearest minute:",
+      "At the time of entry into force of this Regulation, the best available technology on the market for household tumble driers, in terms of their energy consumption and airborne acoustical noise emissions during drying for the standard cotton programme, is identified as follows:",
+      "For gas-fired household tumble driers, the energy consumption for the standard cotton programme at full and partial load is calculated in kWh, rounded to two decimal places, as:",
+      "Tt\n is the weightedprogramme timefor thestandard cotton programme.",
+      "The weightedprogramme time(Tt\n) for thestandard cotton programme is calculated in minutes as follows and rounded to the nearest minute:",
+      "\u2014   Tdry=programme timefor thestandard cotton programme at full load, in minutes and rounded to the nearest minute,",
+      "\u2014   Tdry= programme time for the standard cotton programme at full load, in minutes and rounded to the nearest minute,",
+      "\u2014   Tdry1\u20442= programme time for the standard cotton programme at partial load, in minutes and rounded to the nearest minute.",
+      "Thecondensation efficiencyof aprogrammeis the ratio between the mass of moisture condensed and collected in the container of a condenserhousehold tumble drierand the mass of moisture removed from the load by the programme, the latter being the difference between the mass of the wet test load before drying and the mass of the test load after drying. For calculating the weighted condensation efficiency, the average condensation efficiency of thestandard cotton programmeat both full andpartial load is considered.",
+      "Tt\n is the weighted programme time for the standard cotton programme.",
+      "For the calculation of the energy consumption and other parameters for household tumble driers, the cycle which dries cotton laundry (with an initial moisture content of the load of 60 %) up to a remaining moisture content of the load of 0 % (hereinafter the \u2018standard cotton programme\u2019) shall be used. That cycle shall be clearly identifiable on the programme selection device(s) of the household tumble drier or the household tumble drier display, if any, or both, and indicated as \u2018standard cotton programme\u2019 or by a uniform symbol or an appropriate combination thereof, and shall be set as the default cycle for household tumble driers equipped with automatic programme selection or any function for automatically selecting a drying programme or maintaining the selection of a programme. If the tumble drier is automatic tumble drier the \u2018standard cotton programme\u2019 shall be automatic.",
+      "\u2014   Tdry1\u20442=programme timefor thestandard cotton programmeatpartial load, in minutes and rounded to the nearest minute.",
+      "The condensation efficiency of a programme is the ratio between the mass of moisture condensed and collected in the container of a condenser household tumble drier and the mass of moisture removed from the load by the programme, the latter being the difference between the mass of the wet test load before drying and the mass of the test load after drying. For calculating the weighted condensation efficiency, the average condensation efficiency of the standard cotton programme at both full and partial load is considered.",
+      "For the calculation of the energy efficiency index (EEI) of a household tumble drier model, the weighted annual energy consumption of a household tumble drier for the standard cotton programme at full and partial load is compared to its standard annual energy consumption."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 8": {
+      "article_score": 14,
+      "statement_scores": [
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

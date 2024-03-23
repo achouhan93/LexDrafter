@@ -1,0 +1,31 @@
+{
+  "term": "cut-off time",
+  "celex_id": "32013R0543",
+  "original_definition": "'cut-off time' means the point in time where TSOs have to confirm all matched nominations to the market. The cut-off time refers not only to daily or intra daily markets but also to the different markets that cover imbalance adjustments and reserve allocation;",
+  "generated_definition": "'cut-off time' means the time by which certain actions or nominations must be completed, typically for the purpose of publication or update.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018cut-off time\u2019 means the point in time where TSOs have to confirm all matched nominations to the market. The cut-off time refers not only to daily or intra daily markets but also to the different markets that cover imbalance adjustments and reserve allocation;"
+    ],
+    "Article 12": [
+      "in point (f) of paragraph 1 shall be published every day no later than one hour after the last cut-off time and, if applicable, shall be updated no later than two hours after each intra-day nomination process;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 12": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

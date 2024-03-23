@@ -1,0 +1,91 @@
+{
+  "term": "transport contract",
+  "celex_id": "32009R0715",
+  "original_definition": "'transport contract' means a contract which the transmission system operator has concluded with a network user with a view to carrying out transmission;",
+  "generated_definition": "'transport contract' means a contract between a network user and a transmission system operator for the transportation of gas or electricity, defining the capacity allocated, the flow rate, and the conditions for interruptibility and balancing.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018transport contract\u2019 means a contract which the transmission system operator has concluded with a network user with a view to carrying out transmission;",
+      "\u2018contracted capacity\u2019 means capacity that the transmission system operator has allocated to a network user by means of a transport contract;",
+      "\u2018capacity\u2019 means the maximum flow, expressed in normal cubic meters per time unit or in energy unit per time unit, to which thenetwork useris entitled in accordance with the provisions of thetransport contract;",
+      "\u2018interruptible capacity\u2019 means gastransmissioncapacity that may be interrupted by the transmission system operator in accordance with the conditions stipulated in thetransport contract;",
+      "\u2018transport contract\u2019 means a contract which thetransmissionsystem operator has concluded with anetwork user with a view to carrying out transmission;",
+      "\u2018balancing period\u2019 means the period within which the off-take of an amount of natural gas, expressed in units of energy, must be offset by everynetwork userby means of the injection of the same amount of natural gas into thetransmissionnetwork in accordance with thetransport contract or the network code;",
+      "\u2018unused capacity\u2019 means firm capacity which a network user has acquired under a transport contract but which that user has not nominated by the deadline specified in the contract;",
+      "\u2018contracted capacity\u2019 means capacity that thetransmissionsystem operator has allocated to anetwork userby means of atransport contract;",
+      "\u2018interruptible capacity\u2019 means gas transmission capacity that may be interrupted by the transmission system operator in accordance with the conditions stipulated in the transport contract;",
+      "\u2018capacity\u2019 means the maximum flow, expressed in normal cubic meters per time unit or in energy unit per time unit, to which the network user is entitled in accordance with the provisions of the transport contract;",
+      "\u2018unused capacity\u2019 meansfirm capacitywhich anetwork userhas acquired under atransport contract but which that user has not nominated by the deadline specified in the contract;",
+      "\u2018balancing period\u2019 means the period within which the off-take of an amount of natural gas, expressed in units of energy, must be offset by every network user by means of the injection of the same amount of natural gas into the transmission network in accordance with the transport contract or the network code;"
+    ],
+    "Article\u00a014": [
+      "2.   Transport contracts signed with non-standard start dates or with a shorter duration than a standard annual transport contract shall not result in arbitrarily higher or lower tariffs that do not reflect the market value of the service, in accordance with the principles laid down in Article 13(1).",
+      "In regard to point (a) of the first subparagraph, where atransmissionsystem operator offers the same service to different customers, it shall do so under equivalent contractual terms and conditions, either using harmonisedtransport contracts or a common network code approved by the competent authority in accordance with the procedure laid down in Article 41 of Directive 2009/73/EC.",
+      "In regard to point (a) of the first subparagraph, where a transmission system operator offers the same service to different customers, it shall do so under equivalent contractual terms and conditions, either using harmonised transport contracts or a common network code approved by the competent authority in accordance with the procedure laid down in Article 41 of Directive 2009/73/EC."
+    ],
+    "Article\u00a032": [
+      "2.   Harmonised transport contracts and common network codes shall be designed in a manner that facilitates trading and re-utilisation of capacity contracted by network users without hampering capacity release.",
+      "the different types oftransport contracts available for those services and, as applicable, the network code and/or the standard conditions outlining the rights and responsibilities of allnetwork users including harmonised transport contracts and other relevant documents;",
+      "6.   Transmission system operators shall not separately charge network users for information requests and transactions associated with their transport contracts and which are carried out according to standard rules and procedures.",
+      "9.Transmissionsystem operators shall publish at least annually, by a predetermined deadline, all planned maintenance periods that might affectnetwork users' rights fromtransport contracts and corresponding operational information with adequate advance notice. This shall include publishing on a prompt and non-discriminatory basis any changes to planned maintenance periods and notification of unplanned maintenance, as soon as that information becomes available to the transmission system operator. During maintenance periods, transmission system operators shall publish regularly updated information on the details of and expected duration and effect of the maintenance.",
+      "6.Transmissionsystem operators shall not separately chargenetwork users for information requests and transactions associated with theirtransport contracts and which are carried out according to standard rules and procedures.",
+      "9.   Transmission system operators shall publish at least annually, by a predetermined deadline, all planned maintenance periods that might affect network users' rights from transport contracts and corresponding operational information with adequate advance notice. This shall include publishing on a prompt and non-discriminatory basis any changes to planned maintenance periods and notification of unplanned maintenance, as soon as that information becomes available to the transmission system operator. During maintenance periods, transmission system operators shall publish regularly updated information on the details of and expected duration and effect of the maintenance.",
+      "the different types of transport contracts available for those services and, as applicable, the network code and/or the standard conditions outlining the rights and responsibilities of all network users including harmonised transport contracts and other relevant documents;",
+      "2.   Harmonisedtransport contracts and common network codes shall be designed in a manner that facilitates trading and re-utilisation ofcapacitycontracted bynetwork users without hampering capacity release."
+    ],
+    "Not Article": [
+      "References to harmonisedtransport contracts in the context of non-discriminatory access to the network oftransmission system operators do not mean that the terms and conditions of the transport contracts of a particular system operator in a Member State must be the same as those of another transmission system operator in that Member State or in another Member State, unless minimum requirements are set which must be met by all transport contracts.",
+      "References to harmonised transport contracts in the context of non-discriminatory access to the network of transmission system operators do not mean that the terms and conditions of the transport contracts of a particular system operator in a Member State must be the same as those of another transmission system operator in that Member State or in another Member State, unless minimum requirements are set which must be met by all transport contracts."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 10,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article\u00a014": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        1,
+        1
+      ]
+    },
+    "Article\u00a032": {
+      "article_score": 10,
+      "statement_scores": [
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 6,
+      "statement_scores": [
+        3,
+        3
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "term": "solar-only system",
+  "celex_id": "32013R0811",
+  "original_definition": "'solar-only system' means a device that is equipped with one or more solar collectors and solar hot water storage tanks and possibly pumps in the collector loop and other parts, which is placed on the market as one unit and is not equipped with any heat generator except possibly one or more back-up immersion heaters;",
+  "generated_definition": "'solar-only system' means a system that relies solely on solar energy for its electrical power consumption, including the pump power consumption, auxiliary electricity consumption, and standby power consumption.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018solar device\u2019 means a solar-only system, a solar collector, a solar hot water storage tank or a pump in the collector loop, which are placed on the market separately;",
+      "\u2018solar device\u2019 means asolar-only system, asolar collector, asolar hot water storage tank or a pump in the collector loop, which are placed on the market separately;"
+    ],
+    "Article 8": [
+      "\u2018pump power consumption\u2019 (solpump) means the rated electrical power consumption of the pump in the collector loop of a solar-only system, expressed in W;",
+      "\u2018auxiliary electricity consumption\u2019 (Qaux\n), for the purpose of Figure 5 in Annex IV referred to as \u2018auxiliary electricity\u2019, means the annual electricity consumption of a solar-only system that is due to the pump power consumption and the standby power consumption, expressed in kWh in terms of final energy;",
+      "\u2018standby power consumption\u2019 (solstandby) means the rated electrical power consumption of a solar-only system when the pump and the heat generator are inactive, expressed in W;",
+      "\u2018standby power consumption\u2019 (solstandby) means the rated electrical power consumption of asolar-only systemwhen the pump and theheat generator are inactive, expressed in W;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 8": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

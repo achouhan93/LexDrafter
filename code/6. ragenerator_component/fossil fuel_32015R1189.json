@@ -1,0 +1,59 @@
+{
+  "term": "fossil fuel",
+  "celex_id": "32015R1189",
+  "original_definition": "'fossil fuel' means fuel other than biomass, including anthracite, brown coal, coke, bituminous coal; for the purposes of this Regulation it also includes peat;",
+  "generated_definition": "'fossil fuel' means a fuel derived from the fossilized remains of ancient plants and animals, including coal, oil, and natural gas.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018solid fuel\u2019 means a fuel that is solid at normal indoor room temperatures, including solid biomass and solid fossil fuel;",
+      "\u2018non-woody biomass boiler\u2019 means a biomass boiler that uses non-woody biomass as thepreferred fueland for which woody biomass,fossil fuelor a blend of biomass and fossil fuel are not listed among itsother suitable fuels;",
+      "\u2018fossil fuel\u2019 means fuel other than biomass, including anthracite, brown coal, coke, bituminous coal; for the purposes of this Regulation it also includes peat;",
+      "\u2018solid fuel\u2019 means a fuel that is solid at normal indoor room temperatures, including solidbiomassand solidfossil fuel;",
+      "\u2018non-woody biomass boiler\u2019 means a biomass boiler that uses non-woody biomass as the preferred fuel and for which woody biomass, fossil fuel or a blend of biomass and fossil fuel are not listed among its other suitable fuels;",
+      "\u2018fossil fuel\u2019 means fuel other thanbiomass, including anthracite, brown coal, coke, bituminous coal; for the purposes of this Regulation it also includes peat;"
+    ],
+    "Article 9": [
+      "where the preferred fuel or any other suitable fuel is other woody biomass, non-woody biomass, other fossil fuel or other blend of biomass and fossil fuel as referred to in Table 1, a description of the fuel sufficient for its unambiguous identification and the technical standard or specification of the fuel, including the measured moisture content, and the measured ash content, and for other fossil fuel also the measured volatile content of the fuel;",
+      "Other blend of biomass and fossil fuel",
+      "Blendedbiomass(30-70 %)/fossil fuel briquettes",
+      "Other blend ofbiomassandfossil fuel",
+      "Blended fossil fuel briquettes",
+      "\u2018fossil fuel boiler\u2019 means a solid fuel boiler that has fossil fuel or a blend of biomass and fossil fuel as preferred fuel;",
+      "Blended biomass (30-70 %)/fossil fuel briquettes",
+      "\u2018other fossil fuel\u2019 means fossil fuel other than bituminous coal, brown coal (including briquettes), coke, anthracite or blended fossil fuel briquettes;",
+      "where thepreferred fuelor anyother suitable fuelis otherwoody biomass,non-woody biomass, otherfossil fuel or other blend of biomass and fossil fuel as referred to in Table 1, a description of the fuel sufficient for its unambiguous identification and the technical standard or specification of the fuel, including the measured moisture content, and the measured ash content, and for other fossil fuel also the measured volatile content of the fuel;",
+      "Other fossil fuel"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        2,
+        0,
+        1,
+        2,
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 18,
+      "statement_scores": [
+        3,
+        1,
+        1,
+        1,
+        1,
+        3,
+        1,
+        3,
+        3,
+        1
+      ]
+    }
+  }
+}

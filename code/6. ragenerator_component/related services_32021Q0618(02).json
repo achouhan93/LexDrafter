@@ -1,0 +1,43 @@
+{
+  "term": "related services",
+  "celex_id": "32021Q0618(02)",
+  "original_definition": "'related services' means one of the following services: conversion, enrichment, fuel fabrication, reprocessing or storage of special fissile materials;",
+  "generated_definition": "'related services' means contracts for services that are closely related to a contract for the supply of nuclear materials, including but not limited to services related to the handling, storage, and transportation of nuclear materials.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018user\u2019 means any person or undertaking that buys nuclear materials or related services to use in its own or affiliated nuclear power plants or research reactors within the Community or to use in the fields listed in Annex 1 to the Treaty;",
+      "\u2018user\u2019 means any person or undertaking that buysnuclear materialsorrelated servicesto use in its own or affiliated nuclear power plants or research reactors within theCommunityor to use in the fields listed in Annex 1 to theTreaty;",
+      "\u2018related services\u2019 means one of the following services: conversion, enrichment, fuel fabrication, reprocessing or storage of special fissile materials;"
+    ],
+    "Article\u00a016": [
+      "Contracts for related services",
+      "7.   If a contract for related services includes provisions relating to the supply of nuclear materials, it shall be treated as a supply contract and shall be submitted to the Agency for conclusion.",
+      "1.   Contracts forrelated servicesunder Article 75 of theTreatyshall be notified to theAgency within 10 (ten) working days from the date on which they are signed (or, upon a justified request, a longer period of time as agreed by the Agency in writing).",
+      "1.   Contracts for related services under Article 75 of the Treaty shall be notified to the Agency within 10 (ten) working days from the date on which they are signed (or, upon a justified request, a longer period of time as agreed by the Agency in writing).",
+      "7.   If a contract forrelated servicesincludes provisions relating to the supply ofnuclear materials, it shall be treated as asupply contractand shall be submitted to theAgency for conclusion."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1,
+        0
+      ]
+    },
+    "Article\u00a016": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

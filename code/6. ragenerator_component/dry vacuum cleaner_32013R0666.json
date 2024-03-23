@@ -1,0 +1,28 @@
+{
+  "term": "dry vacuum cleaner",
+  "celex_id": "32013R0666",
+  "original_definition": "'dry vacuum cleaner' means a vacuum cleaner designed to remove a volume of more than 2,5 litres, of liquid, in combination with the functionality of a dry vacuum cleaner;",
+  "generated_definition": "'dry vacuum cleaner' means a vacuum cleaner that uses more than 0.5 liters of water as the main filter medium, whereby suction air forces through the water to trap removed dry material.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018water filter vacuum cleaner\u2019 means a dry vacuum cleaner that uses more than 0,5 litre of water as the main filter medium, whereby the suction air is forced through the water entrapping the removed dry material as it passes through;",
+      "\u2018dry vacuum cleaner\u2019 means a vacuum cleaner designed to remove soil that is principally dry (dust, fibre, threads), including types equipped with a battery operated active nozzle;",
+      "\u2018dry vacuum cleaner\u2019 means a vacuum cleaner designed to remove soil that is principally dry (dust, fibre, threads), including types equipped with abattery operated active nozzle;",
+      "\u2018water filter vacuum cleaner\u2019 means adry vacuum cleaner that uses more than 0,5 litre of water as the main filter medium, whereby the suction air is forced through the water entrapping the removed dry material as it passes through;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        0,
+        1
+      ]
+    }
+  }
+}

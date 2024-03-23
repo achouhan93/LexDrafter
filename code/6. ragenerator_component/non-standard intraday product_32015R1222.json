@@ -1,0 +1,39 @@
+{
+  "term": "non-standard intraday product",
+  "celex_id": "32015R1222",
+  "original_definition": "'non-standard intraday product' means a product for continuous intraday coupling not for constant energy delivery or for a period exceeding one market time unit with specific characteristics designed to reflect system operation practices or market needs, for example orders covering multiple market time units or products reflecting production unit start-up costs;",
+  "generated_definition": "'non-standard intraday product' means a financial instrument or product that is not a standard intraday product, as defined in article 12 of the eu's internal electricity market directive, and is designed to meet the unique needs of market participants for intraday trading.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018non-standard intraday product\u2019 means a product for continuous intraday coupling not for constant energy delivery or for a period exceeding one market time unit with specific characteristics designed to reflect system operation practices or market needs, for example orders covering multiple market time units or products reflecting production unit start-up costs;",
+      "\u2018non-standard intraday product\u2019 means a product for continuous intraday coupling not for constant energy delivery or for a period exceeding onemarket timeunit with specific characteristics designed to reflect system operation practices or market needs, for exampleorders covering multiple market time units or products reflecting production unit start-up costs;"
+    ],
+    "Article 65": [
+      "1.   The NEMOs concerned shall cooperate closely with the TSOs concerned and shall consult market participants in accordance with Article 12 in order to translate the needs of market participants linked to explicit capacity allocation rights into non-standard intraday products.",
+      "2.   Prior to deciding on the removal of explicit allocation, the regulatory authorities of the Member States of each of the bidding zone borders concerned shall jointly organise a consultation to assess whether the proposed non-standard intraday products meet the market participants' needs for intraday trading.",
+      "1.   The NEMOs concerned shall cooperate closely with the TSOs concerned and shall consult market participants in accordance with Article 12 inorderto translate the needs of market participants linked to explicit capacity allocation rights intonon-standard intraday products.",
+      "2.   Prior to deciding on the removal of explicit allocation, the regulatory authorities of the Member States of each of the bidding zone borders concerned shall jointly organise a consultation to assess whether the proposednon-standard intraday products meet the market participants' needs for intraday trading."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 65": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

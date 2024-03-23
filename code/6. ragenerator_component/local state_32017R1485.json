@@ -1,0 +1,35 @@
+{
+  "term": "local state",
+  "celex_id": "32017R1485",
+  "original_definition": "'local state' means the qualification of an alert, emergency or blackout state when there is no risk of extension of the consequences outside of the control area including interconnectors connected to this control area;",
+  "generated_definition": "'local state' means the area of control and responsibility of a transmission system operator (tso), where constraints have consequences only within its control area and operational security violation management is not coordinated.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018local state\u2019 means the qualification of an alert, emergency or blackout state when there is no risk of extension of the consequences outside of the control area including interconnectors connected to this control area;",
+      "\u2018local state\u2019 means the qualification of an alert, emergency orblackout state when there is no risk of extension of the consequences outside of the control area including interconnectors connected to this control area;"
+    ],
+    "Article 23": [
+      "5.   Whereconstraints have only consequences on thelocal statewithin the TSO's control area and theoperational security violation does not need to be managed in a coordinated way, the TSO responsible for its management may decide not to activate remedial actions with costs to relieve them.",
+      "5.   Where constraints have only consequences on the local state within the TSO's control area and the operational security violation does not need to be managed in a coordinated way, the TSO responsible for its management may decide not to activate remedial actions with costs to relieve them."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 23": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

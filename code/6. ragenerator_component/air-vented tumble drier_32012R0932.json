@@ -1,0 +1,22 @@
+{
+  "term": "air-vented tumble drier",
+  "celex_id": "32012R0932",
+  "original_definition": "'air-vented tumble drier' means a tumble drier that draws in fresh air, passes it over the textiles and vents the resulting moist air into the room or outside;",
+  "generated_definition": "'air-vented tumble drier' means a machine that uses hot air to dry clothes through tumbling motion, typically vented to remove excess moisture.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018air-vented tumble drier\u2019 means a tumble drier that draws in fresh air, passes it over the textiles and vents the resulting moist air into the room or outside;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

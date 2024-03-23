@@ -1,0 +1,70 @@
+{
+  "term": "decommissioning plan",
+  "celex_id": "32021R0100",
+  "original_definition": "'decommissioning plan' means a document that contains detailed information on the proposed decommissioning and covers the following: the selected decommissioning strategy; the schedule, type and sequence of decommissioning activities; the waste management strategy applied, including clearance; the proposed end state; the storage and disposal of the waste from decommissioning; the timeframe for decommissioning; the cost estimates for the completion of decommissioning; and the objectives, expected results, milestones, target dates, as well as the corresponding key performance indicators, including, where appropriate, earned-value-based indicators. The decommissioning plan is prepared by the nuclear facility licence holder and is reflected in the multiannual work programmes of the Programme;",
+  "generated_definition": "'decommissioning plan' means a plan outlining the safe management of the decommissioning and radioactive waste in line with the needs identified in the plan, including decontamination, interim storage or disposal of activated materials and dismantling materials, and completion of waste and material management infrastructure, all in accordance with the plan and subject to radioactive waste management.",
+  "existing_sentences": {
+    "Article 1": [
+      "the safe decommissioning of Units 1 to 4 of the Kozloduy Nuclear Power Plant in Bulgaria and Units 1 and 2 of the Bohunice V1 Nuclear Power Plant in Slovakia, including the management of radioactive waste, in line with the needs identified in the respective decommissioning plan; and",
+      "the safedecommissioningof Units 1 to 4 of the Kozloduy Nuclear Power Plant in Bulgaria and Units 1 and 2 of the Bohunice V1 Nuclear Power Plant in Slovakia, including the management of radioactive waste, in line with the needs identified in the respectivedecommissioning plan; and"
+    ],
+    "Article 2": [
+      "\u2018decommissioning plan\u2019 means a document that contains detailed information on the proposed decommissioning and covers the following: the selected decommissioning strategy; the schedule, type and sequence of decommissioning activities; the waste management strategy applied, including clearance; the proposed end state; the storage and disposal of the waste from decommissioning; the timeframe for decommissioning; the cost estimates for the completion of decommissioning; and the objectives, expected results, milestones, target dates, as well as the corresponding key performance indicators, including, where appropriate, earned-value-based indicators. The decommissioning plan is prepared by the nuclear facility licence holder and is reflected in the multiannual work programmes of the Programme;"
+    ],
+    "Article 3": [
+      "1.   The general objective of the Programme is to provide funding for thedecommissioningof nuclear facilities and the management of radioactive waste, in line with the needs identified in the respectivedecommissioning plan.",
+      "1.   The general objective of the Programme is to provide funding for the decommissioning of nuclear facilities and the management of radioactive waste, in line with the needs identified in the respective decommissioning plan."
+    ],
+    "Article 17": [
+      "the safe management of the decommissioning and radioactive waste in line with the needs identified in the respective decommissioning plan and of activated materials and dismantling materials, including their decontamination up to interim storage or to disposal (depending on the waste category), as well as the completion of the waste and material management infrastructure where necessary. This objective has to be accomplished in accordance with the decommissioning plan and subject to the necessary management of radioactive waste. Progress made in respect of this objective is to be measured by the quantity and type of material released from regulatory control and waste safely stored or disposed as well as earned value; and",
+      "the safe management of thedecommissioningand radioactive waste in line with the needs identified in the respectivedecommissioning plan and of activated materials and dismantling materials, including their decontamination up to interim storage or to disposal (depending on the waste category), as well as the completion of the waste and material management infrastructure where necessary. This objective has to be accomplished in accordance with the decommissioning plan and subject to the necessary management of radioactive waste. Progress made in respect of this objective is to be measured by the quantity and type of material released from regulatory control and waste safely stored or disposed as well as earned value; and"
+    ],
+    "Not Article": [
+      "In line with their obligations under, respectively, the Treaty of Accession and the Act of Accession, and with Union assistance, Bulgaria and Slovakia have made significant progress towards thedecommissioningof the Kozloduy and Bohunice V1 nuclear power plants. Further work is necessary in order to safely achieve the decommissioning end state. Based on the currentdecommissioning plans, the decommissioning work is scheduled to be completed by the end of 2030 for Kozloduy Nuclear Power Plant and by 2025 for the Bohunice V1 Nuclear Power Plant.",
+      "The activities under theKozloduy programmeandBohunice programmeshould be identified within the boundaries defined by thedecommissioning plans submitted by Bulgaria and Slovakia in accordance with Council Regulation (Euratom) No 1368/2013 (15). Those plans define the scope of those programmes, as well as the decommissioning end states, target dates and end-dates. They also cover the decommissioning activities, their associated schedule, costs and required human resources.",
+      "The activities under the Kozloduy programme and Bohunice programme should be identified within the boundaries defined by the decommissioning plans submitted by Bulgaria and Slovakia in accordance with Council Regulation (Euratom) No 1368/2013 (15). Those plans define the scope of those programmes, as well as the decommissioning end states, target dates and end-dates. They also cover the decommissioning activities, their associated schedule, costs and required human resources.",
+      "In line with their obligations under, respectively, the Treaty of Accession and the Act of Accession, and with Union assistance, Bulgaria and Slovakia have made significant progress towards the decommissioning of the Kozloduy and Bohunice V1 nuclear power plants. Further work is necessary in order to safely achieve the decommissioning end state. Based on the current decommissioning plans, the decommissioning work is scheduled to be completed by the end of 2030 for Kozloduy Nuclear Power Plant and by 2025 for the Bohunice V1 Nuclear Power Plant."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 3": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 17": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Not Article": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

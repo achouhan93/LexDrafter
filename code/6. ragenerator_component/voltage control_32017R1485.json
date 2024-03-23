@@ -1,0 +1,83 @@
+{
+  "term": "voltage control",
+  "celex_id": "32017R1485",
+  "original_definition": "'voltage control' means the manual or automatic control actions at the generation node, at the end nodes of the AC lines or HVDC systems, on transformers, or other means, designed to maintain the set voltage level or the set value of reactive power;",
+  "generated_definition": "'voltage control' means coordination and management of voltage levels in the transmission system, including setting voltage setpoints, power factor ranges, and reactive power setpoints, in order to ensure reliable and efficient system operation.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018voltage control\u2019 means the manual or automatic control actions at the generation node, at the end nodes of the AC lines or HVDC systems, on transformers, or other means, designed to maintain the set voltage level or the set value of reactive power;"
+    ],
+    "Article 26": [
+      "Voltage control and reactive power management"
+    ],
+    "Article 28": [
+      "3.   Each SGU which is a transmission-connected demand facility shall maintain the reactive power setpoints, power factor ranges and voltage setpoints for voltage control in the range agreed with its TSO in accordance with Article 27.",
+      "Obligations of SGUs concerning voltage control and reactive power management in system operation"
+    ],
+    "Article 29": [
+      "Obligations of all TSOs concerning voltage control and reactive power management in system operation",
+      "8.   Each TSO shall determine the voltage control actions in coordination with the transmission-connected SGUs and DSOs and with neighbouring TSOs.",
+      "9.   When relevant for the voltage control and reactive power management of the transmission system, a TSO may require, in coordination with a DSO, a distribution-connected SGU to follow voltage control instructions.",
+      "4.   TSOs interconnected by AC interconnectors shall jointly specify the adequate voltage control regime in order to ensure that the common operational security limits established in accordance with Article 25(4) are respected.",
+      "8.   Each TSO shall determine thevoltage controlactions in coordination with the transmission-connected SGUs and DSOs and withneighbouring TSOs.",
+      "5.   Each TSO shall agree with each transmission-connected DSO on the reactive power setpoints, power factor ranges and voltage setpoints for voltage control at the connection point between the TSO and the DSO in accordance with Article 15 of Regulation (EU) 2016/1388. To ensure that those parameters are maintained, each transmission-connected DSO shall use its reactive power resources and have the right to give voltage control instructions to distribution-connected SGUs.",
+      "4.   TSOs interconnected by AC interconnectors shall jointly specify the adequatevoltage controlregime in order to ensure that the commonoperational security limits established in accordance with Article 25(4) are respected.",
+      "1.   If voltage at a connection point to the transmission system is outside the ranges defined in Tables 1 and 2 of Annex II to this Regulation, each TSO shall apply voltage control and reactive power management remedial actions in accordance with Article 22(1)(c) of this Regulation in order to restore voltage at the connection point within the range specified in Annex II and within time range specified in Article 16 of Regulation (EU) 2016/631 and Article 13 of Regulation (EU) 2016/1388."
+    ],
+    "Article 45": [
+      "reactive power and voltage control capability;"
+    ],
+    "Article 46": [
+      "any forecast restriction in the reactive power or voltage control capability."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 26": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 28": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 29": {
+      "article_score": 10,
+      "statement_scores": [
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        1
+      ]
+    },
+    "Article 45": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 46": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

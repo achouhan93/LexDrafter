@@ -1,0 +1,22 @@
+{
+  "term": "mix of raw material for the purpose of further processing",
+  "celex_id": "32022R0996",
+  "original_definition": "'mix of raw material for the purpose of further processing' means the physical mixing of raw material for the sole purpose of producing biofuels, bioliquids or biomass fuels;",
+  "generated_definition": "'mix of raw material for the purpose of further processing' means a combination of raw materials used as input for manufacturing, processing, or production.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018mix of raw material for the purpose of further processing\u2019 means the physical mixing of raw material for the sole purpose of producing biofuels, bioliquids or biomass fuels;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

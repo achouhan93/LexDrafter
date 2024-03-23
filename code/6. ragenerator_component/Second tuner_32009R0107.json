@@ -1,0 +1,22 @@
+{
+  "term": "Second tuner",
+  "celex_id": "32009R0107",
+  "original_definition": "'Second tuner' means a part of the SSTB available for independent recording while allowing to watch a different programme.",
+  "generated_definition": "'Second tuner' means a device that receives and processes a television signal for display on a second tv set or monitor.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Second tuner\u2019 means a part of the SSTB available for independent recording while allowing to watch a different programme."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "term": "direct heat output",
+  "celex_id": "32015R1185",
+  "original_definition": "'direct heat output' means the heat output of the product by radiation and convection of heat, as emitted by or from the product itself to air excluding the heat output of the product to a heat transfer fluid, expressed in kW;",
+  "generated_definition": "'direct heat output' means the heat output of a solid fuel local space heater when operating at the setting for the lowest heat output, as declared by the manufacturer, expressed in kw.",
+  "existing_sentences": {
+    "Article 1": [
+      "solid fuel local space heaters of which the direct heat output is less than 6 % of the combined direct and indirect heat output at nominal heat output;"
+    ],
+    "Article 2": [
+      "\u2018minimum heat output\u2019 (Pmin\n) means the heat output of a solid fuel local space heater comprising both direct heat output and indirect heat output (where applicable), when operating at the setting for the lowest heat output, as declared by the manufacturer, expressed in kW;",
+      "\u2018nominal heat output\u2019 (Pnom\n) means the heat output of a solid fuel local space heater comprising both direct heat output and indirect heat output (where applicable), when operating at the setting for the maximum heat output that can be maintained over an extended period, as declared by the manufacturer, expressed in kW;",
+      "\u2018direct heat output\u2019 means the heat output of the product by radiation and convection of heat, as emitted by or from the product itself to air excluding the heat output of the product to a heat transfer fluid, expressed in kW;"
+    ],
+    "Article 9": [
+      "Direct heat output: ...(kW)"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 2,
+      "statement_scores": [
+        2
+      ]
+    },
+    "Article 2": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2,
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}
