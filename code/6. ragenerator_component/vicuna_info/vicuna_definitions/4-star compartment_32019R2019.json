@@ -1,0 +1,39 @@
+{
+  "term": "4-star compartment",
+  "celex_id": "32019R2019",
+  "original_definition": "'4-star compartment' means a frozen compartment with a target temperature and storage conditions of - 18 \u00b0C and which fulfils the requirements for the freezing capacity;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018freezer compartment\u2019 or \u20184-star compartment\u2019 means a frozen compartment with a target temperature and storage conditions of - 18 \u00b0C and which fulfils the requirements for the freezing capacity;",
+      "\u2018freezer\u2019 means a refrigerating appliance with only 4-star compartments;",
+      "\u2018frozen compartment\u2019 means a compartment type with a target temperature equal to or below 0 \u00b0C; that is a 0-star, 1-star, 2-star, 3-star or 4-star compartment, as set out in Annex III, Table 3;",
+      "\u2018frozen compartment\u2019 means acompartment typewith atarget temperatureequal to or below 0 \u00b0C; that is a 0-star, 1-star, 2-star, 3-star or4-star compartment, as set out in Annex III, Table 3;"
+    ],
+    "Article 10": [
+      "between 1,15  and 1,56  for combi appliances with 3- or 4-star compartments (2), 1,15  for other combi appliances, 1,00  for other refrigerating appliances",
+      "for appliances without a 4-star compartment: \u2018this refrigerating appliance is not suitable for freezing foodstuffs\u2019;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 3,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 10": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

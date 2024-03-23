@@ -1,0 +1,40 @@
+{
+  "term": "small holders",
+  "celex_id": "32019R0807",
+  "original_definition": "'small holders' means farmers who conduct independently an agricultural activity on a holding with an agricultural area of less than 2 hectares for which they hold ownership, tenure rights or any equivalent title granting them control over land, and who are not employed by a company, except for a cooperative of which they are members with other small holders, provided that such a cooperative is not controlled by a third party;",
+  "generated_definition": "'small holders' means small-scale agricultural producers or processors, often with limited resources and production capacity, who are involved in the production, processing, and marketing of agricultural products.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018small holders\u2019 means farmers who conduct independently an agricultural activity on a holding with an agricultural area of less than 2 hectares for which they hold ownership, tenure rights or any equivalent title granting them control over land, and who are not employed by a company, except for a cooperative of which they are members with other small holders, provided that such a cooperative is not controlled by a third party;"
+    ],
+    "Article 5": [
+      "they are applied by small holders;"
+    ],
+    "Article 7": [
+      "The Commission shall, by 30 June 2021, review all relevant aspects of the report on feedstock expansion, in particular the data on feedstock expansion, as well as the evidence on the factors justifying the small holders provision in Article 5(1), and, if appropriate, amend this Regulation. This revised report shall be submitted to the European Parliament and the Council and become the basis for the application of the criteria set out in Article 3."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 5": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 7": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

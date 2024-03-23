@@ -1,0 +1,22 @@
+{
+  "term": "existing service station",
+  "celex_id": "32009L0126",
+  "original_definition": "'existing service station' means a service station which is built or for which an individual planning permission, construction licence or operating licence is granted before 1 January 2012;",
+  "generated_definition": "'existing service station' means a facility that provides fuel, lubricants, and other automotive services to vehicles, located on a specific site and in operation before the date of application of the relevant eu legislation.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018existing service station\u2019 means a service station which is built or for which an individual planning permission, construction licence or operating licence is granted before 1 January 2012;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

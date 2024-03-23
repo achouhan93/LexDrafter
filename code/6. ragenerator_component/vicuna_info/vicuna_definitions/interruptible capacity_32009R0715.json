@@ -1,0 +1,26 @@
+{
+  "term": "interruptible capacity",
+  "celex_id": "32009R0715",
+  "original_definition": "'interruptible capacity' means gas transmission capacity that may be interrupted by the transmission system operator in accordance with the conditions stipulated in the transport contract;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018interruptible capacity\u2019 means gastransmissioncapacity that may be interrupted by the transmission system operator in accordance with the conditions stipulated in thetransport contract;",
+      "\u2018interruptible services\u2019 means services offered by the transmission system operator in relation to interruptible capacity;",
+      "\u2018interruptible capacity\u2019 means gas transmission capacity that may be interrupted by the transmission system operator in accordance with the conditions stipulated in the transport contract;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1,
+        0
+      ]
+    }
+  }
+}

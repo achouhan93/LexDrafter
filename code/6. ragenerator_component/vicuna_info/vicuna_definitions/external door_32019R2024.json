@@ -1,0 +1,28 @@
+{
+  "term": "external door",
+  "celex_id": "32019R2024",
+  "original_definition": "'external door' is the part of a refrigerating appliance with a direct sales function that can be moved or removed to at least allow inserting the load from the exterior to the interior or extracting the load from the interior to the exterior of the refrigerating appliance with a direct sales function;",
+  "generated_definition": "'external door' means a door that is located outside of a refrigerating appliance and is accessible from the outside.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018compartment\u2019 means an enclosed space within a refrigerating appliance with a direct sales function, separated from other compartment(s) by a partition, container, or similar construction, which is directly accessible through one or more external doors and may itself be divided into sub-compartments. For the purpose of this Regulation, unless specified otherwise, compartment refers to both compartments and sub-compartments;",
+      "\u2018compartment\u2019 means an enclosed space within arefrigerating appliance with a direct sales function, separated from other compartment(s) by a partition, container, or similar construction, which is directly accessible through one or moreexternal doors and may itself be divided intosub-compartments. For the purpose of this Regulation, unless specified otherwise, compartment refers to both compartments and sub-compartments;",
+      "\u2018external door\u2019 is the part of arefrigerating appliance with a direct sales function that can be moved or removed to at least allow inserting the load from the exterior to the interior or extracting the load from the interior to the exterior of the refrigerating appliance with a direct sales function;",
+      "\u2018external door\u2019 is the part of a refrigerating appliance with a direct sales function that can be moved or removed to at least allow inserting the load from the exterior to the interior or extracting the load from the interior to the exterior of the refrigerating appliance with a direct sales function;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1,
+        0,
+        0
+      ]
+    }
+  }
+}

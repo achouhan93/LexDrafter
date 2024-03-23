@@ -1,0 +1,41 @@
+{
+  "term": "open fronted local space heater",
+  "celex_id": "32015R1188",
+  "original_definition": "'open fronted local space heater' means a local space heater, using gaseous or liquid fuels, of which the fire bed and combustion gases are not sealed from the space in which the product is fitted and which is sealed to a chimney or fireplace opening or requires a flue duct for the evacuation of products of combustion;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018liquid fuel local space heater\u2019 means anopen fronted local space heateror aclosed fronted local space heater using liquid fuel;",
+      "\u2018gaseous fuel local space heater\u2019 means an open fronted local space heater or a closed fronted local space heater using gaseous fuel;",
+      "\u2018liquid fuel local space heater\u2019 means an open fronted local space heater or a closed fronted local space heater using liquid fuel;",
+      "\u2018open fronted local space heater\u2019 means a local space heater, using gaseous or liquid fuels, of which the fire bed and combustion gases are not sealed from the space in which the product is fitted and which is sealed to a chimney or fireplace opening or requires a flue duct for the evacuation of products of combustion;",
+      "\u2018gaseous fuel local space heater\u2019 means anopen fronted local space heateror aclosed fronted local space heater using gaseous fuel;"
+    ],
+    "Article 9": [
+      "emissions of NOx byopen fronted local space heaters andclosed fronted local space heaters using gaseous or liquid fuels shall not exceed 130 mg/kWhinput based on GCV;",
+      "emissions of NOx by open fronted local space heaters and closed fronted local space heaters using gaseous or liquid fuels shall not exceed 130 mg/kWhinput based on GCV;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        0,
+        1
+      ]
+    },
+    "Article 9": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "term": "FRCE",
+  "celex_id": "32017R1485",
+  "original_definition": "'FRCE' means the control error for the FRP which is equal to the ACE of a LFC area or equal to the frequency deviation where the LFC area geographically corresponds to the synchronous area;",
+  "generated_definition": "'FRCE' means the average value of the frequency restoration capability of an lfc block in a synchronous area, calculated based on the maximum steady-state frequency deviation and the time to restore frequency, with separate metrics for negative and positive frce.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018LFC block imbalances\u2019 means the sum of the FRCE, FRR activation and RR activation within the LFC block and the imbalance netting power interchange, the frequency restoration power interchange and the replacement power interchange of this LFC block with other LFC blocks;",
+      "\u2018imbalance netting process\u2019 means a process agreed between TSOs that allows avoiding the simultaneous activation of FRR in opposite directions, taking into account the respective FRCEs as well as the activated FRR and by correcting the input of the involved FRPs accordingly;",
+      "\u2018frequency restoration control error\u2019 or \u2018FRCE\u2019 means the control error for theFRPwhich is equal to theACEof aLFC areaor equal to thefrequency deviation where the LFC area geographically corresponds to the synchronous area;",
+      "\u2018frequency restoration control error\u2019 or \u2018FRCE\u2019 means the control error for the FRP which is equal to the ACE of a LFC area or equal to the frequency deviation where the LFC area geographically corresponds to the synchronous area;",
+      "\u2018LFC block imbalances\u2019 means the sum of theFRCE,FRRactivation and RR activation within the LFC block and theimbalance netting power interchange, thefrequency restoration power interchangeand thereplacement power interchange of this LFC block with other LFC blocks;"
+    ],
+    "Article 6": [
+      "measures to reduce FRCE by requiring changes in the active power production or consumption of power generating modules and demand units in accordance with Article 152(16);",
+      "coordination actions aiming to reduce FRCE as defined in Article 152(14);"
+    ],
+    "Article 119": [
+      "measures to reduce the FRCE by requiring changes in the active power production or consumption of power generating modules and demand units in accordance with Article 152(16).",
+      "coordination actions aiming to reduce the FRCE as defined in Article 152(14); and"
+    ],
+    "Article 128": [
+      "5.   For the GB and IE/NI synchronous areas the Level 1 FRCE range shall be equal to or larger than 200 mHz and the Level 2 FRCE range shall be equal to or larger than 500 mHz.",
+      "the number of time intervals per year outside the Level 2FRCErange within a time interval equal to thetime to restore frequency shall be less than 5 % of the time intervals of the year.",
+      "the number of time intervals per year outside the Level 2 FRCE range within a time interval equal to the time to restore frequency shall be less than 5 % of the time intervals of the year.",
+      "the maximum number of time intervals outside the Level 2 FRCE range shall be less than or equal to the value in the Table of Annex IV as a percentage of the time intervals per year.",
+      "the maximum number of time intervals outside the Level 1 FRCE range shall be less than or equal to the value in the Table of Annex IV as a percentage of the time intervals per year;",
+      "the number of time intervals per year outside the Level 1FRCErange within a time interval equal to thetime to restore frequency shall be less than 30 % of the time intervals of the year; and",
+      "the number of time intervals per year outside the Level 1 FRCE range within a time interval equal to the time to restore frequency shall be less than 30 % of the time intervals of the year; and"
+    ],
+    "Article 131": [
+      "the number of time intervals in which the average value of the FRCE was outside the Level 2 FRCE range, distinguishing between negative and positive FRCE;",
+      "for theLFC blocks of the GB or IE/NI synchronous area, during operation innormal stateoralert statein accordance with Article 18(1) and (2), on a monthly basis and for a data-set containing the average values of theFRCEof the LFC block over time intervals with a length of one minute: the number of events for which the absolute value of the FRCE exceeded themaximum steady-state frequency deviationand the FRCE was not returned to 10 % of the maximum steady-state frequency deviation within thetime to restore frequency, distinguishing between negative and positive FRCE.",
+      "for a data-set containing the average values of theFRCEof theLFC blockover time intervals equal to thetime to restore frequency:",
+      "for the LFC blocks of the GB or IE/NI synchronous area, during operation in normal state or alert state in accordance with Article 18(1) and (2), on a monthly basis and for a data-set containing the average values of the FRCE of the LFC block over time intervals with a length of one minute: the number of events for which the absolute value of the FRCE exceeded the maximum steady-state frequency deviation and the FRCE was not returned to 10 % of the maximum steady-state frequency deviation within the time to restore frequency, distinguishing between negative and positive FRCE.",
+      "for a data-set containing the average values of the FRCE of the LFC block over time intervals with a length of one minute: the number of events on a monthly basis for which the FRCE exceeded 60 % of the reserve capacity on FRR and was not returned to 15 % of the reserve capacity on FRR within the time to restore frequency, distinguishing between negative and positive FRCE;",
+      "for a data-set containing the average values of the FRCE of the LFC block over time intervals equal to the time to restore frequency:",
+      "the number of time intervals in which the average value of the FRCE was outside the Level 1 FRCE range, distinguishing between negative and positive FRCE, and"
+    ],
+    "Article 137": [
+      "3.   All connecting TSOs of an HVDC interconnector shall have the right to determine in theLFC block operational agreementcommon restrictions for the active power output of that HVDC interconnector to limit its influence on the fulfilment of theFRCEtarget parameter of the connected LFC blocks by agreeing onramping periods and/or maximumramping rates for this HVDC interconnector. Those common restrictions shall not apply for imbalance netting, frequency coupling as well as cross-border activation ofFRR and RR over HVDC interconnectors. All TSOs of a synchronous area shall coordinate these measures within the synchronous area.",
+      "4.   All TSOs of anLFC blockshall have the right to determine in theLFC block operational agreementthe following measures to support the fulfilment of theFRCEtarget parameter of the LFC block and to alleviate deterministicfrequency deviations, taking into account the technological restrictions of power generating modules and demand units:",
+      "4.   All TSOs of an LFC block shall have the right to determine in the LFC block operational agreement the following measures to support the fulfilment of the FRCE target parameter of the LFC block and to alleviate deterministic frequency deviations, taking into account the technological restrictions of power generating modules and demand units:",
+      "3.   All connecting TSOs of an HVDC interconnector shall have the right to determine in the LFC block operational agreement common restrictions for the active power output of that HVDC interconnector to limit its influence on the fulfilment of the FRCE target parameter of the connected LFC blocks by agreeing on ramping periods and/or maximum ramping rates for this HVDC interconnector. Those common restrictions shall not apply for imbalance netting, frequency coupling as well as cross-border activation of FRR and RR over HVDC interconnectors. All TSOs of a synchronous area shall coordinate these measures within the synchronous area."
+    ],
+    "Article 141": [
+      "continuously monitor theFRCEof theLFC area;",
+      "continuously monitor the FRCE of the LFC area;"
+    ],
+    "Article 143": [
+      "regulate theFRCEtowards zero within thetime to restore frequency;",
+      "regulate the FRCE towards zero within the time to restore frequency;",
+      "2.   The FRCE is:"
+    ],
+    "Article 145": [
+      "take the FRCE of the whole LFC block into account for the calculation of the setpoint value for aFRR activation in accordance with Article 143(3) in addition to the FRCE of its LFC area.",
+      "be an automatic control device designed to reduce the FRCE to zero;",
+      "calculate and monitor the FRCE of the whole LFC block; and",
+      "calculate and monitor theFRCEof the wholeLFC block; and"
+    ],
+    "Article 146": [
+      "6.   TSOs shall implement the imbalance netting power interchange of a LFC area in a way which does not exceed the actual amount of FRR activation necessary to regulate the FRCE of that LFC area to zero without imbalance netting power interchange.",
+      "by defining an active power flow over a virtual tie-line which shall be part of the FRCE calculation;",
+      "by defining an active power flow over avirtual tie-linewhich shall be part of theFRCE calculation;"
+    ],
+    "Article 147": [
+      "defining an active power flow over a virtual tie-line which shall be part of the FRCE calculation where FRR activation is automated;"
+    ],
+    "Article 148": [
+      "determining an active power flow over a virtual tie-line which shall be part of the FRCE calculation;",
+      "determining an active power flow over avirtual tie-linewhich shall be part of theFRCE calculation;"
+    ],
+    "Article 151": [
+      "ensure a sufficient quality and availability of the FRCE calculation;",
+      "where the FRCE is determined by the ACE, perform an ex-post quality monitoring of the FRCE calculation by comparing FRCE to reference values at least on an annual basis.",
+      "take action in case of FRCE miscalculation; and",
+      "where theFRCEis determined by theACE, perform an ex-post quality monitoring of the FRCE calculation by comparing FRCE to reference values at least on an annual basis.",
+      "perform real-time quality monitoring of the FRCE calculation;"
+    ],
+    "Article 152": [
+      "9.   The TSOs of aLFC blockshall endeavour to avoidFRCEs which last longer than thetime to restore frequency.",
+      "the real-time measurement data of the FRCE of the LFC blocks and LFC areas of the synchronous area.",
+      "13.   For the CE and Nordic synchronous areas, where theFRCEof aLFC blockexceeds 25 % of thereference incident of the synchronous area for more than 30 consecutive minutes and if the TSOs of that LFC block do not expect to reduce sufficiently the FRCE with the actions taken pursuant to paragraph 15, the TSOs shall require changes in the active power production or consumption of power generating modules and demand units within their respective areas to reduce the FRCE as specified in paragraph 16.",
+      "15.   For the cases referred to in paragraphs 11 to 13 all the TSOs of each synchronous area shall specify in the synchronous area operational agreement actions to enable the TSOs of aLFC blockto actively reduce thefrequency deviationwith the cross-border activation of reserves. In cases referred to in paragraphs 11 to 13 the TSOs of the synchronous area shall endeavour to enable the TSOs of the concerned LFC block to reduce theirFRCE.",
+      "together with the TSOs of the LFC block shall implement coordinated actions to reduce the FRCE which shall be specified in the LFC block operational agreement.",
+      "15.   For the cases referred to in paragraphs 11 to 13 all the TSOs of each synchronous area shall specify in the synchronous area operational agreement actions to enable the TSOs of a LFC block to actively reduce the frequency deviation with the cross-border activation of reserves. In cases referred to in paragraphs 11 to 13 the TSOs of the synchronous area shall endeavour to enable the TSOs of the concerned LFC block to reduce their FRCE.",
+      "the real-time measurement data of theFRCEof theLFC blocks andLFC areas of the synchronous area.",
+      "16.   The TSOs of a LFC block shall specify, in the LFC block operational agreement, measures to reduce the FRCE by means of changes in the active power production or consumption of power generating modules and demand units within their area.",
+      "12.   If the 1-minute average of theFRCEof aLFC block is above the Level 2 FRCE range at least during the time necessary to restore frequency and where the TSOs of a LFC block do not expect that FRCE will be sufficiently reduced by undertaking the actions in paragraph 15, TSOs shall have the right to require changes in the active power production or consumption of power generating modules and demand units within their respective areas to reduce the FRCE as specified in paragraph 16.",
+      "1.   Each TSO shall operate its control area with sufficient upward and downwardactive power reserve, which may include shared or exchanged reserves, to face imbalances between demand and supply within its control area. Each TSO shall control theFRCE as defined in the Article 143 in order to reach the required frequency quality within the synchronous area in cooperation with all TSOs in the same synchronous area.",
+      "together with the TSOs of theLFC blockshall implement coordinated actions to reduce theFRCEwhich shall be specified in theLFC block operational agreement.",
+      "13.   For the CE and Nordic synchronous areas, where the FRCE of a LFC block exceeds 25 % of the reference incident of the synchronous area for more than 30 consecutive minutes and if the TSOs of that LFC block do not expect to reduce sufficiently the FRCE with the actions taken pursuant to paragraph 15, the TSOs shall require changes in the active power production or consumption of power generating modules and demand units within their respective areas to reduce the FRCE as specified in paragraph 16.",
+      "9.   The TSOs of a LFC block shall endeavour to avoid FRCEs which last longer than the time to restore frequency.",
+      "1.   Each TSO shall operate its control area with sufficient upward and downward active power reserve, which may include shared or exchanged reserves, to face imbalances between demand and supply within its control area. Each TSO shall control the FRCE as defined in the Article 143 in order to reach the required frequency quality within the synchronous area in cooperation with all TSOs in the same synchronous area.",
+      "12.   If the 1-minute average of the FRCE of a LFC block is above the Level 2 FRCE range at least during the time necessary to restore frequency and where the TSOs of a LFC block do not expect that FRCE will be sufficiently reduced by undertaking the actions in paragraph 15, TSOs shall have the right to require changes in the active power production or consumption of power generating modules and demand units within their respective areas to reduce the FRCE as specified in paragraph 16.",
+      "16.   The TSOs of aLFC blockshall specify, in theLFC block operational agreement, measures to reduce theFRCE by means of changes in the active power production or consumption of power generating modules and demand units within their area."
+    ],
+    "Article 160": [
+      "there shall be sufficientreserve capacityonRR, where this is taken into account to dimension the reserve capacity onFRRin order to respect theFRCE quality target for the period of time concerned; and",
+      "there shall be sufficient reserve capacity on RR, where this is taken into account to dimension the reserve capacity on FRR in order to respect the FRCE quality target for the period of time concerned; and"
+    ],
+    "Article 163": [
+      "6.   All TSOs of aLFC areashall adjust the parameters of theirFRCEcalculation to account for the exchange ofFCR.",
+      "6.   All TSOs of a LFC area shall adjust the parameters of their FRCE calculation to account for the exchange of FCR."
+    ],
+    "Article 179": [
+      "the ability of the TSOs of the synchronous area to comply with the frequency quality target parameters defined in accordance with Article 127 and the ability of the LFC blocks to comply with the FRCE error target parameters defined in accordance with Article 128; and",
+      "the ability of the TSOs of the synchronous area to comply with thefrequency quality target parameters defined in accordance with Article 127 and the ability of theLFC blocks to comply with theFRCE error target parameters defined in accordance with Article 128; and"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Article 6": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 119": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 128": {
+      "article_score": 6,
+      "statement_scores": [
+        2,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1
+      ]
+    },
+    "Article 131": {
+      "article_score": 17,
+      "statement_scores": [
+        3,
+        3,
+        0,
+        4,
+        3,
+        1,
+        3
+      ]
+    },
+    "Article 137": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 141": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    },
+    "Article 143": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 145": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        0
+      ]
+    },
+    "Article 146": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1,
+        0
+      ]
+    },
+    "Article 147": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 148": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 151": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        3,
+        1,
+        2,
+        1
+      ]
+    },
+    "Article 152": {
+      "article_score": 17,
+      "statement_scores": [
+        0,
+        1,
+        2,
+        0,
+        1,
+        1,
+        0,
+        1,
+        3,
+        0,
+        0,
+        3,
+        0,
+        1,
+        4,
+        0
+      ]
+    },
+    "Article 160": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    },
+    "Article 163": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    },
+    "Article 179": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    }
+  }
+}

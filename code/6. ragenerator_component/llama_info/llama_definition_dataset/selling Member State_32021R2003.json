@@ -1,0 +1,24 @@
+{
+  "term": "selling Member State",
+  "celex_id": "32021R2003",
+  "original_definition": "'selling Member State' means a Member State that enters into a statistical transfer agreement to sell a certain statistical quantity of renewable energy to another Member State which is deducted from the amount of energy from renewable sources that is taken into account in calculating the former Member State\u2019s renewable energy share pursuant to Article 8(1) of Directive (EU) 2018/2001;",
+  "generated_definition": "'selling Member State' means the member state where a product is sold or offered for sale.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018selling Member State\u2019 means a Member State that enters into astatistical transferagreement to sell a certain statistical quantity ofrenewable energyto another Member State which is deducted from the amount ofenergy from renewable sources that is taken into account in calculating the former Member State\u2019s renewable energy share pursuant to Article 8(1) of Directive (EU) 2018/2001;",
+      "\u2018selling Member State\u2019 means a Member State that enters into a statistical transfer agreement to sell a certain statistical quantity of renewable energy to another Member State which is deducted from the amount of energy from renewable sources that is taken into account in calculating the former Member State\u2019s renewable energy share pursuant to Article 8(1) of Directive (EU) 2018/2001;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

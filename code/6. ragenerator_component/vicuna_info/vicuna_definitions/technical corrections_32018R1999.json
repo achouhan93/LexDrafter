@@ -1,0 +1,31 @@
+{
+  "term": "technical corrections",
+  "celex_id": "32018R1999",
+  "original_definition": "'technical corrections' means adjustments to the national greenhouse gas inventory estimates made in the context of the review carried out pursuant to Article 38 when the submitted inventory data are incomplete or are prepared in a way that is not consistent with relevant international or Union rules or guidelines and that are intended to replace originally submitted estimates;",
+  "generated_definition": "'technical corrections' means corrections made to technical aspects of a document, typically in consultation with member states, to ensure accuracy and compliance with legislative requirements.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018technical corrections\u2019 means adjustments to the national greenhouse gas inventory estimates made in the context of the review carried out pursuant to Article 38 when the submitted inventory data are incomplete or are prepared in a way that is not consistent with relevant international or Union rules or guidelines and that are intended to replace originally submitted estimates;"
+    ],
+    "Article 38": [
+      "where appropriate, calculating the resulting technical corrections necessary, in consultation with the Member States."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 38": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

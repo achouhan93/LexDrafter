@@ -1,0 +1,120 @@
+{
+  "term": "reserve instructing TSO",
+  "celex_id": "32017R1485",
+  "original_definition": "'reserve instructing TSO' means the TSO responsible for the instruction of the reserve providing unit or the reserve providing group to activate FRR and/or RR;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018reserve instructing TSO\u2019 means the TSO responsible for the instruction of the reserve providing unit or the reserve providing group to activate FRR and/or RR;",
+      "\u2018reserve instructing TSO\u2019 means the TSO responsible for the instruction of thereserve providing unitor thereserve providing groupto activateFRR and/or RR;"
+    ],
+    "Article 158": [
+      "5.   Each reserve instructing TSO shall ensure the monitoring of the compliance with the FRR minimum technical requirements in paragraph 1, the FRR availability requirements in paragraph 2, the ramping rate requirements in paragraph 1 and the connection requirements in paragraph 3 by its FRR providing units and FRR providing groups.",
+      "the reserve instructing TSO shall be the reserve connecting TSO or a TSO designated by the reserve connecting TSO in an FRR exchange agreement pursuant to Article 165(3) or 171(4);",
+      "inform its reserve instructing TSO about a reduction of the actual availability of its FRR providing unit or its FRR providing group or a part of its FRR providing group as soon as possible.",
+      "a FRR providing unit or FRR providing group shall activate FRR in accordance with the setpoint received from the reserve instructing TSO;",
+      "a FRR provider shall ensure that the FRR activation of the FRR providing units within a reserve providing group can be monitored. For that purpose, the FRR provider shall be capable of supplying to the reserve connecting TSO and the reserve instructing TSO real-time measurements of the connection point or another point of interaction agreed with the reserve connecting TSO concerning:"
+    ],
+    "Article 161": [
+      "inform its reserve instructing TSO about a reduction of the actual availability or a forced outage of its RR providing unit or its RR providing group or a part of its RR providing group as soon as possible.",
+      "thereserve instructing TSOshall be thereserve connecting TSOor a TSO that shall be designated by the reserve connecting TSO in theRR exchange agreement pursuant to Article 165(3) or 171(4);",
+      "a RR provider shall ensure that the RR activation of the RR providing units within a reserve providing group can be monitored. For that purpose, the RR provider shall be capable of supplying to the reserve connecting TSO and the reserve instructing TSO real-time measurements of the connection point or another point of interaction agreed with the reserve connecting TSO concerning:",
+      "inform itsreserve instructing TSOabout a reduction of the actual availability or aforced outageof itsRR providing unit or its RR providing group or a part of its RR providing group as soon as possible.",
+      "RR activation according to the setpoint received from the reserve instructing TSO;",
+      "5.   Each reserve instructing TSO shall ensure compliance with the RR technical requirements, the RR availability requirements and the connection requirements referred to in this Article with regard to its RR providing units and RR providing groups.",
+      "de-activation of RR according to the setpoint received from the reserve instructing TSO;",
+      "5.   Eachreserve instructing TSOshall ensure compliance with theRRtechnical requirements, theRR availability requirements and the connection requirements referred to in this Article with regard to its RR providing units and RR providing groups.",
+      "RRactivation according to the setpoint received from thereserve instructing TSO;",
+      "aRRprovider shall ensure that the RR activation of the RR providing units within areserve providing groupcan be monitored. For that purpose, the RR provider shall be capable of supplying to thereserve connecting TSOand thereserve instructing TSO real-time measurements of the connection point or another point of interaction agreed with the reserve connecting TSO concerning:",
+      "the reserve instructing TSO shall be the reserve connecting TSO or a TSO that shall be designated by the reserve connecting TSO in the RR exchange agreement pursuant to Article 165(3) or 171(4);",
+      "de-activation ofRRaccording to the setpoint received from thereserve instructing TSO;"
+    ],
+    "Article 165": [
+      "FRR/RR technical minimum requirements related to the cross-border FRR/RR activation process where thereserve connecting TSOis not thereserve instructing TSO;",
+      "the responsibility of thereserve instructing TSOfor thereserve capacityonFRR and RR subject to the exchange of FRR/RR;",
+      "FRR/RR technical minimum requirements related to the cross-border FRR/RR activation process where the reserve connecting TSO is not the reserve instructing TSO;",
+      "the responsibility of the reserve instructing TSO for the reserve capacity on FRR and RR subject to the exchange of FRR/RR;"
+    ],
+    "Article 166": [
+      "the reserve instructing TSO for the reserve capacity on FRR and RR subject to the sharing of FRR/RR; or",
+      "thereserve instructing TSOfor thereserve capacityonFRR and RR subject to the sharing of FRR/RR; or"
+    ],
+    "Article 171": [
+      "the responsibility of thereserve instructing TSOfor thereserve capacity of the reserve exchange;",
+      "the responsibility of the reserve instructing TSO for the reserve capacity of the reserve exchange;"
+    ],
+    "Article 175": [
+      "thereserve instructing TSOfor thereserve capacityonFRR and RR subject to the sharing of FRR or RR; or",
+      "the reserve instructing TSO for the reserve capacity on FRR and RR subject to the sharing of FRR or RR; or"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 158": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 161": {
+      "article_score": 12,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 165": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 166": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 171": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 175": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "term": "petrol vapour",
+  "celex_id": "32009L0126",
+  "original_definition": "'petrol vapour' means any gaseous compound which evaporates from petrol;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Stage II petrol vapour recovery systempetrol vapourrecovery systempetrol vapourrecovery system\u2019 means equipment aimed at recovering the petrol vapour displaced from the fuel tank of a motor vehicle during refuelling at aservice station and which transfers that petrol vapour to a storage tank at the service station or back to the petrol dispenser for resale;",
+      "\u2018Stage II petrol vapour recovery systempetrol vapourrecovery system\u2019 means equipment aimed at recovering the petrol vapour displaced from the fuel tank of a motor vehicle during refuelling at aservice station and which transfers that petrol vapour to a storage tank at the service station or back to the petrol dispenser for resale;",
+      "\u2018petrol vapour\u2019 means any gaseous compound which evaporates from petrol;",
+      "\u2018vapour/petrol ratio\u2019 means the ratio between the volume at atmospheric pressure of petrol vapour passing through the Stage II petrol vapour recovery system and the volume of petrol dispensed;",
+      "\u2018vapour/petrol ratio\u2019 means the ratio between the volume at atmospheric pressure ofpetrol vapourpassing through theStage II petrol vapour recovery system and the volume of petrol dispensed;",
+      "\u2018Stage II petrol vapour recovery systempetrol vapourrecovery systempetrol vapourrecovery systempetrol vapourrecovery system\u2019 means equipment aimed at recovering the petrol vapour displaced from the fuel tank of a motor vehicle during refuelling at aservice station and which transfers that petrol vapour to a storage tank at the service station or back to the petrol dispenser for resale;",
+      "\u2018Stage II petrol vapour recovery system\u2019 means equipment aimed at recovering the petrol vapour displaced from the fuel tank of a motor vehicle during refuelling at a service station and which transfers that petrol vapour to a storage tank at the service station or back to the petrol dispenser for resale;"
+    ],
+    "Article 4": [
+      "2.   With effect from the date on whichStage II petrol vapour recovery systempetrol vapourrecovery systempetrol vapourrecovery systempetrol vapourrecovery systempetrol vapourrecovery systems become mandatory pursuant to Article 3, where the recovered petrol vapour is transferred to a storage tank at theservice station, thevapour/petrol ratio shall be equal to or greater than 0,95 but less than or equal to 1,05.",
+      "2.   With effect from the date on whichStage II petrol vapour recovery systempetrol vapourrecovery systempetrol vapourrecovery systems become mandatory pursuant to Article 3, where the recovered petrol vapour is transferred to a storage tank at theservice station, thevapour/petrol ratio shall be equal to or greater than 0,95 but less than or equal to 1,05.",
+      "2.   With effect from the date on whichStage II petrol vapour recovery systempetrol vapourrecovery systempetrol vapourrecovery systempetrol vapourrecovery systems become mandatory pursuant to Article 3, where the recovered petrol vapour is transferred to a storage tank at theservice station, thevapour/petrol ratio shall be equal to or greater than 0,95 but less than or equal to 1,05.",
+      "2.   With effect from the date on whichStage II petrol vapour recovery systempetrol vapourrecovery systems become mandatory pursuant to Article 3, where the recovered petrol vapour is transferred to a storage tank at theservice station, thevapour/petrol ratio shall be equal to or greater than 0,95 but less than or equal to 1,05.",
+      "2.   With effect from the date on which Stage II petrol vapour recovery systems become mandatory pursuant to Article 3, where the recovered petrol vapour is transferred to a storage tank at the service station, the vapour/petrol ratio shall be equal to or greater than 0,95 but less than or equal to 1,05."
+    ],
+    "Article 5": [
+      "3.   When aservice stationhas installed aStage II petrol vapour recovery systempetrol vapour recovery systempetrol vapour recovery systempetrol vapour recovery system, Member States shall ensure that it displays a sign, sticker or other notification on, or in the vicinity of, the petrol dispenser, informing consumers of that fact.",
+      "3.   When aservice stationhas installed aStage II petrol vapour recovery systempetrol vapour recovery systempetrol vapour recovery system, Member States shall ensure that it displays a sign, sticker or other notification on, or in the vicinity of, the petrol dispenser, informing consumers of that fact.",
+      "3.   When a service station has installed a Stage II petrol vapour recovery system, Member States shall ensure that it displays a sign, sticker or other notification on, or in the vicinity of, the petrol dispenser, informing consumers of that fact.",
+      "3.   When aservice stationhas installed aStage II petrol vapour recovery systempetrol vapour recovery system, Member States shall ensure that it displays a sign, sticker or other notification on, or in the vicinity of, the petrol dispenser, informing consumers of that fact."
+    ],
+    "Not Article": [
+      "Directive 94/63/EC of the European Parliament and of the Council of 20 December 1994 on the control of volatile organic compound (VOC) emissions resulting from the storage of petrol and its distribution from terminals to service stations (7) (Stage I petrol vapour recovery) aims to recover petrol vapour emitted from the storage and distribution of petrol between oil terminals and service stations.",
+      "Petrol vapouris also emitted during the refuelling of motor vehicles atservice stations and should be recovered in a manner consistent with the provisions of Directive 94/63/EC.",
+      "Directive 94/63/EC of the European Parliament and of the Council of 20 December 1994 on the control of volatile organic compound (VOC) emissions resulting from the storage ofpetroland its distribution from terminals toservice stations (7) (Stage Ipetrol vapour recovery) aims to recover petrol vapour emitted from the storage and distribution of petrol between oil terminals and service stations.",
+      "Petrol vapour is also emitted during the refuelling of motor vehicles at service stations and should be recovered in a manner consistent with the provisions of Directive 94/63/EC."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 22,
+      "statement_scores": [
+        5,
+        4,
+        0,
+        2,
+        2,
+        6,
+        3
+      ]
+    },
+    "Article 4": {
+      "article_score": 20,
+      "statement_scores": [
+        6,
+        4,
+        5,
+        3,
+        2
+      ]
+    },
+    "Article 5": {
+      "article_score": 10,
+      "statement_scores": [
+        4,
+        3,
+        1,
+        2
+      ]
+    },
+    "Not Article": {
+      "article_score": 6,
+      "statement_scores": [
+        2,
+        1,
+        2,
+        1
+      ]
+    }
+  }
+}

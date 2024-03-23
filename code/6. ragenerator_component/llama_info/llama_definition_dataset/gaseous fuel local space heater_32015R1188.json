@@ -1,0 +1,24 @@
+{
+  "term": "gaseous fuel local space heater",
+  "celex_id": "32015R1188",
+  "original_definition": "'gaseous fuel local space heater' means an open fronted local space heater or a closed fronted local space heater using gaseous fuel;",
+  "generated_definition": "'gaseous fuel local space heater' means a heating appliance that uses gaseous fuel, such as natural gas or propane, to heat a limited space or area within a building.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018gaseous fuel local space heater\u2019 means an open fronted local space heater or a closed fronted local space heater using gaseous fuel;",
+      "\u2018gaseous fuel local space heater\u2019 means anopen fronted local space heateror aclosed fronted local space heater using gaseous fuel;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

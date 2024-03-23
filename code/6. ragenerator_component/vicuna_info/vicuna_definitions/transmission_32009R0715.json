@@ -1,0 +1,524 @@
+{
+  "term": "transmission",
+  "celex_id": "32009R0715",
+  "original_definition": "'transmission' means the transport of natural gas through a network, which mainly contains high-pressure pipelines, other than an upstream pipeline network and other than the part of high-pressure pipelines primarily used in the context of local distribution of natural gas, with a view to its delivery to customers, but not including supply;",
+  "generated_definition": "'transmission' means the coordination of the maintenance of transmission system operators' networks to minimize disruption of transmission services and ensure equal benefits with respect to security of supply, including in relation to transit. transmission system operators shall publish planned and unplanned maintenance, and provide regular updates on the duration and effect of maintenance.",
+  "existing_sentences": {
+    "Article\u00a01": [
+      "The Member States may establish an entity or body set up in compliance with Directive 2009/73/EC for the purpose of carrying out one or more functions typically attributed to the transmission system operator, which shall be subject to the requirements of this Regulation. That entity or body shall be subject to certification in accordance with Article 3 of this Regulation and shall be subject to designation in accordance with Article 10 of Directive 2009/73/EC.",
+      "setting non-discriminatory rules for access conditions to natural gas transmission systems taking into account the special characteristics of national and regional markets with a view to ensuring the proper functioning of the internal market in gas;"
+    ],
+    "Article\u00a02": [
+      "\u2018firm capacity\u2019 means gastransmission capacity contractually guaranteed as uninterruptible by the transmission system operator;",
+      "\u2018technical capacity\u2019 means the maximumfirm capacitythat thetransmissionsystem operator can offer to thenetwork users, taking account ofsystem integrity and the operational requirements of the transmission network;",
+      "\u2018system integrity\u2019 means any situation in respect of atransmission network including necessary transmission facilities in which the pressure and the quality of the natural gas remain within the minimum and maximum limits laid down by the transmission system operator, so that the transmission of natural gas is guaranteed from a technical standpoint;",
+      "\u2018long-term services\u2019 means services offered by thetransmission system operator with a duration of one year or more;",
+      "\u2018contracted capacity\u2019 means capacity that thetransmissionsystem operator has allocated to anetwork userby means of atransport contract;",
+      "\u2018nomination\u2019 means the prior reporting by the network user to the transmission system operator of the actual flow that the network user wishes to inject into or withdraw from the system;",
+      "\u2018congestion management\u2019 means management of the capacity portfolio of the transmission system operator with a view to optimal and maximum use of the technical capacity and the timely detection of future congestion and saturation points;",
+      "\u2018balancing period\u2019 means the period within which the off-take of an amount of natural gas, expressed in units of energy, must be offset by every network user by means of the injection of the same amount of natural gas into the transmission network in accordance with the transport contract or the network code;",
+      "\u2018transport contract\u2019 means a contract which the transmission system operator has concluded with a network user with a view to carrying out transmission;",
+      "\u2018primary market\u2019 means the market of the capacity traded directly by the transmission system operator;",
+      "The definitions in points 3 to 23 of paragraph 1 of this Article in relation to transmission apply by analogy in relation to storage and LNG facilities.",
+      "\u2018transport contract\u2019 means a contract which thetransmissionsystem operator has concluded with anetwork user with a view to carrying out transmission;",
+      "\u2018balancing period\u2019 means the period within which the off-take of an amount of natural gas, expressed in units of energy, must be offset by everynetwork userby means of the injection of the same amount of natural gas into thetransmissionnetwork in accordance with thetransport contract or the network code;",
+      "\u2018interruptible services\u2019 means services offered by the transmission system operator in relation to interruptible capacity;",
+      "\u2018firm services\u2019 mean services offered by the transmission system operator in relation to firm capacity;",
+      "\u2018technical capacity\u2019 means the maximum firm capacity that the transmission system operator can offer to the network users, taking account of system integrity and the operational requirements of the transmission network;",
+      "\u2018short-term services\u2019 means services offered by the transmission system operator with a duration of less than one year;",
+      "\u2018short-term services\u2019 means services offered by thetransmission system operator with a duration of less than one year;",
+      "\u2018primary market\u2019 means the market of thecapacitytraded directly by thetransmission system operator;",
+      "\u2018long-term services\u2019 means services offered by the transmission system operator with a duration of one year or more;",
+      "\u2018system integrity\u2019 means any situation in respect of a transmission network including necessary transmission facilities in which the pressure and the quality of the natural gas remain within the minimum and maximum limits laid down by the transmission system operator, so that the transmission of natural gas is guaranteed from a technical standpoint;",
+      "\u2018congestion management\u2019 means management of thecapacityportfolio of thetransmissionsystem operator with a view to optimal and maximum use of thetechnical capacity and the timely detection of future congestion and saturation points;",
+      "\u2018network user\u2019 means a customer or a potential customer of a transmission system operator, and transmission system operators themselves in so far as it is necessary for them to carry out their functions in relation to transmission;",
+      "\u2018contracted capacity\u2019 means capacity that the transmission system operator has allocated to a network user by means of a transport contract;",
+      "\u2018interruptible capacity\u2019 means gastransmissioncapacity that may be interrupted by the transmission system operator in accordance with the conditions stipulated in thetransport contract;",
+      "\u2018transmission\u2019 means the transport of natural gas through a network, which mainly contains high-pressure pipelines, other than an upstream pipeline network and other than the part of high-pressure pipelines primarily used in the context of local distribution of natural gas, with a view to its delivery to customers, but not including supply;",
+      "\u2018firm capacity\u2019 means gas transmission capacity contractually guaranteed as uninterruptible by the transmission system operator;",
+      "\u2018nomination\u2019 means the prior reporting by thenetwork userto thetransmission system operator of the actual flow that the network user wishes to inject into or withdraw from the system;",
+      "\u2018network user\u2019 means a customer or a potential customer of atransmission system operator, and transmission system operators themselves in so far as it is necessary for them to carry out their functions in relation to transmission;",
+      "\u2018interruptible capacity\u2019 means gas transmission capacity that may be interrupted by the transmission system operator in accordance with the conditions stipulated in the transport contract;",
+      "2.   Without prejudice to the definitions in paragraph 1 of this Article, the definitions contained in Article 2 of Directive 2009/73/EC, which are relevant for the application of this Regulation, also apply, with the exception of the definition of transmission in point 3 of that Article."
+    ],
+    "Article\u00a03": [
+      "Certification of transmission system operators",
+      "6.   Where the Commission has received notification of the certification of a transmission system operator under Article 9(10) of Directive 2009/73/EC, the Commission shall take a decision relating to certification. The regulatory authority shall comply with the Commission decision.",
+      "3.   At any time during the procedure regulatory authorities and/or the Commission may request from a transmission system operator and/or an undertaking performing any of the functions of production or supply any information relevant to the fulfilment of their tasks under this Article.",
+      "2.   Within two months of receiving an opinion of the Commission, the national regulatory authority shall adopt its final decision regarding the certification of the transmission system operator, taking the utmost account of that opinion. The regulatory authority's decision and the Commission's opinion shall be published together.",
+      "1.   The Commission shall examine any notification of a decision on the certification of a transmission system operator as laid down in Article 10(6) of Directive 2009/73/EC as soon as it is received. Within two months of the day of receipt of such notification, the Commission shall deliver its opinion to the relevant national regulatory authority in regard to its compatibility with Article 10(2) or Article 11, and Article 9 of Directive 2009/73/EC."
+    ],
+    "Article\u00a04": [
+      "European network of transmission system operators for gas",
+      "All transmission system operators shall cooperate at Community level through the ENTSO for Gas, in order to promote the completion and functioning of the internal market in natural gas and cross-border trade and to ensure the optimal management, coordinated operation and sound technical evolution of the natural gas transmission network."
+    ],
+    "Article\u00a05": [
+      "1.   By 3 March 2011, the transmission system operators for gas shall submit to the Commission and to the Agency the draft statutes, a list of members and draft rules of procedure, including the rules of procedures on the consultation of other stakeholders, of the ENTSO for Gas to be established.",
+      "4.   Within three months of the day of receipt of the Commission's opinion, the transmission system operators shall establish the ENTSO for Gas, adopt and publish its statutes and rules of procedure."
+    ],
+    "Article\u00a07": [
+      "1.   Draft amendments to any network code adopted under Article 6 may be proposed to the Agency by persons who are likely to have an interest in that network code, including the ENTSO for Gas,transmissionsystem operators,network users and consumers. The Agency may also propose amendments of its own initiative.",
+      "1.   Draft amendments to any network code adopted under Article 6 may be proposed to the Agency by persons who are likely to have an interest in that network code, including the ENTSO for Gas, transmission system operators, network users and consumers. The Agency may also propose amendments of its own initiative."
+    ],
+    "Article\u00a08": [
+      "recommendations relating to the coordination of technical cooperation between Community and third-country transmission system operators;",
+      "balancing rules including network-related rules onnominations procedure, rules for imbalance charges and rules for operational balancing betweentransmission system operators' systems;",
+      "4.   The European supply adequacy outlook referred to in point (b) of paragraph 3 shall cover the overall adequacy of the gas system to supply current and projected demands for gas for the next five-year period as well as for the period between five and 10 years from the date of that outlook. The European supply adequacy outlook shall build on national supply outlooks prepared by each individual transmission system operator.",
+      "rules regarding harmonised transmission tariff structures; and",
+      "balancing rules including network-related rules on nominations procedure, rules for imbalance charges and rules for operational balancing between transmission system operators' systems;"
+    ],
+    "Article\u00a011": [
+      "The costs related with the activities of the ENTSO for Gas referred to in Articles 4 to 12 shall be borne by the transmission system operators and shall be taken into account in the calculation of tariffs. Regulatory authorities shall approve those costs only if they are reasonable and proportionate."
+    ],
+    "Article\u00a012": [
+      "1.   Transmission system operators shall establish regional cooperation within the ENTSO for Gas to contribute to the tasks referred to in Article 8(1), (2) and (3). In particular, they shall publish a regional investment plan every two years, and may take investment decisions based on that regional investment plan.",
+      "2.   Transmission system operators shall promote operational arrangements in order to ensure the optimum management of the network and shall promote the development of energy exchanges, the coordinated allocation of cross-border capacity through non-discriminatory market-based solutions, paying due attention to the specific merits of implicit auctions for short-term allocations and the integration of balancing mechanisms.",
+      "2.Transmissionsystem operators shall promote operational arrangements in order to ensure the optimum management of the network and shall promote the development of energy exchanges, the coordinated allocation of cross-bordercapacity through non-discriminatory market-based solutions, paying due attention to the specific merits of implicit auctions for short-term allocations and the integration of balancing mechanisms.",
+      "Regional cooperation of transmission system operators"
+    ],
+    "Article\u00a013": [
+      "Tariffs for network users shall be non-discriminatory and set separately for every entry point into or exit point out of the transmission system. Cost-allocation mechanisms and rate setting methodology regarding entry points and exit points shall be approved by the national regulatory authorities. By 3 September 2011, the Member States shall ensure that, after a transitional period, network charges shall not be calculated on the basis of contract paths.",
+      "Tariffs, or the methodologies used to calculate them, shall facilitate efficient gas trade and competition, while at the same time avoiding cross-subsidies betweennetwork users and providing incentives for investment and maintaining or creating interoperability fortransmission networks.",
+      "1.   Tariffs, or the methodologies used to calculate them, applied by the transmission system operators and approved by the regulatory authorities pursuant to Article 41(6) of Directive 2009/73/EC, as well as tariffs published pursuant to Article 32(1) of that Directive, shall be transparent, take into account the need for system integrity and its improvement and reflect the actual costs incurred, insofar as such costs correspond to those of an efficient and structurally comparable network operator and are transparent, whilst including an appropriate return on investments, and, where appropriate, taking account of the benchmarking of tariffs by the regulatory authorities. Tariffs, or the methodologies used to calculate them, shall be applied in a non-discriminatory manner.",
+      "Tariffs fornetwork users shall be non-discriminatory and set separately for every entry point into or exit point out of thetransmission system. Cost-allocation mechanisms and rate setting methodology regarding entry points and exit points shall be approved by the national regulatory authorities. By 3 September 2011, the Member States shall ensure that, after a transitional period, network charges shall not be calculated on the basis of contract paths.",
+      "2.   Tariffs for network access shall neither restrict market liquidity nor distort trade across borders of different transmission systems. Where differences in tariff structures or balancing mechanisms would hamper trade across transmission systems, and notwithstanding Article 41(6) of Directive 2009/73/EC, transmission system operators shall, in close cooperation with the relevant national authorities, actively pursue convergence of tariff structures and charging principles, including in relation to balancing.",
+      "Tariffs, or the methodologies used to calculate them, shall facilitate efficient gas trade and competition, while at the same time avoiding cross-subsidies between network users and providing incentives for investment and maintaining or creating interoperability for transmission networks.",
+      "1.   Tariffs, or the methodologies used to calculate them, applied by thetransmissionsystem operators and approved by the regulatory authorities pursuant to Article 41(6) of Directive 2009/73/EC, as well as tariffs published pursuant to Article 32(1) of that Directive, shall be transparent, take into account the need forsystem integrity and its improvement and reflect the actual costs incurred, insofar as such costs correspond to those of an efficient and structurally comparable network operator and are transparent, whilst including an appropriate return on investments, and, where appropriate, taking account of the benchmarking of tariffs by the regulatory authorities. Tariffs, or the methodologies used to calculate them, shall be applied in a non-discriminatory manner."
+    ],
+    "Article\u00a014": [
+      "Third-party access services concerning transmission system operators",
+      "In regard to point (a) of the first subparagraph, where atransmissionsystem operator offers the same service to different customers, it shall do so under equivalent contractual terms and conditions, either using harmonisedtransport contracts or a common network code approved by the competent authority in accordance with the procedure laid down in Article 41 of Directive 2009/73/EC.",
+      "1.   Transmission system operators shall:",
+      "In regard to point (a) of the first subparagraph, where a transmission system operator offers the same service to different customers, it shall do so under equivalent contractual terms and conditions, either using harmonised transport contracts or a common network code approved by the competent authority in accordance with the procedure laid down in Article 41 of Directive 2009/73/EC."
+    ],
+    "Article\u00a015": [
+      "offer services that are compatible with the use of the interconnected gas transport systems and facilitate access through cooperation with the transmission system operator; and"
+    ],
+    "Article\u00a016": [
+      "Principles of capacity-allocation mechanisms and congestion-management procedures concerning transmission system operators",
+      "2.   Thetransmissionsystem operator shall implement and publish non-discriminatory and transparentcapacity-allocation mechanisms, which shall:",
+      "4.   In the event thatphysical congestionexists, non-discriminatory, transparentcapacity-allocation mechanisms shall be applied by thetransmission system operator or, as appropriate, by the regulatory authorities.",
+      "2.   The transmission system operator shall implement and publish non-discriminatory and transparent capacity-allocation mechanisms, which shall:",
+      "In regard to point (b) of the first subparagraph, a Member State may require notification or information of thetransmissionsystem operator bynetwork users.",
+      "3.   The transmission system operator shall implement and publish non-discriminatory and transparent congestion-management procedures which facilitate cross-border exchanges in natural gas on a non-discriminatory basis and which shall be based on the following principles:",
+      "in the event of contractual congestion, the transmission system operator shall offer unused capacity on the primary market at least on a day-ahead and interruptible basis; and",
+      "4.   In the event that physical congestion exists, non-discriminatory, transparent capacity-allocation mechanisms shall be applied by the transmission system operator or, as appropriate, by the regulatory authorities.",
+      "In regard to point (b) of the first subparagraph, a Member State may require notification or information of the transmission system operator by network users.",
+      "5.   Transmission system operators shall regularly assess market demand for new investment. When planning new investments, transmission system operators shall assess market demand and take into account security of supply.",
+      "Principles ofcapacity-allocation mechanisms and congestion-management procedures concerningtransmission system operators"
+    ],
+    "Article\u00a018": [
+      "5.   The transmission system operator shall always disclose the information required by this Regulation in a meaningful, quantifiably clear and easily accessible manner and on a non-discriminatory basis.",
+      "Transparency requirements concerning transmission system operators",
+      "1.   The transmission system operator shall make public detailed information regarding the services it offers and the relevant conditions applied, together with the technical information necessary for network users to gain effective network access.",
+      "1.   Thetransmissionsystem operator shall make public detailed information regarding the services it offers and the relevant conditions applied, together with the technical information necessary fornetwork users to gain effective network access.",
+      "4.   The relevant points of a transmission system on which the information is to be made public shall be approved by the competent authorities after consultation with network users.",
+      "6.   The transmission system operator shall make public ex-ante and ex-post supply and demand information, based on nominations, forecasts and realised flows in and out of the system. The national regulatory authority shall ensure that all such information is made public. The level of detail of the information that is made public shall reflect the information available to the transmission system operator.",
+      "3.   For the services provided, each transmission system operator shall make public information on technical, contracted and available capacities on a numerical basis for all relevant points including entry and exit points on a regular and rolling basis and in a user-friendly and standardised manner.",
+      "The transmission system operator shall make public measures taken as well as costs incurred and revenue generated to balance the system.",
+      "4.   The relevant points of atransmissionsystem on which the information is to be made public shall be approved by the competent authorities after consultation withnetwork users.",
+      "2.   In order to ensure transparent, objective and non-discriminatory tariffs and facilitate efficient utilisation of the gas network, transmission system operators or relevant national authorities shall publish reasonably and sufficiently detailed information on tariff derivation, methodology and structure.",
+      "6.   Thetransmissionsystem operator shall make public ex-ante and ex-post supply and demand information, based onnominations, forecasts and realised flows in and out of the system. The national regulatory authority shall ensure that all such information is made public. The level of detail of the information that is made public shall reflect the information available to the transmission system operator.",
+      "The market participants concerned shall provide the transmission system operator with the data referred to in this Article."
+    ],
+    "Article\u00a019": [
+      "4.   LNG and storage system operators shall make public the amount of gas in each storage or LNG facility, or group of storage facilities if that corresponds to the way in which the access is offered to system users, inflows and outflows, and the available storage and LNG facility capacities, including for those facilities exempted from third-party access. That information shall also be communicated to the transmission system operator, which shall make it public on an aggregated level per system or subsystem defined by the relevant points. The information shall be updated at least daily.",
+      "The second subparagraph shall apply without prejudice to the obligations of communication to and publication by the transmission system operator referred to in the first subparagraph, unless the aggregated data are identical to the individual storage system data for which the national regulatory authority has approved non-publication."
+    ],
+    "Article\u00a020": [
+      "Transmission system operators, storage system operators and LNG system operators shall keep at the disposal of the national authorities, including the national regulatory authority, the national competition authority and the Commission, all information referred to in Articles 18 and 19, and in Part 3 of Annex I for a period of five years."
+    ],
+    "Article\u00a021": [
+      "1.   Balancing rules shall be designed in a fair, non-discriminatory and transparent manner and shall be based on objective criteria. Balancing rules shall reflect genuine system needs taking into account the resources available to the transmission system operator. Balancing rules shall be market-based.",
+      "Any calculation methodology for imbalance charges as well as the final tariffs shall be made public by the competent authorities or the transmission system operator, as appropriate.",
+      "2.   In order to enablenetwork users to take timely corrective action, thetransmission system operator shall provide sufficient, well-timed and reliable on-line based information on the balancing status of network users.",
+      "The information provided shall reflect the level of information available to the transmission system operator and the settlement period for which imbalance charges are calculated.",
+      "4.   Member States shall ensure that transmission system operators endeavour to harmonise balancing regimes and streamline structures and levels of balancing charges in order to facilitate gas trade.",
+      "2.   In order to enable network users to take timely corrective action, the transmission system operator shall provide sufficient, well-timed and reliable on-line based information on the balancing status of network users."
+    ],
+    "Article\u00a022": [
+      "Each transmission, storage and LNG system operator shall take reasonable steps to allow capacity rights to be freely tradable and to facilitate such trade in a transparent and non-discriminatory manner. Every such operator shall develop harmonised transport, LNG facility and storage contracts and procedures on the primary market to facilitate secondary trade of capacity and shall recognise the transfer of primary capacity rights where notified by system users.",
+      "Eachtransmission, storage and LNG system operator shall take reasonable steps to allowcapacityrights to be freely tradable and to facilitate such trade in a transparent and non-discriminatory manner. Every such operator shall develop harmonised transport, LNG facility and storage contracts and procedures on theprimary market to facilitate secondary trade of capacity and shall recognise the transfer of primary capacity rights where notified by system users."
+    ],
+    "Article\u00a023": [
+      "2.   Guidelines on the issues listed in points (a), (b) and (c) of paragraph 1 are laid down in Annex I with respect to transmission system operators."
+    ],
+    "Article\u00a029": [
+      "The Commission shall monitor the implementation of this Regulation. In its report under Article 52(6) of Directive 2009/73/EC, the Commission shall also report on the experience gained in the application of this Regulation. In particular, the report shall examine to what extent this Regulation has been successful in ensuring non-discriminatory and cost-reflective network access conditions for gas transmission networks in order to contribute to customer choice in a well-functioning internal market and to long-term security of supply. If necessary, the report shall be accompanied by appropriate proposals and/or recommendations."
+    ],
+    "Article\u00a030": [
+      "natural gas transmission systems which have been granted derogations under Article 48 of Directive 2009/73/EC.",
+      "natural gas transmission systems situated in Member States for the duration of derogations granted under Article 49 of Directive 2009/73/EC;"
+    ],
+    "Article\u00a032": [
+      "4.Transmissionsystem operators shall publish historical maximum and minimum monthlycapacity utilisation rates and annual average flows at all relevant points for the past three years on a rolling basis.",
+      "1.   Transmission system operators shall offer firm and interruptible services down to a minimum period of one day.",
+      "Transmissionsystem operators shall consultnetwork users regarding procedures prior to their implementation and agree them with the regulatory authority.",
+      "8.Transmissionsystem operators shall cooperate with other transmission system operators in coordinating the maintenance of their respective networks in order to minimise any disruption of transmission services tonetwork users and transmission system operators in other areas and in order to ensure equal benefits with respect to security of supply including in relation to transit.",
+      "2.   Principles ofcapacity-allocation mechanisms and congestion-management procedures concerningtransmissionsystem operators and their application in the event ofcontractual congestion",
+      "the most important exit points and exit zones covering at least 50 % of total exitcapacityof the network of a giventransmission system operator, including all exit points or exit zones covering more than 2 % of total exit capacity of the network;",
+      "1.   At all relevant points,transmissionsystem operators shall publish the following information about thecapacity situation down to daily periods on the Internet on a regular/rolling basis and in a user-friendly standardised manner:",
+      "6.   Transmission system operators shall keep effective records of all capacity contracts and all other relevant information in relation to calculating and providing access to available capacities, to which relevant national authorities shall have access to fulfil their duties.",
+      "all points connecting different networks of transmission system operators;",
+      "4.   Transmission system operators shall publish historical maximum and minimum monthly capacity utilisation rates and annual average flows at all relevant points for the past three years on a rolling basis.",
+      "3.Transmissionsystem operators shall develop network codes and harmonised contracts following proper consultation withnetwork users.",
+      "1.   In the event thatcontracted capacitygoes unused,transmissionsystem operators shall make that capacity available on theprimary marketon an interruptible basis via contracts of differing duration, as long as that capacity is not offered by the relevantnetwork useron thesecondary market at a reasonable price.",
+      "the rules applicable to capacity trade on the secondary market as regards the transmission system operator;",
+      "all essential points within the network of a given transmission system operator including points connecting to gas hubs. All points are considered essential which, based on experience, are likely to experience physical congestion;",
+      "3.   Transmission system operators shall publish daily updates of availability of short-term services (day-ahead and week-ahead) based, inter alia, on nominations, prevailing contractual commitments and regular long-term forecasts of available capacities on an annual basis for up to ten years for all relevant points.",
+      "4.Transmissionsystem operators shall implement standardisednominationandre-nominationprocedures. They shall develop information systems and electronic communication means to provide adequate data tonetwork users and to simplify transactions, such as nominations,capacity contracting and transfer of capacity rights between network users.",
+      "9.   Transmission system operators shall publish at least annually, by a predetermined deadline, all planned maintenance periods that might affect network users' rights from transport contracts and corresponding operational information with adequate advance notice. This shall include publishing on a prompt and non-discriminatory basis any changes to planned maintenance periods and notification of unplanned maintenance, as soon as that information becomes available to the transmission system operator. During maintenance periods, transmission system operators shall publish regularly updated information on the details of and expected duration and effect of the maintenance.",
+      "6.   Should difficulties in meeting contractual delivery obligations arise due tosystem integrityreasons,transmissionsystem operators should notifynetwork users and seek a non-discriminatory solution without delay.",
+      "all points connecting the network of a given transmission system operator to infrastructure necessary for providing ancillary services as defined by Article 2, point 14 of Directive 2009/73/EC.",
+      "3.   Transmission system operators shall develop network codes and harmonised contracts following proper consultation with network users.",
+      "4.   Where appropriate,transmissionsystem operators shall make reasonable endeavours to offer at least parts of theunused capacityto the market asfirm capacity.",
+      "the most important exit points and exit zones covering at least 50 % of total exit capacity of the network of a given transmission system operator, including all exit points or exit zones covering more than 2 % of total exit capacity of the network;",
+      "all essential points within the network of a giventransmissionsystem operator including points connecting to gas hubs. All points are considered essential which, based on experience, are likely to experiencephysical congestion;",
+      "1.   In the event that contracted capacity goes unused, transmission system operators shall make that capacity available on the primary market on an interruptible basis via contracts of differing duration, as long as that capacity is not offered by the relevant network user on the secondary market at a reasonable price.",
+      "5.Transmissionsystem operators shall harmonise formalised request procedures and response times according to best industry practice with the aim of minimising response times. They shall provide for online screen-basedcapacitybooking and confirmation systems andnominationandre-nominationprocedures no later than 1 July 2006 after consultation with the relevantnetwork users.",
+      "a detailed description of the gas system of the transmission system operator indicating all relevant points interconnecting its system with that of other transmission system operators and/or gas infrastructure such as liquefied natural gas (LNG) and infrastructure necessary for providing ancillary services as defined by Article 2 point 14 of Directive 2009/73/EC;",
+      "the rules applicable for connection to the system operated by the transmission system operator;",
+      "1.Transmissionsystem operators shall offer firm andinterruptible services down to a minimum period of one day.",
+      "9.Transmissionsystem operators shall publish at least annually, by a predetermined deadline, all planned maintenance periods that might affectnetwork users' rights fromtransport contracts and corresponding operational information with adequate advance notice. This shall include publishing on a prompt and non-discriminatory basis any changes to planned maintenance periods and notification of unplanned maintenance, as soon as that information becomes available to the transmission system operator. During maintenance periods, transmission system operators shall publish regularly updated information on the details of and expected duration and effect of the maintenance.",
+      "8.   Transmission system operators shall cooperate with other transmission system operators in coordinating the maintenance of their respective networks in order to minimise any disruption of transmission services to network users and transmission system operators in other areas and in order to ensure equal benefits with respect to security of supply including in relation to transit.",
+      "all points connecting the network of a transmission system operator with an LNG terminal;",
+      "the rules applicable tocapacitytrade on thesecondary marketas regards thetransmission system operator;",
+      "1.   At all relevant points, transmission system operators shall publish the following information about the capacity situation down to daily periods on the Internet on a regular/rolling basis and in a user-friendly standardised manner:",
+      "4.   Transmission system operators shall implement standardised nomination and re-nomination procedures. They shall develop information systems and electronic communication means to provide adequate data to network users and to simplify transactions, such as nominations, capacity contracting and transfer of capacity rights between network users.",
+      "1.   Third-party access services concerning transmission system operators",
+      "7.   Transmission system operators shall provide user-friendly instruments for calculating tariffs for the services available and for verifying on-line the capacity available.",
+      "10.   Transmission system operators shall maintain and make available to the competent authority upon request a daily log of the actual maintenance and flow disruptions that have occurred. Information shall also be made available on request to those affected by any disruption.",
+      "3.Transmissionsystem operators shall publish daily updates of availability ofshort-term services(day-ahead and week-ahead) based, inter alia, onnominations, prevailing contractual commitments and regular long-term forecasts of available capacities on an annual basis for up to ten years for all relevant points.",
+      "the harmonised procedures applied when using the transmission system, including the definition of key terms;",
+      "5.   Network users shall be advised about the type of circumstance that could affect the availability of contracted capacity. Information on interruption should reflect the level of information available to the transmission system operator.",
+      "6.Transmissionsystem operators shall keep effective records of allcapacity contracts and all other relevant information in relation to calculating and providing access to available capacities, to which relevant national authorities shall have access to fulfil their duties.",
+      "7.Transmissionsystem operators shall provide user-friendly instruments for calculating tariffs for the services available and for verifying on-line thecapacity available.",
+      "6.Transmissionsystem operators shall not separately chargenetwork users for information requests and transactions associated with theirtransport contracts and which are carried out according to standard rules and procedures.",
+      "all entry points to a network operated by a transmission system operator;",
+      "5.   Transmission system operators shall keep a daily log of actual aggregated flows for at least three months.",
+      "5.   Transmission system operators shall harmonise formalised request procedures and response times according to best industry practice with the aim of minimising response times. They shall provide for online screen-based capacity booking and confirmation systems and nomination and re-nomination procedures no later than 1 July 2006 after consultation with the relevant network users.",
+      "4.   Where appropriate, transmission system operators shall make reasonable endeavours to offer at least parts of the unused capacity to the market as firm capacity.",
+      "2.   For all relevant points, transmission system operators shall publish available capacities for a period of at least 18 months ahead and shall update that information at least every month or more frequently, if new information becomes available.",
+      "Transmission system operators shall publish at least the following information about their systems and services:",
+      "6.   Transmission system operators shall not separately charge network users for information requests and transactions associated with their transport contracts and which are carried out according to standard rules and procedures.",
+      "Transmission system operators shall consult network users regarding procedures prior to their implementation and agree them with the regulatory authority.",
+      "2.1.   Principles of capacity-allocation mechanisms and congestion-management procedures concerning transmission system operators",
+      "2.1.   Principles ofcapacity-allocation mechanisms and congestion-management procedures concerningtransmission system operators",
+      "8.   Where transmission system operators are unable to publish information in accordance with points 1, 3 and 7, they shall consult their relevant national authorities and set up an action plan for implementation as soon as possible, but no later than 31 December 2006.",
+      "2.   Principles of capacity-allocation mechanisms and congestion-management procedures concerning transmission system operators and their application in the event of contractual congestion",
+      "6.   Should difficulties in meeting contractual delivery obligations arise due to system integrity reasons, transmission system operators should notify network users and seek a non-discriminatory solution without delay."
+    ],
+    "Not Article": [
+      "Since the objective of this Regulation, namely the setting of fair rules for access conditions to natural gas transmission networks, storage and LNG facilities cannot be sufficiently achieved by the Member States and can therefore be better achieved at Community level, the Community may adopt measures, in accordance with the principle of subsidiarity, as set out in Article 5 of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve that objective.",
+      "References to harmonisedtransport contracts in the context of non-discriminatory access to the network oftransmission system operators do not mean that the terms and conditions of the transport contracts of a particular system operator in a Member State must be the same as those of another transmission system operator in that Member State or in another Member State, unless minimum requirements are set which must be met by all transport contracts.",
+      "Directive 2009/73/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in natural gas (6) provides for the possibility of a combined transmission and distribution system operator. The rules set out in this Regulation do not therefore require modification of the organisation of national transmission and distribution systems that are consistent with the relevant provisions of that Directive.",
+      "There is substantialcontractual congestionin the gas networks. The congestion-management andcapacity-allocation principles for new or newly negotiated contracts are therefore based on the freeing-up ofunused capacityby enablingnetwork users to sublet or resell their contracted capacities and the obligation oftransmissionsystem operators to offer unused capacity to the market, at least on a day-ahead and interruptible basis. Given the large proportion of existing contracts and the need to create a true level playing field between users of new and existing capacity, those principles should be applied to allcontracted capacity, including existing contracts.",
+      "To enhance trust in the market, its participants need to be sure that those engaging in abusive behaviour can be subjected to effective, proportionate and dissuasive penalties. The competent authorities should be given the competence to investigate effectively allegations of market abuse. To that end, it is necessary that competent authorities have access to data that provides information on operational decisions made by supply undertakings. In the gas market, all those decisions are communicated to the system operators in the form of capacity reservations, nominations and realised flows. System operators should keep information in relation thereto available to and easily accessible by the competent authorities for a fixed period of time. The competent authorities should, furthermore, regularly monitor the compliance of the transmission system operators with the rules.",
+      "In order to ensure greater transparency regarding the development of the gas transmission network in the Community, the ENTSO for Gas should draw up, publish and regularly update a non-binding Community-wide ten-year network development plan (Community-wide network development plan). Viable gas transmission networks and necessary regional interconnections, relevant from a commercial or security of supply point of view, should be included in that network development plan.",
+      "In particular, increased cooperation and coordination among transmission system operators is required to create network codes for providing and managing effective and transparent access to the transmission networks across borders, and to ensure coordinated and sufficiently forward looking planning and sound technical evolution of the transmission system in the Community, including the creation of interconnection capacities, with due regard to the environment. The network codes should be in line with framework guidelines which are non-binding in nature (framework guidelines) and which are developed by the Agency for the Cooperation of Energy Regulators established by Regulation (EC) No 713/2009 of the European Parliament and of the Council of 13 July 2009 establishing an Agency for the Cooperation of Energy Regulators (7) (the Agency). The Agency should have a role in reviewing, based on matters of fact, draft network codes, including their compliance with the framework guidelines, and it should be enabled to recommend them for adoption by the Commission. The Agency should assess proposed amendments to the network codes and it should be enabled to recommend them for adoption by the Commission. Transmission system operators should operate their networks in accordance with those network codes.",
+      "Directive 2003/55/EC of the European Parliament and of the Council of 26 June 2003 concerning common rules for the internal market in natural gas (4) and Regulation (EC) No 1775/2005 of the European Parliament and of the Council of 28 September 2005 on conditions for access to the natural gas transmission networks (5) have made significant contributions towards the creation of such an internal market in natural gas.",
+      "In order to ensure optimal management of the gas transmission network in the Community a European Network of Transmission System Operators for Gas (the ENTSO for Gas), should be established. The tasks of the ENTSO for Gas should be carried out in compliance with Community competition rules which remain applicable to the decisions of the ENTSO for Gas. The tasks of the ENTSO for Gas should be well-defined and its working method should ensure efficiency, transparency and the representative nature of the ENTSO for Gas. The network codes prepared by the ENTSO for Gas are not intended to replace the necessary national network codes for non cross-border issues. Given that more effective progress may be achieved through an approach at regional level, transmission system operators should set up regional structures within the overall cooperation structure, whilst ensuring that results at regional level are compatible with network codes and non-binding ten-year network development plans at Community level. Cooperation within such regional structures presupposes effective unbundling of network activities from production and supply activities. In the absence of such unbundling, regional cooperation between transmission system operators gives rise to a risk of anti-competitive conduct. Member States should promote cooperation and monitor the effectiveness of the network operations at regional level. Cooperation at regional level should be compatible with progress towards a competitive and efficient internal market in gas.",
+      "Non-discriminatory and transparent balancing systems for gas, operated by transmission system operators, are important mechanisms, particularly for new market entrants which may have more difficulty balancing their overall sales portfolio than companies already established within a relevant market. It is therefore necessary to lay down rules to ensure that transmission system operators operate such mechanisms in a manner compatible with non-discriminatory, transparent and effective access conditions to the network.",
+      "on conditions for access to the natural gas transmission networks and repealing Regulation (EC) No 1775/2005",
+      "Confidentiality requirements for commercially sensitive information are, however, particularly relevant where data of a commercially strategic nature for the company are concerned, where there is only one single user for a storage facility, or where data are concerned regarding exit points within a system or subsystem that is not connected to another transmission or distribution system but to a single industrial final customer, where the publication of such data would reveal confidential information as to the production process of that customer.",
+      "There is substantial contractual congestion in the gas networks. The congestion-management and capacity-allocation principles for new or newly negotiated contracts are therefore based on the freeing-up of unused capacity by enabling network users to sublet or resell their contracted capacities and the obligation of transmission system operators to offer unused capacity to the market, at least on a day-ahead and interruptible basis. Given the large proportion of existing contracts and the need to create a true level playing field between users of new and existing capacity, those principles should be applied to all contracted capacity, including existing contracts.",
+      "References to harmonised transport contracts in the context of non-discriminatory access to the network of transmission system operators do not mean that the terms and conditions of the transport contracts of a particular system operator in a Member State must be the same as those of another transmission system operator in that Member State or in another Member State, unless minimum requirements are set which must be met by all transport contracts.",
+      "To enhance trust in the market, its participants need to be sure that those engaging in abusive behaviour can be subjected to effective, proportionate and dissuasive penalties. The competent authorities should be given the competence to investigate effectively allegations of market abuse. To that end, it is necessary that competent authorities have access to data that provides information on operational decisions made by supply undertakings. In the gas market, all those decisions are communicated to the system operators in the form ofcapacityreservations,nominations and realised flows. System operators should keep information in relation thereto available to and easily accessible by the competent authorities for a fixed period of time. The competent authorities should, furthermore, regularly monitor the compliance of thetransmission system operators with the rules."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a01": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article\u00a02": {
+      "article_score": 35,
+      "statement_scores": [
+        1,
+        1,
+        3,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        2,
+        1,
+        0,
+        0,
+        1,
+        4,
+        0,
+        3,
+        1,
+        1,
+        0,
+        2,
+        0,
+        2,
+        2,
+        1
+      ]
+    },
+    "Article\u00a03": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article\u00a04": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        2
+      ]
+    },
+    "Article\u00a05": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article\u00a07": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    },
+    "Article\u00a08": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article\u00a011": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article\u00a012": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        0,
+        1
+      ]
+    },
+    "Article\u00a013": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        0,
+        3,
+        1,
+        0
+      ]
+    },
+    "Article\u00a014": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        1
+      ]
+    },
+    "Article\u00a015": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article\u00a016": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        0
+      ]
+    },
+    "Article\u00a018": {
+      "article_score": 11,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        0,
+        1,
+        2,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article\u00a019": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article\u00a020": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article\u00a021": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article\u00a022": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article\u00a023": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article\u00a029": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article\u00a030": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article\u00a032": {
+      "article_score": 46,
+      "statement_scores": [
+        0,
+        1,
+        0,
+        3,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        3,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        2,
+        1,
+        0,
+        2,
+        4,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 23,
+      "statement_scores": [
+        1,
+        1,
+        2,
+        0,
+        1,
+        2,
+        4,
+        1,
+        4,
+        2,
+        1,
+        1,
+        1,
+        2,
+        0
+      ]
+    }
+  }
+}

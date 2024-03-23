@@ -1,0 +1,119 @@
+{
+  "term": "time to restore frequency",
+  "celex_id": "32017R1485",
+  "original_definition": "'time to restore frequency' means the maximum expected time after the occurrence of an instantaneous power imbalance smaller than or equal to the reference incident in which the system frequency returns to the frequency restoration range for synchronous areas with only one LFC area and in the case of synchronous areas with more than one LFC area, the maximum expected time after the occurrence of an instantaneous power imbalance of an LFC area within which the imbalance is compensated;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018frequency restoration range\u2019 means thesystem frequencyrange to which the system frequency is expected to return in the GB, IE/NI and Nordic synchronous areas, after the occurrence of an imbalance equal to or smaller than thereference incidentwithin thetime to restore frequency;",
+      "\u2018frequency restoration range\u2019 means the system frequency range to which the system frequency is expected to return in the GB, IE/NI and Nordic synchronous areas, after the occurrence of an imbalance equal to or smaller than the reference incident within the time to restore frequency;",
+      "\u2018time to restore frequency\u2019 means the maximum expected time after the occurrence of an instantaneous power imbalance smaller than or equal to the reference incident in which the system frequency returns to the frequency restoration range for synchronous areas with only one LFC area and in the case of synchronous areas with more than one LFC area, the maximum expected time after the occurrence of an instantaneous power imbalance of an LFC area within which the imbalance is compensated;",
+      "\u2018time to restore frequency\u2019 means the maximum expected time after the occurrence of an instantaneous power imbalance smaller than or equal to thereference incidentin which thesystem frequencyreturns to thefrequency restoration rangefor synchronous areas with only oneLFC area and in the case of synchronous areas with more than one LFC area, the maximum expected time after the occurrence of an instantaneous power imbalance of an LFC area within which the imbalance is compensated;"
+    ],
+    "Article 18": [
+      "the absolute value of the steady state system frequency deviation has continuously exceeded 50 % of the maximum steady state frequency deviation for a time period longer than the alert state trigger time or the standard frequency range for a time period longer than time to restore frequency; or"
+    ],
+    "Article 127": [
+      "time to restore frequency;",
+      "the time to restore frequency for all synchronous areas;"
+    ],
+    "Article 128": [
+      "the number of time intervals per year outside the Level 2 FRCE range within a time interval equal to the time to restore frequency shall be less than 5 % of the time intervals of the year.",
+      "the number of time intervals per year outside the Level 1FRCErange within a time interval equal to thetime to restore frequency shall be less than 30 % of the time intervals of the year; and",
+      "the number of time intervals per year outside the Level 1 FRCE range within a time interval equal to the time to restore frequency shall be less than 30 % of the time intervals of the year; and",
+      "the number of time intervals per year outside the Level 2FRCErange within a time interval equal to thetime to restore frequency shall be less than 5 % of the time intervals of the year."
+    ],
+    "Article 131": [
+      "for theLFC blocks of the GB or IE/NI synchronous area, during operation innormal stateoralert statein accordance with Article 18(1) and (2), on a monthly basis and for a data-set containing the average values of theFRCEof the LFC block over time intervals with a length of one minute: the number of events for which the absolute value of the FRCE exceeded themaximum steady-state frequency deviationand the FRCE was not returned to 10 % of the maximum steady-state frequency deviation within thetime to restore frequency, distinguishing between negative and positive FRCE.",
+      "the number of events in which the absolute value of theinstantaneous frequency deviationof the synchronous area exceeded 200 % of thestandard frequency deviationand the instantaneous frequency deviation was not returned to 50 % of the standard frequency deviation for the CE synchronous area and to thefrequency restoration rangefor the GB, IE/NI and Nordic synchronous areas, within thetime to restore frequency. The data shall distinguish between negative and positive frequency deviations;",
+      "the number of events in which the absolute value of the instantaneous frequency deviation of the synchronous area exceeded 200 % of the standard frequency deviation and the instantaneous frequency deviation was not returned to 50 % of the standard frequency deviation for the CE synchronous area and to the frequency restoration range for the GB, IE/NI and Nordic synchronous areas, within the time to restore frequency. The data shall distinguish between negative and positive frequency deviations;",
+      "for a data-set containing the average values of theFRCEof theLFC blockover time intervals equal to thetime to restore frequency:",
+      "for the LFC blocks of the GB or IE/NI synchronous area, during operation in normal state or alert state in accordance with Article 18(1) and (2), on a monthly basis and for a data-set containing the average values of the FRCE of the LFC block over time intervals with a length of one minute: the number of events for which the absolute value of the FRCE exceeded the maximum steady-state frequency deviation and the FRCE was not returned to 10 % of the maximum steady-state frequency deviation within the time to restore frequency, distinguishing between negative and positive FRCE.",
+      "for a data-set containing the average values of the FRCE of the LFC block over time intervals with a length of one minute: the number of events on a monthly basis for which the FRCE exceeded 60 % of the reserve capacity on FRR and was not returned to 15 % of the reserve capacity on FRR within the time to restore frequency, distinguishing between negative and positive FRCE;",
+      "time to restore frequency",
+      "for a data-set containing the average values of the FRCE of the LFC block over time intervals equal to the time to restore frequency:"
+    ],
+    "Article 143": [
+      "regulate theFRCEtowards zero within thetime to restore frequency;",
+      "regulate the FRCE towards zero within the time to restore frequency;"
+    ],
+    "Article 152": [
+      "9.   The TSOs of a LFC block shall endeavour to avoid FRCEs which last longer than the time to restore frequency.",
+      "9.   The TSOs of aLFC blockshall endeavour to avoidFRCEs which last longer than thetime to restore frequency."
+    ],
+    "Article 157": [
+      "all TSOs of a LFC block in the CE and Nordic synchronous areas shall determine the required reserve capacity of FRR of the LFC block based on consecutive historical records comprising at least the historical LFC block imbalance values. The sampling of those historical records shall cover at least the time to restore frequency. The time period considered for those records shall be representative and include at least one full year period ending not earlier than 6 months before the calculation date;",
+      "all TSOs of a LFC block shall determine the ratio of automatic FRR, manual FRR, the automatic FRR full activation time and manual FRR full activation time in order to comply with the requirement of paragraph (b). For that purpose, the automatic FRR full activation time of a LFC block and the manual FRR full activation time of the LFC block shall not be more than the time to restore frequency;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    "Article 18": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 127": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 128": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 131": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 143": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 152": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 157": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

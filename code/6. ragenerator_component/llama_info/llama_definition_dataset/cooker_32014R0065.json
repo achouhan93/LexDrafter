@@ -1,0 +1,58 @@
+{
+  "term": "cooker",
+  "celex_id": "32014R0065",
+  "original_definition": "'cooker' means an appliance consisting of an oven and a hob using gas or electricity;",
+  "generated_definition": "'cooker' means an appliance for preparing food by heating it, typically using gas, electricity, or induction.",
+  "existing_sentences": {
+    "Article 1": [
+      "1.   This Regulation establishes requirements for the labelling and the provision of supplementary product information for domestic electric and gas ovens (including when incorporated into cookers) and for domestic electric range hoods, including when sold for non-domestic purposes.",
+      "1.   This Regulation establishes requirements for the labelling and the provision of supplementary product information for domestic electric and gasovens (including when incorporated intocookers) and for domestic electricrange hoods, including when sold for non-domestic purposes."
+    ],
+    "Article 2": [
+      "\u2018cooker\u2019 means an appliance consisting of an oven and a hob using gas or electricity;",
+      "\u2018cooker\u2019 means an appliance consisting of anoven and a hob using gas or electricity;"
+    ],
+    "Not Article": [
+      "This Regulation should specify requirements as to the technical documentation and the fiche for domesticovens, including when incorporated intocookers, and domestic electricrange hoods, also when used for non-domestic purposes.",
+      "This Regulation should specify requirements as to the technical documentation and the fiche for domestic ovens, including when incorporated into cookers, and domestic electric range hoods, also when used for non-domestic purposes.",
+      "The provisions of this Regulation should apply to domestic electric and gas ovens, including when incorporated into cookers, and to domestic electric range hoods.",
+      "This Regulation should specify a uniform design and content for the labelling of domestic ovens, including when incorporated into cookers, and domestic electric range hoods.",
+      "The provisions of this Regulation should apply to domestic electric and gasovens, including when incorporated intocookers, and to domestic electricrange hoods.",
+      "This Regulation should specify requirements as to the information to be provided for any form of distance selling, advertising and technical promotional material of domestic ovens (including when incorporated into cookers) and domestic electric range hoods, also when used for non-domestic purposes.",
+      "This Regulation should specify a uniform design and content for the labelling of domesticovens, including when incorporated intocookers, and domestic electricrange hoods.",
+      "This Regulation should specify requirements as to the information to be provided for any form of distance selling, advertising and technical promotional material of domesticovens (including when incorporated intocookers) and domestic electricrange hoods, also when used for non-domestic purposes."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Not Article": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+}

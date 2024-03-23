@@ -1,0 +1,95 @@
+{
+  "term": "outage planning incompatibility",
+  "celex_id": "32017R1485",
+  "original_definition": "'outage planning incompatibility' means the state in which a combination of the availability status of one or more relevant grid elements, relevant power generating modules, and/or relevant demand facilities and the best estimate of the forecasted electricity grid situation leads to violation of operational security limits taking into account remedial actions without costs which are at the TSO's disposal;",
+  "generated_definition": "'outage planning incompatibility' means incompatibility between the outage planning data and the operational planning data, leading to conflicts or inconsistencies that need to be resolved before the requested amendment can be validated and implemented.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018outage planning incompatibility\u2019 means the state in which a combination of the availability status of one or more relevant grid elements, relevant power generating modules, and/or relevant demand facilities and the best estimate of the forecasted electricity grid situation leads to violation of operational security limits taking into account remedial actions without costs which are at the TSO's disposal;",
+      "\u2018outage planning incompatibility\u2019 means the state in which a combination of theavailability statusof one or morerelevant grid elements,relevant power generating modules, and/or relevant demand facilities and the best estimate of the forecasted electricity grid situation leads to violation ofoperational security limits taking into account remedial actions without costs which are at the TSO's disposal;"
+    ],
+    "Article 73": [
+      "2.   When a TSO detects a possibleconstraint, it shall design remedial actions in accordance with Articles 20 to 23. If remedial actions without costs are not available and the constraint is linked to the planned unavailability of somerelevant assets, the constraint shall constitute anoutage planning incompatibility and the TSO shall initiate outage coordination in accordance with Article 95 or 100 depending of the time of the year when this action is initiated.",
+      "2.   When a TSO detects a possible constraint, it shall design remedial actions in accordance with Articles 20 to 23. If remedial actions without costs are not available and the constraint is linked to the planned unavailability of some relevant assets, the constraint shall constitute an outage planning incompatibility and the TSO shall initiate outage coordination in accordance with Article 95 or 100 depending of the time of the year when this action is initiated."
+    ],
+    "Article 80": [
+      "capable of influencing the results of the outage planning incompatibility analysis;",
+      "4.   Each regional security coordinator shall perform regionaloperational securityanalyses on the basis of the information provided by the relevant TSOs in order to detect anyoutage planning incompatibility. It shall provide all TSOs of theoutage coordination region with a list of detected outage planning incompatibilities and the solutions it proposes to solve those outage planning incompatibilities.",
+      "4.   Each regional security coordinator shall perform regional operational security analyses on the basis of the information provided by the relevant TSOs in order to detect any outage planning incompatibility. It shall provide all TSOs of the outage coordination region with a list of detected outage planning incompatibilities and the solutions it proposes to solve those outage planning incompatibilities."
+    ],
+    "Article 96": [
+      "4.   Where a TSO detects an outage planning incompatibility, the TSO shall be entitled to propose a change to the availability plans of the internal relevant assets for which the outage planning agent is neither a TSO taking part in an outage coordination region, nor a DSO or a CDSO and shall identify a solution in coordination with the outage planning agents, DSOs and CDSOs concerned, using the means at its disposal.",
+      "4.   Where a TSO detects anoutage planning incompatibility, the TSO shall be entitled to propose a change to theavailability plans of theinternal relevant assets for which theoutage planning agentis neither a TSO taking part in anoutage coordination region, nor a DSO or a CDSO and shall identify a solution in coordination with the outage planning agents, DSOs and CDSOs concerned, using the means at its disposal."
+    ],
+    "Article 98": [
+      "3.   If a TSO detects an outage planning incompatibility, the involved TSOs of the outage coordination region(s) concerned shall jointly identify a solution in coordination with the concerned outage planning agents, DSOs and CDSOs, using the means at their disposal, while respecting to the extent possible the availability plans submitted by outage planning agents, which are neither a TSO taking part in an outage coordination region, nor a DSO or a CDSO, and developed in accordance with Articles 95 and 96. Where a solution is identified, all TSOs of the concerned outage coordination region(s) shall update and validate the year-ahead availability plans for all relevant assets.",
+      "3.   If a TSO detects anoutage planning incompatibility, the involved TSOs of theoutage coordination region(s) concerned shall jointly identify a solution in coordination with the concernedoutage planning agents, DSOs and CDSOs, using the means at their disposal, while respecting to the extent possible theavailability plans submitted by outage planning agents, which are neither a TSO taking part in an outage coordination region, nor a DSO or a CDSO, and developed in accordance with Articles 95 and 96. Where a solution is identified, all TSOs of the concerned outage coordination region(s) shall update and validate theyear-aheadavailability plans for allrelevant assets.",
+      "1.   Each TSO shall analyse whether any outage planning incompatibility arises when taking into account all the preliminary year-ahead availability plans.",
+      "force to \u2018available\u2019 status all the \u2018unavailable\u2019 or \u2018testing\u2019 statuses for therelevant assets involved in anoutage planning incompatibility during the period concerned; and",
+      "force to \u2018available\u2019 status all the \u2018unavailable\u2019 or \u2018testing\u2019 statuses for the relevant assets involved in an outage planning incompatibility during the period concerned; and",
+      "4.   Where no solution is found for an outage planning incompatibility each concerned TSO, subject to approval by the competent regulatory authority where the Member State so provides, shall:",
+      "1.   Each TSO shall analyse whether anyoutage planning incompatibilityarises when taking into account all the preliminaryyear-aheadavailability plans."
+    ],
+    "Article 100": [
+      "where nooutage planning incompatibilityhas been detected or if no outage planning incompatibility remains, the recipient TSO shall validate the requested amendment, and the TSOs concerned shall consequently notify all affected parties and update the finalyear-aheadavailability planon theENTSO for Electricity operational planning data environment; and",
+      "where nooutage planning incompatibilityhas been detected or if a solution to an outage planning incompatibility is found, the concerned TSOs shall validate the requested amendment and consequently they shall notify all affected parties and update the finalyear-aheadavailability planon theENTSO for Electricity operational planning data environment;",
+      "where no outage planning incompatibility has been detected or if a solution to an outage planning incompatibility is found, the concerned TSOs shall validate the requested amendment and consequently they shall notify all affected parties and update the final year-ahead availability plan on the ENTSO for Electricity operational planning data environment;",
+      "where no outage planning incompatibility has been detected or if no outage planning incompatibility remains, the recipient TSO shall validate the requested amendment, and the TSOs concerned shall consequently notify all affected parties and update the final year-ahead availability plan on the ENTSO for Electricity operational planning data environment; and"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 73": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 80": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 96": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 98": {
+      "article_score": 7,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 100": {
+      "article_score": 8,
+      "statement_scores": [
+        2,
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "term": "mains",
+  "celex_id": "32019R2017",
+  "original_definition": "'mains' means the electricity supply from the grid of 230 (\u00b1 10 %) volts of alternating current at 50 Hz;",
+  "generated_definition": "'mains' means a condition where the household dishwasher is connected to a power source, providing electricity or water supply.",
+  "existing_sentences": {
+    "Article 1": [
+      "battery-operated household dishwashers that can be connected to the mains through an AC/DC converter purchased separately.",
+      "battery-operatedhousehold dishwashers that can be connected to themains through an AC/DC converter purchased separately."
+    ],
+    "Article 2": [
+      "\u2018mains\u2019 or \u2018electric mains\u2019 means the electricity supply from the grid of 230 (\u00b1 10 %) volts of alternating current at 50 Hz;"
+    ],
+    "Article 11": [
+      "\u2018standby mode\u2019 means a condition where thehousehold dishwasheris connected to themains and provides only the following functions, which may persist for an indefinite time:",
+      "\u2018standby mode\u2019 means a condition where the household dishwasher is connected to the mains and provides only the following functions, which may persist for an indefinite time:",
+      "\u2018off mode\u2019 means a condition in which thehousehold dishwasheris connected to themains and is not providing any function; the following shall also be considered as off mode:",
+      "\u2018off mode\u2019 means a condition in which the household dishwasher is connected to the mains and is not providing any function; the following shall also be considered as off mode:"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 11": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        0,
+        1
+      ]
+    }
+  }
+}

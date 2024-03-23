@@ -1,0 +1,221 @@
+{
+  "term": "market time unit",
+  "celex_id": "32013R0543",
+  "original_definition": "'market time unit' means the period for which the market price is established or the shortest possible common time period for the two bidding zones, if their market time units are different;",
+  "generated_definition": "'market time unit' means a unit of time used to measure physical flows between bidding zones, typically one hour, used for publishing and reporting purposes.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018market time unit\u2019 means the period for which the market price is established or the shortest possible common time period for the twobidding zones, if their market time units are different;",
+      "\u2018market time unit\u2019 means the period for which the market price is established or the shortest possible common time period for the two bidding zones, if their market time units are different;"
+    ],
+    "Article 6": [
+      "the total load per market time unit;",
+      "a day-ahead forecast of the total load per market time unit;",
+      "thetotal loadpermarket time unit;",
+      "a day-ahead forecast of thetotal loadpermarket time unit;"
+    ],
+    "Article 7": [
+      "2.   The information laid down in point (a) of paragraph 1 shall be published in aggregated form perbidding zoneindicating the sum of unavailable consumption capacity permarket time unitduring a given period as soon as possible but no later than one hour after the decision regarding theplanned unavailability is made.",
+      "2.   The information laid down in point (a) of paragraph 1 shall be published in aggregated form per bidding zone indicating the sum of unavailable consumption capacity per market time unit during a given period as soon as possible but no later than one hour after the decision regarding the planned unavailability is made.",
+      "The information laid down point (b) of paragraph 1 shall be published in aggregated form perbidding zoneindicating the sum of unavailable consumption capacity permarket time unit during a given period as soon as possible but no later than one hour after the change in actual availability.",
+      "The information laid down point (b) of paragraph 1 shall be published in aggregated form per bidding zone indicating the sum of unavailable consumption capacity per market time unit during a given period as soon as possible but no later than one hour after the change in actual availability.",
+      "the planned unavailability of 100 MW or more of a consumption unit, including changes of 100 MW or more in the planned unavailability of consumption units, lasting at least one market time unit, specifying:",
+      "available capacity per market time unit during the event,",
+      "theplannedunavailability of 100 MW or more of aconsumption unit, including changes of 100 MW or more in the planned unavailability of consumption units, lasting at least onemarket time unit, specifying:"
+    ],
+    "Article 8": [
+      "1.   For theircontrol areas, TSOs shall calculate and provide for eachbidding zonetheyear-ahead forecast marginevaluated at the localmarket time unit to the ENTSO for Electricity.",
+      "1.   For their control areas, TSOs shall calculate and provide for each bidding zone the year-ahead forecast margin evaluated at the local market time unit to the ENTSO for Electricity."
+    ],
+    "Article 9": [
+      "TSOs shall establish and provide information on future changes to network elements and interconnector projects including expansion or dismantling in their transmission grids within the next three years, to the ENTSO for Electricity. This information shall only be given for measures expected to have an impact of at least 100 MW oncross zonal capacitybetweenbidding zones or onprofiles at least during onemarket time unit. The information shall include:",
+      "TSOs shall establish and provide information on future changes to network elements and interconnector projects including expansion or dismantling in their transmission grids within the next three years, to the ENTSO for Electricity. This information shall only be given for measures expected to have an impact of at least 100 MW on cross zonal capacity between bidding zones or on profiles at least during one market time unit. The information shall include:"
+    ],
+    "Article 10": [
+      "changes in the actual availability of off-shore grid infrastructure that reduce wind power feed-in by 100 MW or more during at least one market time unit, specifying:",
+      "changes in the actual availability of interconnections and in the transmission grid that reduce cross zonal capacities between bidding zones by 100 MW or more during at least one market time unit, specifying:",
+      "changes in the actual availability of interconnections and in the transmission grid that reduce cross zonal capacities betweenbidding zones by 100 MW or more during at least onemarket time unit, specifying:",
+      "theplannedunavailability, including changes in the planned unavailability of interconnections and in the transmission grid that reduce cross zonal capacities betweenbidding zones by 100 MW or more during at least onemarket time unit, specifying:",
+      "the planned unavailability, including changes in the planned unavailability of interconnections and in the transmission grid that reduce cross zonal capacities between bidding zones by 100 MW or more during at least one market time unit, specifying:"
+    ],
+    "Article 12": [
+      "physical flows betweenbidding zones permarket time unit;",
+      "in point (g) of paragraph 1 shall be published for each market time unit as closely as possible to real time but no later than one hour after the operational period;",
+      "in case ofexplicit allocations, for everymarket time unitand per direction betweenbidding zones:",
+      "in point (g) of paragraph 1 shall be published for eachmarket time unit as closely as possible to real time but no later than one hour after the operational period;",
+      "for every market time unit the day-ahead prices in each bidding zone (Currency/MWh);",
+      "prior to eachcapacity allocationthe total capacity already allocated through previous allocation procedures permarket time unit and per direction;",
+      "for everymarket time unitthe day-ahead prices in eachbidding zone(Currency/MWh);",
+      "in case of implicit allocations, for every market time unit the net positions of each bidding zone (MW) and the congestion income (in Currency) per border between bidding zones;",
+      "in case of explicit allocations, for every market time unit and per direction between bidding zones:",
+      "scheduled day-ahead commercial exchanges in aggregated form between bidding zones per direction and market time unit;",
+      "for every market time unit and per direction between bidding zones the total capacity nominated;",
+      "scheduled day-ahead commercial exchanges in aggregated form betweenbidding zones per direction andmarket time unit;",
+      "physical flows between bidding zones per market time unit;",
+      "for everymarket time unitand per direction betweenbidding zones the total capacity nominated;",
+      "in case ofimplicit allocations, for everymarket time unitthe net positions of eachbidding zone(MW) and the congestion income (inCurrency) per border between bidding zones;",
+      "prior to each capacity allocation the total capacity already allocated through previous allocation procedures per market time unit and per direction;"
+    ],
+    "Article 13": [
+      "information relating to redispatching per market time unit, specifying:",
+      "information relating toredispatchingpermarket time unit, specifying:",
+      "information relating to countertrading per market time unit, specifying:",
+      "information relating tocountertradingpermarket time unit, specifying:"
+    ],
+    "Article 14": [
+      "an estimate of the total scheduled generation (MW) perbidding zone, per eachmarket time unit of the following day;",
+      "an estimate of the total scheduled generation (MW) per bidding zone, per each market time unit of the following day;",
+      "a forecast of wind and solar power generation (MW) per bidding zone, per each market time unit of the following day.",
+      "a forecast of wind and solar power generation (MW) perbidding zone, per eachmarket time unit of the following day."
+    ],
+    "Article 15": [
+      "theplannedunavailability of aproduction unitof 200 MW or more including changes of 100 MW or more in the planned unavailability of that production unit, but not published in accordance with subparagraph (a), expected to last for at least onemarket time unit up to three years ahead, specifying:",
+      "changes of 100 MW or more in actual availability of ageneration unit, expected to last for at least onemarket time unit, specifying:",
+      "theplannedunavailability of 100 MW or more of ageneration unitincluding changes of 100 MW or more in the planned unavailability of that generation unit, expected to last for at least onemarket time unit up to three years ahead, specifying:",
+      "changes of 100 MW or more in actual availability of a generation unit, expected to last for at least one market time unit, specifying:",
+      "the planned unavailability of 100 MW or more of a generation unit including changes of 100 MW or more in the planned unavailability of that generation unit, expected to last for at least one market time unit up to three years ahead, specifying:",
+      "changes of 100 MW or more in actual availability of aproduction unitwith an installed generation capacity of 200 MW or more, but not published in accordance with subparagraph (b), expected to last for at least onemarket time unit, specifying:",
+      "changes of 100 MW or more in actual availability of a production unit with an installed generation capacity of 200 MW or more, but not published in accordance with subparagraph (b), expected to last for at least one market time unit, specifying:",
+      "the planned unavailability of a production unit of 200 MW or more including changes of 100 MW or more in the planned unavailability of that production unit, but not published in accordance with subparagraph (a), expected to last for at least one market time unit up to three years ahead, specifying:"
+    ],
+    "Article 16": [
+      "actual or estimated wind and solar power generation (MW) in eachbidding zonepermarket time unit;",
+      "actual or estimated wind and solar power generation (MW) in each bidding zone per market time unit;",
+      "actual generation output (MW) permarket time unitand pergeneration unit of 100 MW or more installed generation capacity;",
+      "aggregated generation output per market time unit and per production type;",
+      "actual generation output (MW) per market time unit and per generation unit of 100 MW or more installed generation capacity;"
+    ],
+    "Article 20": [
+      "One hour before spot market gate closure, for each market time unit",
+      "One hour before the first intra-day allocation and then real-time, for each market time unit",
+      "One hour before the first intra-day allocation and then real-time, for eachmarket time unit"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 6": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 7": {
+      "article_score": 7,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 8": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 9": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 10": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 12": {
+      "article_score": 16,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 13": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 14": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 15": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 16": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 20": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

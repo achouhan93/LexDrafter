@@ -1,0 +1,192 @@
+{
+  "term": "transmission system element",
+  "celex_id": "32017R1485",
+  "original_definition": "'transmission system element' means any component of the transmission system;",
+  "generated_definition": "'transmission system element' means a component of the high-voltage transmission network, including conductors, transformers, switches, and other equipment, that enables the transportation of electricity from the point of generation to the point of consumption.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018transitory admissible overloads\u2019 means the temporary overloads oftransmission system elements which are allowed for a limited period and which do not cause physical damage to the transmission system elements as long as the defined duration and thresholds are respected;",
+      "\u2018transitory admissible overloads\u2019 means the temporary overloads of transmission system elements which are allowed for a limited period and which do not cause physical damage to the transmission system elements as long as the defined duration and thresholds are respected;",
+      "\u2018fault\u2019 means all types of short-circuits (single-, double- and triple-phase, with and without earth contact), a broken conductor, interrupted circuit, or an intermittent connection, resulting in the permanent non-availability of the affectedtransmission system element;",
+      "\u2018influence factor\u2019 means the numerical value used to quantify the greatest effect of the outage of atransmission system element located outside of the TSO's control area excluding interconnectors, in terms of a change in power flows or voltage caused by that outage, on any transmission system element. The higher is the value the greater the effect;",
+      "\u2018transmission system element\u2019 means any component of the transmission system;",
+      "\u2018influence factor\u2019 means the numerical value used to quantify the greatest effect of the outage of a transmission system element located outside of the TSO's control area excluding interconnectors, in terms of a change in power flows or voltage caused by that outage, on any transmission system element. The higher is the value the greater the effect;",
+      "\u2018N-situation\u2019 means the situation where notransmission system element is unavailable due to occurrence of a contingency;",
+      "\u2018N-situation\u2019 means the situation where no transmission system element is unavailable due to occurrence of a contingency;",
+      "\u2018fault\u2019 means all types of short-circuits (single-, double- and triple-phase, with and without earth contact), a broken conductor, interrupted circuit, or an intermittent connection, resulting in the permanent non-availability of the affected transmission system element;"
+    ],
+    "Article 15": [
+      "number of tripped transmission system elements per year per TSO;"
+    ],
+    "Article 19": [
+      "provide with additional information on its transmission system elements which are part of the observability area of other TSOs, to those TSOs.",
+      "provide with additional information on itstransmission system elements which are part of theobservability area of other TSOs, to those TSOs."
+    ],
+    "Article 22": [
+      "modify the duration of a planned outage or return to service transmission system elements to achieve the operational availability of those transmission system elements;"
+    ],
+    "Article 24": [
+      "means to control the switching of circuit breakers, coupler circuit breakers, transformer tap changers and other equipment which serve to control transmission system elements;"
+    ],
+    "Article 25": [
+      "3.   In case of changes of one of its transmission system elements, each TSO shall validate and where necessary update the operational security limits.",
+      "3.   In case of changes of one of itstransmission system elements, each TSO shall validate and where necessary update theoperational security limits."
+    ],
+    "Article 33": [
+      "6.   Each TSO shall inform, sufficiently in advance, the TSOs concerned in its observability area of any intended topological changes on its transmission system elements which are included as external contingencies in the contingency lists of the TSOs concerned.",
+      "6.   Each TSO shall inform, sufficiently in advance, the TSOs concerned in itsobservability areaof any intended topological changes on itstransmission system elements which are included as external contingencies in thecontingency lists of the TSOs concerned."
+    ],
+    "Article 37": [
+      "verify that the special protection scheme has a comparable reliability to the protection systems used for the primary protection of transmission system elements;"
+    ],
+    "Article 41": [
+      "the thermal limits of the transmission system elements; and"
+    ],
+    "Article 56": [
+      "proof of compliance with all relevant technical and organisational operational provisions of this Regulation upon any change of a transmission system element or a facility of the SGU or of the DSO, which is relevant for system operation;",
+      "1.   Each TSO and each transmission-connected DSO or SGU may perform operational testing respectively of its transmission system elements and of their facilities under simulated operational conditions and for a limited period of time. When doing so, they shall provide notification in due time and prior to the test launch and shall minimise the effect on real-time system operation. The operational testing shall aim at providing:",
+      "the TSO, DSO or SGU to acquire information about performance of transmission system elements and facilities of the SGUs and DSOs under any conditions and in compliance with all relevant operational provisions of this Regulation, in terms of:",
+      "3.   Each TSO shall ensure that operational testing does not endanger the operational security of its transmission system. Any operational testing may be postponed or interrupted due to unplanned system conditions, or due to safety of personnel, of the general public, of the plant or apparatus being tested, or of transmission system elements or of the facilities of the DSO or SGU.",
+      "3.   Each TSO shall ensure that operational testing does not endanger theoperational securityof its transmission system. Any operational testing may be postponed or interrupted due to unplanned system conditions, or due to safety of personnel, of the general public, of the plant or apparatus being tested, or oftransmission system elements or of the facilities of the DSO or SGU.",
+      "the TSO to ensure correct functioning of transmission system elements;",
+      "proof of compliance with all relevant technical and organisational operational provisions of this Regulation for a new transmission system element at its first entry into operation;",
+      "assessment of possible negative effects of a failure, short-circuit or other unplanned and unexpected incident in system operation, on the transmission system element, or on the facility of the SGU or of the DSO."
+    ],
+    "Article 58": [
+      "a description of the transmission system elements;",
+      "2.   The TSO's training programs shall include the knowledge of the transmission system elements, the operation of the transmission system, use of the on-the-job systems and processes, inter-TSO operations, market arrangements, recognising of and responding to exceptional situations in system operation, operational planning activities and tools."
+    ],
+    "Article 71": [
+      "that voltage values are within the usual operational values for those transmission system elements having influence on other control areas;"
+    ],
+    "Article 75": [
+      "2.   The methods referred to in point (a) of paragraph 1 shall allow the identification of all elements of a TSO'sobservability area, being grid elements of other TSOs or transmission-connected DSOs, power generating modules or demand facilities. Those methods shall take into account the followingtransmission system elements and SGUs' characteristics:",
+      "2.   The methods referred to in point (a) of paragraph 1 shall allow the identification of all elements of a TSO's observability area, being grid elements of other TSOs or transmission-connected DSOs, power generating modules or demand facilities. Those methods shall take into account the following transmission system elements and SGUs' characteristics:",
+      "methods for assessing the influence of transmission system elements and SGUs located outside of a TSO's control area in order to identify those elements included in the TSO's observability area and the contingency influence thresholds above which contingencies of those elements constitute external contingencies;",
+      "methods for assessing the influence oftransmission system elements and SGUs located outside of a TSO's control area in order to identify those elements included in the TSO'sobservability areaand thecontingency influence thresholds above which contingencies of those elements constitute external contingencies;"
+    ],
+    "Article 84": [
+      "3.   The methodology developed pursuant to paragraph 1 shall be consistent with the methods for assessing the influence of transmission system elements and SGUs located outside of a TSO's control area established in accordance with Article 75(1)(a)."
+    ],
+    "Article 109": [
+      "2.   In order to increase the efficiency of operation of its transmission system elements, each TSO shall monitor:"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 12,
+      "statement_scores": [
+        2,
+        2,
+        1,
+        2,
+        0,
+        2,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 15": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 19": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 22": {
+      "article_score": 2,
+      "statement_scores": [
+        2
+      ]
+    },
+    "Article 24": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 25": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 33": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 37": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 41": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 56": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 58": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 71": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 75": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 84": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 109": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

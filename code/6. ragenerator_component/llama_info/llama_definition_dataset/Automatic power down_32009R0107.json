@@ -1,0 +1,22 @@
+{
+  "term": "Automatic power down",
+  "celex_id": "32009R0107",
+  "original_definition": "'Automatic power down' means a function which switches the active mode of an SSTB into standby mode after a period in the active mode following the last user interaction and/or channel change.",
+  "generated_definition": "'Automatic power down' means the automatic shutdown of a system, device, or process without human intervention, typically triggered by a timer or sensor detection of a predetermined condition.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Automatic power down\u2019 means a function which switches the active mode of an SSTB into standby mode after a period in the active mode following the last user interaction and/or channel change."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

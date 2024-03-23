@@ -1,0 +1,24 @@
+{
+  "term": "out-of-range contingency",
+  "celex_id": "32017R1485",
+  "original_definition": "'out-of-range contingency' means the simultaneous occurrence of multiple contingencies without a common cause, or a loss of power generating modules with a total loss of generation capacity exceeding the reference incident;",
+  "generated_definition": "'out-of-range contingency' means a situation where a measure or action is taken that is not within the acceptable parameters or boundaries established by the relevant laws, regulations, or standards.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018out-of-range contingency\u2019 means the simultaneous occurrence of multiple contingencies without a common cause, or a loss of power generating modules with a total loss of generation capacity exceeding the reference incident;",
+      "\u2018out-of-range contingency\u2019 means the simultaneous occurrence of multiple contingencies without a common cause, or a loss of power generating modules with a total loss of generation capacity exceeding thereference incident;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

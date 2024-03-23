@@ -1,0 +1,53 @@
+{
+  "term": "process responsibility structure",
+  "celex_id": "32017R1485",
+  "original_definition": "'process responsibility structure' means the structure to determine responsibilities and obligations with respect to active power reserves based on the control structure of the synchronous area;",
+  "generated_definition": "'process responsibility structure' means a structure that defines the roles and responsibilities of the transmission system operator (tso) and other stakeholders involved in the process of managing and operating the electricity transmission system.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018process responsibility structure\u2019 means the structure to determine responsibilities and obligations with respect to active power reserves based on the control structure of the synchronous area;",
+      "\u2018process responsibility structure\u2019 means the structure to determine responsibilities and obligations with respect toactive power reserves based on the control structure of the synchronous area;"
+    ],
+    "Article 139": [
+      "a process responsibility structure in accordance with Article 141."
+    ],
+    "Article 141": [
+      "1.   When specifying the process responsibility structure, all TSOs of each synchronous area shall take into account at least the following criteria:",
+      "Process responsibility structure"
+    ],
+    "Article 186": [
+      "information on the process responsibility structure of the synchronous area, including at least information on the processes developed in accordance with Article 140(1) and (2)."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 139": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 141": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 186": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

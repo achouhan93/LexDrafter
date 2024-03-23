@@ -1,0 +1,31 @@
+{
+  "term": "No load loss",
+  "celex_id": "32014R0548",
+  "original_definition": "'No load loss' means the active power absorbed at rated frequency when the transformer is energised and the secondary circuit is open. The applied voltage is the rated voltage, and if the energized winding is fitted with a tapping, it is connected to its principal tapping.",
+  "generated_definition": "'No load loss' means no energy consumption or transmission losses during the transmission and distribution of electricity.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018No load loss\u2019 (Po) means the active power absorbed at rated frequency when the transformer is energised and the secondary circuit is open. The applied voltage is the rated voltage, and if the energized winding is fitted with a tapping, it is connected to its principal tapping."
+    ],
+    "Article 8": [
+      "No load losses"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

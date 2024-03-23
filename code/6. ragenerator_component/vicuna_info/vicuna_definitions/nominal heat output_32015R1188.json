@@ -1,0 +1,88 @@
+{
+  "term": "nominal heat output",
+  "celex_id": "32015R1188",
+  "original_definition": "'nominal heat output' means the heat output of a local space heater comprising both direct heat output and indirect heat output (where applicable), when operating at the setting for the maximum heat output that can be maintained over an extended period, as declared by the manufacturer, expressed in kW;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 1": [
+      "This Regulation establishes ecodesign requirements for the placing on the market and putting into service of domestic local space heaters with a nominal heat output of 50 kW or less and commercial local space heaters with a nominal heat output of the product or of a single segment of 120 kW or less.",
+      "This Regulation establishes ecodesign requirements for the placing on the market and putting into service ofdomestic local space heaters with anominal heat outputof 50 kW or less andcommercial local space heaters with a nominal heat output of the product or of a single segment of 120 kW or less.",
+      "local space heaters of which thedirect heat outputis less than 6 % of the combined direct andindirect heat outputatnominal heat output;",
+      "local space heaters of which the direct heat output is less than 6 % of the combined direct and indirect heat output at nominal heat output;"
+    ],
+    "Article 2": [
+      "\u2018nominal heat output\u2019 (Pnom\n) means the heat output of a local space heater comprising both direct heat output and indirect heat output (where applicable), when operating at the setting for the maximum heat output that can be maintained over an extended period, as declared by the manufacturer, expressed in kW;",
+      "\u2018nominal heat output\u2019 (Pnom\n) means the heat output of alocal space heatercomprising bothdirect heat outputandindirect heat output (where applicable), when operating at the setting for the maximum heat output that can be maintained over an extended period, as declared by the manufacturer, expressed in kW;"
+    ],
+    "Article 9": [
+      "\u2018nitrogen oxides emissions\u2019 means the emissions of nitrogen oxides atnominal heat outputexpressed in mg/kWhinput based on GCV for gaseous orliquid fuel local space heaters andcommercial local space heaters;",
+      "radiant factor at nominal heat output",
+      "\u03b7th,nom\n is the useful efficiency at nominal heat output, based on NCV.",
+      "RFnom\n, is the radiant factor at nominal heat output, expressed in %;",
+      "elmin\n is the electric power consumption atminimum heat output, expressed in kW. In case the product does not offer a minimum heat output the value for the electric power consumption atnominal heat output shall be used;",
+      "radiant factor of tube segment at nominal heat output",
+      "\u03b7th,nom\n is the useful efficiency at nominal heat output, expressed in %, based on GCV;",
+      "Declared values for nominal heat output and seasonal space heating energy efficiency shall be rounded to the nearest one decimal place.",
+      "RFnom,i\n, is the radiant factor per tube segment at nominal heat output, expressed in %;",
+      "At nominal heat output",
+      "Nominal heat output",
+      "elmin\n is the electric power consumption at minimum heat output, expressed in kW. In case the product does not offer a minimum heat output the value for the electric power consumption at nominal heat output shall be used;",
+      "\u2018electric power requirement atnominal heat output\u2019 (elmax) means the electric power consumption of thelocal space heaterwhile providing the nominal heat output. The electric power consumption shall be established without consideration of the power consumption of a circulator in case the product offersindirect heating functionality and a circulator is incorporated, expressed in kW;",
+      "Minimum heat output (as percentage of nominal heat output)",
+      "\u2018nitrogen oxides emissions\u2019 means the emissions of nitrogen oxides at nominal heat output expressed in mg/kWhinput based on GCV for gaseous or liquid fuel local space heaters and commercial local space heaters;",
+      "elmax\n is the electric power consumption at nominal heat output, expressed in kW;",
+      "\u2018electric power requirement at nominal heat output\u2019 (elmax) means the electric power consumption of the local space heater while providing the nominal heat output. The electric power consumption shall be established without consideration of the power consumption of a circulator in case the product offers indirect heating functionality and a circulator is incorporated, expressed in kW;",
+      "Pnom\n is the nominal heat output of the product, expressed in kW.",
+      "Useful efficiency at nominal heat output",
+      "Minimum heat output(as percentage ofnominal heat output)",
+      "Pnom\n is the nominal heat output of the product, expressed in kW;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 6,
+      "statement_scores": [
+        2,
+        2,
+        1,
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 23,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

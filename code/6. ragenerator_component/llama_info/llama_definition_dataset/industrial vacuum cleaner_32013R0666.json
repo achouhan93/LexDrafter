@@ -1,0 +1,24 @@
+{
+  "term": "industrial vacuum cleaner",
+  "celex_id": "32013R0666",
+  "original_definition": "'industrial vacuum cleaner' means a vacuum cleaner designed to be part of a production process, designed for removing hazardous material, designed for removing heavy dust from building, foundry, mining or food industry, part of an industrial machine or tool and/or a commercial vacuum cleaner with a head width exceeding 0,50 m;",
+  "generated_definition": "'industrial vacuum cleaner' means a machine used for cleaning and removing dust, dirt, and other impurities from surfaces and substances in industrial settings, typically using a motorized fan and collection bag or container.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018industrial vacuum cleaner\u2019 means a vacuum cleaner designed to be part of a production process, designed for removing hazardous material, designed for removing heavy dust from building, foundry, mining or food industry, part of an industrial machine or tool and/or acommercial vacuum cleaner with a head width exceeding 0,50 m;",
+      "\u2018industrial vacuum cleaner\u2019 means a vacuum cleaner designed to be part of a production process, designed for removing hazardous material, designed for removing heavy dust from building, foundry, mining or food industry, part of an industrial machine or tool and/or a commercial vacuum cleaner with a head width exceeding 0,50 m;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

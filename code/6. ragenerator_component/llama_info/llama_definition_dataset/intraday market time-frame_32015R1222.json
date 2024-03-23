@@ -1,0 +1,54 @@
+{
+  "term": "intraday market time-frame",
+  "celex_id": "32015R1222",
+  "original_definition": "'intraday market time-frame' means the time-frame of the electricity market after intraday cross-zonal gate opening time and before intraday cross-zonal gate closure time, where for each market time unit, products are traded prior to the delivery of the traded products;",
+  "generated_definition": "'intraday market time-frame' means the time period within which electricity market operations take place, typically spanning from a few minutes to a day.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018intraday market time-frame\u2019 means the time-frame of the electricity market after intraday cross-zonal gate opening time and before intraday cross-zonal gate closure time, where for each market time unit, products are traded prior to the delivery of the traded products;",
+      "\u2018intraday market time-frame\u2019 means the time-frame of the electricity market afterintraday cross-zonal gate opening timeand beforeintraday cross-zonal gate closure time, where for each market time unit, products aretraded prior to the delivery of the traded products;"
+    ],
+    "Article 14": [
+      "2.   For theday-ahead market time-frame, individual values for cross-zonal capacity for each day-ahead market time unit shall be calculated. For theintraday market time-frame, individual values for cross-zonal capacity for each remaining intraday market time unit shall be calculated.",
+      "4.   All TSOs in each capacity calculation region shall ensure that cross-zonal capacity is recalculated within the intraday market time-frame based on the latest available information. The frequency of this recalculation shall take into consideration efficiency and operational security.",
+      "2.   For the day-ahead market time-frame, individual values for cross-zonal capacity for each day-ahead market time unit shall be calculated. For the intraday market time-frame, individual values for cross-zonal capacity for each remaining intraday market time unit shall be calculated."
+    ],
+    "Article 20": [
+      "5.   At the time when two or more adjacentcapacity calculation regions in the same synchronous area implement a capacity calculation methodology using theflow-based approachfor the day-ahead or theintraday market time-frame, they shall be considered as one region for this purpose and the TSOs from this region shall submit within six months a proposal for applying a common capacity calculation methodology using the flow-based approach for the day-ahead or intraday market time-frame. The proposal shall provide for an implementation date of the common cross regional capacity calculation methodology of no longer than 12 months after the implementation of the flow-based approach in these regions for the methodology for theday-ahead market time-frame, and 18 months for the methodology for the intraday time-frame. The timelines indicated in this paragraph may be adapted in accordance with paragraph 6.",
+      "5.   At the time when two or more adjacent capacity calculation regions in the same synchronous area implement a capacity calculation methodology using the flow-based approach for the day-ahead or the intraday market time-frame, they shall be considered as one region for this purpose and the TSOs from this region shall submit within six months a proposal for applying a common capacity calculation methodology using the flow-based approach for the day-ahead or intraday market time-frame. The proposal shall provide for an implementation date of the common cross regional capacity calculation methodology of no longer than 12 months after the implementation of the flow-based approach in these regions for the methodology for the day-ahead market time-frame, and 18 months for the methodology for the intraday time-frame. The timelines indicated in this paragraph may be adapted in accordance with paragraph 6.",
+      "4.   No later than six months after at least all South East Europe Energy Community Contracting Parties participate in the single day-ahead coupling, the TSOs from at least Croatia, Romania, Bulgaria and Greece shall jointly submit a proposal to introduce a common capacity calculation methodology using the flow-based approach for the day-ahead and intraday market time-frame. The proposal shall provide for an implementation date of the common capacity calculation methodology using the flow-based approach of no longer than two years after the participation of all SEE Energy Community Contracting Parties in the single day-ahead coupling. The TSOs from Member States which have borders with other regions are encouraged to join the initiatives to implement a common flow-based capacity calculation methodology with these regions.",
+      "1.   For the day-ahead market time-frame and intraday market time-frame the approach used in the common capacity calculation methodologies shall be a flow-based approach, except where the requirement under paragraph 7 is met.",
+      "1.   For theday-ahead market time-frameandintraday market time-framethe approach used in the common capacity calculation methodologies shall be aflow-based approach, except where the requirement under paragraph 7 is met."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 14": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 20": {
+      "article_score": 7,
+      "statement_scores": [
+        2,
+        2,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

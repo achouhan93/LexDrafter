@@ -1,0 +1,49 @@
+{
+  "term": "standard rating conditions",
+  "celex_id": "32013R0811",
+  "original_definition": "'standard rating conditions' means the operating conditions of heaters under average climate conditions for establishing the rated heat output, seasonal space heating energy efficiency, water heating energy efficiency and sound power level;",
+  "generated_definition": "'standard rating conditions' means the declared heat capacity, expressed in kw, divided by the energy input, expressed in kw in terms of gcv and/or in kw in terms of final energy multiplied by cc, for heating provided at standard rating conditions.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018rated heat output\u2019 (Prated) means the declared heat output of a heater when providing space heating and, if applicable, water heating at standard rating conditions, expressed in kW; for heat pump space heaters and heat pump combination heaters the standard rating conditions for establishing the rated heat output are the reference design conditions, as set out in Annex VII, Table 10;",
+      "\u2018standard rating conditions\u2019 means the operating conditions ofheaters under average climate conditions for establishing therated heat output,seasonal space heating energy efficiency,water heating energy efficiencyandsound power level;",
+      "\u2018rated heat output\u2019 (Prated) means the declared heat output of aheaterwhen providing space heating and, if applicable, water heating atstandard rating conditions, expressed in kW; for heat pumpspace heaters and heat pumpcombination heaters the standard rating conditions for establishing the rated heat output are the reference design conditions, as set out in Annex VII, Table 10;",
+      "\u2018standard rating conditions\u2019 means the operating conditions of heaters under average climate conditions for establishing the rated heat output, seasonal space heating energy efficiency, water heating energy efficiency and sound power level;"
+    ],
+    "Article 8": [
+      "\u2018rated coefficient of performance\u2019 (COPrated\n) or \u2018rated primary energy ratio\u2019 (PERrated\n) means the declared heat capacity, expressed in kW, divided by the energy input, expressed in kW in terms of GCV and/or in kW in terms of final energy multiplied by CC, for heating provided at standard rating conditions;",
+      "\u2018rated heat outputof supplementaryheater\u2019 (Psup) means the declared heat output of the supplementary heater when providing space heating and, if applicable, water heating atstandard rating conditions, expressed in kW; if the supplementary heater is a heat pumpspace heateror heat pumpcombination heater, the standard rating condition for establishing the rated heat output of supplementary heater is the outdoor temperature Tj = + 7 \u00b0C;",
+      "Standard rating conditionsfor heat pumpspace heaters and heat pumpcombination heaters",
+      "For establishing the rated coefficient of performance COPrated\n or rated primary energy ratio PERrated\n, or the sound power level, the operating conditions shall be the standard rating conditions set out in Table 9 and the same declared capacity for heating shall be used.",
+      "Standard rating conditions for heat pump space heaters and heat pump combination heaters",
+      "For establishing the rated coefficient of performance COPrated\n or rated primary energy ratio PERrated\n, or thesound power level, the operating conditions shall be thestandard rating conditions set out in Table 9 and the same declared capacity for heating shall be used.",
+      "\u2018rated heat output of supplementary heater\u2019 (Psup) means the declared heat output of the supplementary heater when providing space heating and, if applicable, water heating at standard rating conditions, expressed in kW; if the supplementary heater is a heat pump space heater or heat pump combination heater, the standard rating condition for establishing the rated heat output of supplementary heater is the outdoor temperature Tj = + 7 \u00b0C;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        0,
+        2,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 7,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

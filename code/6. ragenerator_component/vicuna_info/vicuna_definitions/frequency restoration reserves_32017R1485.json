@@ -1,0 +1,24 @@
+{
+  "term": "frequency restoration reserves",
+  "celex_id": "32017R1485",
+  "original_definition": "'frequency restoration reserves' means the active power reserves available to restore system frequency to the nominal frequency and, for a synchronous area consisting of more than one LFC area, to restore power balance to the scheduled value;",
+  "generated_definition": "'frequency restoration reserves' means frequency restoration reserves are a type of reserve that is used to restore the frequency of a service in the event of a failure or disruption. they are typically used in the telecommunications industry to ensure that critical services are not disrupted during a failure.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018frequency restoration reserves\u2019 or \u2018FRR\u2019 means the active power reserves available to restore system frequency to the nominal frequency and, for a synchronous area consisting of more than one LFC area, to restore power balance to the scheduled value;",
+      "\u2018frequency restoration reserves\u2019 or \u2018FRR\u2019 means theactive power reserves available to restoresystem frequencyto the nominal frequency and, for a synchronous area consisting of more than oneLFC area, to restore power balance to thescheduled value;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

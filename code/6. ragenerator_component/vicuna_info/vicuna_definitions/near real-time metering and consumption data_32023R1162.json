@@ -1,0 +1,24 @@
+{
+  "term": "near real-time metering and consumption data",
+  "celex_id": "32023R1162",
+  "original_definition": "'near real-time metering and consumption data' means metering and consumption data provided continuously by a smart meter or a smart metering system in a short time period, usually down to seconds or up to the imbalance settlement period in the national market, which is non-validated and made available through a standardised interface or through remote access in line with Article 20(a) of the Electricity Directive (EU) 2019/944;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018near real-time metering and consumption data\u2019 means metering and consumption data provided continuously by a smart meter or a smart metering system in a short time period, usually down to seconds or up to the imbalance settlement period in the national market, which is non-validated and made available through a standardised interface or through remote access in line with Article 20(a) of the Electricity Directive (EU) 2019/944;",
+      "\u2018near real-time metering and consumption data\u2019 means metering and consumption data provided continuously by asmart meter or a smart metering system in a short time period, usually down to seconds or up to the imbalance settlement period in the national market, which is non-validated and made available through a standardised interface or through remote access in line with Article 20(a) of the Electricity Directive (EU) 2019/944;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

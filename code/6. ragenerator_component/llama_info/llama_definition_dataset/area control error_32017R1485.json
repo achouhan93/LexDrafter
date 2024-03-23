@@ -1,0 +1,24 @@
+{
+  "term": "area control error",
+  "celex_id": "32017R1485",
+  "original_definition": "'area control error' means the sum of the power control error (\u2018\u0394P\u2019), that is the real-time difference between the measured actual real time power interchange value (\u2018P\u2019) and the control program (\u2018P0\u2019) of a specific LFC area or LFC block and the frequency control error (\u2018K*\u0394f\u2019), that is the product of the K-factor and the frequency deviation of that specific LFC area or LFC block, where the area control error equals \u0394P+K*\u0394f;",
+  "generated_definition": "'area control error' means the difference between the actual control of an area and the desired control, resulting in a loss of control or inefficiency.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018area control error\u2019 or \u2018ACE\u2019 means the sum of the power control error (\u2018\u0394P\u2019), that is the real-time difference between the measured actual real time power interchange value (\u2018P\u2019) and thecontrol program(\u2018P0\u2019) of a specificLFC areaorLFC blockand the frequency control error (\u2018K*\u0394f\u2019), that is the product of the K-factor and thefrequency deviation of that specific LFC area or LFC block, where the area control error equals \u0394P+K*\u0394f;",
+      "\u2018area control error\u2019 or \u2018ACE\u2019 means the sum of the power control error (\u2018\u0394P\u2019), that is the real-time difference between the measured actual real time power interchange value (\u2018P\u2019) and the control program (\u2018P0\u2019) of a specific LFC area or LFC block and the frequency control error (\u2018K*\u0394f\u2019), that is the product of the K-factor and the frequency deviation of that specific LFC area or LFC block, where the area control error equals \u0394P+K*\u0394f;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

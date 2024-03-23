@@ -1,0 +1,35 @@
+{
+  "term": "point of sale",
+  "celex_id": "32011R0626",
+  "original_definition": "'point of sale' means a location where air conditioners are displayed or offered for sale, hire or hire-purchase.",
+  "generated_definition": "'point of sale' means the location where a product is sold to a consumer, typically a retail store or online marketplace.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018point of sale\u2019 means a location whereair conditioners are displayed or offered for sale, hire or hire-purchase.",
+      "\u2018point of sale\u2019 means a location where air conditioners are displayed or offered for sale, hire or hire-purchase."
+    ],
+    "Article 4": [
+      "air conditioners, at the point of sale, bear the label provided by suppliers in accordance with Article 3(1) on the outside of the front or top of the appliance, in such a way as to be clearly visible;",
+      "air conditioners, at thepoint of sale, bear the label provided by suppliers in accordance with Article 3(1) on the outside of the front or top of the appliance, in such a way as to be clearly visible;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 4": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

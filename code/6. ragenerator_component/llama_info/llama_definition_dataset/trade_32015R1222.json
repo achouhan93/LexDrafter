@@ -1,0 +1,109 @@
+{
+  "term": "trade",
+  "celex_id": "32015R1222",
+  "original_definition": "'trade' means one or more matched orders;",
+  "generated_definition": "'trade' means the matching of buy and sell orders based on a price coupling or continuous trade matching algorithm.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018intraday market time-frame\u2019 means the time-frame of the electricity market afterintraday cross-zonal gate opening timeand beforeintraday cross-zonal gate closure time, where for each market time unit, products aretraded prior to the delivery of the traded products;",
+      "\u2018day-ahead market time-frame\u2019 means the time-frame of the electricity market until the day-ahead market gate closure time, where, for each market time unit, products are traded the day prior to delivery;",
+      "\u2018intraday market time-frame\u2019 means the time-frame of the electricity market after intraday cross-zonal gate opening time and before intraday cross-zonal gate closure time, where for each market time unit, products are traded prior to the delivery of the traded products;",
+      "\u2018matched orders\u2019 means all buy and sell orders matched by the price coupling algorithm or the continuous trade matching algorithm;",
+      "\u2018matched orders\u2019 means all buy and sell orders matched by theprice coupling algorithmor the continuoustradematching algorithm;",
+      "\u2018day-ahead market time-frame\u2019 means the time-frame of the electricity market until theday-ahead market gate closure time, where, for each market time unit, products aretraded the day prior to delivery;"
+    ],
+    "Article 5": [
+      "3.   Two years after the entry into force of this Regulation, the Commission shall forward a report to the European Parliament and the Council in accordance with Article 24 of Regulation (EC) No 714/2009 on the development of single day-ahead and intraday coupling in the Member States, with particular emphasis on the development of competition between NEMOs. On the basis of that report, and if the Commission deems that there is no justification for the continuation of national legal monopolies or for the continued refusal of a Member State to allow cross-border trading by a NEMO designated in another Member State, the Commission may consider appropriate legislative or other appropriate measures to further increase competition and trade between and within Member States. The Commission shall also include an assessment in the report evaluating the governance of single day-ahead and intraday coupling established by this Regulation, with particular emphasis on the transparency of MCO functions carried jointly by the NEMOs. On the basis of that report, and if the Commission deems that there is ambiguity in carrying out the monopolistic MCO functions and other NEMO tasks, the Commission may consider appropriate legislative or other appropriate measures to further increase transparency and efficient functioning of single day-ahead and intraday coupling.",
+      "3.   Two years after the entry into force of this Regulation, the Commission shall forward a report to the European Parliament and the Council in accordance with Article 24 of Regulation (EC) No 714/2009 on the development of single day-ahead and intraday coupling in the Member States, with particular emphasis on the development of competition between NEMOs. On the basis of that report, and if the Commission deems that there is no justification for the continuation of national legal monopolies or for the continued refusal of a Member State to allow cross-bordertrading by a NEMO designated in another Member State, the Commission may consider appropriate legislative or other appropriate measures to further increase competition andtrade between and within Member States. The Commission shall also include an assessment in the report evaluating the governance of single day-ahead and intraday coupling established by this Regulation, with particular emphasis on the transparency of MCO functions carried jointly by the NEMOs. On the basis of that report, and if the Commission deems that there is ambiguity in carrying out the monopolistic MCO functions and other NEMO tasks, the Commission may consider appropriate legislative or other appropriate measures to further increase transparency and efficient functioning of single day-ahead and intraday coupling."
+    ],
+    "Article 7": [
+      "1.   NEMOs shall act as market operators in national or regional markets to perform in cooperation with TSOs single day-ahead and intraday coupling. Their tasks shall include receiving orders from market participants, having overall responsibility for matching and allocating orders in accordance with the single day-ahead and intraday coupling results, publishing prices and settling and clearing the contracts resulting from the trades according to relevant participant agreements and regulations.",
+      "1.   NEMOs shall act as market operators in national or regional markets to perform in cooperation with TSOs single day-ahead and intraday coupling. Their tasks shall include receivingorders from market participants, having overall responsibility formatchingand allocating orders in accordance with the single day-ahead and intraday coupling results, publishing prices and settling and clearing the contracts resulting from thetrades according to relevant participant agreements and regulations."
+    ],
+    "Article 52": [
+      "the execution status of orders and prices per trade;",
+      "the execution status oforders and prices pertrade;"
+    ],
+    "Article 60": [
+      "to all other NEMOs, for results on the execution status per trade specified in Article 52(1)(a);"
+    ],
+    "Article 63": [
+      "the timetables for regional auctions shall be consistent with single intraday coupling to enable market participants to trade as close as possible to real-time;",
+      "the timetables for regional auctions shall be consistent withsingle intraday couplingto enable market participants totrade as close as possible to real-time;"
+    ],
+    "Article 64": [
+      "1.   Where jointly requested by the regulatory authorities of the Member States of each of the bidding zone borders concerned, the TSOs concerned shall also provide explicit allocation, in addition to implicit allocation, that is to say, capacity allocation separate from the electricity trade, via the capacity management module on bidding zone borders.",
+      "1.   Where jointly requested by the regulatory authorities of the Member States of each of the bidding zone borders concerned, the TSOs concerned shall also provide explicit allocation, in addition to implicit allocation, that is to say, capacity allocation separate from the electricitytrade, via thecapacity management module on bidding zone borders."
+    ],
+    "Not Article": [
+      "Regulation (EC) No 714/2009 sets out non-discriminatory rules for access conditions to the network for cross-border exchanges in electricity and, in particular, rules on capacity allocation and congestion management for interconnections and transmission systems affecting cross-border electricity flows. In order to move towards a genuinely integrated electricity market, the current rules on capacity allocation, congestion management and trade in electricity should be further harmonised. This Regulation therefore sets out minimum harmonised rules for the ultimately single day-ahead and intraday coupling, in order to provide a clear legal framework for an efficient and modern capacity allocation and congestion management system, facilitating Union-wide trade in electricity, allowing more efficient use of the network and increasing competition, for the benefit of consumers.",
+      "However, single day-ahead and intraday coupling should only be implemented stepwise, as the regulatory framework for electricity trade and the physical structure of the transmission grid are characterised by significant differences between Member States and regions. The introduction of single day-ahead and intraday coupling therefore requires a successive alignment of the existing methodologies on capacity calculation, allocation and congestion management. Single intraday and day-ahead coupling may therefore be introduced at a regional level as an intermediate step where necessary.",
+      "Regulation (EC) No 714/2009 sets out non-discriminatory rules for access conditions to the network for cross-borderexchanges in electricity and, in particular, rules on capacity allocation and congestion management for interconnections and transmission systems affecting cross-border electricity flows. In order to move towards a genuinely integrated electricity market, the current rules on capacity allocation, congestion management andtrade in electricity should be further harmonised. This Regulation therefore sets out minimum harmonised rules for the ultimately single day-ahead and intraday coupling, in order to provide a clear legal framework for an efficient and modern capacity allocation and congestion management system, facilitating Union-wide trade in electricity, allowing more efficient use of the network and increasing competition, for the benefit of consumers."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    "Article 5": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 7": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 52": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 60": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 63": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 64": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Not Article": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        1,
+        1
+      ]
+    }
+  }
+}

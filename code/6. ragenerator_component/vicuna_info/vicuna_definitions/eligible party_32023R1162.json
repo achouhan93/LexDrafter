@@ -1,0 +1,157 @@
+{
+  "term": "eligible party",
+  "celex_id": "32023R1162",
+  "original_definition": "'eligible party' means an entity offering energy-related services to final customers, such as suppliers, transmission and distribution system operators, delegated operators and other third parties, aggregators, energy service companies, renewable energy communities, citizen energy communities and balancing service providers, as far as they offer energy related services to final customers;",
+  "generated_definition": "'eligible party' means a party designated by a final customer to receive data from a metered data administrator, for a specific purpose, in accordance with regulation (eu) 2016/679.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018permission provision log\u2019 means a timestamped record of when the permission for a an eligible party or final customer was granted, revoked, or terminated, including a permission identifier, and a party identifier;",
+      "\u2018permission provision log\u2019 means a timestamped record of when the permission for a aneligible party or final customer was granted, revoked, or terminated, including a permission identifier, and a party identifier;",
+      "\u2018data access log\u2019 means a timestamped record of data items accessed that includes at least the identification of the final customer or theeligible partyaccessing the data and, if applicable, the identification of thepermission used to access the data;",
+      "\u2018eligible party\u2019 means an entity offering energy-related services to final customers, such as suppliers, transmission and distribution system operators, delegated operators and other third parties, aggregators, energy service companies, renewable energy communities, citizen energy communities and balancing service providers, as far as they offer energy related services to final customers;",
+      "\u2018permission\u2019 means the authorisation given by a final customer for an eligible party on the basis of a contractual agreement they have with this party, to access their metering and consumption data managed by the metered data administrator for the provision of a specific service;",
+      "\u2018data access log\u2019 means a timestamped record of data items accessed that includes at least the identification of the final customer or the eligible party accessing the data and, if applicable, the identification of the permission used to access the data;",
+      "\u2018permission\u2019 means the authorisation given by a final customer for aneligible partyon the basis of a contractual agreement they have with this party, to access theirmetering and consumption datamanaged by themetered data administrator for the provision of a specific service;"
+    ],
+    "Article\u00a05": [
+      "3.   Metered data administrators shall give eligible parties access to testing facilities where the eligible party can test the compatibility of their systems with the systems of the metered data administrator implementing the procedures in this Regulation. The testing facility shall be available before the procedures are implemented and while they are in operation.",
+      "3.Metered data administrators shall give eligible parties access to testing facilities where theeligible party can test the compatibility of their systems with the systems of the metered data administrator implementing the procedures in this Regulation. The testing facility shall be available before the procedures are implemented and while they are in operation."
+    ],
+    "Article\u00a07": [
+      "2.   Data access providers shall keep and make available to final customers their log information, including the time at which an eligible party or a final customer has been given access to data, and the type of data concerned. This information shall be made available online, free of charge, without unnecessary delay, whenever a final customer requests access.",
+      "2.Data access providers shall keep and make available to final customers their log information, including the time at which aneligible party or a final customer has been given access to data, and the type of data concerned. This information shall be made available online, free of charge, without unnecessary delay, whenever a final customer requests access."
+    ],
+    "Article\u00a08": [
+      "inform themetered data administrator(steps 3.5 and 4.9 in the Annex), theeligible partyif needed (step 4.11) and the final customer (step 3.4 and 4.13) as soon as thepermission administrator is notified of an invalidation of a permission;",
+      "inform the metered data administrator (steps 3.5 and 4.9 in the Annex), the eligible party if needed (step 4.11) and the final customer (step 3.4 and 4.13) as soon as the permission administrator is notified of an invalidation of a permission;"
+    ],
+    "Article\u00a014": [
+      "The timestamp by which the eligible party has to delete the received data, even if the processing purpose is not fulfilled by then.",
+      "The eligible party immediately and without unnecessary delay shall inform the permission administrator.",
+      "Final customers identify the eligible party to which they intend to make data available.",
+      "Information that allows the eligible party to potentially verify that it gets the data for the correct final customer.",
+      "The eligible party shall perform all tasks required to fulfil its related responsibilities immediately and without undue delay and in accordance with Regulation (EU) 2016/679.",
+      "Data is transferred from themetered data administratoras specified in thepermissioneither until the requested reading end point or the current timestamp (for instances where the requested reading end point is in the future) to theeligible party.",
+      "Data is actually being transferred to the eligible party.",
+      "Diagram 3 \u2013 Procedure \u2018Termination of service by an eligible party\u2019",
+      "The permission administrator must inform the affected eligible party immediately and without unnecessary delay.",
+      "If permission is not active anymore, the reason for why the permission administrator considers the permission has ended. For instance, this can indicate fulfilment of purpose, reach of permission end timestamp, revocation of final customer or termination by the eligible party.",
+      "Eligible partyconsiders the service or purpose referred by thepermission terminated.",
+      "The timestamp after which theeligible partyhas to consider thepermission as expired or revoked, even if the processing purpose is not fulfilled by then.",
+      "An \u2018eligible party\u2019 is an entity offering energy-related services to final customers, such as suppliers, transmission and distribution system operators, delegated operators and other third parties, aggregators, energy service companies, renewable energy communities, citizen energy communities and balancing service providers, as far as they offer energy related services to final customers;",
+      "Specification of data needed by the eligible party. Optional (but broadly available) means for specifying data needed (for example through a click on a \u2018share my data\u2019-button) in order to avoid that the final customer has to do complex inputs.",
+      "Final customers specify the data they intend to make available and confirm their permission to the permission administrator. This can also be assisted by pre-specified permission requests coming from the eligible party through step 2.3.",
+      "Eligible party for which the permission has been given.",
+      "Timestamp indicating the point in time when the service is considered terminated by the eligible party.",
+      "The specified, explicit and legitimate purpose for which the eligible party intends to process the data. For non-personal data this is optional.",
+      "The timestamp after which the eligible party has to consider the permission as expired or revoked, even if the processing purpose is not fulfilled by then.",
+      "Final customers specify the data they intend to make available and confirm theirpermissionto thepermission administrator. This can also be assisted by pre-specified permission requests coming from theeligible party through step 2.3.",
+      "Ifpermissionis not active anymore, the reason for why thepermission administratorconsiders the permission has ended. For instance, this can indicate fulfilment of purpose, reach of permission end timestamp, revocation of final customer or termination by theeligible party.",
+      "Data is transferred from the metered data administrator as specified in the permission either until the requested reading end point or the current timestamp (for instances where the requested reading end point is in the future) to the eligible party.",
+      "Identify eligible party",
+      "Thepermission administratorinforms theeligible party that the permission has been established.",
+      "The eligible party performs all tasks required to fulfil its related responsibilities immediately and without undue delay and in accordance with Regulation (EU) 2016/679.",
+      "Themetered data administratorstops transferring data to theeligible party.",
+      "Eligible party test on-boarding",
+      "Eligible party",
+      "Notify eligible party",
+      "The metered data administrator stops transferring data to the eligible party.",
+      "Eligible party considers the service or purpose referred by the permission terminated.",
+      "Eligible party is on-boarded.",
+      "Eligible party on-boarding",
+      "Termination of service by an eligible party",
+      "Eligible partyfor which thepermission has been given.",
+      "The permission administrator informs the eligible party that the permission has been established."
+    ],
+    "Not Article": [
+      "This Regulation applies tometering and consumption datain the form ofvalidated historical metering and consumption dataand non-validated near-real time metering and consumption data. It lays down rules enabling final customers in the retail electricity market and eligible parties to access this data, in a timely, simple and secure manner. Moreover, it ensures that suppliers and service providers have transparent and seamless access to final customers\u2019 data, in a manner that the data is easy for them to understand and use, provided that customers have given the requiredpermission. Upon receiving this permission, themetered data administratorprovides the relevant data covered by this authorisation to theeligible party chosen by the final customer. Moreover, this specific authorisation procedure could be linked to a contractual agreement, or to an explicit clause within the contractual agreement with the eligible party. This way, interoperability is ensured in a manner that respects consumer rights over their data, and market participants have a shared understanding of the type of data and workflows that are required for specific services and processes. Customers can be required to give permission to suppliers or other market participants such as aggregators as part of their contractual agreements. Where a customer terminates their contract with a supplier or other market participant, the supplier or market participant should continue to have access to the metering data necessary for billing or balancing purposes. Member States may require certain metering data to be shared for legitimate public purposes, for instance with environmental or statistical authorities as well as with system operators or other market participants.",
+      "This Regulation applies to metering and consumption data in the form of validated historical metering and consumption data and non-validated near-real time metering and consumption data. It lays down rules enabling final customers in the retail electricity market and eligible parties to access this data, in a timely, simple and secure manner. Moreover, it ensures that suppliers and service providers have transparent and seamless access to final customers\u2019 data, in a manner that the data is easy for them to understand and use, provided that customers have given the required permission. Upon receiving this permission, the metered data administrator provides the relevant data covered by this authorisation to the eligible party chosen by the final customer. Moreover, this specific authorisation procedure could be linked to a contractual agreement, or to an explicit clause within the contractual agreement with the eligible party. This way, interoperability is ensured in a manner that respects consumer rights over their data, and market participants have a shared understanding of the type of data and workflows that are required for specific services and processes. Customers can be required to give permission to suppliers or other market participants such as aggregators as part of their contractual agreements. Where a customer terminates their contract with a supplier or other market participant, the supplier or market participant should continue to have access to the metering data necessary for billing or balancing purposes. Member States may require certain metering data to be shared for legitimate public purposes, for instance with environmental or statistical authorities as well as with system operators or other market participants."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article\u00a05": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article\u00a07": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article\u00a08": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article\u00a014": {
+      "article_score": 35,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    }
+  }
+}

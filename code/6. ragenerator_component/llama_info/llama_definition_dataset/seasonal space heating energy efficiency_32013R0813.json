@@ -1,0 +1,104 @@
+{
+  "term": "seasonal space heating energy efficiency",
+  "celex_id": "32013R0813",
+  "original_definition": "'seasonal space heating energy efficiency' means the ratio between the space heating demand for a designated heating season, supplied by a heater and the annual energy consumption required to meet this demand, expressed in %;",
+  "generated_definition": "'seasonal space heating energy efficiency' means the ratio of the actual seasonal energy efficiency of a space heating system to its declared value, expressed as a percentage, calculated based on the average of the three units for seasonal space heating energy efficiency, \u03b7s, is not more than 8 % lower than the declared value at the rated heat output of the unit; from 26 september 2015, the seasonal space heating energy efficiency and useful efficiencies of heaters shall not fall below the following values: benchmark for seasonal space heating energy efficiency in medium-temperature application: 145 %; seasonal space heating energy efficiency of heat pump space heaters and heat pump combination heaters: declared values for rated heat output, seasonal space heating energy efficiency, water heating energy efficiency, sound power level and emissions of nitrogen oxides shall be rounded to the nearest integer; seasonal space heating energy efficiency of boiler space heaters, boiler combination heaters and cogeneration space heaters: for heaters equipped with supplementary heaters, the measurement and calculation of rated heat output, seasonal space heating energy efficiency, water heating energy efficiency, sound power level and emissions of nitrogen oxides shall take account of the supplementary heater; the seasonal space heating energy efficiency \u03b7s is not more than 8 % lower than the declared value at the rated heat output of the unit; the seasonal space heating energy efficiency shall not fall below 100 %; seasonal space heating energy efficiency of electric boiler space heaters, electric boiler combination heaters, cogeneration space heaters, heat pump space heaters and heat pump combination heaters: from 26 september 2017, the seasonal space heating energy efficiency shall not fall below the following values: the seasonal space heating energy efficiency shall not fall below 36 %; the seasonal space heating energy efficiency \u03b7s shall be calculated as the seasonal coefficient of performance scop divided by the conversion coefficient cc or the seasonal primary energy ratio sper, corrected by contributions accounting for temperature controls and, for water-/brine-to-water heat pump space heaters and heat pump combination heaters, the electricity consumption of one or more ground water pumps.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018standard rating conditions\u2019 means the operating conditions of heaters under average climate conditions for establishing the rated heat output, seasonal space heating energy efficiency, water heating energy efficiency, sound power level and nitrogen oxide emissions;",
+      "\u2018seasonal space heating energy efficiency\u2019 (\u03b7s\n) means the ratio between the space heating demand for a designated heating season, supplied by a heater and the annual energy consumption required to meet this demand, expressed in %;",
+      "\u2018standard rating conditions\u2019 means the operating conditions ofheaters under average climate conditions for establishing therated heat output,seasonal space heating energy efficiency,water heating energy efficiency,sound power level and nitrogen oxide emissions;",
+      "\u2018seasonal space heating energy efficiency\u2019 (\u03b7s\n) means the ratio between the space heating demand for a designated heating season, supplied by aheater and the annual energy consumption required to meet this demand, expressed in %;"
+    ],
+    "Article 8": [
+      "1.   Until 26 September 2015 Member States may allow the placing on the market and/or putting into service of heaters which are in conformity with the national provisions in force when this Regulation is adopted regarding seasonal space heating energy efficiency, water heating energy efficiency and sound power level.",
+      "1.   Until 26 September 2015 Member States may allow the placing on the market and/or putting into service ofheaters which are in conformity with the national provisions in force when this Regulation is adopted regardingseasonal space heating energy efficiency,water heating energy efficiencyandsound power level."
+    ],
+    "Article 10": [
+      "the average of the three units forseasonal space heating energy efficiency\u03b7s\n is not more than 8 % lower than the declared value at therated heat output of the unit;",
+      "From 26 September 2015 the seasonal space heating energy efficiency and useful efficiencies of heaters shall not fall below the following values:",
+      "Benchmark for seasonal space heating energy efficiency in medium-temperature application: 145 %;",
+      "Seasonal space heating energy efficiency of heat pump space heaters and heat pump combination heaters",
+      "Declared values forrated heat output,seasonal space heating energy efficiency,water heating energy efficiency,sound power level and emissions of nitrogen oxides shall be rounded to the nearest integer.",
+      "Seasonal space heating energy efficiencyofboiler space heaters, boilercombination heaters andcogeneration space heaters",
+      "From 26 September 2015 theseasonal space heating energy efficiencyand useful efficiencies ofheaters shall not fall below the following values:",
+      "the average of the three units for seasonal space heating energy efficiency \u03b7s\n is not more than 8 % lower than the declared value at the rated heat output of the unit;",
+      "For heaters equipped with supplementary heaters, the measurement and calculation of rated heat output, seasonal space heating energy efficiency, water heating energy efficiency, sound power level and emissions of nitrogen oxides shall take account of the supplementary heater.",
+      "the seasonal space heating energy efficiency \u03b7s\n is not more than 8 % lower than the declared value at the rated heat output of the unit;",
+      "Declared values for rated heat output, seasonal space heating energy efficiency, water heating energy efficiency, sound power level and emissions of nitrogen oxides shall be rounded to the nearest integer.",
+      "The seasonal space heating energy efficiency shall not fall below 100 %.",
+      "theseasonal space heating energy efficiency\u03b7s\n is not more than 8 % lower than the declared value at therated heat output of the unit;",
+      "Seasonal space heating energy efficiency of boiler space heaters, boiler combination heaters and cogeneration space heaters",
+      "Seasonal space heating energy efficiency",
+      "The seasonal space heating energy efficiency shall not fall below 110 %.",
+      "From 26 September 2017 theseasonal space heating energy efficiencyof electricboiler space heaters, electric boilercombination heaters,cogeneration space heaters,heat pump space heaters andheat pump combination heaters shall not fall below the following values:",
+      "The seasonal space heating energy efficiency shall not fall below 36 %.",
+      "The seasonal space heating energy efficiency \u03b7s\n shall be calculated as the seasonal coefficient of performance SCOP divided by the conversion coefficient CC or the seasonal primary energy ratio SPER, corrected by contributions accounting for temperature controls and, for water-/brine-to-water heat pump space heaters and heat pump combination heaters, the electricity consumption of one or more ground water pumps.",
+      "The seasonal space heating energy efficiency shall not fall below 86 %.",
+      "From 26 September 2017 the seasonal space heating energy efficiency of electric boiler space heaters, electric boiler combination heaters, cogeneration space heaters, heat pump space heaters and heat pump combination heaters shall not fall below the following values:",
+      "The seasonal space heating energy efficiency shall not fall below 125 %.",
+      "At the time of entry into force of this Regulation, the best available technology on the market forheaters in terms ofseasonal space heating energy efficiency,water heating energy efficiency,sound power level and emissions of nitrogen oxides was identified as follows:",
+      "The seasonal space heating energy efficiency shall not fall below 30 %.",
+      "The seasonal space heating energy efficiency shall not fall below 75 %.",
+      "The seasonal space heating energy efficiency shall not fall below 115 %.",
+      "\u2018seasonal space heating energy efficiency in active mode\u2019 (\u03b7son\n) means",
+      "At the time of entry into force of this Regulation, the best available technology on the market for heaters in terms of seasonal space heating energy efficiency, water heating energy efficiency, sound power level and emissions of nitrogen oxides was identified as follows:",
+      "Forheaters equipped withsupplementary heaters, the measurement and calculation ofrated heat output,seasonal space heating energy efficiency,water heating energy efficiency,sound power level and emissions of nitrogen oxides shall take account of the supplementary heater."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 10": {
+      "article_score": 29,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

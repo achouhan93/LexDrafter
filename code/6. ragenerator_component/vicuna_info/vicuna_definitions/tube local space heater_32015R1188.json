@@ -1,0 +1,57 @@
+{
+  "term": "tube local space heater",
+  "celex_id": "32015R1188",
+  "original_definition": "'tube local space heater' means a local space heater, using gaseous or liquid fuel, which is equipped with a burner; which is to be installed above head level, near the subjects to be heated, which heats the space primarily by infrared radiation from the tube or tubes heated by the internal passage of products of combustion and of which the products of combustion are to be evacuated through a flue duct;",
+  "generated_definition": "'tube local space heater' means a type of local space heater that uses a tube for heating and has a declared value for emissions of nox. the emissions of nox by this type of heater shall not exceed 200 mg/kwhinput based on gcv and the average seasonal space heating energy efficiency shall not be more than 10% lower than the declared value.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018commercial local space heater\u2019 means either a luminous local space heater or tube local space heater;",
+      "\u2018tube local space heater\u2019 means a local space heater, using gaseous or liquid fuel, which is equipped with a burner; which is to be installed above head level, near the subjects to be heated, which heats the space primarily by infrared radiation from the tube or tubes heated by the internal passage of products of combustion and of which the products of combustion are to be evacuated through a flue duct;",
+      "\u2018commercial local space heater\u2019 means either aluminous local space heaterortube local space heater;"
+    ],
+    "Article 9": [
+      "for luminous local space heaters and tube local space heaters the emissions of NOx are not more than 10 % higher than the declared value.",
+      "emissions of NOx by luminous local space heaters and tube local space heaters shall not exceed 200 mg/kWhinput based on GCV.",
+      "for luminous local space heaters and tube local space heaters the average seasonal space heating energy efficiency of the three additional units is not more than 10 % lower than the declared value;",
+      "benchmark for emissions of NOx byluminous local space heaters andtube local space heaters: 50 mg/kWhinput based on GCV.",
+      "benchmark for emissions of NOx by luminous local space heaters and tube local space heaters: 50 mg/kWhinput based on GCV.",
+      "forluminous local space heaters andtube local space heaters the average emissions of NOx of the three additional units are not more than 10 % higher than the declared value.",
+      "emissions of NOx byluminous local space heaters andtube local space heaters shall not exceed 200 mg/kWhinput based on GCV.",
+      "for luminous local space heaters and tube local space heaters the average emissions of NOx of the three additional units are not more than 10 % higher than the declared value.",
+      "for luminous local space heaters and tube local space heaters the seasonal space heating energy efficiency is not more than 10 % lower than the declared value;",
+      "forluminous local space heaters andtube local space heaters the emissions of NOx are not more than 10 % higher than the declared value.",
+      "forluminous local space heaters andtube local space heaters the seasonal space heating energy efficiency is not more than 10 % lower than the declared value;",
+      "forluminous local space heaters andtube local space heaters the average seasonal space heating energy efficiency of the three additional units is not more than 10 % lower than the declared value;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        1
+      ]
+    },
+    "Article 9": {
+      "article_score": 12,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

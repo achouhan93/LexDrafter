@@ -1,0 +1,61 @@
+{
+  "term": "intraday cross-zonal gate opening time",
+  "celex_id": "32015R1222",
+  "original_definition": "'intraday cross-zonal gate opening time' means the point in time when cross-zonal capacity between bidding zones is released for a given market time unit and a given bidding zone border;",
+  "generated_definition": "'intraday cross-zonal gate opening time' means the time at which cross-zonal trading is allowed to occur between different time zones within the intraday market time-frame.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018intraday market time-frame\u2019 means the time-frame of the electricity market after intraday cross-zonal gate opening time and before intraday cross-zonal gate closure time, where for each market time unit, products are traded prior to the delivery of the traded products;",
+      "\u2018intraday cross-zonal gate opening time\u2019 means the point in time when cross-zonal capacity between bidding zones is released for a given market time unit and a given bidding zone border;",
+      "\u2018intraday market time-frame\u2019 means the time-frame of the electricity market afterintraday cross-zonal gate opening timeand beforeintraday cross-zonal gate closure time, where for each market time unit, products aretraded prior to the delivery of the traded products;",
+      "\u2018intraday cross-zonal gate opening time\u2019 means the point in time when cross-zonal capacity between bidding zones is released for a givenmarket timeunit and a given bidding zone border;"
+    ],
+    "Article 51": [
+      "1.   From theintraday cross-zonal gate opening timeuntil theintraday cross-zonal gate closure time, thecontinuous trading matching algorithmshall determine whichorders to select for matching such that matching:",
+      "1.   From the intraday cross-zonal gate opening time until the intraday cross-zonal gate closure time, the continuous trading matching algorithm shall determine which orders to select for matching such that matching:"
+    ],
+    "Article 58": [
+      "1.   Each coordinated capacity calculator shall ensure that cross-zonal capacity and allocation constraints are provided to the relevant NEMOs no later than 15 minutes before the intraday cross-zonal gate opening time.",
+      "1.   Eachcoordinated capacity calculatorshall ensure that cross-zonal capacity andallocation constraintsare provided to the relevant NEMOs no later than 15 minutes before theintraday cross-zonal gate opening time."
+    ],
+    "Article 59": [
+      "4.   The intraday energy trading for a given market time unit for a bidding zone border shall start at the latest at the intraday cross-zonal gate opening time of the relevant bidding zone borders and shall be allowed until the intraday cross-zonal gate closure time.",
+      "4.   The intraday energy trading for a givenmarket timeunit for a bidding zone bordershall start at the latest at theintraday cross-zonal gate opening timeof the relevant bidding zone borders and shall be allowed until theintraday cross-zonal gate closure time."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        0
+      ]
+    },
+    "Article 51": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 58": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 59": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "term": "medium temperature",
+  "celex_id": "32015R1095",
+  "original_definition": "'medium temperature' means that the condensing unit is capable of delivering its rated cooling capacity at a saturated evaporating temperature of \u2013 10 \u00b0C;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 1": [
+      "2.   This Regulation also establishes ecodesign requirements for the placing on the market ofcondensing units operating at low ormedium temperature or both.",
+      "3.   This Regulation also establishes ecodesign requirements for the placing on the market ofprocess chillers intended to operate at low ormedium temperature.",
+      "3.   This Regulation also establishes ecodesign requirements for the placing on the market of process chillers intended to operate at low or medium temperature.",
+      "2.   This Regulation also establishes ecodesign requirements for the placing on the market of condensing units operating at low or medium temperature or both."
+    ],
+    "Article 2": [
+      "\u2018condensing unit\u2019 means a product integrating at least one electrically driven compressor and one condenser, capable of cooling down and continuously maintaining low ormedium temperature inside a refrigerated appliance or system, using a vapour compression cycle once connected to an evaporator and an expansion device;",
+      "\u2018condensing unit\u2019 means a product integrating at least one electrically driven compressor and one condenser, capable of cooling down and continuously maintaining low or medium temperature inside a refrigerated appliance or system, using a vapour compression cycle once connected to an evaporator and an expansion device;"
+    ],
+    "Article 8": [
+      "intended operating temperature, expressed in degrees Celsius (medium temperature \u2013 8 \u00b0C, low temperature \u2013 25 \u00b0C);",
+      "the saturated evaporating temperature at the indoor heat exchanger (evaporator) shall be \u2013 35 \u00b0C for low temperature and \u2013 10 \u00b0C for medium temperature;",
+      "for condensing units with a rated cooling capacity lower than 2 kW at low temperature and 5 kW at medium temperature, the coefficients of performance COPB, COPc, COPD are not more than 10 % lower than the declared value measured at the declared cooling capacity;",
+      "intended operating temperature, expressed in degrees Celsius (medium temperature\u2013 8 \u00b0C,low temperature \u2013 25 \u00b0C);",
+      "for condensing units with a rated cooling capacity lower than 2 kW at low temperature and 5 kW at medium temperature, the averages of the three units for the coefficients of performance COPB, COPc, COPD are not more than 10 % lower than the declared value measured at the declared cooling capacity.",
+      "the outlet temperature of the liquid at the indoor heat exchanger shall be \u2013 25 \u00b0C forlow temperatureand \u2013 8 \u00b0C formedium temperature;",
+      "forcondensing units with arated cooling capacitylower than 2 kW atlow temperatureand 5 kW atmedium temperature, the averages of the three units for the coefficients of performance COPB, COPc, COPD are not more than 10 % lower than the declared value measured at the declared cooling capacity.",
+      "the saturated evaporating temperature at the indoor heat exchanger (evaporator) shall be \u2013 35 \u00b0C forlow temperatureand \u2013 10 \u00b0C formedium temperature;",
+      "\u2018part load ratio\u2019 (PR(Tj)) at a specific ambient temperature Tj means the ambient temperature Tj minus 5 \u00b0C divided by the reference ambient temperature minus 5 \u00b0C, and \u2014 formedium temperature\u2014 multiplied by 0,4 and added to 0,6, and \u2014 forlow temperature \u2014 multiplied by 0,2 and added to 0,8. For ambient temperatures higher than the reference ambient temperature, the part load ratio shall be 1. For ambient temperatures lower than 5 \u00b0C, the part load ratio shall be 0,6 for medium temperature and 0,8 for low temperature. The part load ratio can be expressed at three decimal places or in percentage, after multiplying by 100, at one decimal place;",
+      "intended evaporating temperature, expressed in degrees Celsius (medium temperature \u2013 10 \u00b0C, low temperature \u2013 35 \u00b0C);",
+      "\u2018part load ratio\u2019 (PR(Tj)) at a specific ambient temperature Tj means the ambient temperature Tj minus 5 \u00b0C divided by the reference ambient temperature minus 5 \u00b0C, and \u2014 for medium temperature \u2014 multiplied by 0,4 and added to 0,6, and \u2014 for low temperature \u2014 multiplied by 0,2 and added to 0,8. For ambient temperatures higher than the reference ambient temperature, the part load ratio shall be 1. For ambient temperatures lower than 5 \u00b0C, the part load ratio shall be 0,6 for medium temperature and 0,8 for low temperature. The part load ratio can be expressed at three decimal places or in percentage, after multiplying by 100, at one decimal place;",
+      "intended evaporating temperature, expressed in degrees Celsius (medium temperature\u2013 10 \u00b0C,low temperature \u2013 35 \u00b0C);",
+      "the outlet temperature of the liquid at the indoor heat exchanger shall be \u2013 25 \u00b0C for low temperature and \u2013 8 \u00b0C for medium temperature;",
+      "forcondensing units with arated cooling capacitylower than 2 kW atlow temperatureand 5 kW atmedium temperature, the coefficients of performance COPB, COPc, COPD are not more than 10 % lower than the declared value measured at the declared cooling capacity;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 8": {
+      "article_score": 16,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

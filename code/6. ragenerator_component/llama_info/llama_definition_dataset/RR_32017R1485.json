@@ -1,0 +1,339 @@
+{
+  "term": "RR",
+  "celex_id": "32017R1485",
+  "original_definition": "'RR' means the active power reserves available to restore system frequency to the nominal frequency and, for a synchronous area consisting of more than one LFC area, to restore power balance to the scheduled value;",
+  "generated_definition": "'RR' means reserve reserve providing units and groups that comply with minimum technical requirements and availability requirements, and are activated according to setpoints received from reserve instructing tso, for the safe and secure delivery of rr in the prequalification process.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018replacement reserves\u2019 or \u2018RR\u2019 means theactive power reserves available to restore or support the required level ofFRR to be prepared for additional system imbalances, including generation reserves;",
+      "\u2018replacement reserves\u2019 or \u2018RR\u2019 means the active power reserves available to restore or support the required level of FRR to be prepared for additional system imbalances, including generation reserves;"
+    ],
+    "Article 6": [
+      "limits on the amount of exchange of RR between synchronous areas defined in accordance with Article 178(1) and limits on the amount of sharing of RR between synchronous areas defined in accordance with Article 179(1);",
+      "technical requirements for the connection of RR providing units and RR providing groups defined by the TSO in accordance with Article 161(3); and",
+      "rejection of RR providing groups from the provision of RR in accordance with Article 162(6)."
+    ],
+    "Article 45": [
+      "RR data for power generating modules that offer or provide that service;",
+      "RR data of power generating modules that offer or provide that service in accordance with Article 161;"
+    ],
+    "Article 48": [
+      "RR data for power generating modules offering or providing the RR service;"
+    ],
+    "Article 118": [
+      "the methodology to determine limits on the amount of exchange of RR between synchronous areas defined in accordance with Article 178(1) and the methodology to determine limits on the amount of sharing of RR between synchronous areas defined in accordance with Article 179(1)."
+    ],
+    "Article 124": [
+      "Cross-border RR activation agreement"
+    ],
+    "Article 131": [
+      "The TSOs of the LFC areas constituting a LFC block shall ensure that at least 50 % of their total combined reserve capacity on RR resulting from the RR dimensioning rules according to Article 160(3) and before any reduction of reserve capacity on RR as a result of the sharing of RR according to Article 160(4) and Article 160(5) remains located within their LFC block.",
+      "Requirements and limits for the exchange of RR within the synchronous area",
+      "The TSOs of theLFC areas constituting aLFC blockshall ensure that at least 50 % of their total combinedreserve capacityonRRresulting from theRR dimensioning rules according to Article 160(3) and before any reduction of reserve capacity on RR as a result of the sharing of RR according to Article 160(4) and Article 160(5) remains located within their LFC block.",
+      "avoid internal congestions due to the activation of reserve capacity on RR subject to the exchange of RR;",
+      "Exchange of RR allowed between",
+      "avoid internal congestions due to the activation ofreserve capacityonRR subject to the exchange of RR;",
+      "Requirements and limits for the exchange of RR within the synchronous area referred to in Article 169:",
+      "The TSOs of the LFC areas constituting a LFC block shall have the right, if required, to define internal limits for the exchange of RR between LFC areas of the LFC block in the LFC block operational agreement as to:",
+      "ensure an even distribution of RR throughout the synchronous area in case of network splitting; and",
+      "The TSOs of theLFC areas constituting aLFC blockshall have the right, if required, to define internal limits for the exchange ofRRbetween LFC areas of the LFC block in theLFC block operational agreement as to:",
+      "Limits for the exchange of RR"
+    ],
+    "Article 148": [
+      "Cross-border RR activation process"
+    ],
+    "Article 160": [
+      "7.   A TSO shall have sufficient reserve capacity on RR in accordance with the RR dimensioning rules at any time. The TSOs of a LFC block shall specify in the LFC block operational agreement an escalation procedure for cases of severe risk of insufficient reserve capacity on RR in the LFC block.",
+      "for the Nordic and CE synchronous areas, there shall be sufficient negativereserve capacityonRRto restore the required amount of negativeFRR. For the GB and IE/NI synchronous areas, there shall be sufficient negative reserve capacity on RR to restore the required amount of negativeFCR and negative FRR;",
+      "RR dimensioning",
+      "there shall be sufficientreserve capacityonRR, where this is taken into account to dimension the reserve capacity onFRRin order to respect theFRCE quality target for the period of time concerned; and",
+      "ensure that the reduction of the negative reserve capacity on RR does not exceed the remaining negative reserve capacity on RR of the LFC block.",
+      "ensure that the reduction of the negativereserve capacityonRRdoes not exceed the remaining negative reserve capacity on RR of theLFC block.",
+      "compliance with theoperational securitywithin aLFC blockto determine thereserve capacityonRR.",
+      "there shall be sufficient reserve capacity on RR, where this is taken into account to dimension the reserve capacity on FRR in order to respect the FRCE quality target for the period of time concerned; and",
+      "ensure that the reduction of the positivereserve capacityonRRdoes not exceed the remaining positive reserve capacity on RR of theLFC block.",
+      "5.   All TSOs of aLFC blockmay reduce the negativereserve capacityonRRof the LFC block, resulting from the RR dimensioning process, by developing a RR sharing agreement for that negative reserve capacity on RR with other LFC blocks in accordance with the provisions of Title 8 of Part IV. Thecontrol capability receiving TSO shall limit the reduction of its negative reserve capacity on RR in order to:",
+      "for the Nordic and CE synchronous areas, there shall be sufficient negative reserve capacity on RR to restore the required amount of negative FRR. For the GB and IE/NI synchronous areas, there shall be sufficient negative reserve capacity on RR to restore the required amount of negative FCR and negative FRR;",
+      "for the Nordic and CE synchronous areas there shall be sufficient positivereserve capacityonRRto restore the required amount of positiveFRR. For the GB and IE/NI synchronous areas there shall be sufficient positive reserve capacity on RR to restore the required amount of positiveFCR and positive FRR;",
+      "ensure that the reduction of the positive reserve capacity on RR does not exceed the remaining positive reserve capacity on RR of the LFC block.",
+      "4.   All TSOs of anLFC blockmay reduce the positivereserve capacityonRRof the LFC block, resulting from the RR dimensioning process, by developing a RR sharing agreement for that positive reserve capacity on RR with other LFC blocks in accordance with the provisions of Title 8 of Part IV. Thecontrol capability receiving TSO shall limit the reduction of its positive reserve capacity on RR in order to:",
+      "7.   A TSO shall have sufficientreserve capacityonRRin accordance with theRR dimensioning rulesat any time. The TSOs of aLFC blockshall specify in theLFC block operational agreement an escalation procedure for cases of severe risk of insufficient reserve capacity on RR in the LFC block.",
+      "5.   All TSOs of a LFC block may reduce the negative reserve capacity on RR of the LFC block, resulting from the RR dimensioning process, by developing a RR sharing agreement for that negative reserve capacity on RR with other LFC blocks in accordance with the provisions of Title 8 of Part IV. The control capability receiving TSO shall limit the reduction of its negative reserve capacity on RR in order to:",
+      "compliance with the operational security within a LFC block to determine the reserve capacity on RR.",
+      "4.   All TSOs of an LFC block may reduce the positive reserve capacity on RR of the LFC block, resulting from the RR dimensioning process, by developing a RR sharing agreement for that positive reserve capacity on RR with other LFC blocks in accordance with the provisions of Title 8 of Part IV. The control capability receiving TSO shall limit the reduction of its positive reserve capacity on RR in order to:",
+      "for the Nordic and CE synchronous areas there shall be sufficient positive reserve capacity on RR to restore the required amount of positive FRR. For the GB and IE/NI synchronous areas there shall be sufficient positive reserve capacity on RR to restore the required amount of positive FCR and positive FRR;"
+    ],
+    "Article 161": [
+      "ensure that its RR providing units and RR providing groups fulfil the RR technical minimum requirements and the RR availability requirements referred to in paragraphs 1 to 3; and",
+      "aRRprovider shall ensure that the RR activation of the RR providing units within areserve providing groupcan be monitored. For that purpose, the RR provider shall be capable of supplying to thereserve connecting TSOand thereserve instructing TSO real-time measurements of the connection point or another point of interaction agreed with the reserve connecting TSO concerning:",
+      "3.   Thereserve connecting TSOshall adopt the technical requirements for the connection ofRRproviding units and RR providing groups to ensure the safe and secure delivery of RR in theprequalification process description.",
+      "3.   The reserve connecting TSO shall adopt the technical requirements for the connection of RR providing units and RR providing groups to ensure the safe and secure delivery of RR in the prequalification process description.",
+      "4.   Each RR provider shall:",
+      "thereserve instructing TSOshall be thereserve connecting TSOor a TSO that shall be designated by the reserve connecting TSO in theRR exchange agreement pursuant to Article 165(3) or 171(4);",
+      "ensure that itsRRproviding units and RR providing groups fulfil the RR technical minimum requirements and theRR availability requirements referred to in paragraphs 1 to 3; and",
+      "de-activation of RR according to the setpoint received from the reserve instructing TSO;",
+      "5.   Eachreserve instructing TSOshall ensure compliance with theRRtechnical requirements, theRR availability requirements and the connection requirements referred to in this Article with regard to its RR providing units and RR providing groups.",
+      "inform its reserve instructing TSO about a reduction of the actual availability or a forced outage of its RR providing unit or its RR providing group or a part of its RR providing group as soon as possible.",
+      "a RR provider shall ensure that the RR activation of the RR providing units within a reserve providing group can be monitored. For that purpose, the RR provider shall be capable of supplying to the reserve connecting TSO and the reserve instructing TSO real-time measurements of the connection point or another point of interaction agreed with the reserve connecting TSO concerning:",
+      "inform itsreserve instructing TSOabout a reduction of the actual availability or aforced outageof itsRR providing unit or its RR providing group or a part of its RR providing group as soon as possible.",
+      "activation of completereserve capacityonRR within the activation time defined by the instructing TSO;",
+      "5.   Each reserve instructing TSO shall ensure compliance with the RR technical requirements, the RR availability requirements and the connection requirements referred to in this Article with regard to its RR providing units and RR providing groups.",
+      "the time-stamped instantaneous active power, for each RR providing unit and group, and for each power generating module or demand unit of a RR providing group with a maximum active power output larger than or equal to 1,5 MW;",
+      "RR minimum technical requirements",
+      "1.   RR providing units and RR providing groups shall comply with the following minimum technical requirements:",
+      "RR activation according to the setpoint received from the reserve instructing TSO;",
+      "activation of complete reserve capacity on RR within the activation time defined by the instructing TSO;",
+      "RRactivation according to the setpoint received from thereserve instructing TSO;",
+      "the reserve instructing TSO shall be the reserve connecting TSO or a TSO that shall be designated by the reserve connecting TSO in the RR exchange agreement pursuant to Article 165(3) or 171(4);",
+      "de-activation ofRRaccording to the setpoint received from thereserve instructing TSO;",
+      "the time-stamped scheduled active power output, for each RR providing unit and group and for each power generating module or demand unit of a RR providing group with a maximum active power output larger than or equal to 1,5 MW;",
+      "the time-stampedscheduled active power output, for eachRR providing unit and group and for each power generating module or demand unit of a RR providing group with a maximum active power output larger than or equal to 1,5 MW;"
+    ],
+    "Article 162": [
+      "2.   A potentialRRprovider shall demonstrate to thereserve connecting TSOor the TSO designated by the reserve connecting TSO in the RR exchange agreement that it complies with the RR technical minimum requirements, theRR availability requirementsand the connection requirements referred to in Article 161 by completing successfully theprequalification process of potential RR providing units or RR providing groups, described in paragraphs 3 to 6.",
+      "4.   Within 3 months from confirmation of the completeness of the application, the reserve connecting TSO or the designated TSO shall evaluate the information provided and decide whether the potential RR providing units or RR providing groups meet the criteria for a RR prequalification. The reserve connecting TSO or the designated TSO shall notify its decision to the potential RR provider.",
+      "3.   A potential RR provider shall submit a formal application to the relevant reserve connecting TSO or the designated TSO together with the required information of potential RR providing units or RR providing groups. Within 8 weeks from receipt of the application, the reserve connecting TSO or the designated TSO shall confirm whether the application is complete. Where the reserve connecting TSO or the designated TSO considers that the application is incomplete, the potential RR provider shall submit the additional required information within 4 weeks from the receipt of the request for additional information. Where the potential RR provider does not supply the requested information within that deadline, the application shall be deemed withdrawn.",
+      "RRprequalification process",
+      "RR prequalification process",
+      "4.   Within 3 months from confirmation of the completeness of the application, thereserve connecting TSOor the designated TSO shall evaluate the information provided and decide whether the potentialRRproviding units or RR providing groups meet the criteria for a RRprequalification. The reserve connecting TSO or the designated TSO shall notify its decision to the potential RR provider.",
+      "5.   The qualification of RR providing units or RR providing groups shall be reassessed:",
+      "3.   A potentialRRprovider shall submit a formal application to the relevantreserve connecting TSO or the designated TSO together with the required information of potential RR providing units or RR providing groups. Within 8 weeks from receipt of the application, the reserve connecting TSO or the designated TSO shall confirm whether the application is complete. Where the reserve connecting TSO or the designated TSO considers that the application is incomplete, the potential RR provider shall submit the additional required information within 4 weeks from the receipt of the request for additional information. Where the potential RR provider does not supply the requested information within that deadline, the application shall be deemed withdrawn.",
+      "6.   To ensure operational security, the reserve connecting TSO shall have the right to reject the provision of RR by RR providing groups, based on technical arguments such as the geographical distribution of the power generating modules or demand units establishing a RR providing group.",
+      "2.   A potential RR provider shall demonstrate to the reserve connecting TSO or the TSO designated by the reserve connecting TSO in the RR exchange agreement that it complies with the RR technical minimum requirements, the RR availability requirements and the connection requirements referred to in Article 161 by completing successfully the prequalification process of potential RR providing units or RR providing groups, described in paragraphs 3 to 6.",
+      "6.   To ensureoperational security, thereserve connecting TSOshall have the right to reject the provision ofRR by RR providing groups, based on technical arguments such as the geographical distribution of the power generating modules or demand units establishing a RR providing group."
+    ],
+    "Article 169": [
+      "Exchange of RR within a synchronous area",
+      "All TSOs in a synchronous area consisting of more than oneLFC blockinvolved in the exchange ofRR within the synchronous area shall comply with the requirements and limits for the exchange of RR set out in the Table of Annex VIII.",
+      "All TSOs in a synchronous area consisting of more than one LFC block involved in the exchange of RR within the synchronous area shall comply with the requirements and limits for the exchange of RR set out in the Table of Annex VIII."
+    ],
+    "Article 170": [
+      "Each TSO of aLFC blockshall have the right to shareRRwith other LFC blocks of the same synchronous area within the limits set by theRR dimensioning rules in Article 160(4) and (5) and in accordance with Article 166.",
+      "Sharing of RR within a synchronous area",
+      "Each TSO of a LFC block shall have the right to share RR with other LFC blocks of the same synchronous area within the limits set by the RR dimensioning rules in Article 160(4) and (5) and in accordance with Article 166."
+    ],
+    "Article 178": [
+      "1.   All TSOs of each synchronous area shall define in the synchronous area operational agreement a method to determine limits for the exchange of RR with other synchronous areas. That method shall take into account:",
+      "4.   Each operator of a HVDC interconnector shall control the active power flow over the HVDC interconnector following the instructions provided by either thereserve connecting TSOor thereserve receiving TSOin accordance with theRR technical minimum requirements in Article 161.",
+      "3.   The share of the total reserve capacity on RR required for the LFC block in the synchronous area where it is exchanged shall be provided from the LFC block in the second synchronous area in addition to the total reserve capacity on RR required for that second LFC block in accordance with Article 160(2).",
+      "5.   All TSOs of theLFC blocks to which thereserve connecting TSOand thereserve receiving TSObelong shall specify the conditions for the exchange ofRR in an RR exchange agreement.",
+      "Exchange of RR between synchronous areas",
+      "5.   All TSOs of the LFC blocks to which the reserve connecting TSO and the reserve receiving TSO belong shall specify the conditions for the exchange of RR in an RR exchange agreement.",
+      "4.   Each operator of a HVDC interconnector shall control the active power flow over the HVDC interconnector following the instructions provided by either the reserve connecting TSO or the reserve receiving TSO in accordance with the RR technical minimum requirements in Article 161.",
+      "2.   All TSOs of the LFC blocks involved in the exchange of RR between synchronous areas shall organise that exchange so that the TSOs of a LFC block in the first synchronous area may receive a share of the total reserve capacity on RR required for their LFC block as defined in Article 160(2) from a LFC block in the second synchronous area.",
+      "2.   All TSOs of theLFC blocks involved in the exchange ofRRbetween synchronous areas shall organise that exchange so that the TSOs of a LFC block in the first synchronous area may receive a share of the totalreserve capacity on RR required for their LFC block as defined in Article 160(2) from a LFC block in the second synchronous area.",
+      "3.   The share of the totalreserve capacityonRRrequired for theLFC block in the synchronous area where it is exchanged shall be provided from the LFC block in the second synchronous area in addition to the total reserve capacity on RR required for that second LFC block in accordance with Article 160(2)."
+    ],
+    "Article 179": [
+      "1.   All TSOs of each synchronous area shall define in the synchronous area operational agreement a method for determining the limits for sharing of RR with other synchronous areas. That method shall take into account:",
+      "2.   All TSOs of theLFC blocks involved in the sharing ofRRbetween synchronous areas shall organise that sharing so that the TSOs of an LFC block in the first synchronous area may receive a share of the totalreserve capacity on RR required for their LFC block as defined in accordance with Article 160(2) from a LFC block in the second synchronous area.",
+      "3.   Each operator of an HVDC interconnector shall control the active power flow over the HVDC interconnector following the instructions provided by either the control capability providing TSO or the control capability receiving TSO in accordance with the RR technical minimum requirements in Article 161.",
+      "4.   All TSOs of eachLFC blockto which the reservecontrol capability providing TSOand reservecontrol capability receiving TSObelong to, shall specify the conditions for the sharing ofRR in an RR sharing agreement.",
+      "the maximum reduction of RR that can be taken into account in the RR dimensioning rules in accordance with Article 160 as a result of the RR sharing;",
+      "the maximum reduction ofRRthat can be taken into account in theRR dimensioning rules in accordance with Article 160 as a result of the RR sharing;",
+      "3.   Each operator of an HVDC interconnector shall control the active power flow over the HVDC interconnector following the instructions provided by either thecontrol capability providing TSOor thecontrol capability receiving TSOin accordance with theRR technical minimum requirements in Article 161.",
+      "2.   All TSOs of the LFC blocks involved in the sharing of RR between synchronous areas shall organise that sharing so that the TSOs of an LFC block in the first synchronous area may receive a share of the total reserve capacity on RR required for their LFC block as defined in accordance with Article 160(2) from a LFC block in the second synchronous area.",
+      "4.   All TSOs of each LFC block to which the reserve control capability providing TSO and reserve control capability receiving TSO belong to, shall specify the conditions for the sharing of RR in an RR sharing agreement.",
+      "Sharing of RR between synchronous areas"
+    ],
+    "Article 189": [
+      "Information on RR",
+      "2.   All TSOs of each synchronous area shall notify, by 30 November of each year, an outlook of the reserve capacitiesRRof eachLFC block for the following year to ENTSO for Electricity for publication.",
+      "3.   All TSOs of each synchronous area shall notify, within 30 days after the end of the quarter, the actual reserve capacities RR of each LFC block of the past quarter to ENTSO for Electricity for publication.",
+      "2.   All TSOs of each synchronous area shall notify, by 30 November of each year, an outlook of the reserve capacities RR of each LFC block for the following year to ENTSO for Electricity for publication.",
+      "3.   All TSOs of each synchronous area shall notify, within 30 days after the end of the quarter, the actual reserve capacitiesRRof eachLFC block of the past quarter to ENTSO for Electricity for publication."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 6": {
+      "article_score": 6,
+      "statement_scores": [
+        2,
+        2,
+        2
+      ]
+    },
+    "Article 45": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 48": {
+      "article_score": 2,
+      "statement_scores": [
+        2
+      ]
+    },
+    "Article 118": {
+      "article_score": 2,
+      "statement_scores": [
+        2
+      ]
+    },
+    "Article 124": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 131": {
+      "article_score": 15,
+      "statement_scores": [
+        4,
+        1,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1
+      ]
+    },
+    "Article 148": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 160": {
+      "article_score": 37,
+      "statement_scores": [
+        3,
+        1,
+        1,
+        0,
+        2,
+        1,
+        0,
+        1,
+        1,
+        4,
+        2,
+        1,
+        2,
+        4,
+        1,
+        5,
+        1,
+        5,
+        2
+      ]
+    },
+    "Article 161": {
+      "article_score": 42,
+      "statement_scores": [
+        4,
+        3,
+        2,
+        3,
+        1,
+        0,
+        2,
+        1,
+        2,
+        3,
+        4,
+        2,
+        0,
+        4,
+        2,
+        1,
+        2,
+        1,
+        1,
+        0,
+        1,
+        0,
+        2,
+        1
+      ]
+    },
+    "Article 162": {
+      "article_score": 33,
+      "statement_scores": [
+        4,
+        4,
+        5,
+        0,
+        1,
+        2,
+        2,
+        4,
+        3,
+        6,
+        2
+      ]
+    },
+    "Article 169": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        2
+      ]
+    },
+    "Article 170": {
+      "article_score": 3,
+      "statement_scores": [
+        0,
+        1,
+        2
+      ]
+    },
+    "Article 178": {
+      "article_score": 12,
+      "statement_scores": [
+        1,
+        0,
+        2,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        1
+      ]
+    },
+    "Article 179": {
+      "article_score": 13,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        3,
+        1,
+        0,
+        2,
+        2,
+        1
+      ]
+    },
+    "Article 189": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        1,
+        0
+      ]
+    }
+  }
+}

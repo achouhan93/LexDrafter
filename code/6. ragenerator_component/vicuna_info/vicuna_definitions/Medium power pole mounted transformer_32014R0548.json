@@ -1,0 +1,22 @@
+{
+  "term": "Medium power pole mounted transformer",
+  "celex_id": "32014R0548",
+  "original_definition": "'Medium power pole mounted transformer' means a power transformer with a rated power of up to 315 kVA suitable for outdoor service and designed to be mounted on the support structures of overhead power lines.",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Medium power pole mounted transformer\u2019 means a power transformer with a rated power of up to 315 kVA suitable for outdoor service and designed to be mounted on the support structures of overhead power lines."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

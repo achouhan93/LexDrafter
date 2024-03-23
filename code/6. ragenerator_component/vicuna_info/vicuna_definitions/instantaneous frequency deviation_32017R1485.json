@@ -1,0 +1,43 @@
+{
+  "term": "instantaneous frequency deviation",
+  "celex_id": "32017R1485",
+  "original_definition": "'instantaneous frequency deviation' means a set of data measurements of the overall system frequency deviations for the synchronous area with a measurement period equal to or shorter than one second used for system frequency quality evaluation purposes;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018instantaneous frequency deviation\u2019 means a set of data measurements of the overallsystem frequency deviations for the synchronous area with a measurement period equal to or shorter than one second used for system frequency quality evaluation purposes;",
+      "\u2018instantaneous frequency deviation\u2019 means a set of data measurements of the overall system frequency deviations for the synchronous area with a measurement period equal to or shorter than one second used for system frequency quality evaluation purposes;"
+    ],
+    "Article 131": [
+      "the number of events in which the absolute value of theinstantaneous frequency deviationof the synchronous area exceeded 200 % of thestandard frequency deviationand the instantaneous frequency deviation was not returned to 50 % of the standard frequency deviation for the CE synchronous area and to thefrequency restoration rangefor the GB, IE/NI and Nordic synchronous areas, within thetime to restore frequency. The data shall distinguish between negative and positive frequency deviations;",
+      "the number of events in which the absolute value of the instantaneous frequency deviation of the synchronous area exceeded 200 % of the standard frequency deviation and the instantaneous frequency deviation was not returned to 50 % of the standard frequency deviation for the CE synchronous area and to the frequency restoration range for the GB, IE/NI and Nordic synchronous areas, within the time to restore frequency. The data shall distinguish between negative and positive frequency deviations;",
+      "for the GB and IE/NI synchronous areas, the number of events for which the absolute value of theinstantaneous frequency deviationwas outside of thefrequency recovery range and was not returned to the frequency recovery range within the time to recover frequency, distinguishing between negative and positive frequency deviations;",
+      "the total time in which the absolute value of the instantaneous frequency deviation was larger than the standard frequency deviation, distinguishing between negative and positive instantaneous frequency deviations;",
+      "for the GB and IE/NI synchronous areas, the number of events for which the absolute value of the instantaneous frequency deviation was outside of the frequency recovery range and was not returned to the frequency recovery range within the time to recover frequency, distinguishing between negative and positive frequency deviations;",
+      "the total time in which the absolute value of theinstantaneous frequency deviationwas larger than thestandard frequency deviation, distinguishing between negative and positive instantaneous frequency deviations;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 131": {
+      "article_score": 10,
+      "statement_scores": [
+        2,
+        2,
+        1,
+        2,
+        1,
+        2
+      ]
+    }
+  }
+}

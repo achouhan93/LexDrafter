@@ -1,0 +1,59 @@
+{
+  "term": "condensation efficiency",
+  "celex_id": "32012R0932",
+  "original_definition": "'condensation efficiency' means the ratio between the mass of moisture condensed by a condenser tumble drier and the mass of moisture removed from the load at the end of a cycle;",
+  "generated_definition": "'condensation efficiency' means the ratio of mass of moisture condensed and collected in the container of a condenser household tumble drier to the mass of moisture removed from the load, expressed as a percentage.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018condensation efficiency\u2019 means the ratio between the mass of moisture condensed by a condenser tumble drier and the mass of moisture removed from the load at the end of a cycle;",
+      "\u2018equivalent household tumble drier\u2019 means a model of household tumble drier placed on the market with the samerated capacity, technical and performance characteristics, energy consumption,condensation efficiencywhere relevant,standard cotton programmeprogramme time and airborne acoustical noise emissions during drying as another model of household tumble drier placed on the market under a different commercial code number by the same manufacturer.",
+      "\u2018equivalent household tumble drier\u2019 means a model of household tumble drier placed on the market with the same rated capacity, technical and performance characteristics, energy consumption, condensation efficiency where relevant, standard cotton programme time and airborne acoustical noise emissions during drying as another model of household tumble drier placed on the market under a different commercial code number by the same manufacturer.",
+      "\u2018condensation efficiency\u2019 means the ratio between the mass of moisture condensed by acondenser tumble drierand the mass of moisture removed from the load at the end of acycle;"
+    ],
+    "Article 8": [
+      "The average condensation efficiency C is calculated from the condensation efficiencies of test runs and expressed as a percentage:",
+      "Method for calculating the energy efficiency index and weighted condensation efficiency",
+      "Weighted condensation efficiency",
+      "for condenser household tumble driers the weighted condensation efficiency shall be not lower than 60 %.",
+      "The weighted condensation efficiency (Ct\n) of a programme is calculated as a percentage and rounded to the nearest whole percent as:",
+      "The condensation efficiency of a programme is the ratio between the mass of moisture condensed and collected in the container of a condenser household tumble drier and the mass of moisture removed from the load by the programme, the latter being the difference between the mass of the wet test load before drying and the mass of the test load after drying. For calculating the weighted condensation efficiency, the average condensation efficiency of the standard cotton programme at both full and partial load is considered.",
+      "The energy efficiency index (EEI) and the weighted condensation efficiency are calculated in accordance with Annex II.",
+      "for condenser household tumble driers, the weighted condensation efficiency shall be not lower than 70 %.",
+      "The weightedcondensation efficiency(Ct\n) of aprogramme is calculated as a percentage and rounded to the nearest whole percent as:",
+      "for condenserhousehold tumble driers the weightedcondensation efficiency shall be not lower than 60 %.",
+      "for condenserhousehold tumble driers, the weightedcondensation efficiency shall be not lower than 70 %.",
+      "Thecondensation efficiencyof aprogrammeis the ratio between the mass of moisture condensed and collected in the container of a condenserhousehold tumble drierand the mass of moisture removed from the load by the programme, the latter being the difference between the mass of the wet test load before drying and the mass of the test load after drying. For calculating the weighted condensation efficiency, the average condensation efficiency of thestandard cotton programmeat both full andpartial load is considered."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 16,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        3
+      ]
+    }
+  }
+}

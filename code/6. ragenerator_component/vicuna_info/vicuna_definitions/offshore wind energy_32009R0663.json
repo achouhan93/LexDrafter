@@ -1,0 +1,68 @@
+{
+  "term": "offshore wind energy",
+  "celex_id": "32009R0663",
+  "original_definition": "'offshore wind energy' means the electric power generated from turbine engines powered by wind and situated in the sea, whether near or far from the shore;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 1": [
+      "offshore wind energy; and"
+    ],
+    "Article 2": [
+      "\u2018offshore wind energy\u2019 means the electric power generated from turbine engines powered by wind and situated in the sea, whether near or far from the shore;"
+    ],
+    "Article 3": [
+      "offshore wind energy projects: EUR 565 000 000;"
+    ],
+    "Article 29": [
+      "Building on project presently under development \u2013 testing of multi-MW turbines. Development of innovative structures and substructures including optimisation of manufacturing capacities of offshore wind energy production equipment. An increase in size of 100 MW can be envisaged.",
+      "Grid integration of offshore wind energy"
+    ],
+    "Not Article": [
+      "In order to have a tangible and substantial impact, those measures should be focussed on a few specific sectors in which action would make a clear contribution to the objectives of the security of energy supply and the reduction of greenhouse gas emissions; there exist large, mature projects capable of making efficient and effective use of significant amounts of financial assistance and of catalysing significant amounts of investment from other sources, including from the European Investment Bank; and action at European level would add value. The sectors of gas and electricity infrastructure, offshore wind energy and carbon capture and storage fulfil those criteria. The choice of those sectors reflects the particular circumstances of the Recovery Plan and should not call into question the high priority attached to energy efficiency and the promotion of energy from renewable sources, which were addressed in the Recovery Plan.",
+      "In the cases ofcarbon capture and storageandoffshore wind energy in particular, this Regulation should build on the Strategic Energy Technology Plan for Europe, presented by the Commission on 22 November 2007, which called for a joint and strategic plan for energy research and innovation efforts consistent with EU energy policy goals, and a commitment to the establishment of six European Industrial Initiatives. The European Council of 16 October 2008 called in its conclusions on the Commission to significantly accelerate the implementation of the Strategic Energy Technology Plan for Europe. The programme initiates the funding for carbon capture and storage and offshore wind projects without prejudice to the future creation of the six industrial initiatives on energy demonstration projects as outlined by the Strategic Energy Technology Plan for Europe.",
+      "In order to have a tangible and substantial impact, those measures should be focussed on a few specific sectors in which action would make a clear contribution to the objectives of the security of energy supply and the reduction of greenhouse gas emissions; there exist large, mature projects capable of making efficient and effective use of significant amounts of financial assistance and of catalysing significant amounts of investment from other sources, including from the European Investment Bank; and action at European level would add value. The sectors of gas and electricity infrastructure,offshore wind energyandcarbon capture and storage fulfil those criteria. The choice of those sectors reflects the particular circumstances of the Recovery Plan and should not call into question the high priority attached to energy efficiency and the promotion of energy from renewable sources, which were addressed in the Recovery Plan.",
+      "In the case of offshore wind energy, the list should contain projects that can be considered, on the basis of information gathered from stakeholders in the framework of the European Wind Energy Technology Platform, and from industrial and other sources, to be approved and ready for implementation; to be innovative, while building on well established concepts; to be capable of acceleration in response to a financial stimulus; to have a cross-border significance; to be of a large scale; and to be able to demonstrate how the results of technological advances will be disseminated effectively in the light of the objectives and structures endorsed by the Strategic Energy Technology Plan for Europe. Financial assistance should be directed towards those projects that are in a position to progress substantially with project development in 2009 and 2010.",
+      "In the cases of carbon capture and storage and offshore wind energy in particular, this Regulation should build on the Strategic Energy Technology Plan for Europe, presented by the Commission on 22 November 2007, which called for a joint and strategic plan for energy research and innovation efforts consistent with EU energy policy goals, and a commitment to the establishment of six European Industrial Initiatives. The European Council of 16 October 2008 called in its conclusions on the Commission to significantly accelerate the implementation of the Strategic Energy Technology Plan for Europe. The programme initiates the funding for carbon capture and storage and offshore wind projects without prejudice to the future creation of the six industrial initiatives on energy demonstration projects as outlined by the Strategic Energy Technology Plan for Europe."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 3": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 29": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

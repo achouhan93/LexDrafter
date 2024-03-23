@@ -1,0 +1,26 @@
+{
+  "term": "LED package",
+  "celex_id": "32019R2015",
+  "original_definition": "'LED package' means a single electric part comprising principally at least one LED die. It does not include a control gear or parts of it, a cap or active electronic components and is not connected directly to the mains voltage. It can include one or more of the following: optical elements, light converters (phosphors), thermal, mechanical and electric interfaces or parts to address electrostatic discharge concerns. Any similar light-emitting devices that are intended to be used directly in an LED luminaire, are considered to be light sources;",
+  "generated_definition": "'LED package' means a set of leds, including drivers and other components, designed to be mounted together in a single housing or module for use in lighting applications.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018LED package\u2019 means a single electric part comprising principally at least one LED die. It does not include a control gear or parts of it, a cap or active electronic components and is not connected directly to the mains voltage. It can include one or more of the following: optical elements, light converters (phosphors), thermal, mechanical and electric interfaces or parts to address electrostatic discharge concerns. Any similar light-emitting devices that are intended to be used directly in an LED luminaire, are considered to be light sources;",
+      "LED packages;",
+      "\u2018LED package\u2019 means a single electric part comprising principally at least oneLED die. It does not include acontrol gearor parts of it, a cap or active electronic components and is not connected directly to themains voltage. It can include one or more of the following: optical elements,lightconverters (phosphors), thermal, mechanical and electric interfaces or parts to address electrostatic discharge concerns. Any similar light-emitting devices that are intended to be used directly in an LED luminaire, are considered to belight sources;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1,
+        0
+      ]
+    }
+  }
+}

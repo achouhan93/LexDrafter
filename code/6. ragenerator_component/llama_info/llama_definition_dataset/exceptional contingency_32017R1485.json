@@ -1,0 +1,42 @@
+{
+  "term": "exceptional contingency",
+  "celex_id": "32017R1485",
+  "original_definition": "'exceptional contingency' means the simultaneous occurrence of multiple contingencies with a common cause;",
+  "generated_definition": "'exceptional contingency' means when operational or weather conditions significantly increase the probability of an unexpected event or situation that may have a significant impact on the security of the european union's energy supply, each transmission system operator (tso) shall include that exceptional contingency in its contingency list.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018exceptional contingency\u2019 means the simultaneous occurrence of multiple contingencies with a common cause;"
+    ],
+    "Article 15": [
+      "number of events in which there was a degradation in system operation conditions due to an exceptional contingency;"
+    ],
+    "Article 33": [
+      "when operational or weather conditions significantly increase the probability of an exceptional contingency, each TSO shall include that exceptional contingency in its contingency list; and",
+      "when operational or weather conditions significantly increase the probability of anexceptional contingency, each TSO shall include that exceptional contingency in itscontingency list; and"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 15": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 33": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    }
+  }
+}

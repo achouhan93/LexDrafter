@@ -1,0 +1,33 @@
+{
+  "term": "flueless solid fuel local space heater",
+  "celex_id": "32015R1185",
+  "original_definition": "'flueless solid fuel local space heater' means a solid fuel local space heater emitting the products of combustion into the space where the product is situated;",
+  "generated_definition": "'flueless solid fuel local space heater' means a heating device that uses solid fuel and is designed to be used in a specific room or space, without the need for a flue, and is not intended for primary heating purposes.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018flueless solid fuel local space heater\u2019 means a solid fuel local space heater emitting the products of combustion into the space where the product is situated;"
+    ],
+    "Article 9": [
+      "forflueless solid fuel local space heaters andopen to chimney solid fuel local space heaters only: the instruction manual for end-users, free access websites of manufacturers and the product packaging shall incorporate the following sentence in such a way to ensure clear visibility and legibility and in a language easily understood by the end-users of the Member State where the product is marketed: \u2018This product is not suitable for primary heating purposes\u2019:",
+      "for flueless solid fuel local space heaters and open to chimney solid fuel local space heaters only: the instruction manual for end-users, free access websites of manufacturers and the product packaging shall incorporate the following sentence in such a way to ensure clear visibility and legibility and in a language easily understood by the end-users of the Member State where the product is marketed: \u2018This product is not suitable for primary heating purposes\u2019:"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

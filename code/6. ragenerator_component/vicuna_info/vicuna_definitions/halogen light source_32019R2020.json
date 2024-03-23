@@ -1,0 +1,33 @@
+{
+  "term": "halogen light source",
+  "celex_id": "32019R2020",
+  "original_definition": "'halogen light source' means an incandescent light source with a threadlike conductor made from tungsten surrounded by gas containing halogens or halogen compounds;",
+  "generated_definition": "'halogen light source' means a light source that uses a halogen gas to produce light, typically in a sealed glass bulb. it operates by passing an electric current through a tube filled with a mixture of halogen gas and a small amount of inert gas, which is heated to produce light.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018halogen light source\u2019 means an incandescent light source with a threadlike conductor made from tungsten surrounded by gas containing halogens or halogen compounds;"
+    ],
+    "Article 11": [
+      "incandescent light sources (not including halogen light sources) fulfilling all of the following conditions: power \u2264 40 W, length \u2264 60 mm, diameter \u2264 30 mm, declared suitable for operation at ambient temperature \u2265 300 \u00b0C, and intended for use in high temperature applications such as ovens;",
+      "incandescentlight sources (not includinghalogen light sources) fulfilling all of the following conditions: power \u2264 40 W, length \u2264 60 mm, diameter \u2264 30 mm, declared suitable for operation at ambient temperature \u2265 300 \u00b0C, and intended for use in high temperature applications such as ovens;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 11": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

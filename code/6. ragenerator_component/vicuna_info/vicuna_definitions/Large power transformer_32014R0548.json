@@ -1,0 +1,22 @@
+{
+  "term": "Large power transformer",
+  "celex_id": "32014R0548",
+  "original_definition": "'Large power transformer' means a power transformer with a highest voltage for equipment exceeding 36 kV and a rated power equal or higher than 5 kVA, or a rated power equal to or higher than 40 MVA regardless of the highest voltage for equipment.",
+  "generated_definition": "'Large power transformer' means a transformer with a power rating of 1000 kva or more, used for high voltage power transmission and distribution.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Large power transformer\u2019 means a power transformer with a highest voltage for equipment exceeding 36 kV and a rated power equal or higher than 5 kVA, or a rated power equal to or higher than 40 MVA regardless of the highest voltage for equipment."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

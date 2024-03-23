@@ -1,0 +1,147 @@
+{
+  "term": "defence service provider",
+  "celex_id": "32017R2196",
+  "original_definition": "'defence service provider' means a legal entity with a legal or contractual obligation to provide a service contributing to one or several measures of the system defence plan;",
+  "generated_definition": "'defence service provider' means a entity that provides services to balance the system, identified as such in system defence plans, restoration plans or in the relevant service contract.",
+  "existing_sentences": {
+    "Article 2": [
+      "5.   This Regulation shall apply to energy storage units of a SGU, adefence service provideror arestoration service provider, which can be used to balance the system, provided that they are identified as such in the system defence plans,restoration plans or in the relevant service contract.",
+      "3.   This Regulation shall apply to existing and new type A power generating modules, in accordance with the criteria set out in Article 5 of Regulation (EU) 2016/631, to existing and new type B power generating modules other than those referred to in paragraph 2(b), as well as to existing and new demand facilities, closed distribution systems and third parties providing demand response where they qualify as defence service providers or restoration service providers pursuant to Article 4(4).",
+      "3.   This Regulation shall apply to existing and new type A power generating modules, in accordance with the criteria set out in Article 5 of Regulation (EU) 2016/631, to existing and new type B power generating modules other than those referred to in paragraph 2(b), as well as to existing and new demand facilities, closed distribution systems and third parties providing demand response where they qualify asdefence service providers orrestoration service providers pursuant to Article 4(4).",
+      "1.   This Regulation shall apply to TSOs, DSOs, SGUs,defence service providers,restoration service providers, balance responsible parties, balancing service providers, nominated electricity market operators (\u2018NEMO\u2019) and other entities designated to execute market functions pursuant to Commission Regulation (EU) 2015/1222 (3) and to Commission Regulation (EU) 2016/1719 (4).",
+      "5.   This Regulation shall apply to energy storage units of a SGU, a defence service provider or a restoration service provider, which can be used to balance the system, provided that they are identified as such in the system defence plans, restoration plans or in the relevant service contract.",
+      "1.   This Regulation shall apply to TSOs, DSOs, SGUs, defence service providers, restoration service providers, balance responsible parties, balancing service providers, nominated electricity market operators (\u2018NEMO\u2019) and other entities designated to execute market functions pursuant to Commission Regulation (EU) 2015/1222 (3) and to Commission Regulation (EU) 2016/1719 (4)."
+    ],
+    "Article 3": [
+      "\u2018defence service provider\u2019 means a legal entity with a legal or contractual obligation to provide a service contributing to one or several measures of the system defence plan;"
+    ],
+    "Article 4": [
+      "4.   The terms and conditions to act as defence service provider and as restoration service provider shall be established either in the national legal framework or on a contractual basis. If established on a contractual basis, each TSO shall develop by 18 December 2018 a proposal for the relevant terms and conditions, which shall define at least:",
+      "the terms and conditions to act as defence service providers on a contractual basis in accordance with paragraph 4;",
+      "4.   The terms and conditions to act asdefence service providerand asrestoration service provider shall be established either in the national legal framework or on a contractual basis. If established on a contractual basis, each TSO shall develop by 18 December 2018 a proposal for the relevant terms and conditions, which shall define at least:"
+    ],
+    "Article 12": [
+      "5.   Where a TSO notifies a DSO in accordance with paragraph 2, the DSO shall notify in turn, without delay, the SGUs, the defence service providers and the DSOs connected to its distribution system of the measures of the system defence plan that they have to implement on their respective installations, including the deadlines for their implementation.",
+      "the installations of defence service providers connected to their distribution systems; or",
+      "6.   Each notified DSO, SGU and defence service provider shall:",
+      "4.   When provided for in national legislation, the TSO shall notify directly SGUs identified pursuant to point (c) of Article 11(4), defence service providers or DSOs connected to distribution systems of the measures which are to be implemented on their installations, including the deadlines for their implementation. It shall inform the concerned DSO of this notification.",
+      "3.   By 18 December 2018 each TSO shall notify the SGUs identified pursuant to point (c) of Article 11(4) or the defence service providers directly connected to its transmission system of the measures which are to be implemented on their installations, including the deadlines for the implementation."
+    ],
+    "Article 13": [
+      "1.   Each TSO shall activate the procedures of its system defence plan pursuant to point (b) of Article 11(5) in coordination with DSOs and SGUs identified pursuant to Article 11(4) and with defence service providers.",
+      "3.   Each DSO and SGU identified pursuant to Article 11(4), as well as each defence service provider shall execute without undue delay the system defence plan instructions issued by the TSO pursuant to point (c) of Article 11(3), in accordance with the system defence plan procedures provided for in point (b) of Article 11(5)."
+    ],
+    "Article 18": [
+      "4.   Each TSO shall be entitled to disconnect SGUs and defence service providers, directly or indirectly through DSOs. SGUs and defence service providers shall remain disconnected until further instructions are issued. Where SGUs are directly disconnected, the TSO shall inform the relevant DSOs without undue delay. Within 30 days of the incident, the TSO shall prepare a report containing a detailed explanation of the rationale, implementation and impact of this action and submit it to the relevant regulatory authority in accordance with Article 37 of Directive 2009/72/EC as well as make it available to the significantly affected system users.",
+      "5.   Prior to the activation of the automatic low frequency demand disconnection scheme set out in Article 15 and provided that the rate of change of frequency allows it, each TSO shall, directly or indirectly through DSOs, activate demand response from the relevant defence service providers and:",
+      "3.   Each TSO shall be entitled to establish an active power set-point that each SGU identified pursuant to point (c) of Article 11(4) shall maintain, provided that the set-point fulfils the technical constraints of the SGU. Each TSO shall be entitled to establish an active power set-point that each defence service provider shall maintain provided this measure applies to them pursuant to the terms and conditions referred to in Article 4(4) and the set-point respects the technical constraints of the defence service provider. The SGUs and defence service providers shall execute without undue delay the instructions given by the TSO directly or indirectly through DSOs and shall remain in that state until further instructions are issued. Where the instructions are given directly, the TSO shall inform the relevant DSOs without undue delay."
+    ],
+    "Article 20": [
+      "2.   Each TSO shall be entitled to establish an active power set-point that each SGU identified pursuant to point (c) Article 11(4) shall maintain provided that the set-point respects the technical constraints of the SGU. Each TSO shall be entitled to establish an active power set-point that each defence service provider shall maintain provided this measure applies to them pursuant to the terms and conditions referred to in Article 4(4) and the set-point respects the technical constraints of the defence service providers. The SGUs and defence service providers shall execute without undue delay the instructions given by the TSO directly or indirectly through DSOs and shall remain in that state until further instructions are issued. Where the instructions are given directly, the TSO shall inform the relevant DSOs without undue delay.",
+      "3.   Each TSO shall be entitled to disconnect SGUs and defence service providers, directly or indirectly through DSOs. SGUs and defence service providers shall remain disconnected until further instructions are issued. Where SGU are directly disconnected, the TSO shall inform the relevant DSOs without undue delay. Within 30 days of the incident, the TSO shall prepare a report containing a detailed explanation of the rationale, implementation and impact of this action and submit it to the relevant regulatory authority in accordance with Article 37 of Directive 2009/72/EC."
+    ],
+    "Article 40": [
+      "the scheduled measures that require participation of the defence service providers;",
+      "to defence service providers, information about at least:"
+    ],
+    "Article 43": [
+      "4.   Each TSO, DSO, SGU, defence service provider and restoration service provider shall not endanger the operational security of the transmission system and of the interconnected transmission system during the test. The test shall be conducted in a way that minimises the impact on system users.",
+      "5.   The test is deemed to be successful when it fulfils the conditions established by the relevant system operator pursuant to paragraph 3. As long as a test fails to fulfil these criteria, the TSO, DSO, SGU, defence service provider and restoration service provider shall repeat the test.",
+      "2.   By 18 December 2019 each TSO shall define a test plan in consultation with the DSOs, the SGUs identified pursuant to Articles 11(4) and 23(4), thedefence service providers and therestoration service providers. The test plan shall identify the equipment and capabilities relevant for the system defence plan and therestoration plan that have to be tested.",
+      "5.   The test is deemed to be successful when it fulfils the conditions established by the relevant system operator pursuant to paragraph 3. As long as a test fails to fulfil these criteria, the TSO, DSO, SGU,defence service providerandrestoration service provider shall repeat the test.",
+      "4.   Each TSO, DSO, SGU,defence service providerandrestoration service provider shall not endanger the operational security of the transmission system and of the interconnected transmission system during the test. The test shall be conducted in a way that minimises the impact on system users.",
+      "2.   By 18 December 2019 each TSO shall define a test plan in consultation with the DSOs, the SGUs identified pursuant to Articles 11(4) and 23(4), the defence service providers and the restoration service providers. The test plan shall identify the equipment and capabilities relevant for the system defence plan and the restoration plan that have to be tested."
+    ],
+    "Article 45": [
+      "1.   Each defence service provider delivering demand response shall execute a demand modification test, after two consecutive unsuccessful responses in real operation or at least every year, following the methodology laid down in Article 41(1) of Regulation (EU) 2016/1388.",
+      "2.   Each defence service provider delivering demand response low frequency demand disconnection shall execute a low frequency demand disconnection test within a period to be defined at national level and following the methodology laid down in Article 37(4) of Regulation (EU) 2016/1388 for transmission connected demand facilities or according to a similar methodology defined by the relevant system operator for other demand facilities."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 4": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 12": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 13": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 18": {
+      "article_score": 6,
+      "statement_scores": [
+        2,
+        1,
+        3
+      ]
+    },
+    "Article 20": {
+      "article_score": 5,
+      "statement_scores": [
+        3,
+        2
+      ]
+    },
+    "Article 40": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 43": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 45": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

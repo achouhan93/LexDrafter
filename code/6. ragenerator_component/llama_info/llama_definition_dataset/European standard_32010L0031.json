@@ -1,0 +1,48 @@
+{
+  "term": "European standard",
+  "celex_id": "32010L0031",
+  "original_definition": "'European standard' means a standard adopted by the European Committee for Standardisation, the European Committee for Electrotechnical Standardisation or the European Telecommunications Standards Institute and made available for public use;",
+  "generated_definition": "'European standard' means a standard developed by the european committee for standardization (cen) or the european committee for standardization and european committee for electrotechnical standardization (cen-cenelec) that provides guidelines and specifications for products, services, or processes within the european union.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018European standard\u2019 means a standard adopted by the European Committee for Standardisation, the European Committee for Electrotechnical Standardisation or the European Telecommunications Standards Institute and made available for public use;"
+    ],
+    "Article 31": [
+      "The comparative methodology framework shall allow for taking into account use patterns, outdoor climate conditions, investment costs, building category, maintenance and operating costs (including energy costs and savings), earnings from energy produced, where applicable, and disposal costs, where applicable. It should be based on relevant European standards relating to this Directive.",
+      "The methodology for calculating the energy performance ofbuildings should take into accountEuropean standards and shall be consistent with relevant Union legislation, including Directive 2009/28/EC.",
+      "The comparative methodology framework shall allow for taking into account use patterns, outdoor climate conditions, investment costs,buildingcategory, maintenance and operating costs (including energy costs and savings), earnings from energy produced, where applicable, and disposal costs, where applicable. It should be based on relevantEuropean standards relating to this Directive.",
+      "The methodology for calculating the energy performance of buildings should take into account European standards and shall be consistent with relevant Union legislation, including Directive 2009/28/EC."
+    ],
+    "Not Article": [
+      "The energy performance of buildings should be calculated on the basis of a methodology, which may be differentiated at national and regional level. That includes, in addition to thermal characteristics, other factors that play an increasingly important role such as heating and air-conditioning installations, application of energy from renewable sources, passive heating and cooling elements, shading, indoor air-quality, adequate natural light and design of the building. The methodology for calculating energy performance should be based not only on the season in which heating is required, but should cover the annual energy performance of a building. That methodology should take into account existing European standards.",
+      "The energy performance ofbuildings should be calculated on the basis of a methodology, which may be differentiated at national and regional level. That includes, in addition to thermal characteristics, other factors that play an increasingly important role such as heating and air-conditioning installations, application ofenergy from renewable sources, passive heating and cooling elements, shading, indoor air-quality, adequate natural light and design of the building. The methodology for calculating energy performance should be based not only on the season in which heating is required, but should cover the annualenergy performance of a building. That methodology should take into account existingEuropean standards."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 31": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

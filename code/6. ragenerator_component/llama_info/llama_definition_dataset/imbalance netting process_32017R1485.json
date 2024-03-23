@@ -1,0 +1,98 @@
+{
+  "term": "imbalance netting process",
+  "celex_id": "32017R1485",
+  "original_definition": "'imbalance netting process' means a process agreed between TSOs that allows avoiding the simultaneous activation of FRR in opposite directions, taking into account the respective FRCEs as well as the activated FRR and by correcting the input of the involved FRPs accordingly;",
+  "generated_definition": "'imbalance netting process' means a process where tsos interchange imbalance netting power between lfc areas or blocks to reduce the amount of simultaneous counteracting frr activations, ensuring operational security and stability in the synchronous area or areas involved.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018imbalance netting process\u2019 means a process agreed between TSOs that allows avoiding the simultaneous activation of FRR in opposite directions, taking into account the respective FRCEs as well as the activated FRR and by correcting the input of the involved FRPs accordingly;",
+      "\u2018imbalance netting power interchange\u2019 means the power which is interchanged betweenLFC areas within theimbalance netting process;",
+      "\u2018affected TSO\u2019 means a TSO for which information on the exchange of reserves and/or sharing of reserves and/or imbalance netting process and/or cross-border activation process is needed for the analysis and maintenance of operational security;",
+      "\u2018imbalance netting power interchange\u2019 means the power which is interchanged between LFC areas within the imbalance netting process;",
+      "\u2018affected TSO\u2019 means a TSO for which information on theexchange of reservesand/orsharing of reservesand/orimbalance netting processand/or cross-border activation process is needed for the analysis and maintenance ofoperational security;"
+    ],
+    "Article 122": [
+      "All TSOs participating in the same imbalance netting process shall establish an imbalance netting agreement that shall at least include the roles and responsibilities of the TSOs in accordance with Article 149(3)."
+    ],
+    "Article 140": [
+      "an imbalance netting process in accordance with Article 146;"
+    ],
+    "Article 146": [
+      "8.   The imbalance netting process shall include a fallback mechanism which shall ensure that the imbalance netting power interchange of each LFC area is zero or limited to a value for which operational security can be guaranteed.",
+      "9.   Where aLFC blockconsists of more than oneLFC areaand thereserve capacityonFRRas well as the reserve capacity on RR is calculated based on theLFC block imbalances, all TSOs of the same LFC block shall implement animbalance netting process and interchange the maximum amount of imbalance netting power defined in paragraph 6 with other LFC areas of the same LFC block.",
+      "2.   Each TSO shall have the right to implement the imbalance netting process for the LFC areas in the same LFC block, between different LFC blocks or between different synchronous areas, by concluding an imbalance netting agreement.",
+      "1.   The control target of the imbalance netting process shall aim at reducing the amount of simultaneous counteracting FRR activations of the different participating LFC areas by imbalance netting power interchange.",
+      "8.   Theimbalance netting processshall include a fallback mechanism which shall ensure that theimbalance netting power interchangeof eachLFC areais zero or limited to a value for whichoperational security can be guaranteed.",
+      "7.   All TSOs participating in the same imbalance netting process shall ensure that the sum of all imbalance netting power interchanges is equal to zero.",
+      "Imbalance netting process",
+      "2.   Each TSO shall have the right to implement theimbalance netting processfor theLFC areas in the sameLFC block, between different LFC blocks or between different synchronous areas, by concluding an imbalance netting agreement.",
+      "11.   Where an imbalance netting process is implemented for LFC areas which are not part of the same LFC block, all TSOs of the LFC blocks involved shall comply with the obligations in Article 141(5) regardless of imbalance netting power interchange.",
+      "10.   Where an imbalance netting process is implemented for LFC areas of different synchronous areas, all TSOs shall interchange the maximum amount of imbalance netting power defined in paragraph 6 with other TSOs of the same synchronous area participating in that imbalance netting process.",
+      "the stability of the FCP of the synchronous area or synchronous areas involved in the imbalance netting process;",
+      "the stability of theFCPof the synchronous area or synchronous areas involved in theimbalance netting process;",
+      "10.   Where animbalance netting processis implemented forLFC areas of different synchronous areas, all TSOs shall interchange the maximum amount of imbalance netting power defined in paragraph 6 with other TSOs of the same synchronous area participating in that imbalance netting process.",
+      "7.   All TSOs participating in the sameimbalance netting processshall ensure that the sum of allimbalance netting power interchanges is equal to zero.",
+      "3.   TSOs shall implement the imbalance netting process in a way which does not affect:",
+      "9.   Where a LFC block consists of more than one LFC area and the reserve capacity on FRR as well as the reserve capacity on RR is calculated based on the LFC block imbalances, all TSOs of the same LFC block shall implement an imbalance netting process and interchange the maximum amount of imbalance netting power defined in paragraph 6 with other LFC areas of the same LFC block.",
+      "11.   Where animbalance netting processis implemented forLFC areas which are not part of the sameLFC block, all TSOs of the LFC blocks involved shall comply with the obligations in Article 141(5) regardless ofimbalance netting power interchange."
+    ],
+    "Article 186": [
+      "2.   All TSOs implementing an imbalance netting process shall publish information regarding that process which shall include at least the list of participating TSOs and the starting date of the imbalance netting process."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 4,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 122": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 140": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 146": {
+      "article_score": 19,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 186": {
+      "article_score": 2,
+      "statement_scores": [
+        2
+      ]
+    }
+  }
+}

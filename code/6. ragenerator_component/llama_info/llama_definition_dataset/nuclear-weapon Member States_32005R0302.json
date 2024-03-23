@@ -1,0 +1,33 @@
+{
+  "term": "nuclear-weapon Member States",
+  "celex_id": "32005R0302",
+  "original_definition": "'nuclear-weapon Member States' means Belgium, the Czech Republic, Denmark, Germany, Estonia, Greece, Spain, Ireland, Italy, Cyprus, Latvia, Lithuania, Luxembourg, Hungary, Malta, the Netherlands, Austria, Poland, Portugal, Slovenia, Slovakia, Finland and Sweden;",
+  "generated_definition": "'nuclear-weapon Member States' means the territories of states that are party to the treaty on the non-proliferation of nuclear weapons (npt) and possess nuclear weapons.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018nuclear-weapon Member States\u2019 means France and the United Kingdom;"
+    ],
+    "Article 34": [
+      "the provisions of Article 3(2), Article 31 and Article 32(c) shall not apply in the territories of nuclear-weapon Member States.",
+      "Specific provisions for nuclear-weapon Member States"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 34": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

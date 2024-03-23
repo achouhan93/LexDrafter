@@ -1,0 +1,56 @@
+{
+  "term": "material unaccounted for",
+  "celex_id": "32005R0302",
+  "original_definition": "'material unaccounted for' means the difference between the physical inventory and the book inventory;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018material unaccounted for\u2019 means the difference between the physical inventory and the book inventory;",
+      "\u2018material unaccounted for\u2019 means the difference between thephysical inventoryand thebook inventory;"
+    ],
+    "Article 13": [
+      "material unaccounted for;"
+    ],
+    "Article 40": [
+      "Material unaccounted for. Must be calculated as",
+      "Description of methods for statistical evaluation of data collected in measurement control programmes for evaluating the precision and the accuracy of measurements and for estimating measurement uncertainties (i.e. determination of the standard deviations of random and systematic error in the measurements). Also description of statistical procedures used to combine individual error estimates to obtain the standard deviations of overall error for shipper/receiver differences, the book inventory, the physical inventory and material unaccounted for.",
+      "Date of the physical inventory taking as reported in the material balance report on which the book adjustment for MUF (material unaccounted for) is based. Use only with inventory change code MF.",
+      "Book adjustment for material unaccounted for. Must be equal to the difference between the ending physical inventory (PE) and the ending book inventory (BA) reported in the material balance report (Annex IV). The original date must be that of the physical inventory taking, while the accounting date must be after the date of the physical inventory taking.",
+      "Material unaccounted for",
+      "Description of methods for statistical evaluation of data collected in measurement control programmes for evaluating the precision and the accuracy of measurements and for estimating measurement uncertainties (i.e. determination of the standard deviations of random and systematic error in the measurements). Also description of statistical procedures used to combine individual error estimates to obtain the standard deviations of overall error forshipper/receiver differences, thebook inventory, thephysical inventoryandmaterial unaccounted for.",
+      "Book adjustment formaterial unaccounted for. Must be equal to the difference between the endingphysical inventory(PE) and the endingbook inventory (BA) reported in the material balance report (Annex IV). The original date must be that of the physical inventory taking, while the accounting date must be after the date of the physical inventory taking.",
+      "Date of thephysical inventorytaking as reported in the material balance report on which the book adjustment for MUF (material unaccounted for) is based. Use only with inventory change code MF."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 13": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 40": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

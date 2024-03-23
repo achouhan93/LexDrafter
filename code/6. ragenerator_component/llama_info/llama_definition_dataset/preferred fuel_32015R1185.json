@@ -1,0 +1,43 @@
+{
+  "term": "preferred fuel",
+  "celex_id": "32015R1185",
+  "original_definition": "'preferred fuel' means the single fuel for which is to be preferably used for the solid fuel local space heater according to the manufacturer's instructions;",
+  "generated_definition": "'preferred fuel' means the fuel identified in table 1 of annex ii, or any other suitable fuel as specified in the technical standard or specification.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018other suitable fuel\u2019 means a fuel, other than the preferred fuel, which can be used in the solid fuel local space heater according to the manufacturer's instructions and includes any fuel that is mentioned in the instruction manual for installers and end-users, on free access websites of manufacturers and suppliers, in technical or promotional material and in advertisements;",
+      "\u2018preferred fuel\u2019 means the single fuel for which is to be preferably used for the solid fuel local space heater according to the manufacturer's instructions;"
+    ],
+    "Article 9": [
+      "Characteristics when operating with the preferred fuel only",
+      "Solid fuel local space heaters shall be tested for the preferred fuel and any other suitable fuels indicated in Table 1 of Annex II.",
+      "Solid fuel local space heaters shall be tested for thepreferred fueland anyother suitable fuels indicated in Table 1 of Annex II.",
+      "where thepreferred fuelor anyother suitable fuelis otherwoody biomass,non-woody biomass, other fossil fuel or other blend of biomass and fossil fuel as referred to in Table 1, a description of the fuel sufficient for its unambiguous identification and the technical standard or specification of the fuel, including the measured moisture content and the measured ash content, and for other fossil fuel also the measured volatile content of the fuel.",
+      "where the preferred fuel or any other suitable fuel is other woody biomass, non-woody biomass, other fossil fuel or other blend of biomass and fossil fuel as referred to in Table 1, a description of the fuel sufficient for its unambiguous identification and the technical standard or specification of the fuel, including the measured moisture content and the measured ash content, and for other fossil fuel also the measured volatile content of the fuel.",
+      "Preferred fuel (only one):"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

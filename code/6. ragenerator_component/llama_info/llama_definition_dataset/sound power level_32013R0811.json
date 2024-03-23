@@ -1,0 +1,95 @@
+{
+  "term": "sound power level",
+  "celex_id": "32013R0811",
+  "original_definition": "'sound power level' means the A-weighted sound power level, indoors and/or outdoors, expressed in dB.",
+  "generated_definition": "'sound power level' means the sound power level lwa, in db, rounded to the nearest integer, calculated as the average of the three units for heaters, or the declared value for other appliances, as specified in the directive.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018standard rating conditions\u2019 means the operating conditions ofheaters under average climate conditions for establishing therated heat output,seasonal space heating energy efficiency,water heating energy efficiencyandsound power level;",
+      "\u2018sound power level\u2019 (LWA\n) means the A-weighted sound power level, indoors and/or outdoors, expressed in dB.",
+      "\u2018standard rating conditions\u2019 means the operating conditions of heaters under average climate conditions for establishing the rated heat output, seasonal space heating energy efficiency, water heating energy efficiency and sound power level;"
+    ],
+    "Article 6": [
+      "Member States shall apply the procedure set out in Annex VIII when assessing the conformity of the declared seasonal space heating energy efficiency class, water heating energy efficiency class, seasonal space heating energy efficiency, water heating energy efficiency and sound power level of heaters.",
+      "Member States shall apply the procedure set out in Annex VIII when assessing the conformity of the declaredseasonal space heating energy efficiencyclass,water heating energy efficiencyclass, seasonal space heating energy efficiency, water heating energy efficiency andsound power levelofheaters."
+    ],
+    "Article 8": [
+      "the sound power level LWA\n, outdoors, in dB, rounded to the nearest integer;",
+      "forheaters, the average of the three units forsound power level LWA\n is not more than 2 dB higher than the declared value of the unit;",
+      "the sound power level LWA\n, indoors (if applicable) and outdoors, in dB, rounded to the nearest integer.",
+      "the sound power level LWA\n, indoors, in dB, rounded to the nearest integer;",
+      "Declared values forrated heat output,seasonal space heating energy efficiency,water heating energy efficiency, annual energy consumption andsound power level shall be rounded to the nearest integer.",
+      "Sound power level, indoors/outdoors",
+      "Forheaters equipped with supplementary heaters, the measurement and calculation ofrated heat output,seasonal space heating energy efficiency,water heating energy efficiency,sound power level and emissions of nitrogen oxides shall take account of the supplementary heater.",
+      "For heaters equipped with supplementary heaters, the measurement and calculation of rated heat output, seasonal space heating energy efficiency, water heating energy efficiency, sound power level and emissions of nitrogen oxides shall take account of the supplementary heater.",
+      "the sound power level LWA\n, indoors (if applicable) and outdoors, in dB, rounded to the nearest integer;",
+      "For establishing the rated coefficient of performance COPrated\n or rated primary energy ratio PERrated\n, or thesound power level, the operating conditions shall be thestandard rating conditions set out in Table 9 and the same declared capacity for heating shall be used.",
+      "Sound power level, indoors:",
+      "for heaters, the average of the three units for sound power level LWA\n is not more than 2 dB higher than the declared value of the unit;",
+      "Sound power level, indoors (if applicable) and outdoors:",
+      "For establishing the rated coefficient of performance COPrated\n or rated primary energy ratio PERrated\n, or the sound power level, the operating conditions shall be the standard rating conditions set out in Table 9 and the same declared capacity for heating shall be used.",
+      "the sound power level LWA\n, indoors, in dB, rounded to the nearest integer.",
+      "Sound power level, indoors",
+      "Declared values for rated heat output, seasonal space heating energy efficiency, water heating energy efficiency, annual energy consumption and sound power level shall be rounded to the nearest integer.",
+      "for heaters, the sound power level LWA\n is not more than 2 dB higher than the declared value of the unit;",
+      "the sound power level LWA\n, outdoors, in dB, rounded to the nearest integer.",
+      "forheaters, thesound power level LWA\n is not more than 2 dB higher than the declared value of the unit;"
+    ],
+    "Not Article": [
+      "Thesound power levelof aheatercan be an important consideration for end-users. Information on sound power levels should be included on the labels ofspace heaters andcombination heaters.",
+      "The sound power level of a heater can be an important consideration for end-users. Information on sound power levels should be included on the labels of space heaters and combination heaters."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        1
+      ]
+    },
+    "Article 6": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 8": {
+      "article_score": 20,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    }
+  }
+}

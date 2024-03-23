@@ -1,0 +1,155 @@
+{
+  "term": "reference model",
+  "celex_id": "32023R1162",
+  "original_definition": "'reference model' means the procedures that are necessary for access to data describing the minimum required information exchange between market participants;",
+  "generated_definition": "'reference model' means a generic representation of smart metering infrastructures used in member states, defining the h1, h2, and h3 interfaces for the provision of non-validated near real-time data.",
+  "existing_sentences": {
+    "Article\u00a01": [
+      "2.   In order to ensure the application of interoperability requirements, this Regulation establishes areference modelformetering and consumption data that sets out the rules and procedures that Member States shall apply to enable interoperability. It lists the electricity market participants that are concerned by this act and the roles and responsibilities they perform individually or jointly, as described in Articles 5, 6, 7 and 8 and in the Annex to this Regulation, with one electricity market participant being able to carry out more than one role.",
+      "1.   This implementing Regulation lays down interoperability requirements and rules for non-discriminatory and transparent procedures for access to electricitymetering and consumption databy final customers and eligible parties in accordance with Directive (EU) 2019/944. It also sets out non-discriminatory and transparent procedures for access to data that require reporting and publication of national practices applying thereference model.",
+      "1.   This implementing Regulation lays down interoperability requirements and rules for non-discriminatory and transparent procedures for access to electricity metering and consumption data by final customers and eligible parties in accordance with Directive (EU) 2019/944. It also sets out non-discriminatory and transparent procedures for access to data that require reporting and publication of national practices applying the reference model.",
+      "2.   In order to ensure the application of interoperability requirements, this Regulation establishes a reference model for metering and consumption data that sets out the rules and procedures that Member States shall apply to enable interoperability. It lists the electricity market participants that are concerned by this act and the roles and responsibilities they perform individually or jointly, as described in Articles 5, 6, 7 and 8 and in the Annex to this Regulation, with one electricity market participant being able to carry out more than one role."
+    ],
+    "Article\u00a02": [
+      "Interoperability requirements - Reference model",
+      "\u2018reference model\u2019 means the procedures that are necessary for access to data describing the minimum required information exchange between market participants;"
+    ],
+    "Article\u00a03": [
+      "In order to meet the interoperability requirements, electricity undertakings in the retail electricity market apply the reference model set out in this Chapter and in the Annex of this Regulation.",
+      "Implementation of the reference model"
+    ],
+    "Article\u00a04": [
+      "Reference model and information on market organisation"
+    ],
+    "Article\u00a07": [
+      "all relevant procedures they use for providing access to data as described by the reference model set out in this Chapter and the Annex where the specific case of access by final customers is presented;"
+    ],
+    "Article\u00a08": [
+      "make publicly available the relevant procedures they use for providing access to data as described by the reference model and illustrated in the Annex, in accordance with Article 23(2) of Directive (EU) 2019/944.",
+      "2.   Permission administrators shall cooperate with eligible parties and metered data administrators to facilitate testing of the processes to implement the reference model. This cooperation shall take place before the processes are implemented and while they are in operation.",
+      "2.Permission administrators shall cooperate with eligible parties andmetered data administrators to facilitate testing of the processes to implement thereference model. This cooperation shall take place before the processes are implemented and while they are in operation."
+    ],
+    "Article\u00a010": [
+      "2.   The reporting shall include information on the national implementation of the reference model and of the various roles, information exchanges, and procedures."
+    ],
+    "Article\u00a012": [
+      "2.   The ENTSO for Electricity and the EU DSO entity may also cooperate in assisting the Commission, following the process set out in paragraph 2 of Article 11, in the monitoring of the implementation of the reference model included in this Regulation and its further development as a result of regulatory, market or technology changes, and support the Commission, upon its request, in developing, as part of future implementing acts, interoperability requirements and non-discriminatory and transparent procedures for access to data required for customer switching, demand response, and other services referred to in Article 23(1) of Directive (EU) 2019/944.",
+      "collecting the reports of national practices provided by Member States regarding the implementation of the reference model, as set out in Article 10;"
+    ],
+    "Article\u00a014": [
+      "Thereference modelformetering and consumption data access",
+      "The reference model for metering and consumption data access",
+      "The reference model for the provision of non-validated near real-time data, as shown in procedure 5 in Table III.5 and in procedure 6 in Table III.6, is based on the functional reference architecture for smart metering defined in standards1. This functional reference architecture specifies a generic representation of smart metering infrastructures used in Member States. It defines the so-called \u2018H1\u2019, \u2018H2\u2019 and \u2018H3\u2019 interfaces that may be used for the provision of non-validated near real-time data. However, the same standards and data items may be employed whichever interface is used. Some meter operators also offer remote access to such data. Procedures 5 and 6 are implementation-neutral with respect to the access method provided.",
+      "Note: Further use, processing or transfer of process-able meter data is not part of this reference model.",
+      "The reference model for metering and consumption data is composed of a set of reference procedures for access to data and of the required information exchanges between roles acted by market players relating to this specific case.",
+      "The tables in this Annex reflect this set of information that constitutes the reference model. The procedural steps that are set out in this Annex may be combined or carried out in a different order when applied at national level.",
+      "Thereference modelformetering and consumption data is composed of a set of reference procedures for access to data and of the required information exchanges between roles acted by market players relating to this specific case.",
+      "Thereference modelfor the provision of non-validated near real-time data, as shown in procedure 5 in Table III.5 and in procedure 6 in Table III.6, is based on the functional reference architecture forsmart metering defined in standards1. This functional reference architecture specifies a generic representation of smart metering infrastructures used in Member States. It defines the so-called \u2018H1\u2019, \u2018H2\u2019 and \u2018H3\u2019 interfaces that may be used for the provision of non-validated near real-time data. However, the same standards and data items may be employed whichever interface is used. Somemeter operators also offer remote access to such data. Procedures 5 and 6 are implementation-neutral with respect to the access method provided."
+    ],
+    "Not Article": [
+      "This Regulation describes the roles and responsibilities of market participants in the exchange of information under thereference model, including the roles and responsibilities of themetered data administrator, themetering point administrator, thedata access providerand thepermission administrator. Market participants that exchange information following the specific procedures described in this Regulation should be able to assume roles and responsibilities assigned by the reference model individually or jointly and may also carry out more than one role.",
+      "Fulfilment of these interoperability requirements and compliance with the procedures for access to data depends on Member States using the same reference model for metering and consumption data. By establishing a reference model, this Regulation aims at ensuring that market participants have a mutual and clear understanding of the roles, responsibilities and procedures for access to data. At the same time, implementation of the reference model allows Member States to determine the communication and component layers in accordance with national specificities and practices.",
+      "The present Regulation lays down a set of rules for interoperability for access to metering and consumption data taking into account existing national practices. The \u2018reference model\u2019 set out in this Regulation defines common rules and procedures at Union level for the business, function and information layers, in line with national practices.",
+      "The reference model describes workflows that are required for specific services and processes based on a minimum set of requirements to ensure that a given procedure can run correctly, while allowing for national customisation. It is composed of (i) a \u2018role model\u2019 with a set of roles/responsibilities and their interactions; (ii) an \u2018information model\u2019 that contains information objects, their attributes, and the relationships between these objects; and (iii) a \u2018process model\u2019 detailing the procedural steps.",
+      "The present Regulation lays down a set of rules for interoperability for access tometering and consumption datataking into account existing national practices. The \u2018reference model\u2019 set out in this Regulation defines common rules and procedures at Union level for the business, function and information layers, in line with national practices.",
+      "Member States may choose how to implement the interoperability requirements in their national system reflecting national practices, in particular regarding aspects linked to the communication and component layer. While this ensures that the implementation model is based on existing national practices, it also makes it more difficult for eligible parties to understand how the reference model is implemented across the Union in the Member States, in particular with regard to the communication and component layer. This could lead to a barrier to entry for eligible parties who want to be active in other Member States. Therefore, a common repository of national practices should be established on how the reference model is implemented in the national practices of Member States and should be made publicly available. The publication of these reports is part of the transparent and non-discriminatory procedures introduced in this Regulation, because it will contribute to improving access to metering and consumption data across the EU by increasing awareness, providing clarity on applicable rules, and help lowering barriers for new market entrants. Moreover, it will also enable market participants identify and better understand similarities, differences and relationships between Member States\u2019 national arrangements. Furthermore, it will also help share best practices between Member States and improve interoperability.",
+      "This Regulation describes the roles and responsibilities of market participants in the exchange of information under the reference model, including the roles and responsibilities of the metered data administrator, the metering point administrator, the data access provider and the permission administrator. Market participants that exchange information following the specific procedures described in this Regulation should be able to assume roles and responsibilities assigned by the reference model individually or jointly and may also carry out more than one role.",
+      "Within the context of the procedures described in the reference model for metering and consumption data introduced in this Regulation and its Annex, eligible parties are receiving and processing data. Any processing of personal data under this implementing act, such as meter or connection point identification numbers, exchanged using the procedures set out in this implementing act will need to comply with Regulation (EU) 2016/679 of the European Parliament and of the Council (8), including but not limited to the processing and retention requirements in Article 5 (1) and 6 (1) of the aforementioned Regulation. Moreover, and given that smart meters qualify as terminal equipment, Directive 2002/58/EC of the European Parliament and of the Council concerning the processing of personal data and the protection of privacy in the electronic communications sector, applies as well (9). Relevant eligible parties should accordingly comply with their obligations stemming from this Directive, including Article 5 (3).",
+      "Within the context of the procedures described in thereference modelformetering and consumption dataintroduced in this Regulation and its Annex, eligible parties are receiving and processing data. Any processing of personal data under this implementing act, such as meter or connection point identification numbers, exchanged using the procedures set out in this implementing act will need to comply with Regulation (EU) 2016/679 of the European Parliament and of the Council (8), including but not limited to the processing and retention requirements in Article 5 (1) and 6 (1) of the aforementioned Regulation. Moreover, and given thatsmart meters qualify as terminal equipment, Directive 2002/58/EC of the European Parliament and of the Council concerning the processing of personal data and the protection of privacy in the electronic communications sector, applies as well (9). Relevant eligible parties should accordingly comply with their obligations stemming from this Directive, including Article 5 (3).",
+      "Fulfilment of these interoperability requirements and compliance with the procedures for access to data depends on Member States using the samereference modelformetering and consumption data. By establishing a reference model, this Regulation aims at ensuring that market participants have a mutual and clear understanding of the roles, responsibilities and procedures for access to data. At the same time, implementation of the reference model allows Member States to determine the communication and component layers in accordance with national specificities and practices.",
+      "The reference model is technology-neutral and not directly tied to any specific implementation details. However, the reference model reflects, as far as possible, definitions and terminology that are used in available standards and the relevant European initiatives, such as the Harmonised Electricity Market Role Model (5) and the International Electrotechnical Commission\u2019s Common Information Model2. Where possible, the reference model should use available European standards.",
+      "Member States may choose how to implement the interoperability requirements in their national system reflecting national practices, in particular regarding aspects linked to the communication and component layer. While this ensures that the implementation model is based on existing national practices, it also makes it more difficult for eligible parties to understand how thereference modelis implemented across the Union in the Member States, in particular with regard to the communication and component layer. This could lead to a barrier to entry for eligible parties who want to be active in other Member States. Therefore, a common repository of national practices should be established on how the reference model is implemented in the national practices of Member States and should be made publicly available. The publication of these reports is part of the transparent and non-discriminatory procedures introduced in this Regulation, because it will contribute to improving access tometering and consumption data across the EU by increasing awareness, providing clarity on applicable rules, and help lowering barriers for new market entrants. Moreover, it will also enable market participants identify and better understand similarities, differences and relationships between Member States\u2019 national arrangements. Furthermore, it will also help share best practices between Member States and improve interoperability."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a01": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article\u00a02": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article\u00a03": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article\u00a04": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article\u00a07": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article\u00a08": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article\u00a010": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article\u00a012": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article\u00a014": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 20,
+      "statement_scores": [
+        2,
+        3,
+        0,
+        1,
+        0,
+        2,
+        2,
+        1,
+        1,
+        3,
+        3,
+        2
+      ]
+    }
+  }
+}

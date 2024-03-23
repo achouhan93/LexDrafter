@@ -1,0 +1,117 @@
+{
+  "term": "disturbance",
+  "celex_id": "32017R1485",
+  "original_definition": "'disturbance' means an unplanned event that may cause the transmission system to divert from the normal state;",
+  "generated_definition": "'disturbance' means a disturbance in the transmission system is any event or condition that disrupts the normal operation of the system, potentially leading to a wide area state disturbance or blackout state.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018system defence plan\u2019 means the technical and organisational measures to be undertaken to prevent the propagation or deterioration of adisturbancein the transmission system, in order to avoid awide area statedisturbance andblackout state;",
+      "\u2018frequency stability\u2019 means the ability of the transmission system to maintain frequency stable in theN-situationand after being subjected to adisturbance;",
+      "\u2018system defence plan\u2019 means the technical and organisational measures to be undertaken to prevent the propagation or deterioration of a disturbance in the transmission system, in order to avoid a wide area state disturbance and blackout state;",
+      "\u2018disturbance\u2019 means an unplanned event that may cause the transmission system to divert from thenormal state;",
+      "\u2018operational security indicators\u2019 means indicators used by TSOs to monitor the operational security in terms of system states as well as faults and disturbances influencing operational security;",
+      "\u2018disturbance\u2019 means an unplanned event that may cause the transmission system to divert from the normal state;",
+      "\u2018voltage stability\u2019 means the ability of a transmission system to maintain acceptable voltages at all nodes in the transmission system in theN-situationand after being subjected to adisturbance;",
+      "\u2018operational security indicators\u2019 means indicators used by TSOs to monitor the operational security in terms ofsystem states as well asfaults anddisturbances influencing operational security;",
+      "\u2018rotor angle stability\u2019 means the ability of synchronous machines to remain in synchronism underN-situationand after being subject to adisturbance;",
+      "\u2018voltage stability\u2019 means the ability of a transmission system to maintain acceptable voltages at all nodes in the transmission system in the N-situation and after being subjected to a disturbance;",
+      "\u2018rotor angle stability\u2019 means the ability of synchronous machines to remain in synchronism under N-situation and after being subject to a disturbance;",
+      "\u2018frequency stability\u2019 means the ability of the transmission system to maintain frequency stable in the N-situation and after being subjected to a disturbance;"
+    ],
+    "Article 28": [
+      "2.   SGUs which are demand facilities subject to the requirements of Article 3 of Regulation (EU) 2016/1388 shall not disconnect due to a disturbance within the voltage ranges referred to in Article 27. By 3 months after entry into force of this Regulation, SGUs which are transmission-connected demand facilities and which are not subject to Article 3 of Regulation (EU) 2016/1388 shall inform their TSO about their capabilities in relation to the voltage requirements defined in Annex II of Regulation (EU) 2016/1388 declaring their voltage capabilities and the time they can withstand without disconnection."
+    ],
+    "Article 35": [
+      "3.   In case of an (N-1) situation caused by a disturbance, each TSO shall activate a remedial action in order to ensure that the transmission system is restored to a normal state as soon as possible and that this (N-1) situation becomes the new N-Situation.",
+      "2.   When a TSO assesses that the risks associated with a contingency are so significant that it might not be able to prepare and activate remedial actions in a timely manner to prevent non-compliance with the (N-1) criterion or that there is a risk of propagation of a disturbance to the interconnected transmission system, the TSO shall prepare and activate remedial actions to achieve compliance with the (N-1) criterion as soon as possible.",
+      "3.   In case of an (N-1) situation caused by adisturbance, each TSO shall activate a remedial action in order to ensure that the transmission system is restored to anormal state as soon as possible and that this (N-1) situation becomes the new N-Situation."
+    ],
+    "Article 36": [
+      "1.   Each TSO shall operate its transmission system with the protection and backup protection equipment in order to automatically prevent the propagation of disturbances that could endanger the operational security of its own transmission system and of the interconnected system.",
+      "1.   Each TSO shall operate its transmission system with the protection and backup protection equipment in order to automatically prevent the propagation ofdisturbances that could endanger theoperational security of its own transmission system and of the interconnected system."
+    ],
+    "Article 38": [
+      "a list of commonly agreed contingencies or disturbances whose impact shall be assessed through the coordinated dynamic stability assessment."
+    ],
+    "Article 41": [
+      "the data concerning HVDC systems andFACTSdevices on the dynamic models of the system or the device and its associated regulation suitable for largedisturbances.",
+      "the data concerning HVDC systems and FACTS devices on the dynamic models of the system or the device and its associated regulation suitable for large disturbances.",
+      "prime movers models and excitation system models suitable for large disturbances;"
+    ],
+    "Article 54": [
+      "2.   Each SGU shall notify the TSO or DSO to which it has a connection point about any operational disturbance in its facility which could have an impact on its compliance with the requirements of this Regulation as soon as possible after its occurrence."
+    ],
+    "Article 55": [
+      "develop and deploy tools and solutions for the prevention and remedy of disturbances;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 5,
+      "statement_scores": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 28": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 35": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1,
+        0
+      ]
+    },
+    "Article 36": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 38": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 41": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0,
+        0
+      ]
+    },
+    "Article 54": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 55": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

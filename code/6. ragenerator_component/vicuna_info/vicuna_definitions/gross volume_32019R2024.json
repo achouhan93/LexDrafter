@@ -1,0 +1,54 @@
+{
+  "term": "gross volume",
+  "celex_id": "32019R2024",
+  "original_definition": "'gross volume' means the volume within the inside liners of the compartment, without internal fittings and with door or lid closed, in cubic decimetres (dm3) or litres (L);",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018net volume\u2019 means the part of the gross volume of any compartment which is left after deduction of the volume of components and spaces unusable for the storage or display of foodstuffs and other items, in cubic decimetres (dm3) or litres (L);",
+      "\u2018net volume\u2019 means the part of thegross volumeof anycompartmentwhich is left after deduction of the volume of components and spaces unusable for the storage or display offoodstuffs and other items, in cubic decimetres (dm3) or litres (L);",
+      "\u2018gross volume\u2019 means the volume within the inside liners of thecompartment, without internal fittings and with door or lid closed, in cubic decimetres (dm3) or litres (L);",
+      "\u2018gross volume\u2019 means the volume within the inside liners of the compartment, without internal fittings and with door or lid closed, in cubic decimetres (dm3) or litres (L);"
+    ],
+    "Article 8": [
+      "the appropriateness to base the [equivalent volume] of a beverage cooler on the net volume instead of the gross volume;",
+      "the appropriateness to base the [equivalent volume] of abeverage cooleron thenet volumeinstead of thegross volume;"
+    ],
+    "Article 9": [
+      "Gross volume, and grosscompartment volume where applicable",
+      "Gross volume, and gross compartment volume where applicable",
+      "TDA (m2), net volume (L) or gross volume (L) as applicable",
+      "TDA (m2),net volume(L) orgross volume (L) as applicable"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 9": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

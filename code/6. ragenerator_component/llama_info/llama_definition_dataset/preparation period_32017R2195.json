@@ -1,0 +1,33 @@
+{
+  "term": "preparation period",
+  "celex_id": "32017R2195",
+  "original_definition": "'preparation period' means the period between the request by the connecting TSO in case of TSO-TSO model or by the contracting TSO in case of TSO-BSP model and the start of the ramping period;",
+  "generated_definition": "'preparation period' means the time frame before the entry into force of a legal act during which the act is being prepared and processed for publication.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018preparation period\u2019 means the period between the request by the connecting TSO in case of TSO-TSO model or by the contracting TSO in case of TSO-BSP model and the start of the ramping period;",
+      "\u2018preparation period\u2019 means the period between the request by theconnecting TSOin case ofTSO-TSO modelor by thecontracting TSOin case ofTSO-BSP model and the start of the ramping period;"
+    ],
+    "Article 25": [
+      "preparation period;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 25": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

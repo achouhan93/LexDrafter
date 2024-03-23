@@ -1,0 +1,22 @@
+{
+  "term": "pantry compartment",
+  "celex_id": "32019R2016",
+  "original_definition": "'pantry compartment' means an unfrozen compartment with a target temperature of 17 \u00b0C and storage conditions ranging from 14 \u00b0C to 20 \u00b0C, as set out in Annex IV, Table 3;",
+  "generated_definition": "'pantry compartment' means a compartment or cabinet used for storing food and kitchen supplies.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018pantry compartment\u2019 means an unfrozen compartment with a target temperature of 17 \u00b0C and storage conditions ranging from 14 \u00b0C to 20 \u00b0C, as set out in Annex IV, Table 3;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

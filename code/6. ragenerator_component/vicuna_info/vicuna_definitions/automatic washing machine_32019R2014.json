@@ -1,0 +1,30 @@
+{
+  "term": "automatic washing machine",
+  "celex_id": "32019R2014",
+  "original_definition": "'automatic washing machine' means a washing machine where the load is fully treated by the washing machine without the need for user intervention at any point during the programme;",
+  "generated_definition": "'automatic washing machine' means an automatic washing machine that cleans and rinses household laundry using water, chemical, mechanical, and thermal means, with a spin extraction function, and declared to comply with directive 2014/35/eu or 2014/53/eu.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018household washing machine\u2019 means an automatic washing machine which cleans and rinses household laundry by using water, chemical, mechanical and thermal means, which also has a spin extraction function, and which is declared by the manufacturer in the Declaration of Conformity as complying with Directive 2014/35/EU of the European Parliament and of the Council (10) or with Directive 2014/53/EU of the European Parliament and of the Council (11);",
+      "\u2018automatic washing machine\u2019 means a washing machine where the load is fully treated by the washing machine without the need for user intervention at any point during the programme;",
+      "\u2018household washer-dryer\u2019 means a household washing machine which, in addition to the functions of an automatic washing machine, in the same drum includes a means for drying the textiles by heating and tumbling, and which is declared by the manufacturer in the Declaration of Conformity as complying with Directive 2014/35/EU or with Directive 2014/53/EU;",
+      "\u2018household washer-dryer\u2019 means ahousehold washing machinewhich, in addition to the functions of anautomatic washing machine, in the same drum includes a means for drying the textiles by heating and tumbling, and which is declared by the manufacturer in the Declaration of Conformity as complying with Directive 2014/35/EU or with Directive 2014/53/EU;",
+      "\u2018household washing machine\u2019 means anautomatic washing machine which cleans and rinses household laundry by using water, chemical, mechanical and thermal means, which also has a spin extraction function, and which is declared by the manufacturer in the Declaration of Conformity as complying with Directive 2014/35/EU of the European Parliament and of the Council (10) or with Directive 2014/53/EU of the European Parliament and of the Council (11);"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

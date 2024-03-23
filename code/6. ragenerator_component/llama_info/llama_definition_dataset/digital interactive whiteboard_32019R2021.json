@@ -1,0 +1,44 @@
+{
+  "term": "digital interactive whiteboard",
+  "celex_id": "32019R2021",
+  "original_definition": "'digital interactive whiteboard' means an electronic display which allows direct user interaction with the displayed image. The digital interactive whiteboard is designed primarily to provide presentations, lessons or remote collaboration, including the transmission of audio and video signals. Its specification shall include all of the following features:primarily designed to be installed hanging, mounted on a ground stand, set on a shelf or desk or fixed to a physical structure for viewing by multiple people;to be necessarily used with computer software with specific functionalities to manage content and interaction;integrated or designed to be specifically used with a computer for running the software in point (b);a display screen area greater than 40 dm2;user interaction by finger or pen touch or other means such as hand, arm gesture or voice;",
+  "generated_definition": "'digital interactive whiteboard' means an electronic display that allows interactive input and output, typically used for educational or collaborative purposes.",
+  "existing_sentences": {
+    "Article 1": [
+      "digital interactive whiteboards;"
+    ],
+    "Article 2": [
+      "\u2018digital interactive whiteboard\u2019 means an electronic display which allows direct user interaction with the displayed image. The digital interactive whiteboard is designed primarily to provide presentations, lessons or remote collaboration, including the transmission of audio and video signals. Its specification shall include all of the following features:",
+      "\u2018digital interactive whiteboard\u2019 means anelectronic display which allows direct user interaction with the displayed image. The digital interactive whiteboard is designed primarily to provide presentations, lessons or remote collaboration, including the transmission of audio and video signals. Its specification shall include all of the following features:"
+    ],
+    "Article 11": [
+      "Electronic displays other than televisions, with various selectable input sources shall switch, as configured in the normal configuration, into standby mode, networked standby mode or another mode which does not exceed the applicable power demand requirements respectively for standby or networked standby mode when no input is detected by any input source for over 10 seconds and, for digital interactive whiteboards and for broadcast displays, for over 60 minutes.",
+      "Electronic displays other thantelevisions, with various selectable input sources shall switch, as configured in the normal configuration, into standby mode, networked standby mode or another mode which does not exceed the applicable power demand requirements respectively for standby or networked standby mode when no input is detected by any input source for over 10 seconds and, fordigital interactive whiteboards and forbroadcast displays, for over 60 minutes."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 11": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

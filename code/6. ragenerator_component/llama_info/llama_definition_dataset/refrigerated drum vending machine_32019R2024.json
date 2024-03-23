@@ -1,0 +1,35 @@
+{
+  "term": "refrigerated drum vending machine",
+  "celex_id": "32019R2024",
+  "original_definition": "'refrigerated drum vending machine' means a refrigerated vending machine with rotating drums each divided in partitions, in which the foodstuffs and other items are placed on a horizontal surface, and are retrieved through individual delivery doors;",
+  "generated_definition": "'refrigerated drum vending machine' means a refrigeration appliance with a rotating drum for storing and dispensing chilled or frozen products, typically used for vending purposes.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018refrigerated drum vending machine\u2019 means arefrigerated vending machinewith rotating drums each divided in partitions, in which thefoodstuffs and other items are placed on a horizontal surface, and are retrieved through individual delivery doors;",
+      "\u2018refrigerated drum vending machine\u2019 means a refrigerated vending machine with rotating drums each divided in partitions, in which the foodstuffs and other items are placed on a horizontal surface, and are retrieved through individual delivery doors;"
+    ],
+    "Article 9": [
+      "From 1 September 2023, the EEI of refrigerating appliances with a direct sales function, except for refrigerated drum vending machines, shall not be above the values as set out in Table 2.",
+      "All other refrigerating appliances with a direct sales function, except refrigerated drum vending machines"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

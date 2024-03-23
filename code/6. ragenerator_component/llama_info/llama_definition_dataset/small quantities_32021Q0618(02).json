@@ -1,0 +1,45 @@
+{
+  "term": "small quantities",
+  "celex_id": "32021Q0618(02)",
+  "original_definition": "'small quantities' means the quantities defined in the Small Quantities Regulation;",
+  "generated_definition": "'small quantities' means any quantity of goods that is below a certain threshold, as determined by the european union, for the purpose of import, export, or transfer within the community.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018Small Quantities Regulation\u2019 means Commission Regulation (Euratom) No 66/2006 of 16 January 2006exempting the transfer of small quantities of ores, source materials and special fissile materials from the rules of the chapter on supplies, and any future versions thereof;",
+      "\u2018small quantities\u2019 means the quantities defined in theSmall Quantities Regulation;",
+      "\u2018Small Quantities Regulation\u2019 means Commission Regulation (Euratom) No 66/2006 of 16 January 2006exempting the transfer ofsmall quantities of ores, source materials and special fissile materials from the rules of the chapter on supplies, and any future versions thereof;",
+      "\u2018small quantities\u2019 means the quantities defined in the Small Quantities Regulation;"
+    ],
+    "Article\u00a017": [
+      "2.   Any person who imports or exports small quantities and any supplier who transfers small quantities within the Community shall submit a quarterly statement of such transactions to the Agency.",
+      "Contracts for small quantities",
+      "1.   Any transfer, import or export ofsmall quantitiesof ores, source materials and special fissile materials shall be notified to theAgency.",
+      "1.   Any transfer, import or export of small quantities of ores, source materials and special fissile materials shall be notified to the Agency.",
+      "2.   Any person who imports or exportssmall quantitiesand any supplier who transfers small quantities within theCommunityshall submit a quarterly statement of such transactions to theAgency."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        0,
+        2,
+        0
+      ]
+    },
+    "Article\u00a017": {
+      "article_score": 7,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        1,
+        2
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "term": "electric local space heater",
+  "celex_id": "32015R1188",
+  "original_definition": "'electric local space heater' means a local space heater using the electric Joule effect to generate heat;",
+  "generated_definition": "'electric local space heater' means an electric heating appliance designed for local space heating, not intended to accumulate thermal energy or incorporated in the building structure or finishing.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018electric local space heater\u2019 means a local space heater using the electric Joule effect to generate heat;",
+      "\u2018electric fixed local space heater\u2019 means an electric local space heater not intended to accumulate thermal energy and designed to be used while fastened or secured in a specific location or wall mounted and not incorporated in the building structure or building finishing;",
+      "\u2018electric storage local space heater\u2019 means anelectric local space heater designed to store heat in an accumulating isolated core and to discharge it for several hours after the accumulation phase;",
+      "\u2018electric visibly glowing radiant local space heater\u2019 means an electric local space heater in which the heating element is visible from outside the heater and has a temperature of at least 650 \u00b0C in normal use;",
+      "\u2018electric portable local space heater\u2019 means anelectric local space heaterwhich is not anelectric fixed local space heater,electric storage local space heater,electric underfloor local space heater,electric radiant local space heater, electric visibly glowing local space heater orslave heater;",
+      "\u2018electric portable local space heater\u2019 means an electric local space heater which is not an electric fixed local space heater, electric storage local space heater, electric underfloor local space heater, electric radiant local space heater, electric visibly glowing local space heater or slave heater;",
+      "\u2018electric underfloor local space heater\u2019 means anelectric local space heater designed to be used while incorporated in the building structure or building finishing;",
+      "\u2018electric fixed local space heater\u2019 means anelectric local space heater not intended to accumulate thermal energy and designed to be used while fastened or secured in a specific location or wall mounted and not incorporated in the building structure or building finishing;",
+      "\u2018electric radiant local space heater\u2019 means anelectric local space heater in which the heat emitting element is to be directed towards the place of use so that its thermal radiation directly warms the subjects to be heated and which has a temperature rise of the grill covering the heat emitting element of at least 130 \u00b0C in normal use and/or a temperature rise of 100 \u00b0C for other surfaces;",
+      "\u2018electric radiant local space heater\u2019 means an electric local space heater in which the heat emitting element is to be directed towards the place of use so that its thermal radiation directly warms the subjects to be heated and which has a temperature rise of the grill covering the heat emitting element of at least 130 \u00b0C in normal use and/or a temperature rise of 100 \u00b0C for other surfaces;",
+      "\u2018electric underfloor local space heater\u2019 means an electric local space heater designed to be used while incorporated in the building structure or building finishing;",
+      "\u2018electric storage local space heater\u2019 means an electric local space heater designed to store heat in an accumulating isolated core and to discharge it for several hours after the accumulation phase;",
+      "\u2018electric visibly glowing radiant local space heater\u2019 means anelectric local space heater in which the heating element is visible from outside the heater and has a temperature of at least 650 \u00b0C in normal use;"
+    ],
+    "Article 9": [
+      "For alllocal space heaters exceptelectric local space heaters andcommercial local space heaters:",
+      "For all local space heaters except electric local space heaters and commercial local space heaters:"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 12,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 9": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

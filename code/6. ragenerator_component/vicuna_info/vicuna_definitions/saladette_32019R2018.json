@@ -1,0 +1,33 @@
+{
+  "term": "saladette",
+  "celex_id": "32019R2018",
+  "original_definition": "'saladette' means a refrigerating appliance with a direct sales function with one or more doors or drawer fronts in the vertical plane that has cut-outs in the top surface into which temporary storage bins can be inserted for easy-access storage of foodstuffs such as pizza toppings or salad items;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 1": [
+      "saladettes;"
+    ],
+    "Article 2": [
+      "\u2018saladette\u2019 means arefrigerating appliance with a direct sales functionwith one or more doors or drawer fronts in the vertical plane that has cut-outs in the top surface into which temporary storage bins can be inserted for easy-access storage offoodstuffs such as pizza toppings or salad items;",
+      "\u2018saladette\u2019 means a refrigerating appliance with a direct sales function with one or more doors or drawer fronts in the vertical plane that has cut-outs in the top surface into which temporary storage bins can be inserted for easy-access storage of foodstuffs such as pizza toppings or salad items;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

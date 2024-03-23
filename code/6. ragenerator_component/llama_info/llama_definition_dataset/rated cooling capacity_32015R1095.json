@@ -1,0 +1,53 @@
+{
+  "term": "rated cooling capacity",
+  "celex_id": "32015R1095",
+  "original_definition": "'rated cooling capacity' means the cooling capacity which the condensing unit allows the vapour compression cycle to reach, once connected to an evaporator and an expansion device, when operating at full load, and measured at standard rating conditions with the reference ambient temperature set at 32 \u00b0C, expressed in kW;",
+  "generated_definition": "'rated cooling capacity' means the cooling capacity of a condensing unit at a given temperature, as declared by the manufacturer and used to determine the efficiency of the unit.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018rated cooling capacity\u2019, expressed in kW, means the cooling capacity that theprocess chiller is able to reach, when operating at full load, and measured at standard rating conditions with the reference ambient temperature at 35 \u00b0C for air-cooled chillers and 30 \u00b0C water inlet temperature at the condenser for water-cooled chillers.",
+      "\u2018rated cooling capacity\u2019 means the cooling capacity which thecondensing unit allows the vapour compression cycle to reach, once connected to an evaporator and an expansion device, when operating at full load, and measured at standard rating conditions with the reference ambient temperature set at 32 \u00b0C, expressed in kW;",
+      "\u2018rated cooling capacity\u2019, expressed in kW, means the cooling capacity that the process chiller is able to reach, when operating at full load, and measured at standard rating conditions with the reference ambient temperature at 35 \u00b0C for air-cooled chillers and 30 \u00b0C water inlet temperature at the condenser for water-cooled chillers.",
+      "\u2018rated cooling capacity\u2019 means the cooling capacity which the condensing unit allows the vapour compression cycle to reach, once connected to an evaporator and an expansion device, when operating at full load, and measured at standard rating conditions with the reference ambient temperature set at 32 \u00b0C, expressed in kW;"
+    ],
+    "Article 8": [
+      "\u2018rated cooling capacity\u2019 (PA\n), expressed in kW to two decimal places, means the cooling capacity that the process chiller is able to reach, when operating at full load, and measured at standard rating conditions with the reference ambient temperature at 35 \u00b0C for air-cooled chillers and 30 \u00b0C water inlet temperature at the condenser for water-cooled chillers;",
+      "for condensing units with a rated cooling capacity lower than 2 kW at low temperature and 5 kW at medium temperature, the coefficients of performance COPB, COPc, COPD are not more than 10 % lower than the declared value measured at the declared cooling capacity;",
+      "\u2018rated cooling capacity\u2019 (PA\n) means the cooling capacity that the condensing unit enables the vapour compression cycle to reach, once connected to an evaporator and an expansion device, when operating at full load, and measured at standard rating conditions with the reference ambient temperature set at 32 \u00b0C, expressed in kW to two decimal places;",
+      "for condensing units with a rated cooling capacity lower than 2 kW at low temperature and 5 kW at medium temperature, the averages of the three units for the coefficients of performance COPB, COPc, COPD are not more than 10 % lower than the declared value measured at the declared cooling capacity.",
+      "forcondensing units with arated cooling capacitylower than 2 kW atlow temperatureand 5 kW atmedium temperature, the averages of the three units for the coefficients of performance COPB, COPc, COPD are not more than 10 % lower than the declared value measured at the declared cooling capacity.",
+      "\u2018rated cooling capacity\u2019 (PA\n) means the cooling capacity that thecondensing unit enables the vapour compression cycle to reach, once connected to an evaporator and an expansion device, when operating at full load, and measured at standard rating conditions with the reference ambient temperature set at 32 \u00b0C, expressed in kW to two decimal places;",
+      "Rated cooling capacity",
+      "\u2018rated cooling capacity\u2019 (PA\n), expressed in kW to two decimal places, means the cooling capacity that theprocess chiller is able to reach, when operating at full load, and measured at standard rating conditions with the reference ambient temperature at 35 \u00b0C for air-cooled chillers and 30 \u00b0C water inlet temperature at the condenser for water-cooled chillers;",
+      "forcondensing units with arated cooling capacitylower than 2 kW atlow temperatureand 5 kW atmedium temperature, the coefficients of performance COPB, COPc, COPD are not more than 10 % lower than the declared value measured at the declared cooling capacity;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 5,
+      "statement_scores": [
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1
+      ]
+    }
+  }
+}

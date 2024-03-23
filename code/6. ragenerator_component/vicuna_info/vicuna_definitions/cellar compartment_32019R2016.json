@@ -1,0 +1,22 @@
+{
+  "term": "cellar compartment",
+  "celex_id": "32019R2016",
+  "original_definition": "'cellar compartment' means an unfrozen compartment with a target temperature of 12 \u00b0C and storage conditions ranging from 2 \u00b0C to 14 \u00b0C, as set out in Annex IV, Table 3;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018cellar compartment\u2019 means an unfrozen compartment with a target temperature of 12 \u00b0C and storage conditions ranging from 2 \u00b0C to 14 \u00b0C, as set out in Annex IV, Table 3;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

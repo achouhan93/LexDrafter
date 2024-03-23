@@ -1,0 +1,59 @@
+{
+  "term": "rated refrigeration capacity",
+  "celex_id": "32016R2281",
+  "original_definition": "'rated refrigeration capacity' means the refrigeration capacity that the high temperature process chiller is able to reach, when operating at full load and measured at an inlet air temperature of 35 \u00b0C for air-cooled high temperature process chillers and at an inlet water temperature of 30 \u00b0C for water-cooled high temperature process chillers, expressed in kW;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018rated refrigeration capacity\u2019 (P) means the refrigeration capacity that the high temperature process chiller is able to reach, when operating at full load and measured at an inlet air temperature of 35 \u00b0C for air-cooled high temperature process chillers and at an inlet water temperature of 30 \u00b0C for water-cooled high temperature process chillers, expressed in kW;",
+      "that is capable of delivering its rated refrigeration capacity, at an indoor side heat exchanger outlet temperature of 7 \u00b0C, at standard rating conditions;",
+      "that is capable of delivering itsrated refrigeration capacity, at an indoor side heat exchanger outlet temperature of 7 \u00b0C, atstandard rating conditions;",
+      "\u2018rated refrigeration capacity\u2019 (P) means the refrigeration capacity that thehigh temperature process chilleris able to reach, when operating at full load and measured at an inlet air temperature of 35 \u00b0C forair-cooled high temperature process chillers and at an inlet water temperature of 30 \u00b0C forwater-cooled high temperature process chillers, expressed in kW;"
+    ],
+    "Article 9": [
+      "\u2018refrigeration load\u2019 means the rated refrigeration capacity multiplied by the part load ratio of high temperature process chillers, expressed in kW to two decimal places;",
+      "if, for high temperature process chiller products, the average of the three units for the SEPR value is not less than the declared value minus 10 % at the rated refrigeration capacity of the unit and the average of the three units for the rated energy efficiency ratio EERA\n is not more than 5 % lower than the declared value, measured at the rated refrigeration capacity.",
+      "Rated refrigeration capacity",
+      "\u2018refrigeration load\u2019 means therated refrigeration capacitymultiplied by the part load ratio ofhigh temperature process chillers, expressed in kW to two decimal places;",
+      "\u2018rated power input\u2019 (DA\n) means the electrical power input which is needed by thehigh temperature process chiller(including the compressor, the condenser fan(s) or pumps(s), the evaporator pump(s) and possible auxiliaries) to reach therated refrigeration capacity, expressed in kW to two decimal places;",
+      "\u2018declared refrigeration demand means the refrigeration load at specified bin conditions, and calculated as the rated refrigeration capacity multiplied by the corresponding part load ratio of high temperature process chillers;",
+      "\u2018rated power input\u2019 (DA\n) means the electrical power input which is needed by the high temperature process chiller (including the compressor, the condenser fan(s) or pumps(s), the evaporator pump(s) and possible auxiliaries) to reach the rated refrigeration capacity, expressed in kW to two decimal places;",
+      "\u2018declared refrigeration demand means the refrigeration load at specified bin conditions, and calculated as therated refrigeration capacitymultiplied by the corresponding part load ratio ofhigh temperature process chillers;",
+      "if, forhigh temperature process chillerproducts, the SEPR value is not less than the declared value minus 10 % at therated refrigeration capacity of the unit and the rated energy efficiency ratio EERA\n is not more than 5 % lower than the declared value, measured at the rated refrigeration capacity.",
+      "\u2018rated energy efficiency ratio\u2019 (EERA\n) means the rated refrigeration capacity, expressed in kW divided by the rated power input, expressed in kW, expressed to two decimal places;",
+      "if, forhigh temperature process chillerproducts, the average of the three units for the SEPR value is not less than the declared value minus 10 % at therated refrigeration capacity of the unit and the average of the three units for the rated energy efficiency ratio EERA\n is not more than 5 % lower than the declared value, measured at the rated refrigeration capacity.",
+      "if, for high temperature process chiller products, the SEPR value is not less than the declared value minus 10 % at the rated refrigeration capacity of the unit and the rated energy efficiency ratio EERA\n is not more than 5 % lower than the declared value, measured at the rated refrigeration capacity."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 16,
+      "statement_scores": [
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        2
+      ]
+    }
+  }
+}

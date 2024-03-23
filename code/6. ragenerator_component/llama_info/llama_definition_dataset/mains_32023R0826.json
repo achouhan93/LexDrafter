@@ -1,0 +1,64 @@
+{
+  "term": "mains",
+  "celex_id": "32023R0826",
+  "original_definition": "'mains' means the electricity supply from the grid of 230 (\u00b1 10 %) volts of alternating current at 50 Hz;",
+  "generated_definition": "'mains' means a condition where equipment is connected to a power source and depends on energy input to work as intended, providing one or more functions that may persist indefinitely: dependent on energy input to work as intended; or not providing any function; or in a condition providing only.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018standby mode\u2019 means a condition where theequipmentis connected to themains power source, depends on energy input from the mains power source to work as intended and provides only one or more of the following functions, which may persist for an indefinite time:",
+      "\u2018off mode\u2019 means a condition in which theequipmentis connected to themains power source and is not providing any function, or it is in a condition providing only:",
+      "it is dependent on energy input from the mains power source in order to work as intended;",
+      "\u2018mains\u2019 means the electricity supply from the grid of 230 (\u00b1 10 %) volts of alternating current at 50 Hz;",
+      "\u2018standby mode\u2019 means a condition where the equipment is connected to the mains power source, depends on energy input from the mains power source to work as intended and provides only one or more of the following functions, which may persist for an indefinite time:",
+      "\u2018off mode\u2019 means a condition in which the equipment is connected to the mains power source and is not providing any function, or it is in a condition providing only:",
+      "\u2018active mode\u2019 means a condition in which the equipment is connected to the mains power source and at least one of the main functions has been activated;",
+      "\u2018active mode\u2019 means a condition in which theequipmentis connected to themainspower source and at least one of themain functions has been activated;"
+    ],
+    "Article\u00a010": [
+      "another condition which does not exceed the applicable power consumption requirements for off mode or standby mode when the equipment is connected to the mains power source.",
+      "\u2018Motor-operated building element\u2019 means opening or comfort equipment in buildings, excluding ventilation equipment, that can move or rotate, or both, by using input from the mains power source. The motor-operated building element incorporates an electric motor or an actuator and a control unit, and is operated by the end-user through cabled and/or wireless control(s), via a network, or controlled automatically with the use of sensors;",
+      "\u2018Games console\u2019 means equipment which is designed to provide video game playing as its principal function. A games console is typically designed to provide output to an external electronic display as the main game-play display and typically utilises handheld controllers or other interactive controllers as the primary input device. Games consoles typically include central processing unit(s), graphics processing unit(s), system memory, and internal data storage options. Handheld gaming devices, with an integrated display as the main game-play display, and which primarily operate on an integrated battery or other portable power source rather than via a direct connection to the mains, are considered to be a type of games console;",
+      "\u2018Games console\u2019 meansequipmentwhich is designed to provide video game playing as its principal function. A games console is typically designed to provide output to an external electronic display as the main game-play display and typically utilises handheld controllers or other interactive controllers as the primary input device. Games consoles typically include central processing unit(s), graphics processing unit(s), system memory, and internal data storage options. Handheld gaming devices, with an integrated display as the main game-play display, and which primarily operate on an integrated battery or other portable power source rather than via a direct connection to themains, are considered to be a type of games console;",
+      "\u2018Motor-operated building element\u2019 means opening or comfortequipmentin buildings, excluding ventilation equipment, that can move or rotate, or both, by using input from themainspower source. The motor-operated building element incorporates an electric motor or an actuator and a control unit, and is operated by the end-user through cabled and/or wireless control(s), via anetwork, or controlled automatically with the use of sensors;",
+      "another condition which does not exceed the applicable power consumption requirements foroff modeorstandby modewhen theequipmentis connected to themains power source."
+    ],
+    "Not Article": [
+      "Portable battery-operated products with a recharging circuit that have to be plugged in to recharge should be covered by this regulation, because they depend on energy input from the mains."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        0,
+        2,
+        1,
+        1,
+        0
+      ]
+    },
+    "Article\u00a010": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    "Not Article": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "term": "nomination",
+  "celex_id": "32014R1348",
+  "original_definition": "'nomination' means,for electricity: the notification of the use of cross zonal capacity by a physical transmission rights holder and its counterparty to the respective transmission system operator(s)(TSOs),for natural gas: the prior reporting by the network user to the TSO of the actual flow that the network user wishes to inject into or withdraw from the system;",
+  "generated_definition": "'nomination' means the quantity allocated in the primary auction or assigned to the nomination party for secondary rights.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018nomination\u2019 means,"
+    ],
+    "Article 8": [
+      "3.   Electricity TSOs or third parties on their behalf shall report to the Agency and, at their request, to national regulatory authorities in accordance with Article 8(5) of Regulation (EU) No 1227/2011 final nominations between bidding zones specifying the identity of market participants involved and the quantity scheduled. The information shall be made available no later than the following working day.",
+      "3.   Electricity TSOs or third parties on their behalf shall report to the Agency and, at their request, to national regulatory authorities in accordance with Article 8(5) of Regulation (EU) No 1227/2011 finalnominations between bidding zones specifying the identity of market participants involved and the quantity scheduled. The information shall be made available no later than the following working day."
+    ],
+    "Article 9": [
+      "2.   Gas TSOs or third parties on their behalf shall report to the Agency and, at their request, to national regulatory authorities in accordance with Article 8(5) of Regulation (EU) No 1227/2011 day-aheadnominations and final re-nominations of booked capacities specifying the identity of the market participants involved and the allocated quantities. The information shall be made available no later than the following working day.",
+      "2.   Gas TSOs or third parties on their behalf shall report to the Agency and, at their request, to national regulatory authorities in accordance with Article 8(5) of Regulation (EU) No 1227/2011 day-ahead nominations and final re-nominations of booked capacities specifying the identity of the market participants involved and the allocated quantities. The information shall be made available no later than the following working day."
+    ],
+    "Article 12": [
+      "The quantity that has been allocated in the primary auction. The quantity that has been assigned to the nomination party for secondary rights.",
+      "The quantity that has been allocated in the primary auction. The quantity that has been assigned to thenomination party for secondary rights."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 12": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    }
+  }
+}

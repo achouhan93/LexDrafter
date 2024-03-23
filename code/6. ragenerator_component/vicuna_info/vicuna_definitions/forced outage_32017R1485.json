@@ -1,0 +1,106 @@
+{
+  "term": "forced outage",
+  "celex_id": "32017R1485",
+  "original_definition": "'forced outage' means the unplanned removal from service of a relevant asset for any urgent reason that is not under the operational control of the operator of the concerned relevant asset;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018forced outage\u2019 means the unplanned removal from service of arelevant asset for any urgent reason that is not under the operational control of the operator of the concerned relevant asset;",
+      "\u2018forced outage\u2019 means the unplanned removal from service of a relevant asset for any urgent reason that is not under the operational control of the operator of the concerned relevant asset;"
+    ],
+    "Article 102": [
+      "the expected duration of the forced outage; and",
+      "5.   When notifying the forced outage, the outage planning agent shall provide the following information:",
+      "where applicable, the impact of theforced outageon theavailability statusof otherrelevant assets for which it is theoutage planning agent.",
+      "1.   Each TSO shall develop a procedure to address the case where aforced outagewould endanger itsoperational security. The procedure shall allow the TSO to ensure that the \u2018available\u2019 or \u2018unavailable\u2019 status of otherrelevant assets in its control area can be changed to \u2018unavailable\u2019 or \u2018available\u2019 respectively.",
+      "6.   When the TSO detects that one or severalforced outages referred to in paragraph 1 could lead the transmission system out of thenormal state, it shall inform the affectedoutage planning agent(s) about the deadline at whichoperational securitycan no longer be maintained unless theirrelevant asset(s) in forced outage returns to \u2018available\u2019 status. The outage planning agents shall inform the TSO whether they are capable of respecting that deadline and shall provide reasoned justifications where they are unable to respect that deadline.",
+      "5.   When notifying theforced outage, theoutage planning agent shall provide the following information:",
+      "2.   The TSO shall follow the procedure referred to in paragraph 1 only where no agreement is reached with outage planning agents regarding solutions to forced outages. The TSO shall notify the regulatory authority accordingly.",
+      "where applicable, the impact of the forced outage on the availability status of other relevant assets for which it is the outage planning agent.",
+      "Procedure for handling forced outages",
+      "6.   When the TSO detects that one or several forced outages referred to in paragraph 1 could lead the transmission system out of the normal state, it shall inform the affected outage planning agent(s) about the deadline at which operational security can no longer be maintained unless their relevant asset(s) in forced outage returns to \u2018available\u2019 status. The outage planning agents shall inform the TSO whether they are capable of respecting that deadline and shall provide reasoned justifications where they are unable to respect that deadline.",
+      "4.   Anoutage planning agentshall notify theforced outageof one or more of itsrelevant assets to the TSO and, if connected to a distribution system or to a closed distribution system, the DSO or the CDSO respectively, as soon as possible following the start of the forced outage.",
+      "7.   Following any amendments to theavailability plandue toforced outages and in accordance with the time-frame established in Articles 7, 10 and 15 of Regulation (EU) No 543/2013, the concerned TSO shall update theENTSO for Electricity operational planning data environment with the most recent information.",
+      "1.   Each TSO shall develop a procedure to address the case where a forced outage would endanger its operational security. The procedure shall allow the TSO to ensure that the \u2018available\u2019 or \u2018unavailable\u2019 status of other relevant assets in its control area can be changed to \u2018unavailable\u2019 or \u2018available\u2019 respectively.",
+      "the reason for the forced outage;",
+      "7.   Following any amendments to the availability plan due to forced outages and in accordance with the time-frame established in Articles 7, 10 and 15 of Regulation (EU) No 543/2013, the concerned TSO shall update the ENTSO for Electricity operational planning data environment with the most recent information.",
+      "4.   An outage planning agent shall notify the forced outage of one or more of its relevant assets to the TSO and, if connected to a distribution system or to a closed distribution system, the DSO or the CDSO respectively, as soon as possible following the start of the forced outage.",
+      "2.   The TSO shall follow the procedure referred to in paragraph 1 only where no agreement is reached withoutage planning agents regarding solutions toforced outages. The TSO shall notify the regulatory authority accordingly."
+    ],
+    "Article 103": [
+      "1.   Each power generating facility owner shall ensure that all relevant power generating modules it owns and which are declared \u2018available\u2019 are ready to produce electricity pursuant to their declared technical capabilities when necessary to maintain operational security, except in case of forced outages.",
+      "4.   Eachrelevant grid elementowner shall ensure that all relevant grid elements it owns and which are declared \u2018available\u2019 are ready to transport electricity pursuant to their declared technical capabilities when necessary to maintainoperational security, except in case offorced outages.",
+      "1.   Each power generating facility owner shall ensure that allrelevant power generating modules it owns and which are declared \u2018available\u2019 are ready to produce electricity pursuant to their declared technical capabilities when necessary to maintainoperational security, except in case offorced outages.",
+      "4.   Each relevant grid element owner shall ensure that all relevant grid elements it owns and which are declared \u2018available\u2019 are ready to transport electricity pursuant to their declared technical capabilities when necessary to maintain operational security, except in case of forced outages."
+    ],
+    "Article 156": [
+      "4.   AnFCRprovider shall guarantee the continuous availability of FCR, with the exception of aforced outage of a FCR providing unit, during the period of time in which it is obliged to provide FCR.",
+      "4.   An FCR provider shall guarantee the continuous availability of FCR, with the exception of a forced outage of a FCR providing unit, during the period of time in which it is obliged to provide FCR.",
+      "replacing theFCRwhich is made unavailable due to aforced outageor the unavailability of an FCR providing unit or FCR providing group as soon as technically possible and in accordance with the conditions that shall be defined by thereserve connecting TSO.",
+      "replacing the FCR which is made unavailable due to a forced outage or the unavailability of an FCR providing unit or FCR providing group as soon as technically possible and in accordance with the conditions that shall be defined by the reserve connecting TSO."
+    ],
+    "Article 161": [
+      "inform itsreserve instructing TSOabout a reduction of the actual availability or aforced outageof itsRR providing unit or its RR providing group or a part of its RR providing group as soon as possible.",
+      "inform its reserve instructing TSO about a reduction of the actual availability or a forced outage of its RR providing unit or its RR providing group or a part of its RR providing group as soon as possible."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 102": {
+      "article_score": 21,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1
+      ]
+    },
+    "Article 103": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 156": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 161": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

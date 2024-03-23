@@ -1,0 +1,93 @@
+{
+  "term": "refrigerated vending machine",
+  "celex_id": "32019R2024",
+  "original_definition": "'refrigerated vending machine' means a refrigerating appliance with a direct sales function designed to accept consumer payments or tokens to dispense chilled foodstuffs or other items without on-site labour intervention;",
+  "generated_definition": "'refrigerated vending machine' means a refrigerating appliance with a direct sales function, including at least two compartments with different operating temperatures, used for dispensing products, such as food, drinks, and snacks, through a vending process.",
+  "existing_sentences": {
+    "Article 1": [
+      "refrigerating appliances with a direct sales function that have no integrated system for producing cooling, and function by ducting chilled air that is produced by an external air chiller unit; this does not includeremote cabinets nor does it include category 6refrigerated vending machines, as defined in Table 5 of Annex III;",
+      "refrigerating appliances with a direct sales function that have no integrated system for producing cooling, and function by ducting chilled air that is produced by an external air chiller unit; this does not include remote cabinets nor does it include category 6 refrigerated vending machines, as defined in Table 5 of Annex III;"
+    ],
+    "Article 2": [
+      "\u2018food processing refrigerating appliance with a direct sales function\u2019 means a refrigerating appliance with a direct sales function specifically tested and approved for carrying out food processing such as ice-cream makers, microwave-equipped refrigerated vending machines or ice makers; this does not include refrigerating appliances with a direct sales function equipped with one compartment specifically designed for carrying out food processing which is equivalent to less than 20 % of the appliance total net volume;",
+      "\u2018refrigerated vending machine\u2019 means arefrigerating appliance with a direct sales functiondesigned to accept consumer payments or tokens to dispense chilledfoodstuffs or other items without on-site labour intervention;",
+      "\u2018refrigerated drum vending machine\u2019 means arefrigerated vending machinewith rotating drums each divided in partitions, in which thefoodstuffs and other items are placed on a horizontal surface, and are retrieved through individual delivery doors;",
+      "\u2018refrigerated vending machine\u2019 means a refrigerating appliance with a direct sales function designed to accept consumer payments or tokens to dispense chilled foodstuffs or other items without on-site labour intervention;",
+      "\u2018refrigerated drum vending machine\u2019 means a refrigerated vending machine with rotating drums each divided in partitions, in which the foodstuffs and other items are placed on a horizontal surface, and are retrieved through individual delivery doors;",
+      "\u2018food processing refrigerating appliance with a direct sales function\u2019 means a refrigerating appliance with a direct sales functionspecifically tested and approvedfor carrying out food processing such as ice-cream makers, microwave-equippedrefrigerated vending machines or ice makers; this does not include refrigerating appliances with a direct sales function equipped with onecompartmentspecifically designed for carrying out food processing which is equivalent to less than 20 % of the appliance totalnet volume;"
+    ],
+    "Article 9": [
+      "For refrigerating appliances with a direct sales function with more than one compartment having different temperature classes, with the exception of refrigerated vending machines, the SAE is calculated as follows:",
+      "\u2018multi-temperature vending machine\u2019 means arefrigerated vending machineincluding at least twocompartments with differentoperating temperatures.",
+      "\u2018supermarket cabinet\u2019 means a refrigerating appliance with a direct sales function intended for the sale and display of foodstuffs and other items in retail applications, such as in supermarkets. Beverage coolers, refrigerated vending machines, gelato-scooping cabinets and ice-cream freezers are not considered supermarket cabinets;",
+      "\u2018supermarket cabinet\u2019 means arefrigerating appliance with a direct sales functionintended for the sale and display offoodstuffsand other items in retail applications, such as in supermarkets.Beverage coolers,refrigerated vending machines, gelato-scooping cabinets and ice-cream freezers are not considered supermarket cabinets;",
+      "Y is the net volume of the refrigerated vending machine, which is the sum of the volumes of all compartments within which the products directly available for vending are contained and the volume through which the products pass during the dispensing process, expressed in litres (L) and rounded to the nearest integer.",
+      "Spiral refrigerated vending machine",
+      "for refrigerated vending machines:",
+      "\u2018multi-temperature vending machine\u2019 means a refrigerated vending machine including at least two compartments with different operating temperatures.",
+      "Refrigerated vending machines",
+      "refrigerated vending machines withcompartments with variable volumes shall be tested with thenet volumeof the compartment with the highestoperating temperature adjusted to its minimum net volume;",
+      "The SAE is expressed in kWh/a and rounded to two decimal places. For refrigerating appliances with a direct sales function with allcompartments having the same temperature class and forrefrigerated vending machines, the SAE is calculated as follows:",
+      "Can and bottle refrigerated vending machine",
+      "refrigerated vending machines with compartments with variable volumes shall be tested with the net volume of the compartment with the highest operating temperature adjusted to its minimum net volume;",
+      "The SAE is expressed in kWh/a and rounded to two decimal places. For refrigerating appliances with a direct sales function with all compartments having the same temperature class and for refrigerated vending machines, the SAE is calculated as follows:",
+      "Y is thenet volumeof therefrigerated vending machine, which is the sum of the volumes of allcompartments within which the products directly available for vending are contained and the volume through which the products pass during the dispensing process, expressed in litres (L) and rounded to the nearest integer.",
+      "For refrigerating appliances with a direct sales function with more than onecompartmenthaving different temperature classes, with the exception ofrefrigerated vending machines, the SAE is calculated as follows:"
+    ],
+    "Not Article": [
+      "This Regulation should apply to the following refrigerating appliances with a direct sales function: supermarket refrigerating (freezer or refrigerator) cabinets,beverage coolers, ice-cream freezers, gelato-scooping cabinets andrefrigerated vending machines.",
+      "This Regulation should apply to the following refrigerating appliances with a direct sales function: supermarket refrigerating (freezer or refrigerator) cabinets, beverage coolers, ice-cream freezers, gelato-scooping cabinets and refrigerated vending machines."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 9": {
+      "article_score": 16,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

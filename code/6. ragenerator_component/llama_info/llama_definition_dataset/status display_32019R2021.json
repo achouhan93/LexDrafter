@@ -1,0 +1,42 @@
+{
+  "term": "status display",
+  "celex_id": "32019R2021",
+  "original_definition": "'status display' means a display used to show simple but changing information such as selected channel, time or power consumption. A simple light indicator is not considered a status display;",
+  "generated_definition": "'status display' means information or status display",
+  "existing_sentences": {
+    "Article 1": [
+      "status displays;"
+    ],
+    "Article 2": [
+      "\u2018status display\u2019 means a display used to show simple but changing information such as selected channel, time or power consumption. A simple light indicator is not considered a status display;"
+    ],
+    "Article 11": [
+      "Status display",
+      "information or status display;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 11": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

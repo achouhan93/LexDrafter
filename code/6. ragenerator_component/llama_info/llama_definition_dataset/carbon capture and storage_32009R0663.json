@@ -1,0 +1,95 @@
+{
+  "term": "carbon capture and storage",
+  "celex_id": "32009R0663",
+  "original_definition": "'carbon capture and storage' means the capture of carbon dioxide (CO2) from industrial installations, its transport to a storage site and its injection into a suitable underground geological formation for the purposes of permanent storage;",
+  "generated_definition": "'carbon capture and storage' means the process of capturing carbon dioxide (co2) emissions from power plants, industrial processes, and other sources, followed by transportation and storage in geological formations, such as depleted oil and gas fields, saline aquifers, and coal seams, for long-term storage and minimization of greenhouse gas emissions.",
+  "existing_sentences": {
+    "Article 1": [
+      "carbon capture and storage."
+    ],
+    "Article 2": [
+      "\u2018carbon capture and storage\u2019 means the capture of carbon dioxide (CO2) from industrial installations, its transport to a storage site and its injection into a suitable underground geological formation for the purposes of permanent storage;"
+    ],
+    "Article 3": [
+      "carbon capture and storage projects: EUR 1 050 000 000."
+    ],
+    "Article 16": [
+      "Carbon capture and storage projects"
+    ],
+    "Article 17": [
+      "1.   EEPR assistance for carbon capture and storage projects shall be awarded to actions that implement the projects listed in Part C of the Annex."
+    ],
+    "Article 26": [
+      "for carbon capture and storage projects, the committee established by Article 8 of Decision 2006/971/EC."
+    ],
+    "Article 29": [
+      "C.   Carbon capture and storage projects"
+    ],
+    "Not Article": [
+      "In order to have a tangible and substantial impact, those measures should be focussed on a few specific sectors in which action would make a clear contribution to the objectives of the security of energy supply and the reduction of greenhouse gas emissions; there exist large, mature projects capable of making efficient and effective use of significant amounts of financial assistance and of catalysing significant amounts of investment from other sources, including from the European Investment Bank; and action at European level would add value. The sectors of gas and electricity infrastructure, offshore wind energy and carbon capture and storage fulfil those criteria. The choice of those sectors reflects the particular circumstances of the Recovery Plan and should not call into question the high priority attached to energy efficiency and the promotion of energy from renewable sources, which were addressed in the Recovery Plan.",
+      "In the cases ofcarbon capture and storageandoffshore wind energy in particular, this Regulation should build on the Strategic Energy Technology Plan for Europe, presented by the Commission on 22 November 2007, which called for a joint and strategic plan for energy research and innovation efforts consistent with EU energy policy goals, and a commitment to the establishment of six European Industrial Initiatives. The European Council of 16 October 2008 called in its conclusions on the Commission to significantly accelerate the implementation of the Strategic Energy Technology Plan for Europe. The programme initiates the funding for carbon capture and storage and offshore wind projects without prejudice to the future creation of the six industrial initiatives on energy demonstration projects as outlined by the Strategic Energy Technology Plan for Europe.",
+      "In order to have a tangible and substantial impact, those measures should be focussed on a few specific sectors in which action would make a clear contribution to the objectives of the security of energy supply and the reduction of greenhouse gas emissions; there exist large, mature projects capable of making efficient and effective use of significant amounts of financial assistance and of catalysing significant amounts of investment from other sources, including from the European Investment Bank; and action at European level would add value. The sectors of gas and electricity infrastructure,offshore wind energyandcarbon capture and storage fulfil those criteria. The choice of those sectors reflects the particular circumstances of the Recovery Plan and should not call into question the high priority attached to energy efficiency and the promotion of energy from renewable sources, which were addressed in the Recovery Plan.",
+      "It will be necessary to select among eligible proposals. Such selection should guarantee, inter alia, that no more than one carbon capture and storage proposal is supported in each Member State, in order to ensure the investigation of a wide range of geological storage conditions and to support the objective of encouraging economic recovery across Europe.",
+      "In the cases of carbon capture and storage and offshore wind energy in particular, this Regulation should build on the Strategic Energy Technology Plan for Europe, presented by the Commission on 22 November 2007, which called for a joint and strategic plan for energy research and innovation efforts consistent with EU energy policy goals, and a commitment to the establishment of six European Industrial Initiatives. The European Council of 16 October 2008 called in its conclusions on the Commission to significantly accelerate the implementation of the Strategic Energy Technology Plan for Europe. The programme initiates the funding for carbon capture and storage and offshore wind projects without prejudice to the future creation of the six industrial initiatives on energy demonstration projects as outlined by the Strategic Energy Technology Plan for Europe.",
+      "In the case of carbon capture and storage, the list should be largely established on the basis of information gathered from stakeholders in the framework of the Fossil Fuel Forum, the Zero Emissions Fossil Fuel Power Plants Technology Platform and other sources. Financial assistance should be directed towards those projects that are in a position to progress substantially with project development in 2009 and 2010. Readiness should be assessed on the basis of the existence of a mature and feasible concept for the industrial installation, including its carbon capture component; the existence of a mature and feasible concept for the transport and storage of CO2; and a clear commitment on the part of local authorities to support the project. Projects should also demonstrate how the results of technological advances will be disseminated effectively and how they will accelerate the achievement of the objectives laid down in the Strategic Energy Technology Plan for Europe."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 3": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 16": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 17": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 26": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 29": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        2,
+        1,
+        1,
+        2,
+        1
+      ]
+    }
+  }
+}

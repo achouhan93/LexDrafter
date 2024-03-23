@@ -1,0 +1,73 @@
+{
+  "term": "sound power level",
+  "celex_id": "32013R0814",
+  "original_definition": "'sound power level' means the A-weighted sound power level, indoors and/or outdoors, expressed in dB;",
+  "generated_definition": "'sound power level' means the sound power level, measured in decibels (db), of a water heater or hot water storage tank, determined at the time of entry into force of the regulation, based on the best available technology on the market.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018standard rating conditions\u2019 means the operating conditions of water heaters for establishing the rated heat output, water heating energy efficiency, sound power level and nitrogen oxide emissions, and of hot water storage tanks for establishing the standing loss;",
+      "\u2018sound power level\u2019 (LWA\n) means the A-weighted sound power level, indoors and/or outdoors, expressed in dB;",
+      "\u2018standard rating conditions\u2019 means the operating conditions ofwater heaters for establishing therated heat output,water heating energy efficiency,sound power leveland nitrogen oxide emissions, and ofhot water storage tanks for establishing thestanding loss;"
+    ],
+    "Article 8": [
+      "1.   Until 26 September 2015 Member States may allow the placing on the market and/or putting into service of water heaters which are in conformity with the national provisions in force when this Regulation is adopted regarding water heating energy efficiency and sound power level.",
+      "1.   Until 26 September 2015 Member States may allow the placing on the market and/or putting into service ofwater heaters which are in conformity with the national provisions in force when this Regulation is adopted regardingwater heating energy efficiencyandsound power level."
+    ],
+    "Article 9": [
+      "1.4.   Requirements for sound power level",
+      "Sound power level LWA\n, indoors and/or outdoors",
+      "At the time of entry into force of this Regulation, the best available technology on the market forwater heaters andhot water storage tanks in terms ofwater heating energy efficiency,sound power level,standing loss and emissions of nitrogen oxides was identified as follows:",
+      "Sound power level (LWA\n), indoors",
+      "the sound power level LWA\n in dB, outdoors, rounded to the nearest integer.",
+      "At the time of entry into force of this Regulation, the best available technology on the market for water heaters and hot water storage tanks in terms of water heating energy efficiency, sound power level, standing loss and emissions of nitrogen oxides was identified as follows:",
+      "Sound power level (LWA\n), outdoors"
+    ],
+    "Not Article": [
+      "Ecodesign requirements should harmonise energy consumption,sound power leveland nitrogen oxides emission requirements forwater heaters, and requirements forstanding losses ofhot water storage tanks throughout the Union, thus helping to make the internal market operate better and to improve the environmental performance of these products.",
+      "The environmental aspects of water heaters that have been identified as significant for the purposes of this Regulation are energy consumption in the use phase and (for heat pump water heaters) sound power levels. In addition, for water heaters using fossil fuels, emissions of nitrogen oxides, carbon monoxide and hydrocarbons are also identified as significant environmental aspects. The significant environmental aspect of hot water storage tanks is energy consumption due to their standing losses.",
+      "The environmental aspects ofwater heaters that have been identified as significant for the purposes of this Regulation are energy consumption in the use phase and (forheat pump water heaters)sound power levels. In addition, for water heaters usingfossil fuels, emissions of nitrogen oxides, carbon monoxide and hydrocarbons are also identified as significant environmental aspects. The significant environmental aspect ofhot water storage tanks is energy consumption due to theirstanding losses.",
+      "Ecodesign requirements should harmonise energy consumption, sound power level and nitrogen oxides emission requirements for water heaters, and requirements for standing losses of hot water storage tanks throughout the Union, thus helping to make the internal market operate better and to improve the environmental performance of these products."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        1
+      ]
+    },
+    "Article 8": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 9": {
+      "article_score": 7,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

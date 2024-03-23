@@ -1,0 +1,55 @@
+{
+  "term": "woody biomass",
+  "celex_id": "32015R1185",
+  "original_definition": "'woody biomass' means biomass originating from trees, bushes and shrubs, including log wood, chipped wood, compressed wood in the form of pellets, compressed wood in the form of briquettes, and sawdust;",
+  "generated_definition": "'woody biomass' means fuel derived from wood, including all types of wood waste and residues, and other plant materials that can be used as a source of energy.",
+  "existing_sentences": {
+    "Article 1": [
+      "solid fuel local space heaters that are specified for the combustion of non-woody biomass only;"
+    ],
+    "Article 2": [
+      "\u2018non-woody biomass\u2019 means biomass other than woody biomass, including, inter alia, straw, miscanthus, reeds, kernels, grains, olive stones, olive cakes and nut shells;",
+      "\u2018woody biomass\u2019 means biomass originating from trees, bushes and shrubs, including log wood, chipped wood, compressed wood in the form of pellets, compressed wood in the form of briquettes, and sawdust;"
+    ],
+    "Article 9": [
+      "where thepreferred fuelor anyother suitable fuelis otherwoody biomass,non-woody biomass, other fossil fuel or other blend of biomass and fossil fuel as referred to in Table 1, a description of the fuel sufficient for its unambiguous identification and the technical standard or specification of the fuel, including the measured moisture content and the measured ash content, and for other fossil fuel also the measured volatile content of the fuel.",
+      "where the preferred fuel or any other suitable fuel is other woody biomass, non-woody biomass, other fossil fuel or other blend of biomass and fossil fuel as referred to in Table 1, a description of the fuel sufficient for its unambiguous identification and the technical standard or specification of the fuel, including the measured moisture content and the measured ash content, and for other fossil fuel also the measured volatile content of the fuel."
+    ],
+    "Not Article": [
+      "The scope of this Regulation should include solid fuel local space heaters designed to use solid fuels (biomass or fossil). Solid fuel local space heaters that have an indirect fluid heating functionality are also within the scope of this Regulation. Solid fuel local space heaters using non-woody biomass have specific technical characteristics and should therefore be exempted from this Regulation.",
+      "The scope of this Regulation should include solid fuel local space heaters designed to use solid fuels (biomassor fossil).Solid fuel local space heaters that have an indirect fluid heating functionality are also within the scope of this Regulation. Solid fuel local space heaters using non-woody biomass have specific technical characteristics and should therefore be exempted from this Regulation."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        2,
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

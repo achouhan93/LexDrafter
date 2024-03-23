@@ -1,0 +1,35 @@
+{
+  "term": "compartment volume",
+  "celex_id": "32019R2019",
+  "original_definition": "'compartment volume' means the volume of the space within the inside liner of the compartment, expressed in dm3 or litres;",
+  "generated_definition": "'compartment volume' means the volume of a frozen compartment, used to calculate the specific freezing capacity.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018total volume\u2019 (V) means the volume of the space within the inside liner of the refrigerating appliance, equal to the sum of the compartment volumes, expressed in dm3 or litres;",
+      "\u2018compartment volume\u2019 (Vc) means the volume of the space within the inside liner of the compartment, expressed in dm3 or litres;"
+    ],
+    "Article 10": [
+      "the specificfreezing capacityis calculated as 12 times the light load weight, divided by the freezing time to bring the temperature of the light load from +25 to -18 \u00b0C at an ambient temperature of 25 \u00b0C expressed in kg/12 h and rounded to one decimal place; the light load weight is 3,5 kg per 100 litre of thecompartment volumeof thefrozen compartments, and shall be at least 2,0 kg;",
+      "the specific freezing capacity is calculated as 12 times the light load weight, divided by the freezing time to bring the temperature of the light load from +25 to -18 \u00b0C at an ambient temperature of 25 \u00b0C expressed in kg/12 h and rounded to one decimal place; the light load weight is 3,5 kg per 100 litre of the compartment volume of the frozen compartments, and shall be at least 2,0 kg;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 10": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

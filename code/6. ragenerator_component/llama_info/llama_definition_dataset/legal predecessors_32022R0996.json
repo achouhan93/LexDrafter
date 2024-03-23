@@ -1,0 +1,35 @@
+{
+  "term": "legal predecessors",
+  "celex_id": "32022R0996",
+  "original_definition": "'legal predecessors' means an economic operator that has been legally replaced by a new one, but no substantive changes or only superficial ones have been made regarding its ownership, management composition, working methods or scope of activity;",
+  "generated_definition": "'legal predecessors' means previous business entities that are directly or indirectly linked to the current operator, and whose certificates were valid at the time of the operator's participation in the voluntary scheme.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018legal predecessors\u2019 means aneconomic operator that has been legally replaced by a new one, but no substantive changes or only superficial ones have been made regarding its ownership, management composition, working methods or scope of activity;",
+      "\u2018legal predecessors\u2019 means an economic operator that has been legally replaced by a new one, but no substantive changes or only superficial ones have been made regarding its ownership, management composition, working methods or scope of activity;"
+    ],
+    "Article\u00a04": [
+      "2.   Economic operators whose certificates are suspended, shall not be able to make sustainability claims until the suspension has been lifted. Suspended operators may not join another voluntary scheme during that period. Where the participation of an economic operator, or its legal predecessors, in a voluntary scheme is suspended or terminated by the withdrawal of its certificate following an audit which confirmed critical non-conformity, other voluntary schemes may refuse the participation of that operator for at least two years following the suspension or termination of participation.",
+      "2.Economic operators whosecertificates are suspended, shall not be able to make sustainability claims until the suspension has been lifted. Suspended operators may not join anothervoluntary schemeduring that period. Where the participation of an economic operator, or itslegal predecessors, in a voluntary scheme is suspended or terminated by the withdrawal of its certificate following an audit which confirmed criticalnon-conformity, other voluntary schemes may refuse the participation of that operator for at least two years following the suspension or termination of participation."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article\u00a04": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

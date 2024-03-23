@@ -1,0 +1,43 @@
+{
+  "term": "cooking area",
+  "celex_id": "32014R0066",
+  "original_definition": "'cooking area' means a part of an area of an electric hob heated by an inducted magnetic field, where cookware is placed for heating without visible marking for the cookware and where more than one item of cookware can be used simultaneously;",
+  "generated_definition": "'cooking area' means an area or zone within a kitchen appliance where food is cooked using various heating technologies, such as induction, radiant, or solid plates, and may include multiple cooking zones and/or areas.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018electric hob\u2019 means an appliance or part of an appliance which incorporates one or more cooking zones and/or cooking areas including a control unit and which is heated by electricity;",
+      "\u2018cooking area\u2019 means a part of an area of an electric hob heated by an inducted magnetic field, where cookware is placed for heating without visible marking for the cookware and where more than one item of cookware can be used simultaneously;"
+    ],
+    "Article 8": [
+      "Heating technology (induction cooking zones and cooking areas, radiant cooking zones, solid plates) per electric cooking zone and/or area",
+      "Domestic mixed electric andgas hobs are treated in the measurements as two separate appliances. Electriccooking zones andcooking areas of the domesticmixed hobs shall follow the provisions of the previous Section 2.1 and cooking zones heated by gas burners shall follow the provisions of the previous Section 2.2.",
+      "Domestic mixed electric and gas hobs are treated in the measurements as two separate appliances. Electric cooking zones and cooking areas of the domestic mixed hobs shall follow the provisions of the previous Section 2.1 and cooking zones heated by gas burners shall follow the provisions of the previous Section 2.2.",
+      "Heating technology (inductioncooking zones andcooking areas, radiant cooking zones, solid plates) per electric cooking zone and/or area",
+      "Heating technology (inductioncooking zones andcooking areas, radiant cooking zones, solid plates)",
+      "Heating technology (induction cooking zones and cooking areas, radiant cooking zones, solid plates)"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

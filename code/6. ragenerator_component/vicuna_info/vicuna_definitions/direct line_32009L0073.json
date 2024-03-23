@@ -1,0 +1,47 @@
+{
+  "term": "direct line",
+  "celex_id": "32009L0073",
+  "original_definition": "'direct line' means a natural gas pipeline complementary to the interconnected system;",
+  "generated_definition": "'direct line' means a direct line is a natural gas supply line established by a natural gas undertaking within a member state's territory, authorized by the member state or its designated authority, and subject to objective, transparent, and non-discriminatory criteria for granting authorization.",
+  "existing_sentences": {
+    "Article\u00a08": [
+      "The regulatory authorities where Member States have so provided or Member States shall ensure that technical safety criteria are defined and that technical rules establishing the minimum technical design and operational requirements for the connection to thesystemof LNG facilities, storage facilities, othertransmissionordistributionsystems, anddirect lines, are developed and made public. Those technical rules shall ensure the interoperability of systems and shall be objective and non-discriminatory. The Agency may make appropriate recommendations towards achieving compatibility of those rules, where appropriate. Those rules shall be notified to the Commission in accordance with Article 8 of Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society services (16).",
+      "The regulatory authorities where Member States have so provided or Member States shall ensure that technical safety criteria are defined and that technical rules establishing the minimum technical design and operational requirements for the connection to the system of LNG facilities, storage facilities, other transmission or distribution systems, and direct lines, are developed and made public. Those technical rules shall ensure the interoperability of systems and shall be objective and non-discriminatory. The Agency may make appropriate recommendations towards achieving compatibility of those rules, where appropriate. Those rules shall be notified to the Commission in accordance with Article 8 of Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society services (16)."
+    ],
+    "Article\u00a038": [
+      "3.   Member States may issue an authorisation to construct a direct line subject either to the refusal of system access on the basis of Article 35 or to the opening of a dispute-settlement procedure under Article 41.",
+      "any sucheligible customerwithin their territory to be supplied through adirect linebynatural gas undertakings.",
+      "Direct lines",
+      "natural gas undertakings established within their territory to supply the eligible customers through a direct line; and",
+      "any such eligible customer within their territory to be supplied through a direct line by natural gas undertakings.",
+      "3.   Member States may issue an authorisation to construct adirect linesubject either to the refusal ofsystem access on the basis of Article 35 or to the opening of a dispute-settlement procedure under Article 41.",
+      "2.   In circumstances where an authorisation (for example, licence, permission, concession, consent or approval) is required for the construction or operation of direct lines, the Member States or any competent authority they designate shall lay down the criteria for the grant of authorisations for the construction or operation of such lines in their territory. Those criteria shall be objective, transparent and non-discriminatory.",
+      "natural gas undertakings established within their territory tosupplytheeligible customers through adirect line; and"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a08": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article\u00a038": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "term": "solid fuel cogeneration boiler",
+  "celex_id": "32015R1189",
+  "original_definition": "'solid fuel cogeneration boiler' means a solid fuel boiler capable of simultaneously generating heat and electricity;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018solid fuel cogeneration boiler\u2019 means asolid fuel boiler capable of simultaneously generating heat and electricity;",
+      "\u2018solid fuel cogeneration boiler\u2019 means a solid fuel boiler capable of simultaneously generating heat and electricity;"
+    ],
+    "Article 9": [
+      "for solid fuel cogeneration boilers, the useful efficiency at rated heat output, expressed in %;",
+      "Forseasonal space heating energy efficiency: 96 % forsolid fuel cogeneration boilers, 90 % for condensing boilers and 84 % for othersolid fuel boilers.",
+      "For seasonal space heating energy efficiency: 96 % for solid fuel cogeneration boilers, 90 % for condensing boilers and 84 % for other solid fuel boilers.",
+      "for solid fuel cogeneration boilers, the emissions at rated heat output, expressed in mg/m3.",
+      "Solid fuel cogeneration boiler: [yes/no]",
+      "for manually stokedsolid fuel boilers that cannot be operated at 50 % or less of therated heat outputin continuous mode, and forsolid fuel cogeneration boilers:",
+      "for manually stoked solid fuel boilers that cannot be operated at 50 % or less of the rated heat output in continuous mode, and for solid fuel cogeneration boilers:"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 7,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

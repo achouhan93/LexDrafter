@@ -1,0 +1,77 @@
+{
+  "term": "beverage cooler",
+  "celex_id": "32019R2024",
+  "original_definition": "'beverage cooler' means a refrigerating appliance with a direct sales function designed to cool, at a specified speed, packaged non-perishable beverages, excluding wine, loaded at ambient temperature, for sale at specified temperatures below the ambient temperature. A beverage cooler allows accessing the beverages directly through open sides or through one or more doors, drawers or both. The temperature inside the cooler may increase during periods of no demand, for the purpose of energy saving, in view of the non-perishable nature of beverages;",
+  "generated_definition": "'beverage cooler' means a refrigerating appliance intended to operate in climates with maximum temperatures and humidities specified in table 7, designed to keep beverages at the target temperature of the compartments, with a specified cooling speed according to the half reload recovery time.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018beverage cooler\u2019 means a refrigerating appliance with a direct sales function designed to cool, at a specified speed, packaged non-perishable beverages, excluding wine, loaded at ambient temperature, for sale at specified temperatures below the ambient temperature. A beverage cooler allows accessing the beverages directly through open sides or through one or more doors, drawers or both. The temperature inside the cooler may increase during periods of no demand, for the purpose of energy saving, in view of the non-perishable nature of beverages;",
+      "\u2018beverage cooler\u2019 means arefrigerating appliance with a direct sales function designed to cool, at a specified speed, packaged non-perishable beverages, excluding wine, loaded at ambient temperature, for sale at specified temperatures below the ambient temperature. A beverage cooler allows accessing the beverages directly through open sides or through one or more doors, drawers or both. The temperature inside the cooler may increase during periods of no demand, for the purpose of energy saving, in view of the non-perishable nature of beverages;"
+    ],
+    "Article 8": [
+      "the appropriateness to base the [equivalent volume] of a beverage cooler on the net volume instead of the gross volume;",
+      "the appropriateness to base the [equivalent volume] of abeverage cooleron thenet volumeinstead of thegross volume;"
+    ],
+    "Article 9": [
+      "Operating conditions and corresponding CC values for beverage coolers",
+      "for beverage coolers: \u2018This appliance is intended to operate in climates where the maximum temperature and the humidity are [fill in the applicable warmest temperature of the beverage cooler and the applicable relative humidity of the beverage cooler of Table 7] respectively.\u2019;",
+      "Temperature classes and corresponding averagecompartmenttemperatures (Tc) forbeverage coolers",
+      "Temperature classes and corresponding average compartment temperatures (Tc) for beverage coolers",
+      "\u2018supermarket cabinet\u2019 means a refrigerating appliance with a direct sales function intended for the sale and display of foodstuffs and other items in retail applications, such as in supermarkets. Beverage coolers, refrigerated vending machines, gelato-scooping cabinets and ice-cream freezers are not considered supermarket cabinets;",
+      "\u2018supermarket cabinet\u2019 means arefrigerating appliance with a direct sales functionintended for the sale and display offoodstuffsand other items in retail applications, such as in supermarkets.Beverage coolers,refrigerated vending machines, gelato-scooping cabinets and ice-cream freezers are not considered supermarket cabinets;",
+      "Yc is the equivalent volume of the compartments of the beverage cooler with target temperature Tc, (Veqc\n), calculated as follows:",
+      "Beverage coolers",
+      "for beverage coolers:",
+      "Yc is the equivalent volume of thecompartments of thebeverage cooler with target temperature Tc, (Veqc\n), calculated as follows:",
+      "Beverage cooler",
+      "for beverage coolers, the specified cooling speed shall be according to the half reload recovery time."
+    ],
+    "Not Article": [
+      "This Regulation should apply to the following refrigerating appliances with a direct sales function: supermarket refrigerating (freezer or refrigerator) cabinets,beverage coolers, ice-cream freezers, gelato-scooping cabinets andrefrigerated vending machines.",
+      "This Regulation should apply to the following refrigerating appliances with a direct sales function: supermarket refrigerating (freezer or refrigerator) cabinets, beverage coolers, ice-cream freezers, gelato-scooping cabinets and refrigerated vending machines."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 9": {
+      "article_score": 14,
+      "statement_scores": [
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

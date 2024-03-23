@@ -1,0 +1,24 @@
+{
+  "term": "statistical transfer volume",
+  "celex_id": "32021R2003",
+  "original_definition": "'statistical transfer volume' means the transferred volume of renewable energy to be deducted from the selling Member State\u2019s statistical accounts and added to those of the buying Member State pursuant to Article 8(1) of Directive (EU) 2018/2001.",
+  "generated_definition": "'statistical transfer volume' means the quantity of energy from renewable sources subject to the statistical transfer shall be rounded to 3 decimal points.",
+  "existing_sentences": {
+    "Article\u00a05": [
+      "2.   Statistical transfer volumes shall be provided in \u2018ktoe\u2019 (thousand tonnes of oil equivalent), \u2018GWh\u2019 (Gigawatt-hour), \u2018TJ\u2019 (Terajoules) or other equivalent energy unit. When a conversion takes place from mass or volume, the corresponding calorific value shall also be included. The quantity of energy from renewable sources subject to the statistical transfer shall be rounded to 3 decimal points.",
+      "2.Statistical transfer volumes shall be provided in \u2018ktoe\u2019 (thousand tonnes of oil equivalent), \u2018GWh\u2019 (Gigawatt-hour), \u2018TJ\u2019 (Terajoules) or other equivalent energy unit. When a conversion takes place from mass or volume, the corresponding calorific value shall also be included. The quantity ofenergy from renewable sources subject to the statistical transfer shall be rounded to 3 decimal points."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a05": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "term": "projections with additional measures",
+  "celex_id": "32018R1999",
+  "original_definition": "'projections with additional measures' means projections of anthropogenic greenhouse gas emissions by sources and removals by sinks or developments of the energy system that encompass the effects, in terms of greenhouse gas emission reductions, of policies and measures which have been adopted and implemented to mitigate climate change or meet energy objectives, as well as policies and measures which are planned for that purpose;",
+  "generated_definition": "'projections with additional measures' means projections with additional measures refer to the inclusion of further data or analysis beyond the standard projections, providing a more comprehensive view of the subject matter.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018projections with additional measures\u2019 means projections of anthropogenic greenhouse gas emissions by sources and removals by sinks or developments of the energy system that encompass the effects, in terms of greenhouse gas emission reductions, of policies and measures which have been adopted and implemented to mitigate climate change or meet energy objectives, as well as policies and measures which are planned for that purpose;",
+      "\u2018projections with additional measures\u2019 means projections of anthropogenic greenhouse gas emissions by sources and removals by sinks or developments of the energy system that encompass the effects, in terms of greenhouse gas emission reductions, ofpolicies and measures which have been adopted and implemented to mitigate climate change or meet energy objectives, as well as policies and measures which are planned for that purpose;"
+    ],
+    "Article 59": [
+      "projections without measureswhere available,projections with measures, and, where available,projections with additional measures;",
+      "projections without measures where available, projections with measures, and, where available, projections with additional measures;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 59": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

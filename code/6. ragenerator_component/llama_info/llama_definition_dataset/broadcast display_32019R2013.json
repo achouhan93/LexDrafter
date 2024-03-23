@@ -1,0 +1,44 @@
+{
+  "term": "broadcast display",
+  "celex_id": "32019R2013",
+  "original_definition": "'broadcast display' means an electronic display designed and marketed for professional use by broadcasters and video production houses for video content creation. Its specifications shall include all of the following features:colour calibration function;input signal analysis function for input signal monitoring and error detection, such as wave-form monitor/vector scope, RGB cut off, facility to check the video signal status at actual pixel resolution, interlace mode and screen marker;Serial Digital Interface (SDI) or Video over internet Protocol (VoIP) integrated with the product;not intended for use in public areas;",
+  "generated_definition": "'broadcast display' means the measured value of the time before the electronic display automatically reaches standby, or off-mode, or another condition which does not exceed the applicable power consumption requirements for off mode and/or standby mode when no input is detected.",
+  "existing_sentences": {
+    "Article 1": [
+      "broadcast displays;"
+    ],
+    "Article 2": [
+      "\u2018broadcast display\u2019 means an electronic display designed and marketed for professional use by broadcasters and video production houses for video content creation. Its specifications shall include all of the following features:",
+      "\u2018broadcast display\u2019 means anelectronic display designed and marketed for professional use by broadcasters and video production houses for video content creation. Its specifications shall include all of the following features:"
+    ],
+    "Article 11": [
+      "Otherelectronic displays thantelevisions andbroadcast displays: The measured value of the time before the electronic display automatically reaches standby, or off-mode, or another condition which does not exceed the applicable power consumption requirements for off mode and/or standby mode when no input is detected;",
+      "Other electronic displays than televisions and broadcast displays: The measured value of the time before the electronic display automatically reaches standby, or off-mode, or another condition which does not exceed the applicable power consumption requirements for off mode and/or standby mode when no input is detected;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 11": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

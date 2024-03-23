@@ -1,0 +1,57 @@
+{
+  "term": "conditioned waste",
+  "celex_id": "32005R0302",
+  "original_definition": "'conditioned waste' means waste, measured or estimated on the basis of measurements, which has been conditioned in such a way (for example, in glass, cement, concrete or bitumen) that it is not suitable for further nuclear use;",
+  "generated_definition": "'conditioned waste' means waste that has been treated or processed to change its physical, chemical or biological properties, prior to or after transfer, and includes any waste that has been mixed with other waste.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018conditioned waste\u2019 means waste, measured or estimated on the basis of measurements, which has been conditioned in such a way (for example, in glass, cement, concrete or bitumen) that it is not suitable for further nuclear use;"
+    ],
+    "Article 30": [
+      "By way of derogation from Articles 7 to 11, Article 13 and Article 17(1) for material that has been previously declared asretained wasteand Articles 7 to 13 and Article 17(1) for material that has previously been declared asconditioned waste, these records shall include:",
+      "By way of derogation from Articles 7 to 11, Article 13 and Article 17(1) for material that has been previously declared as retained waste and Articles 7 to 13 and Article 17(1) for material that has previously been declared as conditioned waste, these records shall include:"
+    ],
+    "Article 40": [
+      "Conditioned waste",
+      "NB: All transfers ofconditioned waste should be grouped by type of waste (prior to conditioning and after conditioning) and by previous location",
+      "NB: All transfers of conditioned waste should be grouped by type of waste (prior to conditioning and after conditioning) and by previous location"
+    ],
+    "Not Article": [
+      "In response to Additional Protocol 1999/188/Euratom, Member States should be required to communicate certain information to the Commission including a general description of sites, advance notification of the processing of waste and reports on changes of location of certain conditioned waste.",
+      "In response to Additional Protocol 1999/188/Euratom, Member States should be required to communicate certain information to the Commission including a general description ofsites, advance notification of the processing ofwasteand reports on changes of location of certainconditioned waste."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 30": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 40": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

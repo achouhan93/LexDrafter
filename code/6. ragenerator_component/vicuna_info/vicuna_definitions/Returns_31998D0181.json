@@ -1,0 +1,22 @@
+{
+  "term": "Returns",
+  "celex_id": "31998D0181",
+  "original_definition": "'Returns' means the amounts derived from or associated with an investment, irrespective of the form in which they are paid, including profits, dividends, interest, capital gains, royalty payments, management, technical assistance or other fees and payments in kind.",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 1": [
+      "\u2018Returns\u2019 means the amounts derived from or associated with an investment, irrespective of the form in which they are paid, including profits, dividends, interest, capital gains, royalty payments, management, technical assistance or other fees and payments in kind."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

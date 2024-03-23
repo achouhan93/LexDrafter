@@ -1,0 +1,22 @@
+{
+  "term": "Dry-type transformer",
+  "celex_id": "32014R0548",
+  "original_definition": "'Dry-type transformer' means a power transformer in which the magnetic circuit and windings are not immersed in an insulating liquid.",
+  "generated_definition": "'Dry-type transformer' means a type of transformer that does not use oil or other liquids as an insulating medium.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Dry-type transformer\u2019 means a power transformer in which the magnetic circuit and windings are not immersed in an insulating liquid."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

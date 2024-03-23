@@ -1,0 +1,200 @@
+{
+  "term": "oven",
+  "celex_id": "32014R0066",
+  "original_definition": "'oven' means an appliance or part of an appliance which incorporates one or more cavities using electricity and/or gas in which food is prepared by use of a conventional or fan-forced mode;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 1": [
+      "heat storage ovens;",
+      "ovens which are heated with steam as a primary heating function;",
+      "1.   This Regulation establishes eco-design requirements for the placing on the market and putting into service of domestic ovens (including when incorporated in cookers), domestic hobs and domestic electric range hoods, including when sold for non-domestic purposes.",
+      "1.   This Regulation establishes eco-design requirements for the placing on the market and putting into service of domesticovens (including when incorporated incookers), domestichobs and domestic electricrange hoods, including when sold for non-domestic purposes."
+    ],
+    "Article 2": [
+      "\u2018cooker\u2019 means an appliance consisting of an oven and a hob using gas or electricity;",
+      "\u2018heat source\u2019 means the main energy form for heating anovenorhob;",
+      "\u2018conventional mode\u2019 means the operation mode of an oven only using natural convection for circulation of heated air inside the cavity of the oven;",
+      "\u2018oven\u2019 means an appliance or part of an appliance which incorporates one or more cavities using electricity and/or gas in which food is prepared by use of a conventional or fan-forced mode;",
+      "\u2018oven\u2019 means an appliance or part of an appliance which incorporates one or more cavities using electricity and/or gas in which food is prepared by use of a conventional orfan-forced mode;",
+      "\u2018heat source\u2019 means the main energy form for heating an oven or hob;",
+      "\u2018operation mode\u2019 means the status of the oven or hob during use;",
+      "\u2018conventional mode\u2019 means theoperation modeof anovenonly using natural convection for circulation of heated air inside thecavity of the oven;",
+      "\u2018fan-forced mode\u2019 means a mode when a built-in fan circulates heated air inside the cavity of the oven;",
+      "\u2018cycle\u2019 means the period of heating a standardised load in acavityof anoven under defined conditions;",
+      "\u2018fan-forced mode\u2019 means a mode when a built-in fan circulates heated air inside thecavityof theoven;",
+      "\u2018operation mode\u2019 means the status of theovenorhob during use;",
+      "\u2018cooker\u2019 means an appliance consisting of anovenand ahob using gas or electricity;",
+      "\u2018cycle\u2019 means the period of heating a standardised load in a cavity of an oven under defined conditions;"
+    ],
+    "Article 3": [
+      "1.   The ecodesign requirements, including timing, for domestic ovens, hobs and range hoods are set out in Annex I.",
+      "1.   The ecodesign requirements, including timing, for domesticovens,hobs andrange hoods are set out in Annex I."
+    ],
+    "Article 8": [
+      "Energy consumption required to heat a standardised load in a gas-firedcavityof anovenduring acycleinconventional mode per cavity (gas final energy)",
+      "Volume of the cavity of the domestic oven (V)",
+      "\u2014   SECgascavity= Standard Energy Consumption required to heat a standardised load in a cavity of a domestic gas-firedovenduring acycle, expressed in MJ, rounded to the second decimal place,",
+      "Energy consumption (electricity) required to heat a standardised load in a cavity of an electric heated oven during a cycle in conventional mode per cavity (electric final energy)",
+      "From 1 year after entry into force, the following product information shall be provided in the technical documentation of the product, the booklet of instructions and on the free access websites of manufacturers of domestic ovens, hobs and range hoods, their authorised representatives, or importers:",
+      "Energy consumption (electricity) required to heat a standardised load in acavityof an electric heatedovenduring acycleinconventional mode per cavity (electric final energy)",
+      "At the time of entry into force of this Regulation, the best-performing domestic ovens, hobs and range hoods available on the market in terms of their energy performance were identified as follows:",
+      "2.1.   For domestic ovens",
+      "Energy consumption required to heat a standardised load in a gas-fired cavity of an oven during a cycle in conventional mode per cavity (gas final energy)",
+      "\u2014   ECgas cavity\n= Energy Consumption required to heat a standardised load in a gas-fired cavity of a domestic oven during a cycle, expressed in MJ, rounded to the second decimal place.",
+      "\u2014   SECgas cavity\n= Standard Energy Consumption required to heat a standardised load in a cavity of a domestic gas-fired oven during a cycle, expressed in MJ, rounded to the second decimal place,",
+      "For eachcavityof a domesticoven, the Energy Efficiency Index (EEIcavity) shall be calculated according to the following formulas:",
+      "for domestic electric ovens:",
+      "\u2014   EEIcavity\n= Energy Efficiency Index for each cavity of a domestic oven, rounded to the first decimal place,",
+      "\u2014   ECelectriccavity= Energy Consumption required to heat a standardised load in a cavity of a domestic electric heatedovenduring acycle, expressed in kWh, rounded to the second decimal place,",
+      "Mass of the domestic oven (M)",
+      "At the time of entry into force of this Regulation, the best-performing domesticovens,hobs andrange hoods available on the market in terms of their energy performance were identified as follows:",
+      "Domestic ovens",
+      "Cavities of domestic ovens (including when incorporated in cookers) shall comply with maximum Energy Efficiency Index limits as indicated in Table 1.",
+      "Energy consumption required to heat a standardised load in a gas-firedcavityof anovenduring acycleinfan-forced mode per cavity (gas final energy)",
+      "The energy consumption of a cavity of a domestic oven shall be measured for one standardised cycle, in a conventional mode and in a fan-forced mode, if available, by heating a standardised load soaked with water. It shall be verified that the temperature inside the oven cavity reaches the temperature setting of the thermostat and/or the oven control display within the duration of the test cycle. The energy consumption per cycle corresponding to the best performing mode (conventional mode or fan-forced mode) shall be used in the following calculations.",
+      "Cavities of domesticovens (including when incorporated incookers) shall comply with maximum Energy Efficiency Index limits as indicated in Table 1.",
+      "\u2014   EEIcavity= Energy Efficiency Index for each cavity of a domesticoven, rounded to the first decimal place,",
+      "\u2014   V= Volume of thecavityof the domesticoven in litres (L), rounded to the nearest integer,",
+      "From 1 year after entry into force, the following product information shall be provided in the technical documentation of the product, the booklet of instructions and on the free access websites of manufacturers of domesticovens,hobs andrange hoods, their authorised representatives, or importers:",
+      "\u2014   ECgascavity= Energy Consumption required to heat a standardised load in a gas-fired cavity of a domesticovenduring acycle, expressed in MJ, rounded to the second decimal place.",
+      "Information for domestic ovens",
+      "\u2014   SECelectric cavity\n= Standard Energy Consumption (electricity) required to heat a standardised load in a cavity of a domestic electric heated oven during a cycle, expressed in kWh, rounded to the second decimal place,",
+      "Energy consumption required to heat a standardised load in a cavity of an electric heated oven during a cycle in fan-forced mode per cavity (electric final energy)",
+      "The energy consumption of acavityof a domesticovenshall be measured for one standardisedcycle, in aconventional modeand in afan-forced mode, if available, by heating a standardised load soaked with water. It shall be verified that the temperature inside the oven cavity reaches the temperature setting of the thermostat and/or the oven control display within the duration of the test cycle. The energy consumption per cycle corresponding to the best performing mode (conventional mode or fan-forced mode) shall be used in the following calculations.",
+      "\u2014   SECelectriccavity= Standard Energy Consumption (electricity) required to heat a standardised load in a cavity of a domestic electric heatedovenduring acycle, expressed in kWh, rounded to the second decimal place,",
+      "\u2014   ECelectric cavity\n= Energy Consumption required to heat a standardised load in a cavity of a domestic electric heated oven during a cycle, expressed in kWh, rounded to the second decimal place,",
+      "Type of oven",
+      "Energy consumption required to heat a standardised load in a gas-fired cavity of an oven during a cycle in fan-forced mode per cavity (gas final energy)",
+      "Energy Efficiency Index limits for cavities of domesticovens (EEIcavity)",
+      "1.1.   For domestic ovens",
+      "Domestic electric & gas oven",
+      "Volume of thecavityof the domesticoven (V)",
+      "Energy consumption required to heat a standardised load in acavityof an electric heatedovenduring acycleinfan-forced mode per cavity (electric final energy)",
+      "For each cavity of a domestic oven, the Energy Efficiency Index (EEIcavity) shall be calculated according to the following formulas:",
+      "\u2014   V= Volume of the cavity of the domestic oven in litres (L), rounded to the nearest integer,",
+      "for domestic gas ovens:",
+      "Energy Efficiency Index limits for cavities of domestic ovens (EEIcavity)"
+    ],
+    "Not Article": [
+      "Article 16(2)(a) of Directive 2009/125/EC provides that in accordance with the procedure referred to in Article 19(3) and the criteria set out in Article 15(2), and after consulting the Consultation Forum, the Commission has to, as appropriate, introduce implementing measures for products offering a high potential for cost-effective reduction of greenhouse gas emissions, such as domestic appliances, including ovens, hobs and range hoods.",
+      "Standby and off-mode functions can be responsible for much of the total power consumption of domestic cooking appliances such as ovens, hobs and range hoods. For such appliances, power consumption of these functions is part of the minimum energy performance requirements. Standby and off-mode requirements for domestic ovens and hobs are set on the basis of the ecodesign requirements of Commission Regulation (EC) No 1275/2008 of 17 December 2008 implementing Directive 2005/32/EC of the European Parliament and of the Council with regard to ecodesign requirements for standby and off mode, and networked standby, electric power consumption of electrical and electronic household and office equipment (2).",
+      "The Commission has carried out preparatory studies to analyse the technical, environmental and economic aspects of domestic cooking appliances such asovens,hobs andrange hoods. These studies involved stakeholders and interested parties from the Union and third countries, and the results have been made publicly available.",
+      "The annual energy consumption of domesticovens,hobs andrange hoods was estimated to be 755 PJ (primary energy consumption) in the EU in 2010. Unless specific measures are taken, annual energy consumption is predicted to be 779 PJ in 2020. The preparatory studies show that the energy consumption of those products can be significantly reduced.",
+      "The annual energy consumption of domestic ovens, hobs and range hoods was estimated to be 755 PJ (primary energy consumption) in the EU in 2010. Unless specific measures are taken, annual energy consumption is predicted to be 779 PJ in 2020. The preparatory studies show that the energy consumption of those products can be significantly reduced.",
+      "The preparatory studies show that requirements regarding other ecodesign parameters referred to in Part 1, point 1.3, of Annex I to Directive 2009/125/EC are not necessary as electricity and gas consumption of domestic cooking appliances such as ovens, hobs and range hoods in the use phase is the most significant environmental aspect.",
+      "Article 16(2)(a) of Directive 2009/125/EC provides that in accordance with the procedure referred to in Article 19(3) and the criteria set out in Article 15(2), and after consulting the Consultation Forum, the Commission has to, as appropriate, introduce implementing measures for products offering a high potential for cost-effective reduction of greenhouse gas emissions, such as domestic appliances, includingovens,hobs andrange hoods.",
+      "The Commission has carried out preparatory studies to analyse the technical, environmental and economic aspects of domestic cooking appliances such as ovens, hobs and range hoods. These studies involved stakeholders and interested parties from the Union and third countries, and the results have been made publicly available.",
+      "It is appropriate to provide for a review of the provisions of this Regulation taking into account technological progress, and in particular the effectiveness and the appropriateness of the approach followed for the determination of the ovens energy efficiency.",
+      "implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for domestic ovens, hobs and range hoods",
+      "implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for domesticovens,hobs andrange hoods",
+      "Standby and off-mode functions can be responsible for much of the total power consumption of domestic cooking appliances such asovens,hobs andrange hoods. For such appliances, power consumption of these functions is part of the minimum energy performance requirements. Standby and off-mode requirements for domestic ovens and hobs are set on the basis of the ecodesign requirements of Commission Regulation (EC) No 1275/2008 of 17 December 2008 implementing Directive 2005/32/EC of the European Parliament and of the Council with regard to ecodesign requirements for standby andoff mode, and networked standby, electric power consumption of electrical and electronic household and office equipment (2).",
+      "The preparatory studies show that requirements regarding other ecodesign parameters referred to in Part 1, point 1.3, of Annex I to Directive 2009/125/EC are not necessary as electricity and gas consumption of domestic cooking appliances such asovens,hobs andrange hoods in the use phase is the most significant environmental aspect."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Article 2": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        0,
+        2,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 20,
+      "statement_scores": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    "Not Article": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+}

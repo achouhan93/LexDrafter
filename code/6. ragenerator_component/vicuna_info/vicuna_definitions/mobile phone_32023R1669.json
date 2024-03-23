@@ -1,0 +1,61 @@
+{
+  "term": "mobile phone",
+  "celex_id": "32023R1669",
+  "original_definition": "'mobile phone' means a cordless handheld electronic device, which has the following characteristics:it is designed for long-range voice communication over either a cellular telecommunications network or a satellite-based telecommunications network, requiring a SIM card, eSIM or similar means to identify the connected parties;it is designed for battery mode usage, and connection to mains via an external power supply and/or wireless power transmission is mainly for battery charging purposes;it is not designed to be worn on the wrist;\u2018smartphone\u2019 means a mobile phone, which has the following characteristics:it is characterised by wireless network connection, mobile use of internet services, an operating system optimised for handheld use and the ability to accept original and third-party software applications;it has an integrated touch screen display with a viewable diagonal size of 10,16 centimetres (or 4,0 inches) or more, but less than 17,78 centimetres (or 7,0 inches);where the device has a foldable display or has more than one display, at least one of the displays falls into the size range in either opened or closed mode;\u2018smartphone for high security communication\u2019 means a smartphone, which has the following characteristics:it is accredited, or otherwise approved by the designated authority in a Member State or is in the process of accreditation or other approval to transmit, process or store classified information;it is intended for professional users only;it is capable of detecting physical intrusion to the hardware, including for intrusion detection at least a controller, related wiring, flexible printed circuit board circuitry for drill protection integrated to the device chassis and integrated tamper loops on the main printed circuit board;\u2018professional user\u2019 means any natural or legal person, to whom a product has been made available for use in the course of their industrial or professional activities;\u2018slate tablet\u2019 means a device that is designed for portability and has the following characteristics:it has an integrated touch-sensitive display with a viewable diagonal size greater than or equal to 17,78 centimetres (or 7,0 inches) and less than 44,20 centimetres (or 17,4 inches);it does not have an integrated, physically attached keyboard in its designed configuration;it primarily relies on a wireless network connection;it is powered by an internal battery and is not intended to work without battery; andit is placed on the market with an operating system designed for mobile platforms, identical or analogous to smartphones;\u2018point of sale\u2019 means a location where smartphone or slate tablet units are displayed or offered for sale, hire or hire-purchase.",
+  "generated_definition": "'mobile phone' means a portable electronic device that is primarily designed to make and receive telephone calls, send and receive text messages, and access the internet, using a wireless network connection.",
+  "existing_sentences": {
+    "Article\u00a01": [
+      "mobile phones and tablets with a flexible main display which the user can unroll and roll up partly or fully;"
+    ],
+    "Article\u00a02": [
+      "\u2018smartphone\u2019 means amobile phone, which has the following characteristics:",
+      "\u2018mobile phone\u2019 means a cordless handheld electronic device, which has the following characteristics:",
+      "\u2018smartphone\u2019 means a mobile phone, which has the following characteristics:"
+    ],
+    "Article\u00a08": [
+      "(2)  Commission Regulation (EU) 2023/1670 of 16 June 2023 laying down ecodesign requirements for smartphones, mobile phones other than smartphones, cordless phones and slate tablets pursuant to Directive 2009/125/EC of the European Parliament and of the Council and amending Commission Regulation (EU) 2023/826 (see page 47 of this Official Journal).",
+      "\u2018charger\u2019 means an external power supply to charge the battery of and provide electrical power to a battery-powered mobile phone, cordless phone or slate tablet;",
+      "(2)  Commission Regulation (EU) 2023/1670 of 16 June 2023 laying down ecodesign requirements for smartphones,mobile phones other than smartphones, cordless phones and slate tablets pursuant to Directive 2009/125/EC of the European Parliament and of the Council and amending Commission Regulation (EU) 2023/826 (see page 47 of this Official Journal).",
+      "\u2018charger\u2019 means an external power supply to charge the battery of and provide electrical power to a battery-poweredmobile phone, cordless phone or slate tablet;"
+    ],
+    "Not Article": [
+      "The Commission has carried out a preparatory study to analyse the technical, environmental and economic aspects of mobile phones, smartphones and slate tablets. The study was conducted in close cooperation with stakeholders and interested parties in the Union and third countries, and the results have been made publicly available.",
+      "The Commission has carried out a preparatory study to analyse the technical, environmental and economic aspects ofmobile phones, smartphones and slate tablets. The study was conducted in close cooperation with stakeholders and interested parties in the Union and third countries, and the results have been made publicly available."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a01": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article\u00a02": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        1
+      ]
+    },
+    "Article\u00a08": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

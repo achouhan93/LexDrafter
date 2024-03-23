@@ -1,0 +1,22 @@
+{
+  "term": "Liquid-immersed transformer",
+  "celex_id": "32014R0548",
+  "original_definition": "'Liquid-immersed transformer' means a power transformer in which the magnetic circuit and windings are immersed in liquid.",
+  "generated_definition": "'Liquid-immersed transformer' means a transformer in which the windings are immersed in a liquid, such as oil or transformer oil, for cooling and insulation purposes.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Liquid-immersed transformer\u2019 means a power transformer in which the magnetic circuit and windings are immersed in liquid."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

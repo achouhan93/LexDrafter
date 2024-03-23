@@ -1,0 +1,41 @@
+{
+  "term": "air-based heating system",
+  "celex_id": "32016R2281",
+  "original_definition": "'air-based heating system' means the components and/or equipment necessary for the supply of heated air, by means of an air-moving device, either through ducting or directly into the heated space, where the purpose of the system is to attain and maintain the desired indoor temperature of an enclosed space, such as a building or parts thereof, for the thermal comfort of human beings;",
+  "generated_definition": "'air-based heating system' means a system that captures heat from ambient, ventilation exhaust, water or ground heat sources and transfers it to the system using a vapour compression cycle or sorption cycle, or supplies heated air directly into the heated space by means of an air-moving device.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018air-based heating system\u2019 means the components and/or equipment necessary for the supply of heated air, by means of an air-moving device, either through ducting or directly into the heated space, where the purpose of the system is to attain and maintain the desired indoor temperature of an enclosed space, such as a building or parts thereof, for the thermal comfort of human beings;",
+      "by capturing heat from ambient air, ventilation exhaust air, water or ground heat source(s) and transferring this heat to the air-based heating system using a vapour compression cycle or a sorption cycle;",
+      "may include an air-based heating system for supplying heated air directly into the heated space by means of an air-moving device.",
+      "incorporates or provides heat to an air-based heating system;"
+    ],
+    "Article 9": [
+      "\u2018warm air heater\u2019 means anair heating productthat transfers the heat from aheat generatordirectly to air and incorporates or distributes this heat through anair-based heating system;",
+      "of which the indoor side heat exchanger (condenser) releases this heat to an air-based heating system;",
+      "\u2018warm air heater\u2019 means an air heating product that transfers the heat from a heat generator directly to air and incorporates or distributes this heat through an air-based heating system;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 3,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 9": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

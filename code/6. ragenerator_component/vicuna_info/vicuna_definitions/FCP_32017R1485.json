@@ -1,0 +1,95 @@
+{
+  "term": "FCP",
+  "celex_id": "32017R1485",
+  "original_definition": "'FCP' means a process that aims at stabilising the system frequency by compensating imbalances by means of appropriate reserves;",
+  "generated_definition": "'FCP' means the term fcp refers to the financial control and reporting system of an organization, designed to ensure the accuracy and completeness of financial data and to maintain the stability of the fcp or the operational security is affected.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018frequency containment process\u2019 or \u2018FCP\u2019 means a process that aims at stabilising thesystem frequency by compensating imbalances by means of appropriate reserves;",
+      "\u2018frequency containment process\u2019 or \u2018FCP\u2019 means a process that aims at stabilising the system frequency by compensating imbalances by means of appropriate reserves;"
+    ],
+    "Article 131": [
+      "avoid that the stability of the FCP or the operational security is affected.",
+      "avoid that the stability of theFCPor theoperational security is affected."
+    ],
+    "Article 140": [
+      "a FCP pursuant to Article 142;"
+    ],
+    "Article 141": [
+      "implement and operate a FCP for the synchronous area;"
+    ],
+    "Article 142": [
+      "1.   The control target of FCP shall be the stabilization of the system frequency by activation of FCR.",
+      "1.   The control target ofFCPshall be the stabilization of thesystem frequencyby activation ofFCR."
+    ],
+    "Article 146": [
+      "the stability of the FCP of the synchronous area or synchronous areas involved in the imbalance netting process;",
+      "the stability of theFCPof the synchronous area or synchronous areas involved in theimbalance netting process;"
+    ],
+    "Article 154": [
+      "8.   Eachreserve connecting TSOshall monitor its contribution to theFCPand itsFCRactivation with respect to itsFCR obligation, including FCR providing units and FCR providing groups. Each FCR provider shall make available to the reserve connecting TSO, for each of its FCR providing units and FCR providing groups, at least the following information:",
+      "8.   Each reserve connecting TSO shall monitor its contribution to the FCP and its FCR activation with respect to its FCR obligation, including FCR providing units and FCR providing groups. Each FCR provider shall make available to the reserve connecting TSO, for each of its FCR providing units and FCR providing groups, at least the following information:"
+    ],
+    "Article 172": [
+      "the stability of the FCP of the synchronous area;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 131": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 140": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 141": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 142": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 146": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 154": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    },
+    "Article 172": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

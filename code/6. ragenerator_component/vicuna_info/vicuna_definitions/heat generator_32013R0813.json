@@ -1,0 +1,62 @@
+{
+  "term": "heat generator",
+  "celex_id": "32013R0813",
+  "original_definition": "'heat generator' means the part of a heater that generates the heat using one or more of the following processes:combustion of fossil fuels and/or biomass fuels;use of the Joule effect in electric resistance heating elements;capture of ambient heat from an air source, water source or ground source, and/or waste heat;whereby a heat generator designed for a heater and a heater housing to be equipped with such a heat generator shall be also considered a heater;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 1": [
+      "heat generators designed forheaters andheater housings to be equipped with such heat generators placed on the market before 1 January 2018 to replace identical heat generators and identical heater housings. The replacement product or its packaging shall clearly indicate the heater for which it is intended.",
+      "heat generators designed for heaters and heater housings to be equipped with such heat generators placed on the market before 1 January 2018 to replace identical heat generators and identical heater housings. The replacement product or its packaging shall clearly indicate the heater for which it is intended."
+    ],
+    "Article 2": [
+      "\u2018heat generator\u2019 means the part of a heater that generates the heat using one or more of the following processes:",
+      "is equipped with one or moreheat generators;",
+      "\u2018heater housing\u2019 means the part of a heater designed to have aheat generator fitted;",
+      "\u2018heat generator\u2019 means the part of aheater that generates the heat using one or more of the following processes:",
+      "is equipped with one or more heat generators;",
+      "\u2018heater housing\u2019 means the part of a heater designed to have a heat generator fitted;",
+      "whereby aheat generatordesigned for aheaterand aheater housing to be equipped with such a heat generator shall be also considered a heater;",
+      "whereby a heat generator designed for a heater and a heater housing to be equipped with such a heat generator shall be also considered a heater;"
+    ],
+    "Article 10": [
+      "Any heat generator designed for a heater, and any heater housing to be equipped with such a heat generator, shall be tested with an appropriate heater housing and heat generator, respectively.",
+      "Anyheat generatordesigned for aheater, and anyheater housing to be equipped with such a heat generator, shall be tested with an appropriate heater housing and heat generator, respectively.",
+      "for heat generators designed for heaters, and heater housings to be equipped with such heat generators, their characteristics, the requirements for assembly, to ensure compliance with the ecodesign requirements for heaters and, where appropriate, the list of combinations recommended by the manufacturer;",
+      "forheat generators designed forheaters, andheater housings to be equipped with such heat generators, their characteristics, the requirements for assembly, to ensure compliance with the ecodesign requirements for heaters and, where appropriate, the list of combinations recommended by the manufacturer;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 6,
+      "statement_scores": [
+        3,
+        3
+      ]
+    },
+    "Article 2": {
+      "article_score": 8,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        2,
+        2
+      ]
+    },
+    "Article 10": {
+      "article_score": 10,
+      "statement_scores": [
+        3,
+        3,
+        2,
+        2
+      ]
+    }
+  }
+}

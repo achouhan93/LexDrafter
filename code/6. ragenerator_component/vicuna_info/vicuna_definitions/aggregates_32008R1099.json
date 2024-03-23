@@ -1,0 +1,128 @@
+{
+  "term": "aggregates",
+  "celex_id": "32008R1099",
+  "original_definition": "'aggregates' mean data aggregated at national level on the treatment or use of energy products, namely production, trade, stocks, transformation, consumption, and structural characteristics of the energy system such as installed capacities for electricity generation or production capacities for oil products;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article\u00a01": [
+      "2.   This Regulation shall apply to statistical data concerningenergy productsand theiraggregates in the Community.",
+      "2.   This Regulation shall apply to statistical data concerning energy products and their aggregates in the Community."
+    ],
+    "Article\u00a02": [
+      "\u2018aggregates\u2019 mean data aggregated at national level on the treatment or use of energy products, namely production, trade, stocks, transformation, consumption, and structural characteristics of the energy system such as installed capacities for electricity generation or production capacities for oil products;",
+      "\u2018aggregates\u2019 mean data aggregated at national level on the treatment or use ofenergy products, namely production, trade, stocks, transformation, consumption, and structural characteristics of the energy system such as installed capacities for electricity generation or production capacities for oil products;"
+    ],
+    "Article\u00a03": [
+      "1.   While applying the principles of maintaining a reduced burden on respondents and of administrative simplification, Member States shall compile data concerning energy products and their aggregates in the Community from the following sources:",
+      "1.   While applying the principles of maintaining a reduced burden on respondents and of administrative simplification, Member States shall compile data concerningenergy productsand theiraggregates in the Community from the following sources:"
+    ],
+    "Article\u00a04": [
+      "Aggregates,energy products and the transmission frequency of national statistics",
+      "Aggregates, energy products and the transmission frequency of national statistics"
+    ],
+    "Article\u00a012": [
+      "Quantities used as raw materials in the different sectors and not consumed as a fuel or transformed into another fuel. These quantities are included into the aggregates listed above.",
+      "The following list of aggregates shall be declared.",
+      "The following list of aggregates shall be declared for all energy products listed in the previous paragraph unless otherwise specified.",
+      "The following specific definitions apply to aggregates for electricity and heat in this chapter:",
+      "The following aggregates apply to coke derived from hard coal, lignite coke, patent fuels and lignite briquettes:",
+      "Cyprus is exempted from reporting the aggregates defined in Section 4.2.3 under point 4 (Other sectors) and point 5 (Total non-energy use); only the total values shall be applicable.",
+      "The following aggregates apply to hard coal, total and black lignite, brown coal and peat:",
+      "Quantities ofenergy productsthat are mentioned in Section 5.1 (except for hydro power, solar photovoltaic energy, energy from tides, waves and oceans and wind energy) must be declared for the followingaggregates:",
+      "3.2.   List of aggregates",
+      "2.2.   List of aggregates",
+      "For the transformation sector the following aggregates apply for all fuels, except for refinery feedstocks, additives/oxygenates, biofuels and other hydrocarbons, but including fuels used for non-energy purposes (petroleum cokes and others, to be declared separately):",
+      "The aggregates mentioned in the next table must be declared as totals, for electricity and heat separately, wherever applicable. For the three first aggregates in the next table, quantities should be calculated from and be compatible with the values declared according to the previous table.",
+      "For the following aggregates both gross and net quantities must be declared:",
+      "For the fuel consumption in main activity producer plants the following aggregates apply (refer to Annex B for the definitions of hard coal and lignite):",
+      "Quantities ofenergy productsthat are mentioned in Section 5.1 (except for hydro power, solar photovoltaic energy, energy from tides, waves and oceans and wind energy) and used in the energy sector or for final consumption must be declared for the followingaggregates:",
+      "Quantities of energy products that are mentioned in Section 5.1 (except for hydro power, solar photovoltaic energy, energy from tides, waves and oceans and wind energy) must be declared for the following aggregates:",
+      "Both gross and net calorific values are to be declared for the energy products mentioned in paragraph 1.1 for the following main aggregates.",
+      "For the energy sector the following aggregates apply for all fuels, except for refinery feedstocks, additives/oxygenates, biofuels and other hydrocarbons, but including fuels used for non-energy purposes (petroleum cokes and others, to be declared separately):",
+      "For the energy end-use specification the following aggregates apply for all fuels, except for refinery feedstocks, additives/oxygenates, biofuels and other hydrocarbons, but including fuels used for non-energy purposes (petroleum cokes and others, to be declared separately):",
+      "Consumption of natural gas needs to be reported for both energy use and (wherever applicable) non-energy use separately, for all of the following aggregates:",
+      "France has a derogation for reporting the aggregates relating to heat. That derogation shall lapse as soon as France is able to forward this report and, at all events, no more than four years after the date of entry into force of this Regulation.",
+      "1.2.   List of aggregates",
+      "4.2.   List of aggregates",
+      "Cyprus has a derogation of 3 years following the date of entry into force of this Regulation, for reporting the aggregates defined in Section 4.2.3 under point 2 (Industry sector) and point 3 (Transport sector); only the total values shall be applicable during this derogation period.",
+      "Both gross and net calorific values are to be declared for theenergy productsmentioned in paragraph 1.1 for the following mainaggregates.",
+      "Quantities of energy products that are mentioned in Section 5.1 (except for hydro power, solar photovoltaic energy, energy from tides, waves and oceans and wind energy) and used in the supply and transformation sectors must be declared for the following aggregates:",
+      "Quantities ofenergy productsthat are mentioned in Section 5.1 (except for hydro power, solar photovoltaic energy, energy from tides, waves and oceans and wind energy) and used in the supply and transformation sectors must be declared for the followingaggregates:",
+      "The following list ofaggregatesshall be declared for allenergy products listed in the previous paragraph unless otherwise specified.",
+      "5.2.   List of aggregates",
+      "Quantities of energy products that are mentioned in Section 5.1 (except for hydro power, solar photovoltaic energy, energy from tides, waves and oceans and wind energy) and used in the energy sector or for final consumption must be declared for the following aggregates:",
+      "The aggregates mentioned in the next table must be declared separately for main activity producer plants and for autoproducer plants. Within these two types of plants, both gross and net electricity and heat production must be declared for electricity only, for CHP and for heat-only plants separately wherever applicable, for the following aggregates:",
+      "To be declared are quantities expressed in both volume and energy units, and including the gross and net calorific values, for the following aggregates:"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a01": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    },
+    "Article\u00a02": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article\u00a03": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article\u00a04": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article\u00a012": {
+      "article_score": 29,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        2,
+        1
+      ]
+    }
+  }
+}

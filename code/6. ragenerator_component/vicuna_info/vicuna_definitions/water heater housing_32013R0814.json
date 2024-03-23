@@ -1,0 +1,54 @@
+{
+  "term": "water heater housing",
+  "celex_id": "32013R0814",
+  "original_definition": "'water heater housing' means the part of a water heater designed to have a heat generator fitted;",
+  "generated_definition": "'water heater housing' means a housing for a water heater that is designed to hold a heat generator, such as a boiler or tankless water heater, and to ensure compliance with ecodesign requirements for water heaters.",
+  "existing_sentences": {
+    "Article 1": [
+      "heat generators designed for water heaters and water heater housings to be equipped with such heat generators placed on the market before 1 January 2018 to replace identical heat generators and identical water heater housings. The replacement product or its packaging shall clearly indicate the water heater for which it is intended.",
+      "heat generators designed forwater heaters andwater heater housings to be equipped with such heat generators placed on the market before 1 January 2018 to replace identical heat generators and identical water heater housings. The replacement product or its packaging shall clearly indicate the water heater for which it is intended."
+    ],
+    "Article 2": [
+      "whereby aheat generatordesigned for awater heaterand awater heater housing to be equipped with such a heat generator shall be also considered a water heater;",
+      "\u2018water heater housing\u2019 means the part of a water heater designed to have aheat generator fitted;",
+      "\u2018water heater housing\u2019 means the part of a water heater designed to have a heat generator fitted;",
+      "whereby a heat generator designed for a water heater and a water heater housing to be equipped with such a heat generator shall be also considered a water heater;"
+    ],
+    "Article 9": [
+      "for heat generators designed for water heaters and water heater housings to be equipped with such heat generators, their characteristics, the requirements for assembly, to ensure compliance with the ecodesign requirements for water heaters and, where appropriate, the list of combinations recommended by the manufacturer;",
+      "any heat generator designed for a water heater, and any water heater housing to be equipped with such a heat generator, shall be tested with an appropriate water heater housing and heat generator, respectively;",
+      "forheat generators designed forwater heaters andwater heater housings to be equipped with such heat generators, their characteristics, the requirements for assembly, to ensure compliance with the ecodesign requirements for water heaters and, where appropriate, the list of combinations recommended by the manufacturer;",
+      "anyheat generatordesigned for awater heater, and anywater heater housing to be equipped with such a heat generator, shall be tested with an appropriate water heater housing and heat generator, respectively;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "Article 9": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        2,
+        1,
+        2
+      ]
+    }
+  }
+}

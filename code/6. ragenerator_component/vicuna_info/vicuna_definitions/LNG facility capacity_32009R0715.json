@@ -1,0 +1,33 @@
+{
+  "term": "LNG facility capacity",
+  "celex_id": "32009R0715",
+  "original_definition": "'LNG facility capacity' means capacity at an LNG terminal for the liquefaction of natural gas or the importation, offloading, ancillary services, temporary storage and re-gasification of LNG;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018LNG facility capacity\u2019 means capacity at an LNG terminal for the liquefaction of natural gas or the importation, offloading, ancillary services, temporary storage and re-gasification of LNG;"
+    ],
+    "Article\u00a015": [
+      "5.   Contractual limits on the required minimum size ofLNG facility capacityandstorage capacity shall be justified on the basis of technical constrains and shall permit smaller storage users to gain access to storage services.",
+      "5.   Contractual limits on the required minimum size of LNG facility capacity and storage capacity shall be justified on the basis of technical constrains and shall permit smaller storage users to gain access to storage services."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article\u00a015": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

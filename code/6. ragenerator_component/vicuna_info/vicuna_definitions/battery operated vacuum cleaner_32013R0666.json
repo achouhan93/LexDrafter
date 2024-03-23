@@ -1,0 +1,26 @@
+{
+  "term": "battery operated vacuum cleaner",
+  "celex_id": "32013R0666",
+  "original_definition": "'battery operated vacuum cleaner' means a vacuum cleaner powered only by batteries;",
+  "generated_definition": "'battery operated vacuum cleaner' means a battery operated vacuum cleaner that operates without human intervention within a defined perimeter, consisting of a mobile part and a docking station and/or other accessories to assist its operation.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018robot vacuum cleaner\u2019 means a battery operated vacuum cleaner that is capable of operating without human intervention within a defined perimeter, consisting of a mobile part and a docking station and/or other accessories to assist its operation;",
+      "\u2018battery operated vacuum cleaner\u2019 means a vacuum cleaner powered only by batteries;",
+      "\u2018robot vacuum cleaner\u2019 means abattery operated vacuum cleaner that is capable of operating without human intervention within a defined perimeter, consisting of a mobile part and a docking station and/or other accessories to assist its operation;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        1
+      ]
+    }
+  }
+}

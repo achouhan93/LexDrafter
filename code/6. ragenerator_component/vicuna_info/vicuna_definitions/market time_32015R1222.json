@@ -1,0 +1,251 @@
+{
+  "term": "market time",
+  "celex_id": "32015R1222",
+  "original_definition": "'market time' means central European summer time or central European time, whichever is in effect;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018intraday cross-zonal gate opening time\u2019 means the point in time when cross-zonal capacity between bidding zones is released for a given market time unit and a given bidding zone border;",
+      "\u2018scheduled exchange\u2019 means an electricity transfer scheduled between geographic areas, for eachmarket time unit and for a given direction;",
+      "\u2018net position\u2019 means the netted sum of electricity exports and imports for eachmarket time unit for a bidding zone;",
+      "\u2018market time\u2019 means central European summer time or central European time, whichever is in effect;",
+      "\u2018scheduled exchange\u2019 means an electricity transfer scheduled between geographic areas, for each market time unit and for a given direction;",
+      "\u2018intraday cross-zonal gate opening time\u2019 means the point in time when cross-zonal capacity between bidding zones is released for a givenmarket timeunit and a given bidding zone border;",
+      "\u2018intraday cross-zonal gate closure time\u2019 means the point in time where cross-zonal capacity allocation is no longer permitted for a given market time unit;",
+      "\u2018non-standard intraday product\u2019 means a product for continuous intraday coupling not for constant energy delivery or for a period exceeding one market time unit with specific characteristics designed to reflect system operation practices or market needs, for example orders covering multiple market time units or products reflecting production unit start-up costs;",
+      "\u2018non-standard intraday product\u2019 means a product for continuous intraday coupling not for constant energy delivery or for a period exceeding onemarket timeunit with specific characteristics designed to reflect system operation practices or market needs, for exampleorders covering multiple market time units or products reflecting production unit start-up costs;",
+      "\u2018intraday cross-zonal gate closure time\u2019 means the point in time where cross-zonal capacity allocation is no longer permitted for a givenmarket time unit;",
+      "\u2018net position\u2019 means the netted sum of electricity exports and imports for each market time unit for a bidding zone;"
+    ],
+    "Article 18": [
+      "2.   One scenario per market time unit shall be developed both for the day-ahead and the intraday capacity calculation time-frames.",
+      "2.   Onescenariopermarket time unit shall be developed both for the day-ahead and the intraday capacity calculation time-frames."
+    ],
+    "Article 22": [
+      "uncertainties which could affect capacity calculation and which could occur between the capacity calculation time-frame and real time, for the market time unit being considered.",
+      "unintended deviations of physical electricity flows within a market time unit caused by the adjustment of electricity flows within and between control areas, to maintain a constant frequency;"
+    ],
+    "Article 33": [
+      "the need for each generation and load unit to belong to only one bidding zone for each market time unit;"
+    ],
+    "Article 38": [
+      "uses the marginal pricing principle according to which all accepted bids will have the same price per bidding zone per market time unit;"
+    ],
+    "Article 39": [
+      "a singleclearing pricefor each bidding zone andmarket time unit in EUR/MWh;",
+      "a single net position for each bidding zone and each market time unit;",
+      "a single clearing price for each bidding zone and market time unit in EUR/MWh;",
+      "a singlenet positionfor each bidding zone and eachmarket time unit;",
+      "2.   Theprice coupling algorithmshall produce at least the following results simultaneously for eachmarket time unit:",
+      "2.   The price coupling algorithm shall produce at least the following results simultaneously for each market time unit:"
+    ],
+    "Article 40": [
+      "2.   All NEMOs shall ensure that the price coupling algorithm is able to accommodate orders resulting from these products covering one market time unit and multiple market time units.",
+      "1.   No later than 18 months after the entry into force of this Regulation NEMOs shall submit a joint proposal concerning products that can be taken into account in the single day-ahead coupling. NEMOs shall ensure that orders resulting from these products submitted to the price coupling algorithm are expressed in euros and make reference to the market time.",
+      "2.   All NEMOs shall ensure that theprice coupling algorithmis able to accommodateorders resulting from these products covering onemarket time unit and multiple market time units.",
+      "1.   No later than 18 months after the entry into force of this Regulation NEMOs shall submit a joint proposal concerning products that can be taken into account in thesingle day-ahead coupling. NEMOs shall ensure thatorders resulting from these products submitted to theprice coupling algorithmare expressed in euros and make reference to themarket time."
+    ],
+    "Article 43": [
+      "2.   The methodology shall describe the calculation and shall list the information which shall be provided by the relevant NEMOs to the scheduled exchange calculator established in accordance with Article 8(2)(g) and the time limits for delivering this information. The time limit for delivering information shall be no later than 15.30 market time day-ahead.",
+      "3.   The calculation shall be based on net positions for each market time unit.",
+      "3.   The calculation shall be based onnet positions for eachmarket time unit."
+    ],
+    "Article 46": [
+      "1.   Each coordinated capacity calculator shall ensure that cross-zonal capacity and allocation constraints shall be provided to relevant NEMOs in time to ensure the publication of cross-zonal capacity and of allocation constraints to the market no later than 11.00 market time day-ahead.",
+      "1.   Eachcoordinated capacity calculatorshall ensure that cross-zonal capacity andallocation constraintsshall be provided to relevant NEMOs in time to ensure the publication of cross-zonal capacity and of allocation constraints to the market no later than 11.00market time day-ahead."
+    ],
+    "Article 47": [
+      "2.   The day-ahead market gate closure time in each bidding zone shall be noon market time day-ahead. TSOs or NEMOs in the region based on the CEE region or its neighbouring countries may set a different gate closure time until this region has joined single day-ahead coupling.",
+      "1.   The day-ahead market gate opening time shall be at the latest 11:00 market time day-ahead.",
+      "2.   Theday-ahead market gate closure timein each bidding zone shall be noonmarket timeday-ahead. TSOs or NEMOs in the region based on the CEE region or its neighbouring countries may set a different gate closure time until this region has joinedsingle day-ahead coupling."
+    ],
+    "Article 49": [
+      "1.   Each scheduled exchange calculator shall calculate scheduled exchanges between bidding zones for each market time unit in accordance with the methodology established in Article 43.",
+      "1.   Eachscheduled exchange calculatorshall calculate scheduled exchanges between bidding zones for eachmarket time unit in accordance with the methodology established in Article 43."
+    ],
+    "Article 52": [
+      "a singlenet positionfor each bidding zone andmarket time unit within the intraday market.",
+      "a single net position for each bidding zone and market time unit within the intraday market."
+    ],
+    "Article 53": [
+      "3.   All NEMOs shall ensure that the continuous trading matching algorithm is able to accommodate orders covering one market time unit and multiple market time units.",
+      "1.   No later than 18 months after the entry into force of this Regulation NEMOs shall submit a joint proposal concerning products that can be taken into account in thesingle intraday coupling. NEMOs shall ensure that allorders resulting from these products submitted to enable the MCO functions to be performed in accordance with Article 7 are expressed in euros and make reference to themarket time and the market time unit.",
+      "1.   No later than 18 months after the entry into force of this Regulation NEMOs shall submit a joint proposal concerning products that can be taken into account in the single intraday coupling. NEMOs shall ensure that all orders resulting from these products submitted to enable the MCO functions to be performed in accordance with Article 7 are expressed in euros and make reference to the market time and the market time unit."
+    ],
+    "Article 59": [
+      "3.   One intraday cross-zonal gate closure time shall be established for each market time unit for a given bidding zone border. It shall be at most one hour before the start of the relevant market time unit and shall take into account the relevant balancing processes in relation to operational security.",
+      "5.   Before the intraday cross-zonal gate closure time, market participants shall submit to relevant NEMOs all the orders for a given market time unit. All NEMOs shall submit the orders for a given market time unit for single matching immediately after the orders have been received from market participants.",
+      "3.   Oneintraday cross-zonal gate closure timeshall be established for eachmarket timeunit for a given bidding zone border. It shall be at most one hour before the start of the relevant market time unit and shall take into account the relevant balancing processes in relation to operational security.",
+      "4.   The intraday energy trading for a given market time unit for a bidding zone border shall start at the latest at the intraday cross-zonal gate opening time of the relevant bidding zone borders and shall be allowed until the intraday cross-zonal gate closure time.",
+      "4.   The intraday energy trading for a givenmarket timeunit for a bidding zone bordershall start at the latest at theintraday cross-zonal gate opening timeof the relevant bidding zone borders and shall be allowed until theintraday cross-zonal gate closure time.",
+      "5.   Before theintraday cross-zonal gate closure time, market participants shall submit to relevant NEMOs all theorders for a givenmarket timeunit. All NEMOs shall submit the orders for a given market time unit for singlematching immediately after the orders have been received from market participants."
+    ],
+    "Article 61": [
+      "1.   Eachscheduled exchange calculatorshall calculate scheduled exchanges between bidding zones for eachmarket time unit in accordance with the methodology established in accordance with Article 56.",
+      "1.   Each scheduled exchange calculator shall calculate scheduled exchanges between bidding zones for each market time unit in accordance with the methodology established in accordance with Article 56."
+    ],
+    "Article 68": [
+      "5.   Each central counter party shall ensure that for each market time unit:",
+      "5.   Eachcentral counter partyshall ensure that for eachmarket time unit:"
+    ],
+    "Article 72": [
+      "2.   A TSO which invokes force majeure or an emergency situation shall publish a notice explaining the nature of the force majeure or the emergency situation and its probable duration. This notice shall be made available to the market participants concerned through NEMOs. If capacity is allocated explicitly to market participants, the TSO invoking force majeure or an emergency situation shall send notice directly to contractual parties holding cross-zonal capacity for the relevant market time-frame.",
+      "2.   A TSO which invokesforce majeureor an emergency situation shall publish a notice explaining the nature of the force majeure or the emergency situation and its probable duration. This notice shall be made available to the market participants concerned through NEMOs. If capacity is allocated explicitly to market participants, the TSO invoking force majeure or an emergency situation shall send notice directly to contractual parties holding cross-zonal capacity for the relevantmarket time-frame."
+    ],
+    "Not Article": [
+      "Bidding zones reflecting supply and demand distribution are a cornerstone of market-based electricity trading and are a prerequisite for reaching the full potential of capacity allocation methods including the flow based method. Bidding zones therefore should be defined in a manner to ensure efficient congestion management and overall market efficiency. Bidding zones can be subsequently modified by splitting, merging or adjusting the zone borders. The bidding zones should be identical for allmarket time-frames. The review process of bidding zone configurations provided for in this Regulation will play an important role in the identification of structural bottlenecks and will allow for more efficient bidding zone delineation.",
+      "Bidding zones reflecting supply and demand distribution are a cornerstone of market-based electricity trading and are a prerequisite for reaching the full potential of capacity allocation methods including the flow based method. Bidding zones therefore should be defined in a manner to ensure efficient congestion management and overall market efficiency. Bidding zones can be subsequently modified by splitting, merging or adjusting the zone borders. The bidding zones should be identical for all market time-frames. The review process of bidding zone configurations provided for in this Regulation will play an important role in the identification of structural bottlenecks and will allow for more efficient bidding zone delineation."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 12,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1
+      ]
+    },
+    "Article 18": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 22": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 33": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 38": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 39": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 40": {
+      "article_score": 6,
+      "statement_scores": [
+        2,
+        1,
+        2,
+        1
+      ]
+    },
+    "Article 43": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 46": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 47": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 49": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 52": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 53": {
+      "article_score": 6,
+      "statement_scores": [
+        2,
+        2,
+        2
+      ]
+    },
+    "Article 59": {
+      "article_score": 10,
+      "statement_scores": [
+        2,
+        2,
+        2,
+        1,
+        1,
+        2
+      ]
+    },
+    "Article 61": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 68": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 72": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

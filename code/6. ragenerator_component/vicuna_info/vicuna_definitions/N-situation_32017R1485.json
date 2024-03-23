@@ -1,0 +1,51 @@
+{
+  "term": "N-situation",
+  "celex_id": "32017R1485",
+  "original_definition": "'N-situation' means the situation where no transmission system element is unavailable due to occurrence of a contingency;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018frequency stability\u2019 means the ability of the transmission system to maintain frequency stable in theN-situationand after being subjected to adisturbance;",
+      "\u2018normal state\u2019 means a situation in which the system is withinoperational securitylimits in theN-situationand after the occurrence of any contingency from thecontingency list, taking into account the effect of the available remedial actions;",
+      "\u2018voltage stability\u2019 means the ability of a transmission system to maintain acceptable voltages at all nodes in the transmission system in theN-situationand after being subjected to adisturbance;",
+      "\u2018rotor angle stability\u2019 means the ability of synchronous machines to remain in synchronism underN-situationand after being subject to adisturbance;",
+      "\u2018voltage stability\u2019 means the ability of a transmission system to maintain acceptable voltages at all nodes in the transmission system in the N-situation and after being subjected to a disturbance;",
+      "\u2018rotor angle stability\u2019 means the ability of synchronous machines to remain in synchronism under N-situation and after being subject to a disturbance;",
+      "\u2018N-situation\u2019 means the situation where notransmission system element is unavailable due to occurrence of a contingency;",
+      "\u2018N-situation\u2019 means the situation where no transmission system element is unavailable due to occurrence of a contingency;",
+      "\u2018frequency stability\u2019 means the ability of the transmission system to maintain frequency stable in the N-situation and after being subjected to a disturbance;",
+      "\u2018normal state\u2019 means a situation in which the system is within operational security limits in the N-situation and after the occurrence of any contingency from the contingency list, taking into account the effect of the available remedial actions;"
+    ],
+    "Article 38": [
+      "if the transmission system is in theN-situationwith respect to thecontingency listandstability limitsare reached before steady-state limits, the TSO shall perform adynamic stability assessment in all phases of operational planning and re-assess the stability limits as soon as possible after a significant change in the N-situation is detected.",
+      "if the transmission system is in the N-situation with respect to the contingency list and stability limits are reached before steady-state limits, the TSO shall perform a dynamic stability assessment in all phases of operational planning and re-assess the stability limits as soon as possible after a significant change in the N-situation is detected."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 4,
+      "statement_scores": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 38": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        2
+      ]
+    }
+  }
+}

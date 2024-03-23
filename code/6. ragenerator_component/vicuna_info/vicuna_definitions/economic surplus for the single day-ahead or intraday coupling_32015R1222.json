@@ -1,0 +1,24 @@
+{
+  "term": "economic surplus for the single day-ahead or intraday coupling",
+  "celex_id": "32015R1222",
+  "original_definition": "'economic surplus for the single day-ahead or intraday coupling' means the sum of (i) the supplier surplus for the single day-ahead or intraday coupling for the relevant time period, (ii) the consumer surplus for the single day-ahead or intraday coupling, (iii) the congestion income and (iv) other related costs and benefits where these increase economic efficiency for the relevant time period, supplier and consumer surplus being the difference between the accepted orders and the clearing price per energy unit multiplied by the volume of energy of the orders.",
+  "generated_definition": "'economic surplus for the single day-ahead or intraday coupling' means the economic surplus for the single day-ahead or intraday coupling refers to the difference between the total revenue generated from selling electricity and the total cost of producing and delivering that electricity, taking into account the market prices and the costs of the electricity system.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018economic surplus for the single day-ahead or intraday coupling\u2019 means the sum of (i) the supplier surplus for the single day-ahead or intraday coupling for the relevant time period, (ii) the consumer surplus for the single day-ahead or intraday coupling, (iii) thecongestion incomeand (iv) other related costs and benefits where these increase economic efficiency for the relevant time period, supplier and consumer surplus being the difference between the acceptedorders and theclearing price per energy unit multiplied by the volume of energy of the orders.",
+      "\u2018economic surplus for the single day-ahead or intraday coupling\u2019 means the sum of (i) the supplier surplus for the single day-ahead or intraday coupling for the relevant time period, (ii) the consumer surplus for the single day-ahead or intraday coupling, (iii) the congestion income and (iv) other related costs and benefits where these increase economic efficiency for the relevant time period, supplier and consumer surplus being the difference between the accepted orders and the clearing price per energy unit multiplied by the volume of energy of the orders."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

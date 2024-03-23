@@ -1,0 +1,46 @@
+{
+  "term": "security plan",
+  "celex_id": "32017R1485",
+  "original_definition": "'security plan' means the plan containing a risk assessment of critical TSO's assets to major physical- and cyber-threat scenarios with an assessment of the potential impacts;",
+  "generated_definition": "'security plan' means a document outlining organizational and physical measures aimed at mitigating risks to the european interconnected transmission systems, specifying a confidential risk assessment of assets owned or operated by the tso, and regularly reviewed to address changes in threat scenarios.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018security plan\u2019 means the plan containing a risk assessment of critical TSO's assets to major physical- and cyber-threat scenarios with an assessment of the potential impacts;"
+    ],
+    "Article 26": [
+      "3.   Each TSO shall regularly review the security plan to address changes of threat scenarios and reflect the evolution of the transmission system.",
+      "2.   The security plan shall consider potential impacts to the European interconnected transmission systems, and include organizational and physical measures aiming at mitigating the identified risks.",
+      "1.   Each TSO shall specify, taking into account Article 5 of Council Directive 2008/114/EC (10), a confidential security plan containing a risk assessment of assets owned or operated by the TSO, covering major physical or cyber threat scenarios determined by the Member State.",
+      "Security plan for critical infrastructure protection"
+    ],
+    "Article 151": [
+      "1.   All TSOs shall assess what technical infrastructure is necessary to implement and operate the processes referred to in Article 140 and considered critical pursuant to the security plan referred to in Article 26."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 26": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 151": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

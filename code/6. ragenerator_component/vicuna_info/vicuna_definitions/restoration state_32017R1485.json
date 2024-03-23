@@ -1,0 +1,52 @@
+{
+  "term": "restoration state",
+  "celex_id": "32017R1485",
+  "original_definition": "'restoration state' means the system state in which the objective of all activities in the transmission system is to re-establish the system operation and maintain operational security after the blackout state or the emergency state;",
+  "generated_definition": "'restoration state' means a state in which operational practices are improved, including those in emergency and restoration state.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018system state\u2019 means the operational state of the transmission system in relation to the operational security limits which can be normal state, alert state, emergency state, blackout state and restoration state;",
+      "\u2018system state\u2019 means the operational state of the transmission system in relation to theoperational securitylimits which can benormal state,alert state,emergency state,blackout stateandrestoration state;",
+      "\u2018restoration state\u2019 means the system state in which the objective of all activities in the transmission system is to re-establish the system operation and maintain operational security after the blackout state or the emergency state;",
+      "\u2018restoration state\u2019 means thesystem statein which the objective of all activities in the transmission system is to re-establish the system operation and maintainoperational securityafter theblackout stateor theemergency state;"
+    ],
+    "Article 18": [
+      "5.   A transmission system shall be in the restoration state when a TSO, being in the emergency or blackout state, has started to activate measures of its restoration plan.",
+      "5.   A transmission system shall be in therestoration statewhen a TSO, being in the emergency orblackout state, has started to activate measures of its restoration plan."
+    ],
+    "Article 56": [
+      "used to improve operational practices including also those in emergency and restoration state.",
+      "tests of operational practices inemergency stateandrestoration state.",
+      "tests of operational practices in emergency state and restoration state."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    "Article 18": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 56": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

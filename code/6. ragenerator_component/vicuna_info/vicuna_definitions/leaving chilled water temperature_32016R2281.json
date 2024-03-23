@@ -1,0 +1,39 @@
+{
+  "term": "leaving chilled water temperature",
+  "celex_id": "32016R2281",
+  "original_definition": "'leaving chilled water temperature' means the temperature of the water leaving the comfort chiller, expressed in degree Celsius.",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 1": [
+      "comfort chillers with leaving chilled water temperatures of less than + 2 \u00b0C and high temperature process chillers with leaving chilled water temperatures of less than + 2 \u00b0C or more than + 12 \u00b0C;",
+      "comfort chillers withleaving chilled water temperatures of less than + 2 \u00b0C andhigh temperature process chillers with leaving chilled water temperatures of less than + 2 \u00b0C or more than + 12 \u00b0C;"
+    ],
+    "Article 2": [
+      "\u2018leaving chilled water temperature\u2019 means the temperature of the water leaving the comfort chiller, expressed in degree Celsius.",
+      "\u2018leaving chilled water temperature\u2019 means the temperature of the water leaving thecomfort chiller, expressed in degree Celsius.",
+      "whose indoor side heat exchanger (evaporator) extracts heat from a water-based cooling system (heat source), designed to operate at leaving chilled water temperatures greater than or equal to + 2 \u00b0C;",
+      "whose indoor side heat exchanger (evaporator) extracts heat from awater-based cooling system(heat source), designed to operate atleaving chilled water temperatures greater than or equal to + 2 \u00b0C;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        0,
+        1,
+        1
+      ]
+    }
+  }
+}

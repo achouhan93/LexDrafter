@@ -1,0 +1,167 @@
+{
+  "term": "alert state",
+  "celex_id": "32017R1485",
+  "original_definition": "'alert state' means the system state in which the system is within operational security limits, but a contingency from the contingency list has been detected and in case of its occurrence the available remedial actions are not sufficient to keep the normal state;",
+  "generated_definition": "'alert state' means a system state characterized by insufficient active power reserves, as defined in article 18, requiring tsos to restore and replace necessary levels of active power reserves through changes in active power production or consumption within their control area.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018alert state\u2019 means thesystem statein which the system is withinoperational securitylimits, but a contingency from thecontingency listhas been detected and in case of its occurrence the available remedial actions are not sufficient to keep thenormal state;",
+      "\u2018system state\u2019 means the operational state of the transmission system in relation to the operational security limits which can be normal state, alert state, emergency state, blackout state and restoration state;",
+      "\u2018wide area state\u2019 means the qualification of an alert state, emergency state or blackout state when there is a risk of propagation to the interconnected transmission systems;",
+      "\u2018wide area state\u2019 means the qualification of analert state,emergency stateorblackout state when there is a risk of propagation to the interconnected transmission systems;",
+      "\u2018system state\u2019 means the operational state of the transmission system in relation to theoperational securitylimits which can benormal state,alert state,emergency state,blackout stateandrestoration state;",
+      "\u2018alert state\u2019 means the system state in which the system is within operational security limits, but a contingency from the contingency list has been detected and in case of its occurrence the available remedial actions are not sufficient to keep the normal state;"
+    ],
+    "Article 8": [
+      "measures taken in the alert state due to there being insufficient active power reserves in accordance with Article 152(11); and",
+      "measures taken in thealert statedue to there being insufficientactive power reserves in accordance with Article 152(11); and"
+    ],
+    "Article 18": [
+      "frequency does not meet the criteria for the normal state and for the alert state defined in accordance with paragraphs 1 and 2;",
+      "2.   A transmission system shall be in the alert state when:",
+      "the absolute value of the steady statesystem frequencyfrequency deviationis not larger than the maximumsteady state frequency deviationand the system frequency limits established for thealert state are not fulfilled;",
+      "the absolute value of the steady state system frequency deviation is not larger than the maximum steady state frequency deviation and the system frequency limits established for the alert state are not fulfilled;",
+      "frequency does not meet the criteria for thenormal stateand for thealert state defined in accordance with paragraphs 1 and 2;"
+    ],
+    "Article 22": [
+      "where applicable, include the normal or alert state, manually controlled load-shedding."
+    ],
+    "Article 23": [
+      "4.   When preparing and activating remedial actions each TSO shall, if its transmission system is not in normal oralert state, coordinate to the extent possible such remedial actions with the affected transmission-connected SGUs and DSOs to maintain theoperational security and the integrity of the transmission system.",
+      "3.   When preparing and activating remedial actions which have an impact on the transmission-connected SGUs and DSOs, each TSO shall, if its transmission system is in normal oralert state, assess the impact of such remedial actions in coordination with the affected SGUs and DSOs and select remedial actions that contribute to maintainingnormal state and secure operation of all involved parties. Each affected SGU and DSO shall provide to the TSO all necessary information for this coordination.",
+      "4.   When preparing and activating remedial actions each TSO shall, if its transmission system is not in normal or alert state, coordinate to the extent possible such remedial actions with the affected transmission-connected SGUs and DSOs to maintain the operational security and the integrity of the transmission system.",
+      "3.   When preparing and activating remedial actions which have an impact on the transmission-connected SGUs and DSOs, each TSO shall, if its transmission system is in normal or alert state, assess the impact of such remedial actions in coordination with the affected SGUs and DSOs and select remedial actions that contribute to maintaining normal state and secure operation of all involved parties. Each affected SGU and DSO shall provide to the TSO all necessary information for this coordination."
+    ],
+    "Article 25": [
+      "2.   When defining theoperational securitylimits, each TSO shall take into account the capabilities of SGUs to prevent that voltage ranges and frequency limits in normal andalert states lead to their disconnection.",
+      "2.   When defining the operational security limits, each TSO shall take into account the capabilities of SGUs to prevent that voltage ranges and frequency limits in normal and alert states lead to their disconnection."
+    ],
+    "Article 118": [
+      "common rules for the operation innormal stateandalert state in accordance with Article 152(6) and the actions referred to in Article 152(15);",
+      "common rules for the operation in normal state and alert state in accordance with Article 152(6) and the actions referred to in Article 152(15);"
+    ],
+    "Article 131": [
+      "for theLFC blocks of the GB or IE/NI synchronous area, during operation innormal stateoralert statein accordance with Article 18(1) and (2), on a monthly basis and for a data-set containing the average values of theFRCEof the LFC block over time intervals with a length of one minute: the number of events for which the absolute value of the FRCE exceeded themaximum steady-state frequency deviationand the FRCE was not returned to 10 % of the maximum steady-state frequency deviation within thetime to restore frequency, distinguishing between negative and positive FRCE.",
+      "for eachLFC blockof the CE or Nordic synchronous areas during operation innormal stateoralert state in accordance with Article 18(1) and (2), on a monthly basis:",
+      "for the synchronous area during operation in normal state or alert state as determined by Article 18(1) and (2), on a monthly basis, for the instantaneous frequency data:",
+      "for each LFC block of the CE or Nordic synchronous areas during operation in normal state or alert state in accordance with Article 18(1) and (2), on a monthly basis:",
+      "for the LFC blocks of the GB or IE/NI synchronous area, during operation in normal state or alert state in accordance with Article 18(1) and (2), on a monthly basis and for a data-set containing the average values of the FRCE of the LFC block over time intervals with a length of one minute: the number of events for which the absolute value of the FRCE exceeded the maximum steady-state frequency deviation and the FRCE was not returned to 10 % of the maximum steady-state frequency deviation within the time to restore frequency, distinguishing between negative and positive FRCE.",
+      "for the synchronous area during operation innormal stateoralert stateas determined by Article 18(1) and (2), on a monthly basis, for theinstantaneous frequency data:"
+    ],
+    "Article 152": [
+      "11.   If thesystem stateis in thealert statedue to insufficientactive power reserves in accordance with Article 18, the TSOs of the concernedLFC blocks shall, in close cooperation with the other TSOs of the synchronous area and the TSOs of other synchronous areas, act to restore and replace the necessary levels of active power reserves. For that purpose, the TSOs of a LFC block shall have the right to require changes in the active power production or consumption of power generating modules or demand units within its control area to reduce or to remove the violation of the requirements concerning active power reserve.",
+      "6.   All TSOs of a synchronous area shall define in the synchronous area operational agreement common rules for the operation of load-frequency control in thenormal stateandalert state.",
+      "11.   If the system state is in the alert state due to insufficient active power reserves in accordance with Article 18, the TSOs of the concerned LFC blocks shall, in close cooperation with the other TSOs of the synchronous area and the TSOs of other synchronous areas, act to restore and replace the necessary levels of active power reserves. For that purpose, the TSOs of a LFC block shall have the right to require changes in the active power production or consumption of power generating modules or demand units within its control area to reduce or to remove the violation of the requirements concerning active power reserve.",
+      "5.   The synchronous area monitor shall ensure that all TSOs of all synchronous areas are informed in case the system frequency deviation fulfils one of the criteria for the alert state referred to in Article 18.",
+      "5.   Thesynchronous area monitorshall ensure that all TSOs of all synchronous areas are informed in case thesystem frequencyfrequency deviationfulfils one of the criteria for thealert state referred to in Article 18.",
+      "6.   All TSOs of a synchronous area shall define in the synchronous area operational agreement common rules for the operation of load-frequency control in the normal state and alert state.",
+      "10.   All TSOs of a synchronous area shall specify in the synchronous area operational agreement the operational procedures for the alert state due to a violation of system frequency limits. The operational procedures shall aim at reducing the system frequency deviation in order to restore the system state to the normal state and to limit the risk of entering the emergency state. The operational procedures shall include the right of TSOs to deviate from the obligation set in Article 143(1).",
+      "10.   All TSOs of a synchronous area shall specify in the synchronous area operational agreement the operational procedures for thealert statedue to a violation ofsystem frequencylimits. The operational procedures shall aim at reducing the systemfrequency deviationin order to restore thesystem stateto thenormal stateand to limit the risk of entering theemergency state. The operational procedures shall include the right of TSOs to deviate from the obligation set in Article 143(1)."
+    ],
+    "Article 156": [
+      "9.   For the CE and Nordic synchronous areas, eachFCRprovider shall ensure that the FCR from its FCR providing units or groups with limited energy reservoirs are continuously available duringnormal state. For the CE and Nordic synchronous areas, as of triggering thealert stateand during the alert state, each FCR provider shall ensure that its FCR providing units or groups with limited energy reservoirs are able to fully activate FCR continuously for a time period to be defined pursuant to paragraphs 10 and 11. Where no period has been determined pursuant to paragraphs 10 and 11, each FCR provider shall ensure that its FCR providing units or groups with limited energy reservoirs are able to fully activate FCR continuously for at least 15 minutes or, in case offrequency deviations that are smaller than a frequency deviation requiring full FCR activation, for an equivalent length of time, or for a period defined by each TSO, which shall not be greater than 30 or smaller than 15 minutes.",
+      "11.   By 6 months after entry into force of this regulation, the TSOs of the CE and Nordic synchronous areas shall propose assumptions and methodology for a cost-benefit analysis to be conducted, in order to assess the time period required forFCRproviding units or groups with limited energy reservoirs to remain available duringalert state. By 12 months after approval of the assumptions and methodology by all regulatory authorities of the concerned region, the TSOs of the CE and Nordic synchronous areas shall submit the results of their cost-benefit analysis to the concerned regulatory authorities, suggesting a time period which shall not be greater than 30 or smaller than 15 minutes. The cost-benefit analysis shall take into account at least:",
+      "for the CE and Nordic synchronous areas, theFCRprovider shall ensure the recovery of the energy reservoirs as soon as possible, within 2 hours after the end of thealert state.",
+      "11.   By 6 months after entry into force of this regulation, the TSOs of the CE and Nordic synchronous areas shall propose assumptions and methodology for a cost-benefit analysis to be conducted, in order to assess the time period required for FCR providing units or groups with limited energy reservoirs to remain available during alert state. By 12 months after approval of the assumptions and methodology by all regulatory authorities of the concerned region, the TSOs of the CE and Nordic synchronous areas shall submit the results of their cost-benefit analysis to the concerned regulatory authorities, suggesting a time period which shall not be greater than 30 or smaller than 15 minutes. The cost-benefit analysis shall take into account at least:",
+      "for the CE and Nordic synchronous areas, the FCR provider shall ensure the recovery of the energy reservoirs as soon as possible, within 2 hours after the end of the alert state.",
+      "9.   For the CE and Nordic synchronous areas, each FCR provider shall ensure that the FCR from its FCR providing units or groups with limited energy reservoirs are continuously available during normal state. For the CE and Nordic synchronous areas, as of triggering the alert state and during the alert state, each FCR provider shall ensure that its FCR providing units or groups with limited energy reservoirs are able to fully activate FCR continuously for a time period to be defined pursuant to paragraphs 10 and 11. Where no period has been determined pursuant to paragraphs 10 and 11, each FCR provider shall ensure that its FCR providing units or groups with limited energy reservoirs are able to fully activate FCR continuously for at least 15 minutes or, in case of frequency deviations that are smaller than a frequency deviation requiring full FCR activation, for an equivalent length of time, or for a period defined by each TSO, which shall not be greater than 30 or smaller than 15 minutes."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 4,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 18": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 22": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 23": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 25": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 118": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 131": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 152": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 156": {
+      "article_score": 8,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        2
+      ]
+    }
+  }
+}

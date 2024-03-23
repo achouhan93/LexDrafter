@@ -1,0 +1,45 @@
+{
+  "term": "chromaticity",
+  "celex_id": "32019R2015",
+  "original_definition": "'chromaticity' means the property of a colour stimulus defined by its chromaticity coordinates (x and y);",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018chromaticity\u2019 means the property of a colour stimulus defined by its chromaticity coordinates (x and y);",
+      "chromaticity coordinates x and y in the range:"
+    ],
+    "Article 10": [
+      "Chromaticity coordinates (x and y)",
+      "\u2018colour consistency\u2019 means the maximum deviation of the initial (after a short period of time), spatially averagedchromaticitycoordinates (x and y) of a singlelight source from the chromaticity centre point (cx and cy) declared by the manufacturer or the importer, expressed as the size (in steps) of the MacAdam ellipse formed around the chromaticity centre point (cx and cy);",
+      "\u2018colour consistency\u2019 means the maximum deviation of the initial (after a short period of time), spatially averaged chromaticity coordinates (x and y) of a single light source from the chromaticity centre point (cx and cy) declared by the manufacturer or the importer, expressed as the size (in steps) of the MacAdam ellipse formed around the chromaticity centre point (cx and cy);",
+      "When verifying if a product is alight source, market surveillance authorities shall compare the measured values forchromaticitycoordinates (x and y),luminous flux, luminous flux density, andcolour rendering index directly with the limit values set out in the definition for light source of Article 2 of this Regulation, without applying any tolerances. If any of the 10 units in the sample satisfies the conditions for being a light source, the product model shall be considered to be a light source.",
+      "\u2018lighting control parts\u2019 means parts that are integrated in alight source, or physically separated but marketed together with a light source as a single product, that are not strictly necessary for the light source to emit light at full-load, but that enable manual \u2014 or automatic-, direct- or remote-, control of luminous intensity,chromaticity, correlated colour temperature, light spectrum and/or beam angle. Dimmers shall also be considered as lighting control parts.",
+      "When verifying if a product is a light source, market surveillance authorities shall compare the measured values for chromaticity coordinates (x and y), luminous flux, luminous flux density, and colour rendering index directly with the limit values set out in the definition for light source of Article 2 of this Regulation, without applying any tolerances. If any of the 10 units in the sample satisfies the conditions for being a light source, the product model shall be considered to be a light source.",
+      "\u2018lighting control parts\u2019 means parts that are integrated in a light source, or physically separated but marketed together with a light source as a single product, that are not strictly necessary for the light source to emit light at full-load, but that enable manual \u2014 or automatic-, direct- or remote-, control of luminous intensity, chromaticity, correlated colour temperature, light spectrum and/or beam angle. Dimmers shall also be considered as lighting control parts."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    },
+    "Article 10": {
+      "article_score": 9,
+      "statement_scores": [
+        1,
+        2,
+        3,
+        0,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

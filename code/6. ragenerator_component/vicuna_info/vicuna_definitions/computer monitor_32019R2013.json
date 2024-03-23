@@ -1,0 +1,24 @@
+{
+  "term": "computer monitor",
+  "celex_id": "32019R2013",
+  "original_definition": "'computer monitor' means an electronic display intended for one person for close viewing such as in a desk based environment;",
+  "generated_definition": "'computer monitor' means a device used to display information on a computer screen.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018monitor\u2019 or \u2018computer monitor\u2019 or \u2018computer display\u2019 means an electronic display intended for one person for close viewing such as in a desk based environment;",
+      "\u2018monitor\u2019 or \u2018computer monitor\u2019 or \u2018computer display\u2019 means anelectronic display intended for one person for close viewing such as in a desk based environment;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

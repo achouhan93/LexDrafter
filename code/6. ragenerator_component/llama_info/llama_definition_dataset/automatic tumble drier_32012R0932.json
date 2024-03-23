@@ -1,0 +1,33 @@
+{
+  "term": "automatic tumble drier",
+  "celex_id": "32012R0932",
+  "original_definition": "'automatic tumble drier' means a tumble drier which switches off the drying process when a certain moisture content of the load is detected, for example through conductivity or temperature sensing;",
+  "generated_definition": "'automatic tumble drier' means a household tumble drier that automatically selects and runs the standard cotton programme for drying cotton laundry, with an initial moisture content of 60%, up to a remaining moisture content of 0%.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018automatic tumble drier\u2019 means a tumble drier which switches off the drying process when a certain moisture content of the load is detected, for example through conductivity or temperature sensing;"
+    ],
+    "Article 8": [
+      "For the calculation of the energy consumption and other parameters for household tumble driers, the cycle which dries cotton laundry (with an initial moisture content of the load of 60 %) up to a remaining moisture content of the load of 0 % (hereinafter the \u2018standard cotton programme\u2019) shall be used. That cycle shall be clearly identifiable on the programme selection device(s) of the household tumble drier or the household tumble drier display, if any, or both, and indicated as \u2018standard cotton programme\u2019 or by a uniform symbol or an appropriate combination thereof, and shall be set as the default cycle for household tumble driers equipped with automatic programme selection or any function for automatically selecting a drying programme or maintaining the selection of a programme. If the tumble drier is automatic tumble drier the \u2018standard cotton programme\u2019 shall be automatic.",
+      "For the calculation of the energy consumption and other parameters forhousehold tumble driers, thecyclewhich dries cotton laundry (with an initial moisture content of the load of 60 %) up to a remaining moisture content of the load of 0 % (hereinafter the \u2018standard cotton programme\u2019) shall be used. That cycle shall be clearly identifiable on the programme selection device(s) of the household tumble drier or the household tumble drier display, if any, or both, and indicated as \u2018standard cotton programme\u2019 or by a uniform symbol or an appropriate combination thereof, and shall be set as the default cycle for household tumble driers equipped with automatic programme selection or any function for automatically selecting a drying programme or maintaining the selection of a programme. If the tumble drier isautomatic tumble drier the \u2018standard cotton programme\u2019 shall be automatic."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

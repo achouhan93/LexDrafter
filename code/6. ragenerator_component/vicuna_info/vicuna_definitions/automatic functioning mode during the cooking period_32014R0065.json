@@ -1,0 +1,24 @@
+{
+  "term": "automatic functioning mode during the cooking period",
+  "celex_id": "32014R0065",
+  "original_definition": "'automatic functioning mode during the cooking period' means a condition in which the air flow of the range hood during the cooking period is automatically controlled through sensor(s), including as regards humidity, temperature, etc.;",
+  "generated_definition": "'automatic functioning mode during the cooking period' means the device is in automatic functioning mode during the cooking period, and it is programmed to perform specific tasks without user intervention.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018automatic functioning mode during the cooking period\u2019 means a condition in which the air flow of the range hood during the cooking period is automatically controlled through sensor(s), including as regards humidity, temperature, etc.;",
+      "\u2018automatic functioning mode during the cooking period\u2019 means a condition in which the air flow of therange hood during the cooking period is automatically controlled through sensor(s), including as regards humidity, temperature, etc.;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "term": "solidarity protected customer",
+  "celex_id": "32017R1938",
+  "original_definition": "'solidarity protected customer' means a household customer who is connected to a gas distribution network, and, in addition, may include one or both of the following:a district heating installation if it is a protected customer in the relevant Member State and only in so far as it delivers heating to households or essential social services other than educational and public administration services;an essential social service if it is a protected customer in the relevant Member State, other than educational and public administration services;",
+  "generated_definition": "'solidarity protected customer' means a customer of a gas supply system in a member state who is protected by the solidarity mechanism under article [x] of the gas directive, where the member state has requested the application of the solidarity measure pursuant to article [y] of the gas directive.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018solidarity protected customer\u2019 means a household customer who is connected to a gas distribution network, and, in addition, may include one or both of the following:",
+      "\u2018solidarity protected customer\u2019 means ahousehold customerwho is connected to a gasdistribution network, and, in addition, may include one or both of the following:"
+    ],
+    "Article 13": [
+      "1.   If a Member State has requested the application of the solidarity measure pursuant to this Article, a Member State which is directly connected to the requesting Member State or, where the Member State so provides, its competent authority or transmission system operator or distribution system operator shall as far as possible without creating unsafe situations, take the necessary measures to ensure that the gas supply to customers other than solidarity protected customers in its territory is reduced or does not continue to the extent necessary and for as long as the gas supply to solidarity protected customers in the requesting Member State is not satisfied. The requesting Member State shall ensure that the relevant volume of gas is effectively delivered to solidarity protected customers in its territory."
+    ],
+    "Not Article": [
+      "It is appropriate to narrow down the definition ofcustomers protected under the solidarity mechanism. This is required by the obligation of Member States to provide solidarity in the case of extreme circumstances and for essential needs. The definition ofsolidarity protected customers should therefore be limited to households while still being able to include, under specific conditions, certainessential social services and district heating installations. It is therefore possible for Member States to treat, in accordance with that framework, healthcare, essential social care, emergency andsecurity services as solidarity protected customers, including where those services are performed by a public administration.",
+      "As demonstrated in the context of the October 2014 stress test exercise, solidarity is needed to ensure the security of gas supply in the Union. It spreads effects out more evenly and reduces overall effects of a severe disruption. The solidarity mechanism is designed to address extreme situations in which supply to solidarityprotected customers as an essential need and a necessary priority is at stake in a Member State. Solidarity ensures cooperation with more vulnerable Member States. At the same time, solidarity is a measure of last resort that applies only in an emergency and only under restrictive conditions. If an emergency is declared in a Member State, a gradual and proportionate approach should therefore be applied to ensure the security of gas supply. The Member State that declared the emergency should, in particular, first implement all emergency measures provided for in its emergency plan in order to ensure gas supply to its solidarity protected customers. At the same time, all Member States which have introduced an increased supply standard should temporarily reduce it to the normal supply standard to make the gas market more liquid, in the event that the Member State declaring the emergency indicates that cross-border action is required. If those two sets of measures fail to provide the necessary supply, solidarity measures by directly connected Member States should be taken to ensure gas supply to solidarity protected customers in the Member State experiencing the emergency, at that Member State's request. Such solidarity measures should consist in ensuring that the gas supply to customers other than solidarity protected customers in the territory of the Member State providing solidarity is reduced or does not continue, in order to free up gas volumes, to the extent necessary and for as long as the gas supply to solidarity protected customers in the Member State requesting solidarity is not satisfied. Nothing in this Regulation should be understood as requiring or enabling a Member State to exercise public authority in another Member State.",
+      "As demonstrated in the context of the October 2014 stress test exercise, solidarity is needed to ensure thesecurityof gas supply in the Union. It spreads effects out more evenly and reduces overall effects of a severe disruption. The solidarity mechanism is designed to address extreme situations in which supply to solidarityprotected customers as an essential need and a necessary priority is at stake in a Member State. Solidarity ensures cooperation with more vulnerable Member States. At the same time, solidarity is a measure of last resort that applies only in an emergency and only under restrictive conditions. If an emergency is declared in a Member State, a gradual and proportionate approach should therefore be applied to ensure the security of gas supply. The Member State that declared the emergency should, in particular, first implement all emergency measures provided for in its emergency plan in order to ensure gas supply to itssolidarity protected customers. At the same time, all Member States which have introduced an increased supply standard should temporarily reduce it to the normal supply standard to make the gas market more liquid, in the event that the Member State declaring the emergency indicates that cross-border action is required. If those two sets of measures fail to provide the necessary supply, solidarity measures by directly connected Member States should be taken to ensure gas supply to solidarity protected customers in the Member State experiencing the emergency, at that Member State's request. Such solidarity measures should consist in ensuring that the gas supply to customers other than solidarity protected customers in the territory of the Member State providing solidarity is reduced or does not continue, in order to free up gas volumes, to the extent necessary and for as long as the gas supply to solidarity protected customers in the Member State requesting solidarity is not satisfied. Nothing in this Regulation should be understood as requiring or enabling a Member State to exercise public authority in another Member State.",
+      "Where solidarity measures are taken as a last resort, the reduction or discontinuation of gas supply in the Member State providing solidarity should, where necessary for the Member State to comply with its solidarity obligations, and in order to avoid discriminatory treatment, be applicable to all customers which are not solidarity protected customers, irrespective of whether they receive gas directly or through solidarity protected district heating installations in the form of heating. The same should be ensured vice versa as regards customers, which are not solidarity protected customers in the Member State receiving gas under the solidarity mechanism.",
+      "It is appropriate to narrow down the definition of customers protected under the solidarity mechanism. This is required by the obligation of Member States to provide solidarity in the case of extreme circumstances and for essential needs. The definition of solidarity protected customers should therefore be limited to households while still being able to include, under specific conditions, certain essential social services and district heating installations. It is therefore possible for Member States to treat, in accordance with that framework, healthcare, essential social care, emergency and security services as solidarity protected customers, including where those services are performed by a public administration."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 13": {
+      "article_score": 3,
+      "statement_scores": [
+        3
+      ]
+    },
+    "Not Article": {
+      "article_score": 14,
+      "statement_scores": [
+        2,
+        4,
+        4,
+        2,
+        2
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "term": "pass-through cabinet",
+  "celex_id": "32015R1095",
+  "original_definition": "'pass-through cabinet' means a professional refrigerated storage cabinet accessible from both sides;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 1": [
+      "roll-in and pass-through cabinets;"
+    ],
+    "Article 2": [
+      "\u2018pass-through cabinet\u2019 means aprofessional refrigerated storage cabinet accessible from both sides;",
+      "\u2018pass-through cabinet\u2019 means a professional refrigerated storage cabinet accessible from both sides;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

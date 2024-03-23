@@ -1,0 +1,24 @@
+{
+  "term": "permission provision log",
+  "celex_id": "32023R1162",
+  "original_definition": "'permission provision log' means a timestamped record of when the permission for a an eligible party or final customer was granted, revoked, or terminated, including a permission identifier, and a party identifier;",
+  "generated_definition": "'access log' means a record of access to a website or system, typically including information such as the date and time of access, the ip address of the device, and the pages visited.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018permission provision log\u2019 means a timestamped record of when the permission for a aneligible party or final customer was granted, revoked, or terminated, including a permission identifier, and a party identifier;",
+      "\u2018permission provision log\u2019 means a timestamped record of when the permission for a an eligible party or final customer was granted, revoked, or terminated, including a permission identifier, and a party identifier;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

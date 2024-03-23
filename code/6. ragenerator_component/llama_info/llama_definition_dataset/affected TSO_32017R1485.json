@@ -1,0 +1,161 @@
+{
+  "term": "affected TSO",
+  "celex_id": "32017R1485",
+  "original_definition": "'affected TSO' means a TSO for which information on the exchange of reserves and/or sharing of reserves and/or imbalance netting process and/or cross-border activation process is needed for the analysis and maintenance of operational security;",
+  "generated_definition": "'affected TSO' means the tso that is directly affected by the exchange of reserves between synchronous areas, as defined in accordance with article 171(2) or 165(1) or 166(1).",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018affected TSO\u2019 means a TSO for which information on theexchange of reservesand/orsharing of reservesand/orimbalance netting processand/or cross-border activation process is needed for the analysis and maintenance ofoperational security;",
+      "\u2018affected TSO\u2019 means a TSO for which information on the exchange of reserves and/or sharing of reserves and/or imbalance netting process and/or cross-border activation process is needed for the analysis and maintenance of operational security;"
+    ],
+    "Article 118": [
+      "the roles and responsibilities of thereserve connecting TSO, thereserve receiving TSOand theaffected TSOas regards the exchange ofFRR and RR defined in accordance with Article 165(1);",
+      "the roles and responsibilities of thereserve connecting TSO, thereserve receiving TSOand theaffected TSOfor theexchange of reservesbetween synchronous areas, and of thecontrol capability providing TSO, thecontrol capability receiving TSOand the affected TSO for thesharing of reserves between synchronous areas defined in accordance with Article 171(2);",
+      "the roles and responsibilities of the reserve connecting TSO, the reserve receiving TSO and the affected TSO for the exchange of reserves between synchronous areas, and of the control capability providing TSO, the control capability receiving TSO and the affected TSO for the sharing of reserves between synchronous areas defined in accordance with Article 171(2);",
+      "the roles and responsibilities of thecontrol capability providing TSO, thecontrol capability receiving TSOand theaffected TSOfor the sharing ofFRR and RR defined in accordance with Article 166(1);",
+      "the roles and responsibilities of the control capability providing TSO, the control capability receiving TSO and the affected TSO for the sharing of FRR and RR defined in accordance with Article 166(1);",
+      "the roles and responsibilities of the reserve connecting TSO, the reserve receiving TSO and the affected TSO as regards the exchange of FRR and RR defined in accordance with Article 165(1);"
+    ],
+    "Article 119": [
+      "the roles and the responsibilities of thereserve connecting TSO, thereserve receiving TSOand of theaffected TSOfor the exchange ofFRRand/or RR with TSOs of otherLFC blocks defined in accordance with Article 165(6);",
+      "the roles and the responsibilities of thecontrol capability providing TSO, thecontrol capability receiving TSOand of theaffected TSOfor the sharing ofFRR and RR defined in accordance with Article 166(7);",
+      "roles and the responsibilities of the control capability providing TSO, the control capability receiving TSO and of the affected TSO for the sharing of FRR and RR between synchronous areas in accordance with Article 175(2);",
+      "the roles and the responsibilities of the control capability providing TSO, the control capability receiving TSO and of the affected TSO for the sharing of FRR and RR defined in accordance with Article 166(7);",
+      "the roles and the responsibilities of the reserve connecting TSO, the reserve receiving TSO and of the affected TSO for the exchange of FRR and/or RR with TSOs of other LFC blocks defined in accordance with Article 165(6);",
+      "roles and the responsibilities of thecontrol capability providing TSO, thecontrol capability receiving TSOand of theaffected TSOfor the sharing ofFRR and RR between synchronous areas in accordance with Article 175(2);"
+    ],
+    "Article 125": [
+      "in case of sharingFRRor RR within a synchronous area, the roles and responsibilities of thecontrol capability receiving TSOand of thecontrol capability providing TSOand theaffected TSOs in accordance with Article 165(3); or",
+      "in case of sharing FRR or RR within a synchronous area, the roles and responsibilities of the control capability receiving TSO and of the control capability providing TSO and the affected TSOs in accordance with Article 165(3); or"
+    ],
+    "Article 150": [
+      "3.   The affected TSO shall have the right to:"
+    ],
+    "Article 163": [
+      "5.   Eachaffected TSOshall verify that its reliability margin, established in accordance with Article 22 of Regulation (EU) 2015/1222, is sufficient to accommodate the power flows resulting from the activation of thereserve capacityonFCR subject to the exchange of FCR.",
+      "4.   Any reserve connecting TSO, reserve receiving TSO or affected TSO involved in the exchange of FCR may refuse the exchange of FCR where it would result in power flows that violate the operational security limits when activating the reserve capacity on FCR subject to the exchange of FCR.",
+      "5.   Each affected TSO shall verify that its reliability margin, established in accordance with Article 22 of Regulation (EU) 2015/1222, is sufficient to accommodate the power flows resulting from the activation of the reserve capacity on FCR subject to the exchange of FCR.",
+      "4.   Anyreserve connecting TSO,reserve receiving TSOoraffected TSOinvolved in the exchange ofFCRmay refuse the exchange of FCR where it would result in power flows that violate theoperational securitylimits when activating thereserve capacity on FCR subject to the exchange of FCR."
+    ],
+    "Article 165": [
+      "6.   All TSOs of aLFC blockshall specify in theLFC block operational agreementthe roles and responsibilities of thereserve connecting TSO, thereserve receiving TSOand theaffected TSOfor the exchange ofFRR and/or RR with TSOs of other LFC blocks.",
+      "4.   Anyreserve connecting TSO,reserve receiving TSOoraffected TSOinvolved in the exchange ofFRRor RR may refuse the exchange referred to in paragraph 2 where it would result in power flows that violate theoperational securitylimits when activating thereserve capacity on FRR and RR subject to the exchange of FRR or RR.",
+      "1.   All TSOs of a synchronous area shall define in the synchronous area operational agreement the roles and responsibilities of the reserve connecting TSO, the reserve receiving TSO and the affected TSO for the exchange of FRR and/or RR.",
+      "6.   All TSOs of a LFC block shall specify in the LFC block operational agreement the roles and responsibilities of the reserve connecting TSO, the reserve receiving TSO and the affected TSO for the exchange of FRR and/or RR with TSOs of other LFC blocks.",
+      "4.   Any reserve connecting TSO, reserve receiving TSO or affected TSO involved in the exchange of FRR or RR may refuse the exchange referred to in paragraph 2 where it would result in power flows that violate the operational security limits when activating the reserve capacity on FRR and RR subject to the exchange of FRR or RR.",
+      "1.   All TSOs of a synchronous area shall define in the synchronous area operational agreement the roles and responsibilities of thereserve connecting TSO, thereserve receiving TSOand theaffected TSOfor the exchange ofFRR and/or RR."
+    ],
+    "Article 166": [
+      "7.   All TSOs of aLFC blockshall specify in theLFC block operational agreementtheir roles and responsibilities of thecontrol capability providing TSO, thecontrol capability receiving TSOand theaffected TSOfor the sharing ofFRR and RR with TSOs of other LFC blocks.",
+      "4.   Anycontrol capability providing TSO,control capability receiving TSOoraffected TSOinvolved in the sharing ofFRR/RR may refuse sharing of FRR/RR where it would result in power flows that violate theoperational securitylimits when activating thereserve capacity on FRR and RR subject to the sharing of FRR/RR.",
+      "1.   All TSOs of a synchronous area shall specify in the synchronous area operational agreement the roles and responsibilities of thecontrol capability providing TSO, thecontrol capability receiving TSOand theaffected TSOfor sharingFRR/RR.",
+      "1.   All TSOs of a synchronous area shall specify in the synchronous area operational agreement the roles and responsibilities of the control capability providing TSO, the control capability receiving TSO and the affected TSO for sharing FRR/RR.",
+      "7.   All TSOs of a LFC block shall specify in the LFC block operational agreement their roles and responsibilities of the control capability providing TSO, the control capability receiving TSO and the affected TSO for the sharing of FRR and RR with TSOs of other LFC blocks.",
+      "4.   Any control capability providing TSO, control capability receiving TSO or affected TSO involved in the sharing of FRR/RR may refuse sharing of FRR/RR where it would result in power flows that violate the operational security limits when activating the reserve capacity on FRR and RR subject to the sharing of FRR/RR."
+    ],
+    "Article 171": [
+      "7.   Anyreserve connecting TSO,reserve receiving TSO,control capability providing TSO,control capability receiving TSOoraffected TSOinvolved in the exchange orsharing of reservesmay refuse the exchange or sharing of reserve where it would result in power flows that violate theoperational securitylimits when activating thereserve capacity subject to the exchange or sharing of reserve.",
+      "7.   Any reserve connecting TSO, reserve receiving TSO, control capability providing TSO, control capability receiving TSO or affected TSO involved in the exchange or sharing of reserves may refuse the exchange or sharing of reserve where it would result in power flows that violate the operational security limits when activating the reserve capacity subject to the exchange or sharing of reserve.",
+      "2.   All TSOs of the synchronous area shall specify in the synchronous area operational agreement the roles and the responsibilities of thereserve connecting TSO, thereserve receiving TSOand theaffected TSOfor theexchange of reservesas well as for thecontrol capability providing TSO,control capability receiving TSOand affected TSO for thesharing of reserves between synchronous areas.",
+      "2.   All TSOs of the synchronous area shall specify in the synchronous area operational agreement the roles and the responsibilities of the reserve connecting TSO, the reserve receiving TSO and the affected TSO for the exchange of reserves as well as for the control capability providing TSO, control capability receiving TSO and affected TSO for the sharing of reserves between synchronous areas."
+    ],
+    "Article 175": [
+      "2.   All TSOs of an LFC block shall specify in the LFC block operational agreement their roles and responsibilities of the control capability providing TSO, the control capability receiving TSO and the affected TSO for the sharing of FRR and RR with TSOs of other LFC blocks in other synchronous areas.",
+      "2.   All TSOs of anLFC blockshall specify in theLFC block operational agreementtheir roles and responsibilities of thecontrol capability providing TSO, thecontrol capability receiving TSOand theaffected TSOfor the sharing ofFRR and RR with TSOs of other LFC blocks in other synchronous areas."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 118": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        2,
+        2,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 119": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 125": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 150": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 163": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 165": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 166": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 171": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        2,
+        2
+      ]
+    },
+    "Article 175": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

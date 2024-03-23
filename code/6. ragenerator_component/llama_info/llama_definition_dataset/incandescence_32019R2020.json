@@ -1,0 +1,28 @@
+{
+  "term": "incandescence",
+  "celex_id": "32019R2020",
+  "original_definition": "'incandescence' means the phenomenon where light is produced from heat, in light sources typically produced through a threadlike conductor (\u2018filament\u2019) which is heated by the passage of an electric current;",
+  "generated_definition": "'incandescence' means a lighting technology that uses a heated filament to produce light, verified as a light source according to annex iv.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018incandescence\u2019 means the phenomenon wherelightis produced from heat, inlight sources typically produced through a threadlike conductor (\u2018filament\u2019) which is heated by the passage of an electric current;",
+      "using incandescence, fluorescence, high-intensity discharge, inorganic light emitting diodes (LED) or organic light emitting diodes (OLED), or their combinations as lighting technology, and that can be verified as a light source according to the procedure of Annex IV.",
+      "\u2018incandescence\u2019 means the phenomenon where light is produced from heat, in light sources typically produced through a threadlike conductor (\u2018filament\u2019) which is heated by the passage of an electric current;",
+      "usingincandescence,fluorescence, high-intensity discharge,inorganic light emitting diodes (LED) or organic light emitting diodes (OLED), or their combinations as lighting technology, and that can be verified as alight source according to the procedure of Annex IV."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1,
+        0,
+        0
+      ]
+    }
+  }
+}

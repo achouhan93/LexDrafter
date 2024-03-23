@@ -1,0 +1,96 @@
+{
+  "term": "balancing services",
+  "celex_id": "32017R2195",
+  "original_definition": "'balancing services' means balancing energy or balancing capacity, or both;",
+  "generated_definition": "'balancing services' means the exchange of balancing energy or capacity between tsos, including the tso-tso model and tso-bsp model, as defined by the european network code for balancing and control (enc bc).",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018TSO-TSO model\u2019 means a model for the exchange of balancing services where the balancing service provider provides balancing services to its connecting TSO, which then provides these balancing services to the requesting TSO;",
+      "\u2018balancing services\u2019 means balancing energy or balancing capacity, or both;",
+      "\u2018exchange of balancing services\u2019 means either or both exchange of balancing energy and exchange of balancing capacity;",
+      "\u2018standard product\u2019 means a harmonisedbalancingproduct defined by all TSOs for the exchange ofbalancing services;",
+      "\u2018TSO-TSO model\u2019 means a model for the exchange ofbalancing serviceswhere thebalancing service providerprovides balancing services to itsconnecting TSO, which then provides these balancing services to therequesting TSO;",
+      "\u2018balancing services\u2019 meansbalancing energyorbalancing capacity, or both;",
+      "\u2018contracting TSO\u2019 means the TSO that has contractual arrangements forbalancing serviceswith abalancing service provider in another scheduling area;",
+      "\u2018exchange ofbalancing services\u2019 means either or both exchange ofbalancing energyandexchange of balancing capacity;",
+      "\u2018balancing service provider\u2019 means a market participant with reserve-providing units or reserve-providing groups able to provide balancing services to TSOs;",
+      "\u2018TSO-BSP model\u2019 means a model for the exchange of balancing services where the balancing service provider provides balancing services directly to the contracting TSO, which then provides these balancing services to the requesting TSO;",
+      "\u2018standard product\u2019 means a harmonised balancing product defined by all TSOs for the exchange of balancing services;",
+      "\u2018contracting TSO\u2019 means the TSO that has contractual arrangements for balancing services with a balancing service provider in another scheduling area;",
+      "\u2018balancing service provider\u2019 means a market participant with reserve-providing units or reserve-providing groups able to providebalancing services to TSOs;",
+      "\u2018TSO-BSP model\u2019 means a model for the exchange ofbalancing serviceswhere thebalancing service providerprovides balancing services directly to thecontracting TSO, which then provides these balancing services to therequesting TSO;"
+    ],
+    "Article 3": [
+      "integratingbalancing markets and promoting the possibilities for exchanges ofbalancing services while contributing to operational security;",
+      "ensuring that the procurement of balancing services is fair, objective, transparent and market-based, avoids undue barriers to entry for new entrants, fosters the liquidity of balancing markets while preventing undue distortions within the internal market in electricity;",
+      "ensuring that the procurement ofbalancing servicesis fair, objective, transparent and market-based, avoids undue barriers to entry for new entrants, fosters the liquidity ofbalancing markets while preventing undue distortions within the internal market in electricity;",
+      "integrating balancing markets and promoting the possibilities for exchanges of balancing services while contributing to operational security;"
+    ],
+    "Article 14": [
+      "1.   Each TSO shall be responsible for procuringbalancing servicesfrombalancing service providers in order to ensure operational security.",
+      "1.   Each TSO shall be responsible for procuring balancing services from balancing service providers in order to ensure operational security."
+    ],
+    "Article 44": [
+      "provide incentives tobalancing service providers to offer and deliverbalancing servicesto theconnecting TSO;",
+      "provide incentives to balancing service providers to offer and deliver balancing services to the connecting TSO;"
+    ],
+    "Not Article": [
+      "In order to allow an exchange of balancing services, the creation of common merit order lists and adequate liquidity in the balancing market, it is necessary to regulate the standardisation of balancing products. This Regulation lists the minimum set of standard characteristics and additional characteristics defining standard products.",
+      "In order to allow an exchange ofbalancing services, the creation ofcommon merit order lists and adequate liquidity in thebalancing market, it is necessary to regulate the standardisation of balancing products. This Regulation lists the minimum set of standard characteristics and additional characteristics definingstandard products."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 20,
+      "statement_scores": [
+        3,
+        0,
+        1,
+        1,
+        3,
+        0,
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        3
+      ]
+    },
+    "Article 3": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 14": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 44": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

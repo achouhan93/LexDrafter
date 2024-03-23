@@ -1,0 +1,24 @@
+{
+  "term": "frequency containment reserves",
+  "celex_id": "32017R1485",
+  "original_definition": "'frequency containment reserves' means the active power reserves available to contain system frequency after the occurrence of an imbalance;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018frequency containment reserves\u2019 or \u2018FCR\u2019 means theactive power reserves available to containsystem frequency after the occurrence of an imbalance;",
+      "\u2018frequency containment reserves\u2019 or \u2018FCR\u2019 means the active power reserves available to contain system frequency after the occurrence of an imbalance;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

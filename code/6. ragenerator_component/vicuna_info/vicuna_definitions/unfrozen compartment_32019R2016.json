@@ -1,0 +1,22 @@
+{
+  "term": "unfrozen compartment",
+  "celex_id": "32019R2016",
+  "original_definition": "'unfrozen compartment' means a compartment type with a target temperature equal to or above 4 \u00b0C; that is a pantry, wine storage, cellar or fresh food compartment with storage conditions and target temperatures, as set out in Annex IV, Table 3;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 11": [
+      "for refrigerating appliances, except wine storage appliances: if the appliance contains only frozen compartment(s) or only unfrozen compartment(s), only the relevant pictogram in the top row, as set out in point 1.2 VII and VIII, shall be shown and centred between the two vertical borders of the energy label;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 11": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

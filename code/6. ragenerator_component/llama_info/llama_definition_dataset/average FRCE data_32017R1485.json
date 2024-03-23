@@ -1,0 +1,24 @@
+{
+  "term": "average FRCE data",
+  "celex_id": "32017R1485",
+  "original_definition": "'average FRCE data' means the set of data consisting of the average value of the recorded instantaneous FRCE of a LFC area or a LFC block within a given measured period time;",
+  "generated_definition": "'average FRCE data' means the average of the frce data points collected over a given period of time, typically used for statistical analysis and modeling.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018average FRCE data\u2019 means the set of data consisting of the average value of the recorded instantaneous FRCE of aLFC areaor aLFC block within a given measured period time;",
+      "\u2018average FRCE data\u2019 means the set of data consisting of the average value of the recorded instantaneous FRCE of a LFC area or a LFC block within a given measured period time;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

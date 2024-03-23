@@ -1,0 +1,33 @@
+{
+  "term": "planning phase",
+  "celex_id": "32009R0663",
+  "original_definition": "'planning phase' means the phase of a project that precedes the investment phase, during which project implementation is prepared, and includes, where appropriate, feasibility assessment, preparatory and technical studies, obtaining licences and authorisations and incurring capital costs.",
+  "generated_definition": "'planning phase' means the phase of a project in which planning and preparation activities are carried out to determine the scope, objectives, and resources required for successful implementation.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018planning phase\u2019 means the phase of a project that precedes the investment phase, during which project implementation is prepared, and includes, where appropriate, feasibility assessment, preparatory and technical studies, obtaining licences and authorisations and incurring capital costs.",
+      "\u2018planning phase\u2019 means the phase of a project that precedes theinvestment phase, during which project implementation is prepared, and includes, where appropriate, feasibility assessment, preparatory and technical studies, obtaining licences and authorisations and incurring capital costs."
+    ],
+    "Article 14": [
+      "the extent to which the project improves or increases the scale of installations and infrastructures that are already under construction, or are in the planning phase;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 14": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

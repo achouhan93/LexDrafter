@@ -1,0 +1,42 @@
+{
+  "term": "projector",
+  "celex_id": "32019R2021",
+  "original_definition": "'projector' means an optical device for processing analogue or digital video image information, in any format, to modulate a light source and project the resulting image onto an external surface;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 1": [
+      "projectors;"
+    ],
+    "Article 2": [
+      "\u2018projector\u2019 means an optical device for processing analogue or digital video image information, in any format, to modulate a light source and project the resulting image onto an external surface;"
+    ],
+    "Not Article": [
+      "The review concluded that there was a need for the introduction of new ecodesign energy-related requirements fortelevisions and that the same requirements should also apply to other displays, such as computer monitors, because of the rapidly increasing functionality overlap between different display types.Projectors use very different technologies and consequently should be out of scope of this Regulation.",
+      "The review concluded that there was a need for the introduction of new ecodesign energy-related requirements for televisions and that the same requirements should also apply to other displays, such as computer monitors, because of the rapidly increasing functionality overlap between different display types. Projectors use very different technologies and consequently should be out of scope of this Regulation."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Not Article": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

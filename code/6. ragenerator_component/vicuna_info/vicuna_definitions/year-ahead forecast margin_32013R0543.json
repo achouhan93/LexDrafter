@@ -1,0 +1,37 @@
+{
+  "term": "year-ahead forecast margin",
+  "celex_id": "32013R0543",
+  "original_definition": "'year-ahead forecast margin' means the difference between the yearly forecast of available generation capacity and the yearly forecast of maximum total load taking into account the forecast of total generation capacity, the forecast of availability of generation and the forecast of reserves contracted for system services;",
+  "generated_definition": "'year-ahead forecast margin' means the year-ahead forecast margin is the difference between the expected electricity demand and the available supply for a given time period, evaluated at the local market time unit.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018year-ahead forecast margin\u2019 means the difference between the yearly forecast of available generation capacity and the yearly forecast of maximum total load taking into account the forecast of total generation capacity, the forecast of availability of generation and the forecast of reserves contracted for system services;",
+      "\u2018year-ahead forecast margin\u2019 means the difference between the yearly forecast of available generation capacity and the yearly forecast of maximumtotal load taking into account the forecast of total generation capacity, the forecast of availability of generation and the forecast of reserves contracted for system services;"
+    ],
+    "Article 8": [
+      "Year-ahead forecast margin",
+      "1.   For their control areas, TSOs shall calculate and provide for each bidding zone the year-ahead forecast margin evaluated at the local market time unit to the ENTSO for Electricity.",
+      "1.   For theircontrol areas, TSOs shall calculate and provide for eachbidding zonetheyear-ahead forecast marginevaluated at the localmarket time unit to the ENTSO for Electricity."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

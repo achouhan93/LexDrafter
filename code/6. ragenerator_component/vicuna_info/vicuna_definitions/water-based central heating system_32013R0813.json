@@ -1,0 +1,35 @@
+{
+  "term": "water-based central heating system",
+  "celex_id": "32013R0813",
+  "original_definition": "'water-based central heating system' means a system using water as a heat transfer medium to distribute centrally generated heat to heat emitters for the space heating of buildings, or parts thereof;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "provides heat to a water-based central heating system in order to reach and maintain at a desired level the indoor temperature of an enclosed space such as a building, a dwelling or a room; and",
+      "\u2018water-based central heating system\u2019 means a system using water as a heat transfer medium to distribute centrally generated heat to heat emitters for the space heating of buildings, or parts thereof;"
+    ],
+    "Not Article": [
+      "The scope of this Regulation should include boiler space heaters, cogeneration space heaters and heat pump space heaters providing heat to water-based central heating systems for space heating purposes, and boiler combination heaters and heat pump combination heaters providing heat to water-based central heating systems for space heating purposes and heat to deliver hot drinking and sanitary water. These heaters are designed to use gaseous or liquid fuels, including from biomass (unless predominantly), electricity and ambient or waste heat.",
+      "The scope of this Regulation should includeboiler space heaters,cogeneration space heaters andheat pump space heaters providing heat towater-based central heating systems for space heating purposes, and boilercombination heaters andheat pump combination heaters providing heat to water-based central heating systems for space heating purposes and heat to deliver hot drinking and sanitary water. These heaters are designed to use gaseous or liquid fuels, including frombiomass (unless predominantly), electricity and ambient or waste heat."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Not Article": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    }
+  }
+}

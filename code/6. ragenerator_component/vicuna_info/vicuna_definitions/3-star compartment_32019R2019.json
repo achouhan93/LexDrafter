@@ -1,0 +1,24 @@
+{
+  "term": "3-star compartment",
+  "celex_id": "32019R2019",
+  "original_definition": "'3-star compartment' means a frozen compartment with a target temperature and storage conditions of - 18 \u00b0C, as set out in Annex III, Table 3;",
+  "generated_definition": "'3-star compartment' means a compartment in a train or bus with three-star rating, providing basic amenities and services, such as seating, luggage storage, and refreshments.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u20183-star compartment\u2019 means afrozen compartmentwith atarget temperature and storage conditions of - 18 \u00b0C, as set out in Annex III, Table 3;",
+      "\u20183-star compartment\u2019 means a frozen compartment with a target temperature and storage conditions of - 18 \u00b0C, as set out in Annex III, Table 3;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

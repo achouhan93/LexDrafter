@@ -1,0 +1,33 @@
+{
+  "term": "data access log",
+  "celex_id": "32023R1162",
+  "original_definition": "'data access log' means a timestamped record of data items accessed that includes at least the identification of the final customer or the eligible party accessing the data and, if applicable, the identification of the permission used to access the data;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018data access log\u2019 means a timestamped record of data items accessed that includes at least the identification of the final customer or the eligible party accessing the data and, if applicable, the identification of the permission used to access the data;",
+      "\u2018data access log\u2019 means a timestamped record of data items accessed that includes at least the identification of the final customer or theeligible partyaccessing the data and, if applicable, the identification of thepermission used to access the data;"
+    ],
+    "Article\u00a05": [
+      "keep a data access log up to date and make this available to final customers through an online or through another appropriate interface, free of charge, without unnecessary delay, and on final customer\u2019s request;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article\u00a05": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

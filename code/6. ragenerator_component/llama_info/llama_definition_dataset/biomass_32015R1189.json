@@ -1,0 +1,47 @@
+{
+  "term": "biomass",
+  "celex_id": "32015R1189",
+  "original_definition": "'biomass' means the biodegradable fraction of products, waste and residues from biological origin from agriculture (including vegetal and animal substances), forestry and related industries including fisheries and aquaculture, as well as the biodegradable fraction of industrial and municipal waste;",
+  "generated_definition": "'biomass' means biomass: organic matter that is derived from living organisms, such as plants, trees, and microorganisms, and can be used as a fuel or feedstock for various industries.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018biomass\u2019 means the biodegradable fraction of products, waste and residues from biological origin from agriculture (including vegetal and animal substances), forestry and related industries including fisheries and aquaculture, as well as the biodegradable fraction of industrial and municipal waste;",
+      "\u2018solid fuel\u2019 means a fuel that is solid at normal indoor room temperatures, including solid biomass and solid fossil fuel;",
+      "\u2018fossil fuel\u2019 means fuel other than biomass, including anthracite, brown coal, coke, bituminous coal; for the purposes of this Regulation it also includes peat;",
+      "\u2018solid fuel\u2019 means a fuel that is solid at normal indoor room temperatures, including solidbiomassand solidfossil fuel;",
+      "\u2018fossil fuel\u2019 means fuel other thanbiomass, including anthracite, brown coal, coke, bituminous coal; for the purposes of this Regulation it also includes peat;"
+    ],
+    "Article 9": [
+      "Other blend of biomass and fossil fuel",
+      "Blendedbiomass(30-70 %)/fossil fuel briquettes",
+      "Other blend ofbiomassandfossil fuel",
+      "\u2018fossil fuel boiler\u2019 means a solid fuel boiler that has fossil fuel or a blend of biomass and fossil fuel as preferred fuel;",
+      "Blended biomass (30-70 %)/fossil fuel briquettes"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        0,
+        0,
+        1,
+        1
+      ]
+    }
+  }
+}

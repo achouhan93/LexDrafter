@@ -1,0 +1,41 @@
+{
+  "term": "biomass fuel",
+  "celex_id": "32013R0812",
+  "original_definition": "'biomass fuel' means a gaseous or liquid fuel produced from biomass;",
+  "generated_definition": "'biomass fuel' means fuels derived from organic matter, including plant and animal waste, for use as energy.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018biomass fuel\u2019 means a gaseous or liquid fuel produced from biomass;"
+    ],
+    "Article 8": [
+      "\u2018annual fuel consumption\u2019 (AFC) means the annual fossil and/orbiomass fuelconsumption of awater heater under the declared load profile and under given climate conditions, expressed in GJ in terms of GCV;",
+      "in addition, forwater heaters using fossil and/orbiomass fuels:",
+      "\u2018annual fuel consumption\u2019 (AFC) means the annual fossil and/or biomass fuel consumption of a water heater under the declared load profile and under given climate conditions, expressed in GJ in terms of GCV;",
+      "in addition, for water heaters using fossil and/or biomass fuels:",
+      "\u2018conventional water heater\u2019 means a water heater that generates heat using the combustion of fossil and/or biomass fuels and/or the Joule effect in electric resistance heating elements;",
+      "\u2018conventionalwater heater\u2019 means a water heater that generates heat using the combustion of fossil and/orbiomass fuels and/or the Joule effect in electric resistance heating elements;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

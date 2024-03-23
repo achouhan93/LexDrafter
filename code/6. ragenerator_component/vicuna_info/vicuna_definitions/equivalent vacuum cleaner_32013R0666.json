@@ -1,0 +1,33 @@
+{
+  "term": "equivalent vacuum cleaner",
+  "celex_id": "32013R0666",
+  "original_definition": "'equivalent vacuum cleaner' means a model of vacuum cleaner placed on the market with the same input power, annual energy consumption, dust pick up on carpet and hard floor, dust re-emission, sound power level, hose durability and operational motor lifetime as another model of vacuum cleaner placed on the market under a different commercial code number by the same manufacturer.",
+  "generated_definition": "'equivalent vacuum cleaner' means a vacuum cleaner model for which technical documentation has been prepared based on calculations using another vacuum cleaner model with similar performance characteristics as a reference.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018equivalent vacuum cleaner\u2019 means a model of vacuum cleaner placed on the market with the same input power, annual energy consumption, dust pick up on carpet and hard floor, dust re-emission, sound power level, hose durability and operational motor lifetime as another model of vacuum cleaner placed on the market under a different commercial code number by the same manufacturer."
+    ],
+    "Article 4": [
+      "3.   Where the information included in the technical documentation for a particular vacuum cleaner model has been obtained by calculation on the basis of an equivalent vacuum cleaner, the technical documentation shall include details of such calculations and of tests undertaken by manufacturers to verify the accuracy of the calculations undertaken. In such cases, the technical documentation shall also include a list of all other equivalent vacuum cleaner models where the information included in the technical documentation was obtained on the same basis.",
+      "3.   Where the information included in the technical documentation for a particularvacuum cleanermodel has been obtained by calculation on the basis of anequivalent vacuum cleaner, the technical documentation shall include details of such calculations and of tests undertaken by manufacturers to verify the accuracy of the calculations undertaken. In such cases, the technical documentation shall also include a list of all other equivalent vacuum cleaner models where the information included in the technical documentation was obtained on the same basis."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 4": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    }
+  }
+}

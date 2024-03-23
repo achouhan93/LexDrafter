@@ -1,0 +1,49 @@
+{
+  "term": "other suitable fuel",
+  "celex_id": "32015R1189",
+  "original_definition": "'other suitable fuel' means a solid fuel, other than the preferred fuel, which can be used in the solid fuel boiler according to the manufacturer's instructions and includes any fuel that is mentioned in the instruction manual for installers and end-users, on free access websites of manufacturers, in technical promotional material and in advertisements;",
+  "generated_definition": "'other suitable fuel' means fuel other than the preferred fuel or any other fuel indicated in table 1 of annex ii, including but not limited to woody biomass, non-woody biomass, fossil fuel, and blends thereof, as determined by its unambiguous identification and technical standard or specification, including moisture content, ash content, and volatile content, as applicable.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018non-woody biomass boiler\u2019 means a biomass boiler that uses non-woody biomass as the preferred fuel and for which woody biomass, fossil fuel or a blend of biomass and fossil fuel are not listed among its other suitable fuels;",
+      "\u2018other suitable fuel\u2019 means a solid fuel, other than the preferred fuel, which can be used in the solid fuel boiler according to the manufacturer's instructions and includes any fuel that is mentioned in the instruction manual for installers and end-users, on free access websites of manufacturers, in technical promotional material and in advertisements;",
+      "\u2018other suitable fuel\u2019 means asolid fuel, other than thepreferred fuel, which can be used in thesolid fuel boiler according to the manufacturer's instructions and includes any fuel that is mentioned in the instruction manual for installers and end-users, on free access websites of manufacturers, in technical promotional material and in advertisements;",
+      "\u2018non-woody biomass boiler\u2019 means a biomass boiler that uses non-woody biomass as thepreferred fueland for which woody biomass,fossil fuelor a blend of biomass and fossil fuel are not listed among itsother suitable fuels;"
+    ],
+    "Article 9": [
+      "instruction on the proper way to operate the solid fuel boiler and on the quality requirements for the preferred fuel and any other suitable fuels;",
+      "where the preferred fuel or any other suitable fuel is other woody biomass, non-woody biomass, other fossil fuel or other blend of biomass and fossil fuel as referred to in Table 1, a description of the fuel sufficient for its unambiguous identification and the technical standard or specification of the fuel, including the measured moisture content, and the measured ash content, and for other fossil fuel also the measured volatile content of the fuel;",
+      "Solid fuel boilers shall be tested for the preferred fuel and any other suitable fuels indicated in Table 1 of Annex II, with the exception that boilers tested for chipped wood with a moisture content of more than 35 % meeting the applicable requirements are considered to also meet such requirements for chipped wood with a moisture content of 15-35 % and are not required to be tested for chipped wood with a moisture content of 15-35 %.",
+      "Solid fuel boilers shall be tested for thepreferred fueland anyother suitable fuels indicated in Table 1 of Annex II, with the exception that boilers tested for chipped wood with a moisture content of more than 35 % meeting the applicable requirements are considered to also meet such requirements for chipped wood with a moisture content of 15-35 % and are not required to be tested for chipped wood with a moisture content of 15-35 %.",
+      "Other suitable fuel(s):",
+      "These requirements shall be met for the preferred fuel and for any other suitable fuel for the solid fuel boiler.",
+      "where thepreferred fuelor anyother suitable fuelis otherwoody biomass,non-woody biomass, otherfossil fuel or other blend of biomass and fossil fuel as referred to in Table 1, a description of the fuel sufficient for its unambiguous identification and the technical standard or specification of the fuel, including the measured moisture content, and the measured ash content, and for other fossil fuel also the measured volatile content of the fuel;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "Article 9": {
+      "article_score": 7,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

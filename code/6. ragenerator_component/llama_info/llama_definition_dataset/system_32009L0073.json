@@ -1,0 +1,631 @@
+{
+  "term": "system",
+  "celex_id": "32009L0073",
+  "original_definition": "'system' means a natural or legal person who carries out the function of transmission and is responsible for operating, ensuring the maintenance of, and, if necessary, developing the transmission system in a given area and, where applicable, its interconnections with other systems, and for ensuring the long-term ability of the system to meet reasonable demands for the transport of gas;",
+  "generated_definition": "'system' means a set of interconnected components, devices, or processes that work together to achieve a specific function or goal in the context of electricity transmission.",
+  "existing_sentences": {
+    "Article\u00a01": [
+      "1.   This Directive establishes common rules for thetransmission,distribution,supplyand storage of natural gas. It lays down the rules relating to the organisation and functioning of the natural gas sector, access to the market, the criteria and procedures applicable to the granting of authorisations for transmission, distribution, supply and storage of natural gas and the operation ofsystems.",
+      "1.   This Directive establishes common rules for the transmission, distribution, supply and storage of natural gas. It lays down the rules relating to the organisation and functioning of the natural gas sector, access to the market, the criteria and procedures applicable to the granting of authorisations for transmission, distribution, supply and storage of natural gas and the operation of systems.",
+      "2.   The rules established by this Directive for natural gas, including LNG, shall also apply in a non-discriminatory way to biogas and gas from biomass or other types of gas in so far as such gases can technically and safely be injected into, and transported through, the natural gas system."
+    ],
+    "Article\u00a02": [
+      "\u2018system\u2019 means any transmission networks, distribution networks, LNG facilities and/or storage facilities owned and/or operated by a natural gas undertaking, including linepack and its facilities supplying ancillary services and those of related undertakings necessary for providing access to transmission, distribution and LNG;",
+      "\u2018LNG facility\u2019 means a terminal which is used for the liquefaction of natural gas or the importation, offloading, and re-gasification of LNG, and includes ancillary services and temporary storage necessary for the re-gasification process and subsequent delivery to the transmission system, but does not include any part of LNG terminals used for storage;",
+      "\u2018linepack\u2019 means the storage of gas by compression in gastransmissionanddistributionsystems, but not including facilities reserved fortransmission system operators carrying out their functions;",
+      "\u2018interconnector\u2019 means atransmissionline which crosses or spans a border between Member States for the sole purpose of connecting the national transmissionsystems of those Member States;",
+      "\u2018LNG facility\u2019 means a terminal which is used for the liquefaction of natural gas or the importation, offloading, and re-gasification of LNG, and includesancillary servicesand temporary storage necessary for the re-gasification process and subsequent delivery to thetransmissionsystem, but does not include any part of LNG terminals used for storage;",
+      "\u2018long-term planning\u2019 means the planning of supply and transport capacity of natural gas undertakings on a long-term basis with a view to meeting the demand for natural gas of the system, diversification of sources and securing supplies to customers;",
+      "\u2018linepack\u2019 means the storage of gas by compression in gas transmission and distribution systems, but not including facilities reserved for transmission system operators carrying out their functions;",
+      "\u2018long-term planning\u2019 means the planning ofsupplyand transport capacity ofnatural gas undertakings on a long-term basis with a view to meeting the demand for natural gas of thesystem, diversification of sources and securing supplies tocustomers;",
+      "\u2018system\u2019 means anytransmissionnetworks,distributionnetworks, LNG facilities and/or storage facilities owned and/or operated by anatural gas undertaking, includinglinepackand its facilitiessupplyingancillary servicesand those ofrelated undertakings necessary for providing access to transmission, distribution and LNG;",
+      "\u2018interconnector\u2019 means a transmission line which crosses or spans a border between Member States for the sole purpose of connecting the national transmission systems of those Member States;"
+    ],
+    "Article\u00a03": [
+      "8.   In order to promote energy efficiency, Member States or, where a Member State has so provided, the regulatory authority shall strongly recommend thatnatural gas undertakings optimise the use of gas, for example by providing energy management services, developing innovative pricing formulas or introducing intelligent meteringsystems or smart grids where appropriate.",
+      "4.   Member States shall take appropriate measures, such as formulating national energy action plans, providing socialsecuritybenefits to ensure the necessary gassupplyto vulnerablecustomers, or providing for support for energy efficiency improvements, to address energy poverty where identified, including in the broader context of poverty. Such measures shall not impede the effective opening of the market set out in Article 37 and market functioning and shall be notified to the Commission, where relevant, in accordance with paragraph 11 of this Article. Such notification shall not include measures taken within the general social securitysystem.",
+      "4.   Member States shall take appropriate measures, such as formulating national energy action plans, providing social security benefits to ensure the necessary gas supply to vulnerable customers, or providing for support for energy efficiency improvements, to address energy poverty where identified, including in the broader context of poverty. Such measures shall not impede the effective opening of the market set out in Article 37 and market functioning and shall be notified to the Commission, where relevant, in accordance with paragraph 11 of this Article. Such notification shall not include measures taken within the general social security system.",
+      "2.   Having full regard to the relevant provisions of the Treaty, in particular Article 86 thereof, Member States may impose on undertakings operating in the gas sector, in the general economic interest, public service obligations which may relate tosecurity, including security ofsupply, regularity, quality and price of supplies, and environmental protection, including energy efficiency, energy from renewable sources and climate protection. Such obligations shall be clearly defined, transparent, non-discriminatory, verifiable and shall guarantee equality of access fornatural gas undertakings of the Community to national consumers. In relation to security of supply, energy efficiency/demand-side management and for the fulfilment of environmental goals and goals for energy from renewable sources, as referred to in this paragraph, Member States may introduce the implementation oflong-term planning, taking into account the possibility of third parties seeking access to thesystem.",
+      "3.   Member States shall take appropriate measures to protect final customers, and shall, in particular, ensure that there are adequate safeguards to protect vulnerable customers. In this context, each Member State shall define the concept of vulnerable customers which may refer to energy poverty and, inter alia, to the prohibition of disconnection of gas to such customers in critical times. Member States shall ensure that rights and obligations linked to vulnerable customers are applied. In particular, they shall take appropriate measures to protect final customers in remote areas who are connected to the gas system. Member States may appoint a supplier of last resort for customers connected to the gas system. They shall ensure high levels of consumer protection, particularly with respect to transparency regarding contractual terms and conditions, general information and dispute settlement mechanisms. Member States shall ensure that the eligible customer is in fact able easily to switch to a new supplier. As regards at least household customers those measures shall include those set out in Annex I.",
+      "2.   Having full regard to the relevant provisions of the Treaty, in particular Article 86 thereof, Member States may impose on undertakings operating in the gas sector, in the general economic interest, public service obligations which may relate to security, including security of supply, regularity, quality and price of supplies, and environmental protection, including energy efficiency, energy from renewable sources and climate protection. Such obligations shall be clearly defined, transparent, non-discriminatory, verifiable and shall guarantee equality of access for natural gas undertakings of the Community to national consumers. In relation to security of supply, energy efficiency/demand-side management and for the fulfilment of environmental goals and goals for energy from renewable sources, as referred to in this paragraph, Member States may introduce the implementation of long-term planning, taking into account the possibility of third parties seeking access to the system.",
+      "3.   Member States shall take appropriate measures to protectfinal customers, and shall, in particular, ensure that there are adequate safeguards to protect vulnerable customers. In this context, each Member State shall define the concept of vulnerable customers which may refer to energy poverty and, inter alia, to the prohibition of disconnection of gas to such customers in critical times. Member States shall ensure that rights and obligations linked to vulnerable customers are applied. In particular, they shall take appropriate measures to protect final customers in remote areas who are connected to the gassystem. Member States may appoint a supplier of last resort for customers connected to the gas system. They shall ensure high levels of consumer protection, particularly with respect to transparency regarding contractual terms and conditions, general information and dispute settlement mechanisms. Member States shall ensure that theeligible customeris in fact able easily to switch to a new supplier. As regards at leasthousehold customers those measures shall include those set out in Annex I.",
+      "8.   In order to promote energy efficiency, Member States or, where a Member State has so provided, the regulatory authority shall strongly recommend that natural gas undertakings optimise the use of gas, for example by providing energy management services, developing innovative pricing formulas or introducing intelligent metering systems or smart grids where appropriate."
+    ],
+    "Article\u00a04": [
+      "4.   For the development of newly supplied areas and efficient operation generally, and without prejudice to Article 38, Member States may decline to grant a further authorisation to build and operate distribution pipeline systems in any particular area once such pipeline systems have been or are proposed to be built in that area and if existing or proposed capacity is not saturated.",
+      "2.   Where Member States have asystemof authorisation, they shall lay down objective and non-discriminatory criteria which shall be met by an undertaking applying for an authorisation to build and/or operate natural gas facilities or applying for an authorisation tosupply natural gas. The non-discriminatory criteria and procedures for the granting of authorisations shall be made public. Member States shall ensure that authorisation procedures for facilities, pipelines and associated equipment take into account the importance of the project for the internal market in natural gas where appropriate.",
+      "4.   For the development of newly supplied areas and efficient operation generally, and without prejudice to Article 38, Member States may decline to grant a further authorisation to build and operatedistributionpipelinesystems in any particular area once such pipeline systems have been or are proposed to be built in that area and if existing or proposed capacity is not saturated.",
+      "2.   Where Member States have a system of authorisation, they shall lay down objective and non-discriminatory criteria which shall be met by an undertaking applying for an authorisation to build and/or operate natural gas facilities or applying for an authorisation to supply natural gas. The non-discriminatory criteria and procedures for the granting of authorisations shall be made public. Member States shall ensure that authorisation procedures for facilities, pipelines and associated equipment take into account the importance of the project for the internal market in natural gas where appropriate."
+    ],
+    "Article\u00a08": [
+      "The regulatory authorities where Member States have so provided or Member States shall ensure that technical safety criteria are defined and that technical rules establishing the minimum technical design and operational requirements for the connection to thesystemof LNG facilities, storage facilities, othertransmissionordistributionsystems, anddirect lines, are developed and made public. Those technical rules shall ensure the interoperability of systems and shall be objective and non-discriminatory. The Agency may make appropriate recommendations towards achieving compatibility of those rules, where appropriate. Those rules shall be notified to the Commission in accordance with Article 8 of Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society services (16).",
+      "The regulatory authorities where Member States have so provided or Member States shall ensure that technical safety criteria are defined and that technical rules establishing the minimum technical design and operational requirements for the connection to the system of LNG facilities, storage facilities, other transmission or distribution systems, and direct lines, are developed and made public. Those technical rules shall ensure the interoperability of systems and shall be objective and non-discriminatory. The Agency may make appropriate recommendations towards achieving compatibility of those rules, where appropriate. Those rules shall be notified to the Commission in accordance with Article 8 of Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society services (16)."
+    ],
+    "Article\u00a09": [
+      "Unbundling oftransmissionsystems andtransmission system operators",
+      "11.   Vertically integrated undertakings which own a transmission system shall not in any event be prevented from taking steps to comply with paragraph 1.",
+      "Unbundling of transmission systems and transmission system operators",
+      "designate an independent system operator in accordance with Article 14, or",
+      "8.   Where on 3 September 2009, the transmission system belongs to a vertically integrated undertaking a Member State may decide not to apply paragraph 1.",
+      "5.   The obligation set out in paragraph 1(a) of this Article shall be deemed to be fulfilled in a situation where two or more undertakings which own transmission systems have created a joint venture which acts as a transmission system operator in two or more Member States for the transmission systems concerned. No other undertaking may be part of the joint venture, unless it has been approved under Article 14 as an independent system operator or as an independent transmission operator for the purposes of Chapter IV.",
+      "each undertaking which owns atransmissionsystemacts as atransmission system operator;",
+      "8.   Where on 3 September 2009, thetransmissionsystembelongs to avertically integrated undertaking a Member State may decide not to apply paragraph 1.",
+      "5.   The obligation set out in paragraph 1(a) of this Article shall be deemed to be fulfilled in a situation where two or more undertakings which owntransmissionsystems have created a joint venture which acts as atransmission system operator in two or more Member States for the transmission systems concerned. No other undertaking may be part of the joint venture, unless it has been approved under Article 14 as an independent system operator or as an independent transmission operator for the purposes of Chapter IV.",
+      "9.   Where, on 3 September 2009, thetransmissionsystembelongs to avertically integrated undertakingand there are arrangements in place which guarantee more effective independence of thetransmission system operator than the provisions of Chapter IV, a Member State may decide not to apply paragraph 1.",
+      "11.Vertically integrated undertakings which own atransmissionsystem shall not in any event be prevented from taking steps to comply with paragraph 1.",
+      "9.   Where, on 3 September 2009, the transmission system belongs to a vertically integrated undertaking and there are arrangements in place which guarantee more effective independence of the transmission system operator than the provisions of Chapter IV, a Member State may decide not to apply paragraph 1.",
+      "each undertaking which owns a transmission system acts as a transmission system operator;"
+    ],
+    "Article\u00a010": [
+      "2.   Undertakings which own atransmissionsystemand which have been certified by the national regulatory authority as having complied with the requirements of Article 9, pursuant to the certification procedure, shall be approved and designated astransmission system operators by Member States. The designation of transmission system operators shall be notified to the Commission and published in the Official Journal of the European Union.",
+      "2.   Undertakings which own a transmission system and which have been certified by the national regulatory authority as having complied with the requirements of Article 9, pursuant to the certification procedure, shall be approved and designated as transmission system operators by Member States. The designation of transmission system operators shall be notified to the Commission and published in the Official Journal of the European Union.",
+      "on their own initiative where they have knowledge that a planned change in rights or influence overtransmissionsystemowners ortransmission system operators may lead to an infringement of Article 9, or where they have reason to believe that such an infringement may have occurred; or",
+      "on their own initiative where they have knowledge that a planned change in rights or influence over transmission system owners or transmission system operators may lead to an infringement of Article 9, or where they have reason to believe that such an infringement may have occurred; or"
+    ],
+    "Article\u00a011": [
+      "1.   Where certification is requested by atransmissionsystemowner or atransmission system operatorwhich iscontrolled by a person or persons from a third country or third countries, the regulatory authority shall notify the Commission.",
+      "1.   Where certification is requested by a transmission system owner or a transmission system operator which is controlled by a person or persons from a third country or third countries, the regulatory authority shall notify the Commission.",
+      "The regulatory authority shall also notify to the Commission without delay any circumstances that would result in a person or persons from a third country or third countries acquiring control of a transmission system or a transmission system operator.",
+      "The regulatory authority shall also notify to the Commission without delay any circumstances that would result in a person or persons from a third country or third countries acquiringcontrolof atransmissionsystemor atransmission system operator."
+    ],
+    "Article\u00a014": [
+      "5.   Where an independent system operator has been designated, the transmission system owner shall:",
+      "finance the investments decided by the independent system operator and approved by the regulatory authority, or give its agreement to financing by any interested party including the independent system operator. The relevant financing arrangements shall be subject to approval by the regulatory authority. Prior to such approval, the regulatory authority shall consult the transmission system owner together with other interested parties;",
+      "provide for the coverage of liability relating to the network assets, excluding the liability relating to the tasks of the independent system operator; and",
+      "Independent system operators",
+      "1.   Where thetransmissionsystembelongs to avertically integrated undertaking on 3 September 2009, Member States may decide not to apply Article 9(1) and designate an independent system operator upon a proposal from the transmission system owner. Such designation shall be subject to approval by the Commission.",
+      "3.   Undertakings which have been certified by the regulatory authority as having complied with the requirements of Article 11 and of paragraph 2 of this Article shall be approved and designated as independent system operators by Member States. The certification procedure in either Article 10 of this Directive and Article 3 of Regulation (EC) No 715/2009 or in Article 11 of this Directive shall be applicable.",
+      "6.   In close cooperation with the regulatory authority, the relevant national competition authority shall be granted all relevant powers to effectively monitor compliance of thetransmissionsystem owner with its obligations under paragraph 5.",
+      "provide all the relevant cooperation and support to the independent system operator for the fulfilment of its tasks, including in particular all relevant information;",
+      "6.   In close cooperation with the regulatory authority, the relevant national competition authority shall be granted all relevant powers to effectively monitor compliance of the transmission system owner with its obligations under paragraph 5.",
+      "5.   Where an independentsystemoperator has been designated, thetransmission system owner shall:",
+      "finance the investments decided by the independentsystemoperator and approved by the regulatory authority, or give its agreement to financing by any interested party including the independent system operator. The relevant financing arrangements shall be subject to approval by the regulatory authority. Prior to such approval, the regulatory authority shall consult thetransmission system owner together with other interested parties;",
+      "provide guarantees to facilitate financing any network expansions with the exception of those investments where, pursuant to point (b), it has given its agreement to financing by any interested party including the independent system operator.",
+      "4.   Each independentsystemoperator shall be responsible for granting and managing third-party access, including the collection of access charges and congestion charges, for operating, maintaining and developing thetransmissionsystem, as well as for ensuring the long-term ability of the system to meet reasonable demand through investment planning. When developing the transmission system the independent system operator shall be responsible for planning (including authorisation procedure), construction and commissioning of thenew infrastructure. For this purpose, the independent system operator shall act as atransmission system operator in accordance with this Chapter. The transmission system owner shall not be responsible for granting and managing third-party access, nor for investment planning.",
+      "thetransmissionsystem owner has demonstrated its ability to comply with its obligations under paragraph 5. To that end, it shall provide all the draft contractual arrangements with the candidate undertaking and any other relevant entity; and",
+      "the transmission system owner has demonstrated its ability to comply with its obligations under paragraph 5. To that end, it shall provide all the draft contractual arrangements with the candidate undertaking and any other relevant entity; and",
+      "4.   Each independent system operator shall be responsible for granting and managing third-party access, including the collection of access charges and congestion charges, for operating, maintaining and developing the transmission system, as well as for ensuring the long-term ability of the system to meet reasonable demand through investment planning. When developing the transmission system the independent system operator shall be responsible for planning (including authorisation procedure), construction and commissioning of the new infrastructure. For this purpose, the independent system operator shall act as a transmission system operator in accordance with this Chapter. The transmission system owner shall not be responsible for granting and managing third-party access, nor for investment planning.",
+      "2.   The Member State may approve and designate an independent system operator only where:",
+      "1.   Where the transmission system belongs to a vertically integrated undertaking on 3 September 2009, Member States may decide not to apply Article 9(1) and designate an independent system operator upon a proposal from the transmission system owner. Such designation shall be subject to approval by the Commission."
+    ],
+    "Article\u00a015": [
+      "appropriate measures shall be taken to ensure that the professional interests of persons responsible for the management of the transmission system owner and storage system operator are taken into account in a manner that ensures that they are capable of acting independently;",
+      "This Article shall apply only to storage facilities that are technically and/or economically necessary for providing efficient access to thesystemfor thesupplyofcustomers pursuant to Article 33.",
+      "1.   A transmission system owner, where an independent system operator has been appointed, and a storage system operator which are part of vertically integrated undertakings shall be independent at least in terms of their legal form, organisation and decision making from other activities not relating to transmission, distribution and storage.",
+      "the transmission system owner and the storage system operator shall establish a compliance programme, which sets out measures taken to ensure that discriminatory conduct is excluded, and ensure that observance of it is adequately monitored. The compliance programme shall set out the specific obligations of employees to meet those objectives. An annual report, setting out the measures taken, shall be submitted by the person or body responsible for monitoring the compliance programme to the regulatory authority and shall be published.",
+      "3.   The Commission may adopt Guidelines to ensure full and effective compliance of the transmission system owner and of the storage system operator with paragraph 2 of this Article. Those measures, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 51(3).",
+      "appropriate measures shall be taken to ensure that the professional interests of persons responsible for the management of thetransmissionsystemowner andstorage system operator are taken into account in a manner that ensures that they are capable of acting independently;",
+      "1.   Atransmissionsystemowner, where an independent system operator has been appointed, and astorage system operatorwhich are part ofvertically integrated undertakings shall be independent at least in terms of their legal form, organisation and decision making from other activities not relating to transmission,distribution and storage.",
+      "Unbundling of transmission system owners and storage system operators",
+      "This Article shall apply only to storage facilities that are technically and/or economically necessary for providing efficient access to the system for the supply of customers pursuant to Article 33.",
+      "thetransmissionsystemowner and thestorage system operator shall establish a compliance programme, which sets out measures taken to ensure that discriminatory conduct is excluded, and ensure that observance of it is adequately monitored. The compliance programme shall set out the specific obligations of employees to meet those objectives. An annual report, setting out the measures taken, shall be submitted by the person or body responsible for monitoring the compliance programme to the regulatory authority and shall be published.",
+      "2.   In order to ensure the independence of the transmission system owner and storage system operator referred to in paragraph 1, the following minimum criteria shall apply:",
+      "3.   The Commission may adopt Guidelines to ensure full and effective compliance of thetransmissionsystemowner and of thestorage system operator with paragraph 2 of this Article. Those measures, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 51(3).",
+      "Unbundling oftransmissionsystemowners andstorage system operators",
+      "2.   In order to ensure the independence of thetransmissionsystemowner andstorage system operator referred to in paragraph 1, the following minimum criteria shall apply:"
+    ],
+    "Article\u00a017": [
+      "assets that are necessary for the activity of gas transmission, including the transmission system, shall be owned by the transmission system operator;",
+      "investment planning ensuring the long-term ability of the system to meet reasonable demand and guaranteeing security of supply;",
+      "the collection of all thetransmissionsystemrelated charges including access charges, balancing charges forancillary services such as gas treatment, purchasing of services (balancing costs, energy for losses);",
+      "the operation, maintenance and development of a secure, efficient and economictransmissionsystem;",
+      "assets that are necessary for the activity of gastransmission, including the transmissionsystem, shall be owned by thetransmission system operator;",
+      "investment planning ensuring the long-term ability of thesystemto meet reasonable demand and guaranteeingsecurityofsupply;",
+      "the collection of all the transmission system related charges including access charges, balancing charges for ancillary services such as gas treatment, purchasing of services (balancing costs, energy for losses);",
+      "the operation, maintenance and development of a secure, efficient and economic transmission system;"
+    ],
+    "Article\u00a018": [
+      "effective decision-making rights, independent from the vertically integrated undertaking, with respect to assets necessary to operate, maintain or develop the transmission system; and",
+      "effective decision-making rights, independent from thevertically integrated undertaking, with respect to assets necessary to operate, maintain or develop thetransmissionsystem; and"
+    ],
+    "Article\u00a021": [
+      "projects undertaken in order to operate, maintain and develop the transmission system, including investments in new transport connections, in expansion of capacity and in optimisation of existing capacity;",
+      "projects undertaken in order to operate, maintain and develop thetransmissionsystem, including investments in new transport connections, in expansion of capacity and in optimisation of existing capacity;",
+      "energy purchases or sales necessary for the operation of thetransmissionsystem.",
+      "energy purchases or sales necessary for the operation of the transmission system."
+    ],
+    "Article\u00a023": [
+      "Decision-making powers regarding the connection of storage facilities, LNG regasification facilities and industrial customers to the transmission system",
+      "Decision-making powers regarding the connection of storage facilities, LNG regasification facilities and industrialcustomers to thetransmissionsystem"
+    ],
+    "Article\u00a024": [
+      "Member States shall designate, or shall require undertakings which own or are responsible for distribution systems to designate, for a period of time to be determined by Member States, having regard to considerations of efficiency and economic balance, one or more distribution system operators and shall ensure that those operators act in accordance with Articles 25, 26 and 27.",
+      "Member States shall designate, or shall require undertakings which own or are responsible fordistributionsystems to designate, for a period of time to be determined by Member States, having regard to considerations of efficiency and economic balance, one or moredistribution system operators and shall ensure that those operators act in accordance with Articles 25, 26 and 27."
+    ],
+    "Article\u00a028": [
+      "Closeddistributionsystems",
+      "for specific technical or safety reasons, the operations or the production process of the users of that system are integrated; or",
+      "4.   Incidental use by a small number of households with employment or similar associations with the owner of thedistributionsystem and located within the area served by a closed distribution system shall not preclude an exemption under paragraph 2 being granted.",
+      "Closed distribution systems",
+      "thatsystemdistributes gas primarily to the owner or operator of the system or to theirrelated undertakings.",
+      "1.   Member States may provide for national regulatory authorities or other competent authorities to classify a system which distributes gas within a geographically confined industrial, commercial or shared services site and does not, without prejudice to paragraph 4, supply household customers, as a closed distribution system if:",
+      "1.   Member States may provide for national regulatory authorities or other competent authorities to classify asystemwhich distributes gas within a geographically confined industrial, commercial or shared services site and does not, without prejudice to paragraph 4,supplyhousehold customers, as a closeddistribution system if:",
+      "that system distributes gas primarily to the owner or operator of the system or to their related undertakings.",
+      "2.   Member States may provide for national regulatory authorities to exempt the operator of a closed distribution system from the requirement under Article 32(1) that tariffs, or the methodologies underlying their calculation, are approved prior to their entry into force in accordance with Article 41.",
+      "3.   Where an exemption is granted under paragraph 2, the applicable tariffs, or the methodologies underlying their calculation, shall be reviewed and approved in accordance with Article 41 upon request by a user of the closeddistributionsystem.",
+      "3.   Where an exemption is granted under paragraph 2, the applicable tariffs, or the methodologies underlying their calculation, shall be reviewed and approved in accordance with Article 41 upon request by a user of the closed distribution system.",
+      "4.   Incidental use by a small number of households with employment or similar associations with the owner of the distribution system and located within the area served by a closed distribution system shall not preclude an exemption under paragraph 2 being granted.",
+      "2.   Member States may provide for national regulatory authorities to exempt the operator of a closeddistributionsystem from the requirement under Article 32(1) that tariffs, or the methodologies underlying their calculation, are approved prior to their entry into force in accordance with Article 41."
+    ],
+    "Article\u00a031": [
+      "2.   Natural gas undertakings, whatever their system of ownership or legal form, shall draw up, submit to audit and publish their annual accounts in accordance with the rules of national law concerning the annual accounts of limited liability companies adopted pursuant to the Fourth Council Directive 78/660/EEC of 25 July 1978 based on Article 44(2)(g) (19) of the Treaty on the annual accounts of certain types of companies (20).",
+      "2.Natural gas undertakings, whatever theirsystem of ownership or legal form, shall draw up, submit to audit and publish their annual accounts in accordance with the rules of national law concerning the annual accounts of limited liability companies adopted pursuant to the Fourth Council Directive 78/660/EEC of 25 July 1978 based on Article 44(2)(g) (19) of the Treaty on the annual accounts of certain types of companies (20)."
+    ],
+    "Article\u00a032": [
+      "1.   Member States shall ensure the implementation of a system of third party access to the transmission and distribution system, and LNG facilities based on published tariffs, applicable to all eligible customers, including supply undertakings, and applied objectively and without discrimination between system users. Member States shall ensure that those tariffs, or the methodologies underlying their calculation are approved prior to their entry into force in accordance with Article 41 by a regulatory authority referred to in Article 39(1) and that those tariffs \u2014 and the methodologies, where only methodologies are approved \u2014 are published prior to their entry into force.",
+      "1.   Member States shall ensure the implementation of asystemof third party access to thetransmissionanddistributionsystem, and LNG facilities based on published tariffs, applicable to alleligible customers, includingsupply undertakings, and applied objectively and without discrimination betweensystem users. Member States shall ensure that those tariffs, or the methodologies underlying their calculation are approved prior to their entry into force in accordance with Article 41 by a regulatory authority referred to in Article 39(1) and that those tariffs \u2014 and the methodologies, where only methodologies are approved \u2014 are published prior to their entry into force."
+    ],
+    "Article\u00a033": [
+      "2.   The provisions of paragraph 1 shall not apply to ancillary services and temporary storage that are related to LNG facilities and are necessary for the re-gasification process and subsequent delivery to the transmission system.",
+      "1.   For the organisation of access to storage facilities andlinepackwhen technically and/or economically necessary for providing efficient access to thesystemfor thesupplyofcustomers, as well as for the organisation of access toancillary services, Member States may choose either or both of the procedures referred to in paragraphs 3 and 4. Those procedures shall operate in accordance with objective, transparent and non-discriminatory criteria.",
+      "1.   For the organisation of access to storage facilities and linepack when technically and/or economically necessary for providing efficient access to the system for the supply of customers, as well as for the organisation of access to ancillary services, Member States may choose either or both of the procedures referred to in paragraphs 3 and 4. Those procedures shall operate in accordance with objective, transparent and non-discriminatory criteria.",
+      "2.   The provisions of paragraph 1 shall not apply toancillary servicesand temporary storage that are related to LNG facilities and are necessary for the re-gasification process and subsequent delivery to thetransmissionsystem."
+    ],
+    "Article\u00a035": [
+      "1.   Natural gas undertakings may refuse access to the system on the basis of lack of capacity or where the access to the system would prevent them from carrying out the public service obligations referred to in Article 3(2) which are assigned to them or on the basis of serious economic and financial difficulties with take-or-pay contracts having regard to the criteria and procedures set out in Article 48 and the alternative chosen by the Member State in accordance with paragraph 1 of that Article. Duly substantiated reasons shall be given for any such a refusal.",
+      "2.   Member States may take the measures necessary to ensure that thenatural gas undertakingrefusing access to thesystemon the basis of lack of capacity or a lack of connection makes the necessary enhancements as far as it is economic to do so or when a potentialcustomer is willing to pay for them. In circumstances where Member States apply Article 4(4), Member States shall take such measures.",
+      "2.   Member States may take the measures necessary to ensure that the natural gas undertaking refusing access to the system on the basis of lack of capacity or a lack of connection makes the necessary enhancements as far as it is economic to do so or when a potential customer is willing to pay for them. In circumstances where Member States apply Article 4(4), Member States shall take such measures.",
+      "1.Natural gas undertakings may refuse access to thesystem on the basis of lack of capacity or where the access to the system would prevent them from carrying out the public service obligations referred to in Article 3(2) which are assigned to them or on the basis of serious economic and financial difficulties with take-or-pay contracts having regard to the criteria and procedures set out in Article 48 and the alternative chosen by the Member State in accordance with paragraph 1 of that Article. Duly substantiated reasons shall be given for any such a refusal."
+    ],
+    "Article\u00a036": [
+      "the exemption must not be detrimental to competition or the effective functioning of the internal market in natural gas, or the efficient functioning of the regulated system to which the infrastructure is connected.",
+      "the infrastructure must be owned by a natural or legal person which is separate at least in terms of its legal form from the system operators in whose systems that infrastructure will be built;"
+    ],
+    "Article\u00a037": [
+      "contracts for the supply with an eligible customer in the system of another Member State shall not be prohibited if the customer is eligible in both systems involved; and",
+      "contracts for thesupplywith aneligible customerin thesystem of another Member State shall not be prohibited if the customer is eligible in both systems involved; and",
+      "where transactions as described in point (a) are refused because the customer is eligible in only one of the two systems, the Commission may, taking into account the situation in the market and the common interest, oblige the refusing party to execute the requested supply, at the request of one of the Member States of the two systems.",
+      "where transactions as described in point (a) are refused because thecustomeris eligible in only one of the twosystems, the Commission may, taking into account the situation in the market and the common interest, oblige the refusing party to execute the requestedsupply, at the request of one of the Member States of the two systems."
+    ],
+    "Article\u00a038": [
+      "3.   Member States may issue an authorisation to construct a direct line subject either to the refusal of system access on the basis of Article 35 or to the opening of a dispute-settlement procedure under Article 41.",
+      "3.   Member States may issue an authorisation to construct adirect linesubject either to the refusal ofsystem access on the basis of Article 35 or to the opening of a dispute-settlement procedure under Article 41."
+    ],
+    "Article\u00a039": [
+      "3.   By way of derogation from paragraph 1 of this Article, a Member State may designate regulatory authorities for small systems on a geographically separate region whose consumption, in 2008, accounted for less than 3 % of the total consumption of the Member State of which it is part. That derogation shall be without prejudice to the appointment of one senior representative for representation and contact purposes at Community level within the Board of Regulators of the Agency in compliance with Article 14(1) of Regulation (EC) No 713/2009."
+    ],
+    "Article\u00a040": [
+      "ensuring thatsystemoperators andsystem users are granted appropriate incentives, in both the short and the long term, to increase efficiencies in system performance and foster market integration;",
+      "helping to achieve, in the most cost-effective way, the development of secure, reliable and efficient non-discriminatorysystems that are consumer oriented, and promoting system adequacy and, in line with general energy policy objectives, energy efficiency as well as the integration of large and small scale production of gas from renewable energy sources and distributed production in bothtransmissionanddistribution networks;",
+      "helping to achieve, in the most cost-effective way, the development of secure, reliable and efficient non-discriminatory systems that are consumer oriented, and promoting system adequacy and, in line with general energy policy objectives, energy efficiency as well as the integration of large and small scale production of gas from renewable energy sources and distributed production in both transmission and distribution networks;",
+      "ensuring that system operators and system users are granted appropriate incentives, in both the short and the long term, to increase efficiencies in system performance and foster market integration;"
+    ],
+    "Article\u00a041": [
+      "monitor the transmission system owner\u2019s and the independent system operator\u2019s compliance with their obligations under this Article, and issue penalties for non compliance in accordance with paragraph 4(d);",
+      "have the powers to carry out inspections, including unannounced inspections, at the premises of transmission system owner and independent system operator.",
+      "have the powers to carry out inspections, including unannounced inspections, at the premises oftransmissionsystem owner and independent system operator.",
+      "monitor thetransmissionsystem owner\u2019s and the independent system operator\u2019s compliance with their obligations under this Article, and issue penalties for non compliance in accordance with paragraph 4(d);",
+      "3.   In addition to the duties conferred upon it under paragraph 1 of this Article, when an independent system operator has been designated under Article 14, the regulatory authority shall:",
+      "ensure that network access tariffs collected by the independent system operator include remuneration for the network owner or network owners, which provides for adequate remuneration of the network assets and of any new investments made therein, provided they are economically and efficiently incurred; and",
+      "monitor the relations and communications between the independentsystemoperator and thetransmission system owner so as to ensure compliance of the independent system operator with its obligations, and in particular approve contracts and act as a dispute settlement authority between the independent system operator and the transmission system owner in respect of any complaint submitted by either party pursuant to paragraph 11;",
+      "without prejudice to the procedure under Article 14(2)(c), for the first ten-year network development plan, approve the investments planning and the multi-annual network development plan presented annually by the independent system operator;",
+      "monitor the relations and communications between the independent system operator and the transmission system owner so as to ensure compliance of the independent system operator with its obligations, and in particular approve contracts and act as a dispute settlement authority between the independent system operator and the transmission system owner in respect of any complaint submitted by either party pursuant to paragraph 11;",
+      "monitoring the level and effectiveness of market opening and competition at wholesale and retail levels, including on natural gas exchanges, prices for household customers including prepayment systems, switching rates, disconnection rates, charges for and the execution of maintenance services and complaints by household customers, as well as any distortion or restriction of competition, including providing any relevant information, and bringing any relevant cases to the relevant competition authorities;"
+    ],
+    "Article\u00a046": [
+      "1.   In the event of a sudden crisis in the energy market or where the physical safety orsecurityof persons, apparatus or installations orsystem integrity is threatened, a Member State may temporarily take the necessary safeguard measures.",
+      "1.   In the event of a sudden crisis in the energy market or where the physical safety or security of persons, apparatus or installations or system integrity is threatened, a Member State may temporarily take the necessary safeguard measures."
+    ],
+    "Article\u00a048": [
+      "the level of connection of the system with other systems and the degree of interoperability of those systems; and",
+      "1.   If anatural gas undertakingencounters, or considers it would encounter, serious economic and financial difficulties because of its take-or-pay commitments accepted in one or more gas-purchase contracts, it may send an application for a temporary derogation from Article 32 to the Member State concerned or the designated competent authority. Applications shall, in accordance with the choice of Member States, be presented on a case-by-case basis either before or after refusal of access to thesystem. Member States may also give the natural gas undertaking the choice of presenting an application either before or after refusal of access to the system. Where a natural gas undertaking has refused access, the application shall be presented without delay. The applications shall be accompanied by all relevant information on the nature and extent of the problem and on the efforts undertaken by the natural gas undertaking to solve the problem.",
+      "1.   If a natural gas undertaking encounters, or considers it would encounter, serious economic and financial difficulties because of its take-or-pay commitments accepted in one or more gas-purchase contracts, it may send an application for a temporary derogation from Article 32 to the Member State concerned or the designated competent authority. Applications shall, in accordance with the choice of Member States, be presented on a case-by-case basis either before or after refusal of access to the system. Member States may also give the natural gas undertaking the choice of presenting an application either before or after refusal of access to the system. Where a natural gas undertaking has refused access, the application shall be presented without delay. The applications shall be accompanied by all relevant information on the nature and extent of the problem and on the efforts undertaken by the natural gas undertaking to solve the problem.",
+      "4.   Natural gas undertakings which have not been granted a derogation as referred to in paragraph 1 of this Article shall not refuse, or shall no longer refuse, access to the system because of take-or-pay commitments accepted in a gas purchase contract. Member States shall ensure that the relevant provisions of Articles 32 to 44 are complied with.",
+      "4.Natural gas undertakings which have not been granted a derogation as referred to in paragraph 1 of this Article shall not refuse, or shall no longer refuse, access to thesystem because of take-or-pay commitments accepted in a gas purchase contract. Member States shall ensure that the relevant provisions of Articles 32 to 44 are complied with."
+    ],
+    "Article\u00a049": [
+      "3.   On the date at which the derogation referred to in the first subparagraph of paragraph 2 expires, the definition of eligible customers shall result in an opening of the market equal to at least 33 % of the total annual gas consumption of the national gas market. Two years thereafter, Article 37(1)(b) shall apply, and three years thereafter, Article 37(1)(c) shall apply. Until Article 37(1)(b) applies the Member State referred to in paragraph 2 of this Article may decide not to apply Article 32 as far as ancillary services and temporary storage for the re-gasification process and its subsequent delivery to the transmission system are concerned.",
+      "3.   On the date at which the derogation referred to in the first subparagraph of paragraph 2 expires, the definition ofeligible customers shall result in an opening of the market equal to at least 33 % of the total annual gas consumption of the national gas market. Two years thereafter, Article 37(1)(b) shall apply, and three years thereafter, Article 37(1)(c) shall apply. Until Article 37(1)(b) applies the Member State referred to in paragraph 2 of this Article may decide not to apply Article 32 as far asancillary servicesand temporary storage for the re-gasification process and its subsequent delivery to thetransmissionsystem are concerned.",
+      "the size and maturity of the gas system in the area concerned,"
+    ],
+    "Article\u00a052": [
+      "whether effective and non-discriminatory third-party access to gas storage exists when technically and/or economically necessary for providing efficient access to the system,",
+      "an examination of issues relating tosystemcapacity levels andsecurityofsupply of natural gas in the Community, and in particular the existing and projected balance between demand and supply, taking into account the physical capacity for exchanges between areas and the development of storage (including the question of the proportionality of market regulation in that field);",
+      "the experience gained in the application of this Directive as far as the effective independence of system operators in vertically integrated undertakings is concerned and whether other measures in addition to functional independence and separation of accounts have been developed which have effects equivalent to legal unbundling.",
+      "the experience gained in the application of this Directive as far as the effective independence ofsystemoperators invertically integrated undertakings is concerned and whether other measures in addition to functional independence and separation of accounts have been developed which have effects equivalent to legal unbundling.",
+      "an examination of issues relating to system capacity levels and security of supply of natural gas in the Community, and in particular the existing and projected balance between demand and supply, taking into account the physical capacity for exchanges between areas and the development of storage (including the question of the proportionality of market regulation in that field);",
+      "the extent to which the unbundling and tarification requirements contained in this Directive have been successful in ensuring fair and non-discriminatory access to the Community\u2019s gassystemand equivalent levels of competition, as well as the economic, environmental and social consequences of the opening of the gas market forcustomers;",
+      "the extent to which the unbundling and tarification requirements contained in this Directive have been successful in ensuring fair and non-discriminatory access to the Community\u2019s gas system and equivalent levels of competition, as well as the economic, environmental and social consequences of the opening of the gas market for customers;"
+    ],
+    "Article\u00a056": [
+      "The Member States or any competent authority they designate, shall ensure the interoperability of those metering systems to be implemented within their territories and shall have due regard to the use of appropriate standards and best practice and the importance of the development of the internal market in natural gas.",
+      "2.   Member States shall ensure the implementation of intelligent meteringsystems that shall assist the active participation of consumers in the gassupplymarket. The implementation of those metering systems may be subject to an economic assessment of all the long-term costs and benefits to the market and the individual consumer or which form of intelligent metering is economically reasonable and cost-effective and which timeframe is feasible for theirdistribution.",
+      "are offered a wide choice of payment methods, which do not unduly discriminate between customers. Prepayment systems shall be fair and adequately reflect likely consumption. Any difference in terms and conditions shall reflect the costs to the supplier of the different payment systems. General terms and conditions shall be fair and transparent. They shall be given in clear and comprehensible language and shall not include non-contractual barriers to the exercise of customers\u2019 rights, for example excessive contractual documentation. Customers shall be protected against unfair or misleading selling methods;",
+      "benefit from transparent, simple and inexpensive procedures for dealing with their complaints. In particular, all consumers shall have the right to a good standard of service and complaint handling by their gas service provider. Such out-of-court dispute settlements procedures shall enable disputes to be settled fairly and promptly, preferably within three months, with provision, where warranted, for a system of reimbursement and/or compensation. They should, wherever possible, be in line with the principles set out in Commission Recommendation 98/257/EC of 30 March 1998 on the principles applicable to the bodies responsible for out-of-court settlement of consumer disputes (3);",
+      "connected to the gas system are informed about their rights to be supplied, under the national legislation applicable, with natural gas of a specified quality at reasonable prices;",
+      "Subject to that assessment, Member States or any competent authority they designate, shall prepare a timetable for the implementation of intelligent metering systems.",
+      "2.   Member States shall ensure the implementation of intelligent metering systems that shall assist the active participation of consumers in the gas supply market. The implementation of those metering systems may be subject to an economic assessment of all the long-term costs and benefits to the market and the individual consumer or which form of intelligent metering is economically reasonable and cost-effective and which timeframe is feasible for their distribution.",
+      "are offered a wide choice of payment methods, which do not unduly discriminate between customers. Prepaymentsystems shall be fair and adequately reflect likely consumption. Any difference in terms and conditions shall reflect the costs to the supplier of the different payment systems. General terms and conditions shall be fair and transparent. They shall be given in clear and comprehensible language and shall not include non-contractual barriers to the exercise of customers\u2019 rights, for example excessive contractual documentation.Customers shall be protected against unfair or misleading selling methods;"
+    ],
+    "Not Article": [
+      "Only the removal of the incentive for vertically integrated undertakings to discriminate against competitors as regards network access and investment can ensure effective unbundling. Ownership unbundling, which implies the appointment of the network owner as the system operator and its independence from any supply and production interests, is clearly an effective and stable way to solve the inherent conflict of interests and to ensure security of supply. For that reason, the European Parliament, in its resolution of 10 July 2007 on prospects for the internal gas and electricity market (5) referred to ownership unbundling at transmission level as the most effective tool by which to promote investments in infrastructure in a non-discriminatory way, fair access to the network for new entrants and transparency in the market. Under ownership unbundling, Member States should therefore be required to ensure that the same person or persons are not entitled to exercise control over a production or supply undertaking and, at the same time, exercise control or any right over a transmission system operator or transmission system. Conversely, control over a transmission system or transmission system operator should preclude the possibility of exercising control or any right over a production or supply undertaking. Within those limits, a production or supply undertaking should be able to have a minority shareholding in a transmission system operator or transmission system.",
+      "The setting up of asystemoperator or atransmissionoperator that is independent fromsupplyand production interests should enable avertically integrated undertakingto maintain its ownership of network assets whilst ensuring an effective separation of interests, provided that such independent system operator or such independent transmission operator performs all the functions of a system operator and detailed regulation and extensive regulatorycontrol mechanisms are put in place.",
+      "The full effectiveness of the independentsystemoperator or independenttransmissionoperator solutions should be ensured by way of specific additional rules. The rules on the independent transmission operator provide an appropriate regulatory framework to guarantee fair competition, sufficient investment, access for new market entrants and the integration of gas markets. Effective unbundling through the independent transmission operator provisions should be based on a pillar of organisational measures and measures relating to the governance oftransmission system operators and on a pillar of measures relating to investment, connecting new production capacities to the network and market integration through regional cooperation. The independence of the transmission operator should also, inter alia, be ensured through certain \u2018cooling-off\u2019 periods during which no management or other relevant activity giving access to the same information as could have been obtained in a managerial position is exercised in thevertically integrated undertaking. The independent transmission operator model of effective unbundling is in line with the requirements laid down by the European Council at its meeting on 8 and 9 March 2007.",
+      "A Member State has the right to opt for full ownership unbundling in its territory. Where a Member State has exercised that right, an undertaking does not have the right to set up an independentsystemoperator or an independenttransmissionoperator. Furthermore, an undertaking performing any of the functions of production orsupplycannot directly or indirectly exercisecontrolor any right over atransmission system operator from a Member State that has opted for full ownership unbundling.",
+      "In order to ensure the maintenance of high standards of public service in the Community, all measures taken by Member States to achieve the objectives of this Directive should be regularly notified to the Commission. The Commission should regularly publish a report analysing measures taken at national level to achieve public service objectives and comparing their effectiveness, with a view to making recommendations as regards measures to be taken at national level to achieve high public service standards. Member States should ensure that when they are connected to the gas system customers are informed about their rights to be supplied with natural gas of a specified quality at reasonable prices. Measures taken by Member States to protect final customers may differ according to whether they are aimed at household customers or small and medium-sized enterprises.",
+      "Where, on 3 September 2009, an undertaking owning a transmission system is part of a vertically integrated undertaking, Member States should therefore be given a choice between ownership unbundling and setting up a system operator or transmission operator which is independent from supply and production interests.",
+      "The security of energysupplyis an essential element of public security and is therefore inherently connected to the efficient functioning of the internal market in gas and the integration of the isolated gas markets of Member States. Gas can reach the citizens of the Union only through the network. Functioning open gas markets and, in particular, the networks and other assets associated with gas supply are essential for public security, for the competitiveness of the economy and for the well-being of the citizens of the Union. Persons from third countries should therefore only be allowed tocontrolatransmissionsystemor atransmission system operatorif they comply with the requirements of effective separation that apply inside the Community. Without prejudice to the international obligations of the Community, the Community considers that the gas transmission system sector is of high importance to the Community and therefore additional safeguards are necessary regarding the preservation of the security of supply of energy to the Community to avoid any threats to public order and public security in the Community and the welfare of the citizens of the Union. The security of supply of energy to the Community requires, in particular, an assessment of the independence of network operation, the level of the Community\u2019s and individual Member States\u2019 dependence on energy supply from third countries, and the treatment of both domestic and foreign trade and investment in energy in a particular third country.Security of supply should therefore be assessed in the light of the factual circumstances of each case as well as the rights and obligations arising under international law, in particular the international agreements between the Community and the third country concerned. Where appropriate the Commission is encouraged to submit recommendations to negotiate relevant agreements with third countries addressing the security of supply of energy to the Community or to include the necessary issues in other negotiations with those third countries.",
+      "Where a closeddistributionsystemis used to ensure the optimal efficiency of an integrated energysupplyrequiring specific operational standards, or a closed distribution system is maintained primarily for the use of the owner of the system, it should be possible to exempt thedistribution system operator from obligations which would constitute an unnecessary administrative burden because of the particular nature of the relationship between the distribution system operator and the users of the system. Industrial, commercial or shared services sites such as train station buildings, airports, hospitals, large camping sites with integrated facilities or chemical industry sites can include closed distribution systems because of the specialised nature of their operations.",
+      "The public service requirements and the common minimum standards that follow from them need to be further strengthened to make sure that all consumers, especially vulnerable ones, can benefit from competition and fair prices. The public service requirements should be defined at national level, taking into account national circumstances; Community law should, however, be respected by the Member States. The citizens of the Union and, where Member States deem it to be appropriate, small enterprises, should be able to enjoy public service obligations, in particular with regard to security of supply and reasonable tariffs. A key aspect in supplying customers is access to objective and transparent consumption data. Thus, consumers should have access to their consumption data and associated prices and services costs so that they can invite competitors to make an offer based on those data. Consumers should also have the right to be properly informed about their energy consumption. Prepayments should reflect the likely consumption of natural gas and different payment systems should be non-discriminatory. Information on energy costs provided to consumers frequently enough will create incentives for energy savings because it will give customers direct feedback on the effects of investment in energy efficiency and change of behaviour.",
+      "Where, on 3 September 2009, an undertaking owning atransmissionsystemis part of avertically integrated undertaking, Member States should therefore be given a choice between ownership unbundling and setting up a system operator or transmission operator which is independent fromsupply and production interests.",
+      "With a view to creating an internal market in natural gas, Member States should foster the integration of their national markets and the cooperation of system operators at Community and regional level, also incorporating the isolated systems forming gas islands that persist in the Community.",
+      "The public service requirements and the common minimum standards that follow from them need to be further strengthened to make sure that all consumers, especially vulnerable ones, can benefit from competition and fair prices. The public service requirements should be defined at national level, taking into account national circumstances; Community law should, however, be respected by the Member States. The citizens of the Union and, where Member States deem it to be appropriate, small enterprises, should be able to enjoy public service obligations, in particular with regard tosecurityofsupplyand reasonable tariffs. A key aspect in supplyingcustomers is access to objective and transparent consumption data. Thus, consumers should have access to their consumption data and associated prices and services costs so that they can invite competitors to make an offer based on those data. Consumers should also have the right to be properly informed about their energy consumption. Prepayments should reflect the likely consumption of natural gas and different paymentsystems should be non-discriminatory. Information on energy costs provided to consumers frequently enough will create incentives for energy savings because it will give customers direct feedback on the effects of investment in energy efficiency and change of behaviour.",
+      "In order to ensure effective market access for all market players, including new entrants, non-discriminatory and cost-reflective balancing mechanisms are necessary. This should be achieved through the setting up of transparent market-based mechanisms for thesupplyand purchase of gas, needed in the framework of balancing requirements. National regulatory authorities should play an active role to ensure that balancing tariffs are non-discriminatory and cost-reflective. At the same time, appropriate incentives should be provided to balance the in-put and off-take of gas and not to endanger thesystem.",
+      "Member States should ensure that, taking into account the necessary quality requirements, biogas and gas from biomass or other types of gas are granted non-discriminatory access to the gas system, provided such access is permanently compatible with the relevant technical rules and safety standards. Those rules and standards should ensure that those gases can technically and safely be injected into, and transported through the natural gas system and should also address their chemical characteristics.",
+      "Member States should take concrete measures to assist the wider use of biogas and gas from biomass, the producers of which should be granted non-discriminatory access to the gas system, provided that such access is compatible with the relevant technical rules and safety standards on an ongoing basis.",
+      "Only the removal of the incentive forvertically integrated undertakings to discriminate against competitors as regards network access and investment can ensure effective unbundling. Ownership unbundling, which implies the appointment of the network owner as thesystemoperator and its independence from anysupplyand production interests, is clearly an effective and stable way to solve the inherent conflict of interests and to ensuresecurityof supply. For that reason, the European Parliament, in its resolution of 10 July 2007 on prospects for the internal gas and electricity market (5) referred to ownership unbundling attransmissionlevel as the most effective tool by which to promote investments in infrastructure in a non-discriminatory way, fair access to the network for new entrants and transparency in the market. Under ownership unbundling, Member States should therefore be required to ensure that the same person or persons are not entitled to exercisecontrolover a production orsupply undertakingand, at the same time, exercise control or any right over atransmission system operator or transmission system. Conversely, control over a transmission system or transmission system operator should preclude the possibility of exercising control or any right over a production or supply undertaking. Within those limits, a production or supply undertaking should be able to have a minority shareholding in a transmission system operator or transmission system.",
+      "The setting up of a system operator or a transmission operator that is independent from supply and production interests should enable a vertically integrated undertaking to maintain its ownership of network assets whilst ensuring an effective separation of interests, provided that such independent system operator or such independent transmission operator performs all the functions of a system operator and detailed regulation and extensive regulatory control mechanisms are put in place.",
+      "In order to ensure the maintenance of high standards of public service in the Community, all measures taken by Member States to achieve the objectives of this Directive should be regularly notified to the Commission. The Commission should regularly publish a report analysing measures taken at national level to achieve public service objectives and comparing their effectiveness, with a view to making recommendations as regards measures to be taken at national level to achieve high public service standards. Member States should ensure that when they are connected to the gassystemcustomers are informed about their rights to be supplied with natural gas of a specified quality at reasonable prices. Measures taken by Member States to protectfinal customers may differ according to whether they are aimed athousehold customers or small and medium-sized enterprises.",
+      "Where a closed distribution system is used to ensure the optimal efficiency of an integrated energy supply requiring specific operational standards, or a closed distribution system is maintained primarily for the use of the owner of the system, it should be possible to exempt the distribution system operator from obligations which would constitute an unnecessary administrative burden because of the particular nature of the relationship between the distribution system operator and the users of the system. Industrial, commercial or shared services sites such as train station buildings, airports, hospitals, large camping sites with integrated facilities or chemical industry sites can include closed distribution systems because of the specialised nature of their operations.",
+      "A Member State has the right to opt for full ownership unbundling in its territory. Where a Member State has exercised that right, an undertaking does not have the right to set up an independent system operator or an independent transmission operator. Furthermore, an undertaking performing any of the functions of production or supply cannot directly or indirectly exercise control or any right over a transmission system operator from a Member State that has opted for full ownership unbundling.",
+      "It should be possible to base the introduction of intelligent metering systems on an economic assessment. Should that assessment conclude that the introduction of such metering systems is economically reasonable and cost-effective only for consumers with a certain amount of gas consumption, Member States should be able to take this into account when implementing intelligent metering systems.",
+      "The implementation of effective unbundling should respect the principle of non-discrimination between the public and private sectors. To that end, the same person should not be able to exercisecontrolor any right, in violation of the rules of ownership unbundling or the independentsystemoperator option, solely or jointly, over the composition, voting or decision of the bodies of both thetransmission system operators or the transmission systems and the production orsupply undertakings. With regard to ownership unbundling and the independent system operator solution, provided that the Member State in question is able to demonstrate that the requirement is complied with, two separate public bodies should be able to control production and supply activities on the one hand and transmission activities on the other.",
+      "The security of energy supply is an essential element of public security and is therefore inherently connected to the efficient functioning of the internal market in gas and the integration of the isolated gas markets of Member States. Gas can reach the citizens of the Union only through the network. Functioning open gas markets and, in particular, the networks and other assets associated with gas supply are essential for public security, for the competitiveness of the economy and for the well-being of the citizens of the Union. Persons from third countries should therefore only be allowed to control a transmission system or a transmission system operator if they comply with the requirements of effective separation that apply inside the Community. Without prejudice to the international obligations of the Community, the Community considers that the gas transmission system sector is of high importance to the Community and therefore additional safeguards are necessary regarding the preservation of the security of supply of energy to the Community to avoid any threats to public order and public security in the Community and the welfare of the citizens of the Union. The security of supply of energy to the Community requires, in particular, an assessment of the independence of network operation, the level of the Community\u2019s and individual Member States\u2019 dependence on energy supply from third countries, and the treatment of both domestic and foreign trade and investment in energy in a particular third country. Security of supply should therefore be assessed in the light of the factual circumstances of each case as well as the rights and obligations arising under international law, in particular the international agreements between the Community and the third country concerned. Where appropriate the Commission is encouraged to submit recommendations to negotiate relevant agreements with third countries addressing the security of supply of energy to the Community or to include the necessary issues in other negotiations with those third countries.",
+      "In order to ensure effective market access for all market players, including new entrants, non-discriminatory and cost-reflective balancing mechanisms are necessary. This should be achieved through the setting up of transparent market-based mechanisms for the supply and purchase of gas, needed in the framework of balancing requirements. National regulatory authorities should play an active role to ensure that balancing tariffs are non-discriminatory and cost-reflective. At the same time, appropriate incentives should be provided to balance the in-put and off-take of gas and not to endanger the system.",
+      "The implementation of effective unbundling should respect the principle of non-discrimination between the public and private sectors. To that end, the same person should not be able to exercise control or any right, in violation of the rules of ownership unbundling or the independent system operator option, solely or jointly, over the composition, voting or decision of the bodies of both the transmission system operators or the transmission systems and the production or supply undertakings. With regard to ownership unbundling and the independent system operator solution, provided that the Member State in question is able to demonstrate that the requirement is complied with, two separate public bodies should be able to control production and supply activities on the one hand and transmission activities on the other.",
+      "The full effectiveness of the independent system operator or independent transmission operator solutions should be ensured by way of specific additional rules. The rules on the independent transmission operator provide an appropriate regulatory framework to guarantee fair competition, sufficient investment, access for new market entrants and the integration of gas markets. Effective unbundling through the independent transmission operator provisions should be based on a pillar of organisational measures and measures relating to the governance of transmission system operators and on a pillar of measures relating to investment, connecting new production capacities to the network and market integration through regional cooperation. The independence of the transmission operator should also, inter alia, be ensured through certain \u2018cooling-off\u2019 periods during which no management or other relevant activity giving access to the same information as could have been obtained in a managerial position is exercised in the vertically integrated undertaking. The independent transmission operator model of effective unbundling is in line with the requirements laid down by the European Council at its meeting on 8 and 9 March 2007."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a01": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        0,
+        1
+      ]
+    },
+    "Article\u00a02": {
+      "article_score": 4,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    "Article\u00a03": {
+      "article_score": 5,
+      "statement_scores": [
+        0,
+        0,
+        1,
+        0,
+        2,
+        1,
+        1,
+        0
+      ]
+    },
+    "Article\u00a04": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "Article\u00a08": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    },
+    "Article\u00a09": {
+      "article_score": 15,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        0,
+        2,
+        1,
+        0,
+        2,
+        2
+      ]
+    },
+    "Article\u00a010": {
+      "article_score": 8,
+      "statement_scores": [
+        2,
+        3,
+        1,
+        2
+      ]
+    },
+    "Article\u00a011": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        2,
+        2,
+        1
+      ]
+    },
+    "Article\u00a014": {
+      "article_score": 35,
+      "statement_scores": [
+        2,
+        3,
+        1,
+        1,
+        2,
+        1,
+        0,
+        1,
+        1,
+        1,
+        2,
+        1,
+        6,
+        0,
+        1,
+        8,
+        1,
+        3
+      ]
+    },
+    "Article\u00a015": {
+      "article_score": 21,
+      "statement_scores": [
+        2,
+        0,
+        3,
+        2,
+        2,
+        1,
+        2,
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article\u00a017": {
+      "article_score": 6,
+      "statement_scores": [
+        2,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1
+      ]
+    },
+    "Article\u00a018": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article\u00a021": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "Article\u00a023": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article\u00a024": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article\u00a028": {
+      "article_score": 12,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        0,
+        1,
+        2,
+        1,
+        2,
+        1,
+        0,
+        1,
+        2,
+        0
+      ]
+    },
+    "Article\u00a031": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article\u00a032": {
+      "article_score": 3,
+      "statement_scores": [
+        3,
+        0
+      ]
+    },
+    "Article\u00a033": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        0
+      ]
+    },
+    "Article\u00a035": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        0,
+        1,
+        1
+      ]
+    },
+    "Article\u00a036": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article\u00a037": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    "Article\u00a038": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article\u00a039": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article\u00a040": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        3
+      ]
+    },
+    "Article\u00a041": {
+      "article_score": 18,
+      "statement_scores": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        4,
+        1,
+        5,
+        0
+      ]
+    },
+    "Article\u00a046": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    },
+    "Article\u00a048": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        2,
+        1,
+        0
+      ]
+    },
+    "Article\u00a049": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        1
+      ]
+    },
+    "Article\u00a052": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    "Article\u00a056": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    "Not Article": {
+      "article_score": 54,
+      "statement_scores": [
+        7,
+        2,
+        1,
+        1,
+        1,
+        2,
+        2,
+        5,
+        0,
+        1,
+        1,
+        0,
+        0,
+        2,
+        1,
+        6,
+        3,
+        0,
+        6,
+        2,
+        0,
+        2,
+        3,
+        1,
+        3,
+        2
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "term": "food processing refrigerating appliance with a direct sales function",
+  "celex_id": "32019R2024",
+  "original_definition": "'food processing refrigerating appliance with a direct sales function' means a refrigerating appliance with a direct sales function specifically tested and approved for carrying out food processing such as ice-cream makers, microwave-equipped refrigerated vending machines or ice makers; this does not include refrigerating appliances with a direct sales function equipped with one compartment specifically designed for carrying out food processing which is equivalent to less than 20 % of the appliance total net volume;",
+  "generated_definition": "'food processing refrigerating appliance with a direct sales function' means a food processing refrigerating appliance that is designed for direct sales to consumers.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018food processing refrigerating appliance with a direct sales function\u2019 means a refrigerating appliance with a direct sales functionspecifically tested and approvedfor carrying out food processing such as ice-cream makers, microwave-equippedrefrigerated vending machines or ice makers; this does not include refrigerating appliances with a direct sales function equipped with onecompartmentspecifically designed for carrying out food processing which is equivalent to less than 20 % of the appliance totalnet volume;",
+      "\u2018food processing refrigerating appliance with a direct sales function\u2019 means a refrigerating appliance with a direct sales function specifically tested and approved for carrying out food processing such as ice-cream makers, microwave-equipped refrigerated vending machines or ice makers; this does not include refrigerating appliances with a direct sales function equipped with one compartment specifically designed for carrying out food processing which is equivalent to less than 20 % of the appliance total net volume;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

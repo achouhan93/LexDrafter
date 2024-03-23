@@ -1,0 +1,59 @@
+{
+  "term": "imbalance netting power interchange",
+  "celex_id": "32017R1485",
+  "original_definition": "'imbalance netting power interchange' means the power which is interchanged between LFC areas within the imbalance netting process;",
+  "generated_definition": "'imbalance netting power interchange' means the process of exchanging active power between lfc areas to regulate their frce without imbalance, through the use of hvdc interconnectors or other means.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018imbalance netting power interchange\u2019 means the power which is interchanged betweenLFC areas within theimbalance netting process;",
+      "\u2018LFC block imbalances\u2019 means the sum of the FRCE, FRR activation and RR activation within the LFC block and the imbalance netting power interchange, the frequency restoration power interchange and the replacement power interchange of this LFC block with other LFC blocks;",
+      "\u2018LFC block imbalances\u2019 means the sum of theFRCE,FRRactivation and RR activation within the LFC block and theimbalance netting power interchange, thefrequency restoration power interchangeand thereplacement power interchange of this LFC block with other LFC blocks;",
+      "\u2018imbalance netting power interchange\u2019 means the power which is interchanged between LFC areas within the imbalance netting process;"
+    ],
+    "Article 146": [
+      "6.   TSOs shall implement the imbalance netting power interchange of a LFC area in a way which does not exceed the actual amount of FRR activation necessary to regulate the FRCE of that LFC area to zero without imbalance netting power interchange.",
+      "8.   The imbalance netting process shall include a fallback mechanism which shall ensure that the imbalance netting power interchange of each LFC area is zero or limited to a value for which operational security can be guaranteed.",
+      "4.   TSOs shall implement theimbalance netting power interchangebetweenLFC areas of a synchronous area in at least one of the following ways:",
+      "1.   The control target of the imbalance netting process shall aim at reducing the amount of simultaneous counteracting FRR activations of the different participating LFC areas by imbalance netting power interchange.",
+      "8.   Theimbalance netting processshall include a fallback mechanism which shall ensure that theimbalance netting power interchangeof eachLFC areais zero or limited to a value for whichoperational security can be guaranteed.",
+      "7.   All TSOs participating in the same imbalance netting process shall ensure that the sum of all imbalance netting power interchanges is equal to zero.",
+      "11.   Where an imbalance netting process is implemented for LFC areas which are not part of the same LFC block, all TSOs of the LFC blocks involved shall comply with the obligations in Article 141(5) regardless of imbalance netting power interchange.",
+      "4.   TSOs shall implement the imbalance netting power interchange between LFC areas of a synchronous area in at least one of the following ways:",
+      "5.   TSOs shall implement theimbalance netting power interchangebetweenLFC areas of different synchronous areas by adjusting the active power flows over HVDC interconnectors.",
+      "7.   All TSOs participating in the sameimbalance netting processshall ensure that the sum of allimbalance netting power interchanges is equal to zero.",
+      "5.   TSOs shall implement the imbalance netting power interchange between LFC areas of different synchronous areas by adjusting the active power flows over HVDC interconnectors.",
+      "11.   Where animbalance netting processis implemented forLFC areas which are not part of the sameLFC block, all TSOs of the LFC blocks involved shall comply with the obligations in Article 141(5) regardless ofimbalance netting power interchange."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        0
+      ]
+    },
+    "Article 146": {
+      "article_score": 13,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

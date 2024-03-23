@@ -1,0 +1,22 @@
+{
+  "term": "Rated voltage of a winding",
+  "celex_id": "32014R0548",
+  "original_definition": "'Rated voltage of a winding' is the voltage assigned to be applied, or developed at no-load, between the terminals of an untapped winding, or of a tapped winding connected on the principal tapping.",
+  "generated_definition": "'Rated voltage of a winding' means the rated voltage of a winding is the maximum voltage that a winding is designed to withstand in normal operation without causing damage to the winding or the equipment it is connected to.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Rated voltage of a winding\u2019 (Ur) is the voltage assigned to be applied, or developed at no-load, between the terminals of an untapped winding, or of a tapped winding connected on the principal tapping."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

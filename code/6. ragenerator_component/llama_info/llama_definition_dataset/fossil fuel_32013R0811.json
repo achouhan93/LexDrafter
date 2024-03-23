@@ -1,0 +1,22 @@
+{
+  "term": "fossil fuel",
+  "celex_id": "32013R0811",
+  "original_definition": "'fossil fuel' means a gaseous or liquid fuel of fossil origin;",
+  "generated_definition": "'fossil fuel' means a type of fuel formed from the fossilized remains of ancient plants and animals, used primarily for energy production.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018fossil fuel\u2019 means a gaseous or liquid fuel of fossil origin;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

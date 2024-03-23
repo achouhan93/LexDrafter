@@ -1,0 +1,307 @@
+{
+  "term": "capacity calculation region",
+  "celex_id": "32015R1222",
+  "original_definition": "'capacity calculation region' means the geographic area in which coordinated capacity calculation is applied;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018capacity calculation region\u2019 means the geographic area in which coordinated capacity calculation is applied;"
+    ],
+    "Article 9": [
+      "the capacity calculation regions in accordance with Article 15(1);"
+    ],
+    "Article 14": [
+      "4.   All TSOs in each capacity calculation region shall ensure that cross-zonal capacity is recalculated within the intraday market time-frame based on the latest available information. The frequency of this recalculation shall take into consideration efficiency and operational security."
+    ],
+    "Article 15": [
+      "3.   Capacity calculation regions applying a flow-based approach shall be merged into one capacity calculation region if the following cumulative conditions are fulfilled:",
+      "each bidding zone border, or two separate bidding zone borders if applicable, through which interconnection between two bidding zones exists, shall be assigned to one capacity calculation region;",
+      "Capacity calculation regions",
+      "at least those TSOs shall be assigned to all capacity calculation regions in which they have bidding zone borders.",
+      "at least those TSOs shall be assigned to allcapacity calculation regions in which they have bidding zone borders.",
+      "1.   By three months after the entry into force of this Regulation all TSOs shall jointly develop a common proposal regarding the determination of capacity calculation regions. The proposal shall be subject to consultation in accordance with Article 12.",
+      "each bidding zone border, or two separate bidding zone borders if applicable, through which interconnection between two bidding zones exists, shall be assigned to onecapacity calculation region;",
+      "3.Capacity calculation regions applying aflow-based approach shall be merged into one capacity calculation region if the following cumulative conditions are fulfilled:",
+      "2.   The proposal referred to in paragraph 1 shall define the bidding zone borders attributed to TSOs who are members of each capacity calculation region. The following requirements shall be met:",
+      "2.   The proposal referred to in paragraph 1 shall define the bidding zone borders attributed to TSOs who are members of eachcapacity calculation region. The following requirements shall be met:"
+    ],
+    "Article 19": [
+      "6.   Where appropriate, and upon agreement between all TSOs within a capacity calculation region, each TSO in that capacity calculation region shall exchange data between each other to enable voltage and dynamic stability analyses."
+    ],
+    "Article 20": [
+      "5.   At the time when two or more adjacentcapacity calculation regions in the same synchronous area implement a capacity calculation methodology using theflow-based approachfor the day-ahead or theintraday market time-frame, they shall be considered as one region for this purpose and the TSOs from this region shall submit within six months a proposal for applying a common capacity calculation methodology using the flow-based approach for the day-ahead or intraday market time-frame. The proposal shall provide for an implementation date of the common cross regional capacity calculation methodology of no longer than 12 months after the implementation of the flow-based approach in these regions for the methodology for theday-ahead market time-frame, and 18 months for the methodology for the intraday time-frame. The timelines indicated in this paragraph may be adapted in accordance with paragraph 6.",
+      "5.   At the time when two or more adjacent capacity calculation regions in the same synchronous area implement a capacity calculation methodology using the flow-based approach for the day-ahead or the intraday market time-frame, they shall be considered as one region for this purpose and the TSOs from this region shall submit within six months a proposal for applying a common capacity calculation methodology using the flow-based approach for the day-ahead or intraday market time-frame. The proposal shall provide for an implementation date of the common cross regional capacity calculation methodology of no longer than 12 months after the implementation of the flow-based approach in these regions for the methodology for the day-ahead market time-frame, and 18 months for the methodology for the intraday time-frame. The timelines indicated in this paragraph may be adapted in accordance with paragraph 6.",
+      "3.   The TSOs from thecapacity calculation regionwhere Italy, as defined in point (c) of point 3.2 of Annex I to Regulation (EC) No 714/2009, is included, may extend the deadline without prejudice to the obligation in paragraph 1 for submitting the proposal for a common coordinated capacity calculation methodology usingflow-based approachfor the respective region pursuant to paragraph 2 up to six months after Switzerland joins thesingle day-ahead coupling. The proposal does not have to include bidding zone borders within Italy and between Italy and Greece.",
+      "2.   No later than 10 months after the approval of the proposal for a capacity calculation region in accordance with Article 15(1), all TSOs in each capacity calculation region shall submit a proposal for a common coordinated capacity calculation methodology within the respective region. The proposal shall be subject to consultation in accordance with Article 12. The proposal for the capacity calculation methodology within regions pursuant to this paragraph in capacity calculation regions based on the \u2018North-West Europe\u2019 (\u2018NWE\u2019) and \u2018Central Eastern Europe\u2019 (\u2018CEE\u2019) as defined in points (b), and (d) of point 3.2 of Annex I to Regulation (EC) No 714/2009 as well as in regions referred to in paragraph 3 and 4, shall be complemented with a common framework for coordination and compatibility of flow-based methodologies across regions to be developed in accordance with paragraph 5.",
+      "9.   The TSOs of each capacity calculation region applying the flow-based approach shall establish and make available a tool which enables market participants to evaluate the interaction between cross-zonal capacities and cross-zonal exchanges between bidding zones.",
+      "3.   The TSOs from the capacity calculation region where Italy, as defined in point (c) of point 3.2 of Annex I to Regulation (EC) No 714/2009, is included, may extend the deadline without prejudice to the obligation in paragraph 1 for submitting the proposal for a common coordinated capacity calculation methodology using flow-based approach for the respective region pursuant to paragraph 2 up to six months after Switzerland joins the single day-ahead coupling. The proposal does not have to include bidding zone borders within Italy and between Italy and Greece.",
+      "The methodology in the two capacity calculation regions which have initiated developing a common capacity calculation methodology may be implemented first before developing a common capacity calculation methodology with any further capacity calculation region.",
+      "9.   The TSOs of eachcapacity calculation regionapplying theflow-based approach shall establish and make available a tool which enables market participants to evaluate the interaction between cross-zonal capacities and cross-zonal exchanges between bidding zones."
+    ],
+    "Article 21": [
+      "where the power flows on critical network elements are influenced by cross-zonal power exchanges in differentcapacity calculation regions, the rules for sharing the power flow capabilities of critical network elements among different capacity calculation regions inorder to accommodate these flows.",
+      "4.   All TSOs in eachcapacity calculation regionshall, as far as possible, use harmonised capacity calculation inputs. By 31 December 2020, all regions shall use a harmonised capacity calculation methodology which shall in particular provide for a harmonised capacity calculation methodology for the flow-based and for thecoordinated net transmission capacity approach. The harmonisation of capacity calculation methodology shall be subject to an efficiency assessment concerning the harmonisation of the flow-based methodologies and the coordinated net transmission capacity methodologies that provide for the same level of operational security. All TSOs shall submit the assessment with a proposal for the transition towards a harmonised capacity calculation methodology to all regulatory authorities within 12 months after at least two capacity calculation regions have implemented common capacity calculation methodology in accordance with Article 20(5).",
+      "1.   The proposal for a common capacity calculation methodology for a capacity calculation region determined in accordance with Article 20(2) shall include at least the following items for each capacity calculation time-frame:",
+      "where the power flows on critical network elements are influenced by cross-zonal power exchanges in different capacity calculation regions, the rules for sharing the power flow capabilities of critical network elements among different capacity calculation regions in order to accommodate these flows.",
+      "4.   All TSOs in each capacity calculation region shall, as far as possible, use harmonised capacity calculation inputs. By 31 December 2020, all regions shall use a harmonised capacity calculation methodology which shall in particular provide for a harmonised capacity calculation methodology for the flow-based and for the coordinated net transmission capacity approach. The harmonisation of capacity calculation methodology shall be subject to an efficiency assessment concerning the harmonisation of the flow-based methodologies and the coordinated net transmission capacity methodologies that provide for the same level of operational security. All TSOs shall submit the assessment with a proposal for the transition towards a harmonised capacity calculation methodology to all regulatory authorities within 12 months after at least two capacity calculation regions have implemented common capacity calculation methodology in accordance with Article 20(5)."
+    ],
+    "Article 25": [
+      "1.   Each TSO within each capacity calculation region shall individually define the available remedial actions to be taken into account in capacity calculation to meet the objectives of this Regulation.",
+      "2.   Each TSO within eachcapacity calculation regionshall coordinate with the other TSOs in that region the use ofremedial actions to be taken into account in capacity calculation and their actual application in real time operation.",
+      "3.   To enable remedial actions to be taken into account in capacity calculation, all TSOs in each capacity calculation region shall agree on the use of remedial actions that require the action of more than one TSO.",
+      "2.   Each TSO within each capacity calculation region shall coordinate with the other TSOs in that region the use of remedial actions to be taken into account in capacity calculation and their actual application in real time operation.",
+      "3.   To enableremedial actions to be taken into account in capacity calculation, all TSOs in eachcapacity calculation region shall agree on the use of remedial actions that require the action of more than one TSO.",
+      "1.   Each TSO within eachcapacity calculation regionshall individually define the availableremedial actions to be taken into account in capacity calculation to meet the objectives of this Regulation."
+    ],
+    "Article 26": [
+      "2.   Where acoordinated net transmission capacity approachis applied, all TSOs in thecapacity calculation regionshall include in the capacity calculation methodology referred to in Article 21 a rule for splitting the correction of cross-zonal capacity between the different bidding zone borders.",
+      "5.   Eachcoordinated capacity calculatorshall, every three months, report all reductions made during the validation of cross-zonal capacity in accordance with paragraph 3 to all regulatory authorities of thecapacity calculation region. This report shall include the location and amount of any reduction in cross-zonal capacity and shall give reasons for the reductions.",
+      "6.   All the regulatory authorities of the capacity calculation region shall decide whether to publish all or part of the report referred to in paragraph 5.",
+      "2.   Where a coordinated net transmission capacity approach is applied, all TSOs in the capacity calculation region shall include in the capacity calculation methodology referred to in Article 21 a rule for splitting the correction of cross-zonal capacity between the different bidding zone borders.",
+      "5.   Each coordinated capacity calculator shall, every three months, report all reductions made during the validation of cross-zonal capacity in accordance with paragraph 3 to all regulatory authorities of the capacity calculation region. This report shall include the location and amount of any reduction in cross-zonal capacity and shall give reasons for the reductions."
+    ],
+    "Article 27": [
+      "3.   All TSOs of each capacity calculation region shall review the quality of data submitted within the capacity calculation every second year as part of the biennial report on capacity calculation and allocation produced in accordance with Article 31.",
+      "2.   No later than four months after the decisions on the capacity calculation methodologies referred to in Articles 20 and 21, all the TSOs in eachcapacity calculation regionshall jointly set up thecoordinated capacity calculators and establish rules governing their operations.",
+      "2.   No later than four months after the decisions on the capacity calculation methodologies referred to in Articles 20 and 21, all the TSOs in each capacity calculation region shall jointly set up the coordinated capacity calculators and establish rules governing their operations."
+    ],
+    "Article 29": [
+      "flow-based parameters for each bidding zone within the capacity calculation region, if applying the flow-based approach; or",
+      "cross-zonal capacity values for each bidding zone borderwithin thecapacity calculation region, if applying thecoordinated net transmission capacity approach.",
+      "calculate flows on critical network elements for eachscenario(taking into account contingencies), and adjust them by assuming no cross-zonal power exchanges within thecapacity calculation region, applying the rules for avoiding undue discrimination between internal and cross-zonal power exchanges established in accordance with Article 21(1)(b)(ii);",
+      "1.   For each capacity calculation time-frame, each TSO shall provide the coordinated capacity calculators and all other TSOs in the capacity calculation region with the following items: operational security limits, generation shift keys, remedial actions, reliability margins, allocation constraints and previously allocated cross-zonal capacity.",
+      "11.   Each coordinated capacity calculator shall submit the cross-zonal capacity to each TSO within its capacity calculation region for validation in accordance with Article 21(1)(c).",
+      "flow-based parameters for each bidding zone within thecapacity calculation region, if applying theflow-based approach; or",
+      "cross-zonal capacity values for each bidding zone border within the capacity calculation region, if applying the coordinated net transmission capacity approach.",
+      "use power transfer distribution factors to calculate the flows resulting from previously allocated cross-zonal capacity in the capacity calculation region;",
+      "calculate flows on critical network elements for each scenario (taking into account contingencies), and adjust them by assuming no cross-zonal power exchanges within the capacity calculation region, applying the rules for avoiding undue discrimination between internal and cross-zonal power exchanges established in accordance with Article 21(1)(b)(ii);",
+      "1.   For each capacity calculation time-frame, each TSO shall provide thecoordinated capacity calculators and all other TSOs in thecapacity calculation regionwith the following items:operational security limits,generation shift keys,remedial actions,reliability margins,allocation constraints and previously allocated cross-zonal capacity.",
+      "11.   Eachcoordinated capacity calculatorshall submit the cross-zonal capacity to each TSO within itscapacity calculation region for validation in accordance with Article 21(1)(c)."
+    ],
+    "Article 30": [
+      "2.   Each TSO shall send its capacity validation andallocation constraintsto the relevantcoordinated capacity calculators and to the other TSOs of the relevantcapacity calculation regions.",
+      "2.   Each TSO shall send its capacity validation and allocation constraints to the relevant coordinated capacity calculators and to the other TSOs of the relevant capacity calculation regions."
+    ],
+    "Article 31": [
+      "3.   For each bidding zone, bidding zone borderandcapacity calculation region, the report on capacity calculation and allocation shall contain at least:",
+      "indicators for assessing and following in the longer term the efficiency of single day-ahead and intraday coupling, including the merging of capacity calculation regions in accordance with Article 15(3) where relevant;",
+      "3.   For each bidding zone, bidding zone border and capacity calculation region, the report on capacity calculation and allocation shall contain at least:"
+    ],
+    "Article 32": [
+      "TSOs of a capacity calculation region, together with all concerned TSOs whose control areas, including interconnectors, are within the geographic area in which the bidding zone configuration shall be assessed in accordance with paragraph 2(a);",
+      "Member States in a capacity calculation region."
+    ],
+    "Article 34": [
+      "an analysis of the share of power flows that do not result from the capacity allocation mechanism, for each capacity calculation region, where appropriate;"
+    ],
+    "Article 35": [
+      "By 26 months after the regulatory approval of capacity calculation regions, all TSOs in each capacity calculation region shall develop a report, subject to consultation in accordance with Article 12, assessing the progressive coordination and harmonisation of those mechanisms and agreements and including proposals. The report shall be submitted to their respective regulatory authorities for their assessment. The proposals in the report shall prevent these mechanisms and agreements from distorting the market.",
+      "2.   The methodology for coordinated redispatching and countertrading shall include actions of cross-borderrelevance and shall enable all TSOs in eachcapacity calculation regionto effectively relievephysical congestion irrespective of whether the reasons for the physical congestion fall mainly outside their control area or not. The methodology for coordinated redispatching and countertrading shall address the fact that its application may significantly influence flows outside the TSO's control area.",
+      "2.   The methodology for coordinated redispatching and countertrading shall include actions of cross-border relevance and shall enable all TSOs in each capacity calculation region to effectively relieve physical congestion irrespective of whether the reasons for the physical congestion fall mainly outside their control area or not. The methodology for coordinated redispatching and countertrading shall address the fact that its application may significantly influence flows outside the TSO's control area.",
+      "1.   Within 16 months after the regulatory approval on capacity calculation regions referred to in Article 15, all the TSOs in each capacity calculation region shall develop a proposal for a common methodology for coordinated redispatching and countertrading. The proposal shall be subject to consultation in accordance with Article 12."
+    ],
+    "Article 44": [
+      "By 16 months after the entry into force of this Regulation, each TSO, in coordination with all the other TSOs in thecapacity calculation region, shall develop a proposal for robust and timely fallback procedures to ensure efficient, transparent and non-discriminatory capacity allocation in the event that thesingle day-ahead coupling process is unable to produce results.",
+      "By 16 months after the entry into force of this Regulation, each TSO, in coordination with all the other TSOs in the capacity calculation region, shall develop a proposal for robust and timely fallback procedures to ensure efficient, transparent and non-discriminatory capacity allocation in the event that the single day-ahead coupling process is unable to produce results."
+    ],
+    "Article 58": [
+      "2.   If updates to cross-zonal capacity and allocation constraints are required, due to operational changes on the transmission system, each TSO shall notify the coordinated capacity calculators in its capacity calculation region. The coordinated capacity calculators shall then notify the relevant NEMOs.",
+      "2.   If updates to cross-zonal capacity andallocation constraintsare required, due to operational changes on the transmission system, each TSO shall notify thecoordinated capacity calculators in itscapacity calculation region. The coordinated capacity calculators shall then notify the relevant NEMOs."
+    ],
+    "Article 74": [
+      "determine which costs incurred from using remedial actions, for which costs have been considered in the capacity calculation and where a common framework on the use of such actions has been established, are eligible for sharing between all the TSOs of a capacity calculation region in accordance with the capacity calculation methodology set out in Articles 20 and 21;",
+      "a process allowing monitoring of each capacity calculation region by the competent regulatory authorities.",
+      "define which costs incurred from using redispatching or countertrading to guarantee the firmness of cross-zonal capacity are eligible for sharing between all the TSOs of a capacity calculation region in accordance with the capacity calculation methodology set out in Articles 20 and 21;",
+      "1.   No later than 16 months after the decision on the capacity calculation regions is taken, all TSOs in each capacity calculation region shall develop a proposal for a common methodology for redispatching and countertrading cost sharing.",
+      "define which costs incurred from using redispatching or countertrading to guarantee thefirmnessof cross-zonal capacity are eligible for sharing between all the TSOs of acapacity calculation region in accordance with the capacity calculation methodology set out in Articles 20 and 21;",
+      "determine which costs incurred from usingremedial actions, for which costs have been considered in the capacity calculation and where a common framework on the use of such actions has been established, are eligible for sharing between all the TSOs of acapacity calculation region in accordance with the capacity calculation methodology set out in Articles 20 and 21;",
+      "7.   By 31 December 2018, all TSOs of each capacity calculation region shall further harmonise as far as possible between the regions the redispatching and countertrading cost sharing methodologies applied within their respective capacity calculation region."
+    ],
+    "Article 78": [
+      "All TSOs in eachcapacity calculation regionshall bear the costs of establishing and operating thecoordinated capacity calculators.",
+      "All TSOs in each capacity calculation region shall bear the costs of establishing and operating the coordinated capacity calculators."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 14": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 15": {
+      "article_score": 12,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1
+      ]
+    },
+    "Article 19": {
+      "article_score": 2,
+      "statement_scores": [
+        2
+      ]
+    },
+    "Article 20": {
+      "article_score": 11,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        2,
+        1
+      ]
+    },
+    "Article 21": {
+      "article_score": 9,
+      "statement_scores": [
+        2,
+        2,
+        1,
+        2,
+        2
+      ]
+    },
+    "Article 25": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 26": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 27": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 29": {
+      "article_score": 11,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 30": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 31": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 32": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 34": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 35": {
+      "article_score": 6,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        2
+      ]
+    },
+    "Article 44": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 58": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 74": {
+      "article_score": 9,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2
+      ]
+    },
+    "Article 78": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}
