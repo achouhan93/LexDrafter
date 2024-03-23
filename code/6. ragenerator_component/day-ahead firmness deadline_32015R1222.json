@@ -1,0 +1,61 @@
+{
+  "term": "day-ahead firmness deadline",
+  "celex_id": "32015R1222",
+  "original_definition": "'day-ahead firmness deadline' means the point in time after which cross-zonal capacity becomes firm;",
+  "generated_definition": "'day-ahead firmness deadline' means a deadline for coordinated capacity calculation to adjust cross-zonal capacity and allocation constraints for day-ahead capacity allocation, or for cross-zonal capacity and allocation constraints to become firm for day-ahead capacity allocation, depending on the context.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018day-ahead firmness deadline\u2019 means the point in time after which cross-zonal capacity becomes firm;"
+    ],
+    "Article 9": [
+      "the day-ahead firmness deadline in accordance with Article 69;"
+    ],
+    "Article 69": [
+      "Proposal for day-ahead firmness deadline",
+      "By 16 months after the entry into force of this Regulation, all TSOs shall develop a common proposal for a singleday-ahead firmness deadline, which shall not be shorter than half an hour before theday-ahead market gate closure time. The proposal shall be subject to consultation in accordance with Article 12.",
+      "By 16 months after the entry into force of this Regulation, all TSOs shall develop a common proposal for a single day-ahead firmness deadline, which shall not be shorter than half an hour before the day-ahead market gate closure time. The proposal shall be subject to consultation in accordance with Article 12."
+    ],
+    "Article 70": [
+      "1.   Prior to theday-ahead firmness deadline, eachcoordinated capacity calculatormay adjust cross-zonal capacity andallocation constraints provided to relevant NEMOs.",
+      "3.   After the day-ahead firmness deadline, cross-zonal capacity which has not been allocated may be adjusted for subsequent allocations.",
+      "1.   Prior to the day-ahead firmness deadline, each coordinated capacity calculator may adjust cross-zonal capacity and allocation constraints provided to relevant NEMOs.",
+      "2.   After theday-ahead firmness deadline, all cross-zonal capacity andallocation constraints shall be firm for day-ahead capacity allocation unless the requirements of Article 46(2) are met, in which case cross-zonal capacity and allocation constraints shall be firm as soon as they are submitted to relevant NEMOs.",
+      "2.   After the day-ahead firmness deadline, all cross-zonal capacity and allocation constraints shall be firm for day-ahead capacity allocation unless the requirements of Article 46(2) are met, in which case cross-zonal capacity and allocation constraints shall be firm as soon as they are submitted to relevant NEMOs."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 69": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 70": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

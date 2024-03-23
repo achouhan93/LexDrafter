@@ -1,0 +1,39 @@
+{
+  "term": "balancing reserves",
+  "celex_id": "32013R0543",
+  "original_definition": "'balancing reserves' mean all resources, if procured ex ante or in real time, or according to legal obligations, which are available to the TSO for balancing purposes;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018balancing reserves\u2019 mean all resources, if procured ex ante or in real time, or according to legal obligations, which are available to the TSO for balancing purposes;",
+      "\u2018balancing time unit\u2019 means the time period for which the price for balancing reserves is established;",
+      "\u2018balancing time unit\u2019 means the time period for which the price forbalancing reserves is established;",
+      "\u2018balancing reserves\u2019 mean all resources, if procured ex ante or in realtime, or according to legal obligations, which are available to the TSO for balancing purposes;"
+    ],
+    "Article 17": [
+      "the amount of balancing reserves under contract (MW) by the TSO, specifying:",
+      "processes for the procurement of different types of balancing reserves and of balancing energy,"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        0
+      ]
+    },
+    "Article 17": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

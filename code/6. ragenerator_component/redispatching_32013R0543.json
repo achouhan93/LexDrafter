@@ -1,0 +1,33 @@
+{
+  "term": "redispatching",
+  "celex_id": "32013R0543",
+  "original_definition": "'redispatching' means a measure activated by one or several system operators by altering the generation and/or load pattern in order to change physical flows in the transmission system and relieve a physical congestion;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018redispatching\u2019 means a measure activated by one or several system operators by altering the generation and/or load pattern in order to change physical flows in the transmission system and relieve a physical congestion;"
+    ],
+    "Article 13": [
+      "information relating to redispatching per market time unit, specifying:",
+      "information relating toredispatchingpermarket time unit, specifying:"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 13": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    }
+  }
+}

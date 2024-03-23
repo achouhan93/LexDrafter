@@ -1,0 +1,41 @@
+{
+  "term": "energy efficiency index",
+  "celex_id": "32019R2019",
+  "original_definition": "'energy efficiency index' means an index number for the relative energy efficiency of a refrigeration appliance expressed in percentage, as set out in point 5 of Annex III;",
+  "generated_definition": "'energy efficiency index' means the energy efficiency index (eei) is a measure of the energy efficiency of refrigerating appliances, determined by their energy consumption and performance in various temperature conditions.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018energy efficiency index\u2019 (EEI) means an index number for the relative energy efficiency of a refrigeration appliance expressed in percentage, as set out in point 5 of Annex III;"
+    ],
+    "Article 10": [
+      "At the time of entry into force of this Regulation, the best available technology on the market for refrigerating appliances in terms of their energy efficiency index (EEI) and airborne acoustical noise emissions was identified as outlined below.",
+      "From 1 March 2021, the energy efficiency index (EEI) of refrigerating appliances shall not be above the values as set out in Table 1.",
+      "for a variable temperaturecompartmentrated as a fresh food and/or chill compartment, theenergy efficiency index (EEI) shall be determined for each temperature condition and the highest value shall be applied;",
+      "From 1 March 2021, theenergy efficiency index(EEI) ofrefrigerating appliances shall not be above the values as set out in Table 1.",
+      "At the time of entry into force of this Regulation, the best available technology on the market forrefrigerating appliances in terms of theirenergy efficiency index(EEI) andairborne acoustical noise emissions was identified as outlined below.",
+      "for a variable temperature compartment rated as a fresh food and/or chill compartment, the energy efficiency index (EEI) shall be determined for each temperature condition and the highest value shall be applied;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 10": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

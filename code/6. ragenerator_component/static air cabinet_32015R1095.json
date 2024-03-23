@@ -1,0 +1,33 @@
+{
+  "term": "static air cabinet",
+  "celex_id": "32015R1095",
+  "original_definition": "'static air cabinet' means a professional refrigerated storage cabinet without internal forced-air circulation, specifically designed to store temperature-sensitive foodstuffs or to avoid a drying effect on foodstuffs stored without a sealed enclosure, where a single static air compartment within the cabinet is not sufficient to designate the cabinet as a static air cabinet;",
+  "generated_definition": "'static air cabinet' means a static air cabinet is a type of air purifier that uses hepa filters to remove contaminants from the air. it is designed to be placed in a static location and is typically used in environments where air quality is a concern.",
+  "existing_sentences": {
+    "Article 1": [
+      "static air cabinets;"
+    ],
+    "Article 2": [
+      "\u2018static air cabinet\u2019 means aprofessional refrigerated storage cabinetwithout internal forced-air circulation, specifically designed to store temperature-sensitivefoodstuffs or to avoid a drying effect on foodstuffs stored without a sealed enclosure, where a single static air compartment within the cabinet is not sufficient to designate the cabinet as a static air cabinet;",
+      "\u2018static air cabinet\u2019 means a professional refrigerated storage cabinet without internal forced-air circulation, specifically designed to store temperature-sensitive foodstuffs or to avoid a drying effect on foodstuffs stored without a sealed enclosure, where a single static air compartment within the cabinet is not sufficient to designate the cabinet as a static air cabinet;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

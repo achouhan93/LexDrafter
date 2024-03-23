@@ -1,0 +1,22 @@
+{
+  "term": "Authorised representative",
+  "celex_id": "32009L0125",
+  "original_definition": "'Authorised representative' means any natural or legal person established in the Community who has received a written mandate from the manufacturer to perform on his behalf all or part of the obligations and formalities connected with this Directive;",
+  "generated_definition": "'Authorised representative' means a person authorised to represent a company or organisation before the european union institutions.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Authorised representative\u2019 means any natural or legal person established in the Community who has received a written mandate from the manufacturer to perform on his behalf all or part of the obligations and formalities connected with this Directive;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

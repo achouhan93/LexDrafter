@@ -1,0 +1,159 @@
+{
+  "term": "synchronised region",
+  "celex_id": "32017R2196",
+  "original_definition": "'synchronised region' means the fraction of a synchronous area covered by interconnected TSOs with a common system frequency and which is not synchronised with the rest of the synchronous area;",
+  "generated_definition": "'synchronised region' means a geographical area where electricity is supplied by multiple transmission system operators (tsos) who coordinate their actions to maintain a stable power supply.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018resynchronisation\u2019 means synchronising and connecting again two synchronised regions at the resynchronisation point;",
+      "\u2018resynchronisation\u2019 means synchronising and connecting again twosynchronised regions at theresynchronisation point;",
+      "\u2018resynchronisation leader\u2019 means the TSO appointed and responsible for the resynchronisation of twosynchronised regions;",
+      "\u2018synchronised region\u2019 means the fraction of a synchronous area covered by interconnected TSOs with a common system frequency and which is not synchronised with the rest of the synchronous area;",
+      "\u2018resynchronisation leader\u2019 means the TSO appointed and responsible for the resynchronisation of two synchronised regions;",
+      "\u2018frequency leader\u2019 means the TSO appointed and responsible for managing the system frequency within a synchronised region or a synchronous area in order to restore system frequency back to the nominal frequency;",
+      "\u2018frequency leader\u2019 means the TSO appointed and responsible for managing the system frequency within asynchronised region or a synchronous area in order to restore system frequency back to the nominal frequency;"
+    ],
+    "Article 25": [
+      "the TSOs with which it shares a synchronised region or synchronised regions; and",
+      "the extent and borders of the synchronised region or synchronised regions to which its control area belongs;"
+    ],
+    "Article 28": [
+      "in preparation of the resynchronisation procedure, when a synchronous area is split in several synchronised regions;",
+      "the determination of the amount of load and generation to be reconnected, taking into account the available active power reserves within the synchronised region in order to avoid major frequency deviations.",
+      "in preparation of theresynchronisationprocedure, when a synchronous area is split in severalsynchronised regions;"
+    ],
+    "Article 29": [
+      "another frequency leader is appointed for its synchronised region;",
+      "the availability of measurements on critical elements within the synchronised region or the synchronous area.",
+      "the availability of frequency measurements of TSOs of the synchronised region or of the synchronous area; and",
+      "anotherfrequency leaderis appointed for itssynchronised region;",
+      "1.   During system restoration, when a synchronous area is split in several synchronised regions, the TSOs of each synchronised region shall appoint a frequency leader, in accordance with paragraph 3.",
+      "a new frequency leader is appointed as the result of resynchronisation of its synchronised region with another synchronised region; or",
+      "3.   The TSO with the highest real-time estimated K-factor shall be appointed as the frequency leader, unless the TSOs of the synchronised region, or of the synchronous area, agree to appoint another TSO as the frequency leader. In that case, the TSOs of the synchronised region, or of the synchronous area, shall consider the following criteria:",
+      "3.   The TSO with the highest real-time estimated K-factor shall be appointed as thefrequency leader, unless the TSOs of thesynchronised region, or of the synchronous area, agree to appoint another TSO as the frequency leader. In that case, the TSOs of the synchronised region, or of the synchronous area, shall consider the following criteria:",
+      "a newfrequency leaderis appointed as the result ofresynchronisationof itssynchronised region with another synchronised region; or",
+      "1.   During system restoration, when a synchronous area is split in severalsynchronised regions, the TSOs of each synchronised region shall appoint afrequency leader, in accordance with paragraph 3."
+    ],
+    "Article 31": [
+      "1.   During system restoration, when afrequency leaderhas been appointed pursuant to Article 29(3), the TSOs of eachsynchronised region, with the exception of the frequency leader, shall as a first measure suspend the manual activation of frequency restoration reserves and replacement reserves.",
+      "2.   Thefrequency leadershall establish, after consultation with the other TSOs of thesynchronised region, the operating mode to be applied on the LFC operated by each TSO of the synchronised region.",
+      "1.   During system restoration, when a frequency leader has been appointed pursuant to Article 29(3), the TSOs of each synchronised region, with the exception of the frequency leader, shall as a first measure suspend the manual activation of frequency restoration reserves and replacement reserves.",
+      "2.   The frequency leader shall establish, after consultation with the other TSOs of the synchronised region, the operating mode to be applied on the LFC operated by each TSO of the synchronised region."
+    ],
+    "Article 33": [
+      "the two synchronised regions have been resynchronised, and all the steps in Article 34 have been completed.",
+      "3.   Where more than one TSO fulfils the criteria under paragraph 2, the TSO with the highest number of potentialresynchronisation points between the twosynchronised regions shall be appointed as theresynchronisation leader, unless thefrequency leaders of the two synchronised regions agree to appoint another TSO as resynchronisation leader.",
+      "has access to the frequency measurements from both synchronised regions;",
+      "3.   Where more than one TSO fulfils the criteria under paragraph 2, the TSO with the highest number of potential resynchronisation points between the two synchronised regions shall be appointed as the resynchronisation leader, unless the frequency leaders of the two synchronised regions agree to appoint another TSO as resynchronisation leader.",
+      "has in operation at least one substation equipped with a parallel switching device on the border between the two synchronised regions to be resynchronised;"
+    ],
+    "Article 34": [
+      "2.   When carrying out the tasks enumerated in paragraph 1, theresynchronisation leadershall consult thefrequency leaders of the involvedsynchronised regions and, for the tasks listed in points (b) to (e), it shall also consult the TSOs operating the substations used for resynchronisation.",
+      "3.   Each frequency leader shall inform the TSOs within its synchronised region of the planned resynchronisation without undue delay.",
+      "2.   When carrying out the tasks enumerated in paragraph 1, the resynchronisation leader shall consult the frequency leaders of the involved synchronised regions and, for the tasks listed in points (b) to (e), it shall also consult the TSOs operating the substations used for resynchronisation.",
+      "establish and prepare all necessary actions for the resynchronisation of the two synchronised regions at the resynchronisation point;",
+      "establish and prepare a subsequent set of actions to create additional connections between the synchronised regions; and",
+      "establish and prepare all necessary actions for theresynchronisationof the twosynchronised regions at theresynchronisation point;",
+      "3.   Eachfrequency leadershall inform the TSOs within itssynchronised regionof the plannedresynchronisation without undue delay.",
+      "assess the readiness of thesynchronised regions forresynchronisation, taking into account the conditions set out in point (a).",
+      "assess the readiness of the synchronised regions for resynchronisation, taking into account the conditions set out in point (a).",
+      "the maximum frequency difference between the two synchronised regions;"
+    ],
+    "Article 40": [
+      "to thefrequency leaderof itssynchronised region, information about at least:",
+      "the restrictions to operate the synchronised region;",
+      "the extent and borders of the synchronised region or synchronised regions to which its control area belongs;",
+      "to the frequency leader of its synchronised region, information about at least:"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 25": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Article 28": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 29": {
+      "article_score": 16,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    "Article 31": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        2,
+        1,
+        2
+      ]
+    },
+    "Article 33": {
+      "article_score": 7,
+      "statement_scores": [
+        1,
+        2,
+        1,
+        2,
+        1
+      ]
+    },
+    "Article 34": {
+      "article_score": 10,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 40": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        2,
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "term": "point of sale",
+  "celex_id": "32019R2013",
+  "original_definition": "'point of sale' means a location where electronic displays are displayed or offered for sale, hire or hire-purchase.",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018point of sale\u2019 means a location whereelectronic displays are displayed or offered for sale, hire or hire-purchase.",
+      "\u2018point of sale\u2019 means a location where electronic displays are displayed or offered for sale, hire or hire-purchase."
+    ],
+    "Article 4": [
+      "each electronic display, at the point of sale, including at trade fairs, bears the label provided by suppliers in accordance with point 1(a) of Article 3 displayed on the front of the appliance or hung on it or placed in such a way as to be clearly visible and unequivocally associated to the specific model; provided that the electronic display is kept in on-mode when visible to customers for sale, the electronic label in accordance with point 1(g) of Article 3 displayed on the screen may replace the printed label;",
+      "where anelectronic displaymodel is displayed in apoint of sale without any unit displayed out of the box, the label printed on the box or stuck on it shall be visible;",
+      "where an electronic display model is displayed in a point of sale without any unit displayed out of the box, the label printed on the box or stuck on it shall be visible;",
+      "eachelectronic display, at thepoint of sale, including at trade fairs, bears the label provided by suppliers in accordance with point 1(a) of Article 3 displayed on the front of the appliance or hung on it or placed in such a way as to be clearly visible and unequivocally associated to the specific model; provided that the electronic display is kept in on-mode when visible to customers for sale, the electronic label in accordance with point 1(g) of Article 3 displayed on the screen may replace the printed label;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 4": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

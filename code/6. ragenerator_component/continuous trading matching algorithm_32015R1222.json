@@ -1,0 +1,66 @@
+{
+  "term": "continuous trading matching algorithm",
+  "celex_id": "32015R1222",
+  "original_definition": "'continuous trading matching algorithm' means the algorithm used in single intraday coupling for matching orders and allocating cross-zonal capacities continuously;",
+  "generated_definition": "'continuous trading matching algorithm' means a computer algorithm used in electricity markets to continuously match electricity supply and demand in real-time, enabling efficient and reliable trading of electricity between market participants.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018continuous trading matching algorithm\u2019 means the algorithm used in single intraday coupling for matching orders and allocating cross-zonal capacities continuously;",
+      "\u2018continuous trading matching algorithm\u2019 means the algorithm used insingle intraday couplingfor matchingorders and allocating cross-zonal capacities continuously;"
+    ],
+    "Article 37": [
+      "all NEMOs shall jointly propose a common set of requirements for efficientmatchingto enable the development of theprice coupling algorithmand of thecontinuous trading matching algorithm.",
+      "all TSOs shall jointly provide all NEMOs with a proposal for a common set of requirements for efficient capacity allocation to enable the development of the price coupling algorithm and of the continuous trading matching algorithm. These requirements shall specify functionalities and performance, including deadlines for the delivery of single day-ahead and intraday coupling results and details of the cross-zonal capacity and allocation constraints to be respected;",
+      "all NEMOs shall jointly propose a common set of requirements for efficient matching to enable the development of the price coupling algorithm and of the continuous trading matching algorithm."
+    ],
+    "Article 51": [
+      "1.   From theintraday cross-zonal gate opening timeuntil theintraday cross-zonal gate closure time, thecontinuous trading matching algorithmshall determine whichorders to select for matching such that matching:",
+      "1.   From the intraday cross-zonal gate opening time until the intraday cross-zonal gate closure time, the continuous trading matching algorithm shall determine which orders to select for matching such that matching:"
+    ],
+    "Article 52": [
+      "3.   All TSOs shall verify that the results of the continuous trading matching algorithm are consistent with cross-zonal capacity and allocation constraints in accordance with Article 58(2)."
+    ],
+    "Article 53": [
+      "3.   All NEMOs shall ensure that the continuous trading matching algorithm is able to accommodate orders covering one market time unit and multiple market time units."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 37": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 51": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 52": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 53": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

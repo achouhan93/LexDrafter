@@ -1,0 +1,53 @@
+{
+  "term": "chilled operating temperature",
+  "celex_id": "32019R2024",
+  "original_definition": "'chilled operating temperature' means a temperature between -3,5 degrees Celsius (\u00b0C) and 15 degrees Celsius (\u00b0C) for appliances equipped with energy management systems for saving energy and between -3,5 degrees Celsius (\u00b0C) and 10 degrees Celsius (\u00b0C) for appliances not equipped with energy management systems for saving energy;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 1": [
+      "horizontal serve-over counters with integrated storage designed to work at chilled operating temperatures;"
+    ],
+    "Article 2": [
+      "\u2018chilled operating temperature\u2019 means a temperature between -3,5 degrees Celsius (\u00b0C) and 15 degrees Celsius (\u00b0C) for appliances equipped with energy management systems for saving energy and between -3,5 degrees Celsius (\u00b0C) and 10 degrees Celsius (\u00b0C) for appliances not equipped with energy management systems for saving energy;"
+    ],
+    "Article 8": [
+      "the appropriateness to set energy efficiency requirements and additional information requirements for saladettes, horizontal serve-over counters with integrated storage working at chilled operating temperatures, corner cabinets, vending machines designed to work at a frozen operating temperature and serve-over fish counters with flaked ice;",
+      "the appropriateness to set energy efficiency requirements and additional information requirements forsaladettes, horizontal serve-over counters with integrated storage working atchilled operating temperatures,corner cabinets, vending machines designed to work at afrozen operating temperature and serve-over fish counters with flaked ice;"
+    ],
+    "Article 9": [
+      "\u2018refrigerator\u2019 means arefrigerating appliance with a direct sales functionthat continuously maintains the temperature of the products stored in the cabinet atchilled operating temperature;",
+      "\u2018refrigerator\u2019 means a refrigerating appliance with a direct sales function that continuously maintains the temperature of the products stored in the cabinet at chilled operating temperature;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 9": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

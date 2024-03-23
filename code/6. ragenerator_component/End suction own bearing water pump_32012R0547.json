@@ -1,0 +1,22 @@
+{
+  "term": "End suction own bearing water pump",
+  "celex_id": "32012R0547",
+  "original_definition": "'End suction own bearing water pump' is an end suction water pump with own bearings;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018End suction own bearing water pump\u2019 (ESOB) is an end suction water pump with own bearings;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

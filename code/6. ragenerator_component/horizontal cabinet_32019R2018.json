@@ -1,0 +1,39 @@
+{
+  "term": "horizontal cabinet",
+  "celex_id": "32019R2018",
+  "original_definition": "'horizontal cabinet' means a refrigerating appliance with a direct sales function with horizontal display, opening on its top, and accessible from above;",
+  "generated_definition": "'horizontal cabinet' means a horizontal cabinet for assisted service, which includes refrigerated storage of at least 100 litres per meter length and is placed at the serve-over counter's base.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018horizontal serve-over counter with integrated storage\u2019 means a horizontal cabinet for assisted service, which includes refrigerated storage which is of at least 100 litres (L) per meter (m) length and which is normally placed at the serve-over counter's base;",
+      "\u2018horizontal serve-over counter with integrated storage\u2019 means ahorizontal cabinet for assisted service, which includes refrigerated storage which is of at least 100 litres (L) per meter (m) length and which is normally placed at the serve-over counter's base;",
+      "\u2018horizontal cabinet\u2019 means a refrigerating appliance with a direct sales function with horizontal display, opening on its top, and accessible from above;",
+      "\u2018horizontal cabinet\u2019 means arefrigerating appliance with a direct sales function with horizontal display, opening on its top, and accessible from above;"
+    ],
+    "Article 9": [
+      "\u2018combined cabinet\u2019 means arefrigerating appliance with a direct sales functionwhich combines display and opening directions from a vertical and ahorizontal cabinet;",
+      "\u2018combined cabinet\u2019 means a refrigerating appliance with a direct sales function which combines display and opening directions from a vertical and a horizontal cabinet;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

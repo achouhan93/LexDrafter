@@ -1,0 +1,85 @@
+{
+  "term": "standard rating conditions",
+  "celex_id": "32016R2281",
+  "original_definition": "'standard rating conditions' means the operating conditions of comfort chillers, air conditioners and heat pumps under which they are tested to determine their rated heating capacity, rated cooling capacity, sound power level and/or emissions of nitrogen oxides. For products using internal combustion engines, this is the engine rpm equivalent (Erpmequivalent",
+  "generated_definition": "'standard rating conditions' means operating conditions used to measure the performance of certain equipment, such as chillers, heat pumps, and air conditioners, that are representative of the variations in load and ambient temperature throughout the year, and calculated as the ratio between the annual refrigeration demand and the annual electricity consumption.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018standard rating conditions\u2019 means the operating conditions ofcomfort chillers, air conditioners and heat pumps under which they are tested to determine theirrated heating capacity,rated cooling capacity, sound power level and/or emissions of nitrogen oxides. For products using internal combustion engines, this is the engine rpm equivalent (Erpmequivalent\n);",
+      "\u2018rated cooling capacity\u2019 (Prated,c\n) means the cooling capacity of acomfort chillerand/or air conditioner orfan coil units when providing space cooling at \u2018standard rating conditions\u2019, expressed in kW;",
+      "\u2018standard rating conditions\u2019 means the operating conditions of comfort chillers, air conditioners and heat pumps under which they are tested to determine their rated heating capacity, rated cooling capacity, sound power level and/or emissions of nitrogen oxides. For products using internal combustion engines, this is the engine rpm equivalent (Erpmequivalent\n);",
+      "\u2018rated heating capacity\u2019 (Prated,h\n) means the heating capacity of a heat pump, warm air heater orfan coil units when providing space heating at \u2018standard rating conditions\u2019, expressed in kW;",
+      "that is capable of delivering itsrated refrigeration capacity, at an indoor side heat exchanger outlet temperature of 7 \u00b0C, atstandard rating conditions;",
+      "that is capable of delivering its rated refrigeration capacity, at an indoor side heat exchanger outlet temperature of 7 \u00b0C, at standard rating conditions;",
+      "\u2018rated heating capacity\u2019 (Prated,h\n) means the heating capacity of a heat pump, warm air heater or fan coil units when providing space heating at \u2018standard rating conditions\u2019, expressed in kW;",
+      "\u2018rated cooling capacity\u2019 (Prated,c\n) means the cooling capacity of a comfort chiller and/or air conditioner or fan coil units when providing space cooling at \u2018standard rating conditions\u2019, expressed in kW;"
+    ],
+    "Article 9": [
+      "\u2018seasonal energy performance ratio\u2019 (SEPR) is the efficiency ratio of a high temperature process chiller at standard rating conditions, representative of the variations in load and ambient temperature throughout the year, and calculated as the ratio between the annual refrigeration demand and the annual electricity consumption;",
+      "While establishing the sound power level, the operating conditions shall be the standard rating conditions set out in Table 16 (air-to-air heat pumps and air conditioners), Table 17 (water/brine to-water comfort chillers), Table 18 (air-to-water comfort chillers), Table 19 (water/brine-to-air heat pumps and air conditioners);",
+      "Standard rating conditions for water/brine-to-water comfort chillers",
+      "Standard rating conditions for air-to-air heat pumps and air conditioners",
+      "\u2018NOx emissions of heat pumps, comfort chillers and air conditioners with an internal combustion engine\u2019 means the emissions of the sum of nitrogen monoxide and nitrogen dioxide emissions, of heat pumps, comfort chillers and air conditioners with an internal combustion engine, measured at standard rating conditions, using engine rpm equivalent, expressed in mg nitrogen dioxide per kWh fuel input in terms of GCV;",
+      "While establishing the sound power level, the operating conditions shall be the standard rating conditions set out in Table 16 (air-to-air heat pumps), Table 19 (water/brine-to-air heat pumps);",
+      "Standard rating conditions for fan coil units",
+      "\u2018sound power level\u2019 (LWA\n) means the A-weighted sound power level measured indoors and/or outdoors, at standard rating conditions, and expressed in dB;",
+      "(*2)  For units designed for heating and cooling mode, the flow rate obtained during the test at standard rating conditions in cooling mode is used.",
+      "Standard rating conditions used: [low temperature application/medium temperature application]",
+      "\u2018air flow rate\u2019 means the air flow rate in m3/h measured at the air outlet of indoor and/or outdoor units (if applicable) ofcomfort chillers, air conditioners or heat pumps, andfan coil units atstandard rating conditions for cooling, or heating if the product has no cooling function;",
+      "(*3)  Outlet temperatures dependent on water flow rate as determined at standard rating conditions (100 % part load ratio when cooling, 88 % when heating)",
+      "Standard rating conditionsfor water/brine-to-watercomfort chillers",
+      "Standard rating conditionsforfan coil units",
+      "\u2018seasonal energy performance ratio\u2019 (SEPR) is the efficiency ratio of ahigh temperature process chilleratstandard rating conditions, representative of the variations in load and ambient temperature throughout the year, and calculated as the ratio between the annual refrigeration demand and the annual electricity consumption;",
+      "\u2018NOx emissions of heat pumps,comfort chillers and air conditioners with an internal combustion engine\u2019 means the emissions of the sum of nitrogen monoxide and nitrogen dioxide emissions, of heat pumps, comfort chillers and air conditioners with an internal combustion engine, measured atstandard rating conditions, using engine rpm equivalent, expressed in mg nitrogen dioxide per kWh fuel input in terms of GCV;",
+      "While establishing the sound power level, the operating conditions shall be thestandard rating conditionsset out in Table 16 (air-to-air heat pumps and air conditioners), Table 17 (water/brine to-watercomfort chillers), Table 18 (air-to-water comfort chillers), Table 19 (water/brine-to-air heat pumps and air conditioners);",
+      "Standard rating conditions for water/brine-to-air heat pumps and air conditioners",
+      "\u2018air flow rate\u2019 means the air flow rate in m3/h measured at the air outlet of indoor and/or outdoor units (if applicable) of comfort chillers, air conditioners or heat pumps, and fan coil units at standard rating conditions for cooling, or heating if the product has no cooling function;",
+      "Standard rating conditionsair-to-watercomfort chillers",
+      "Standard rating conditions air-to-water comfort chillers"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 21,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

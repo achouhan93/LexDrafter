@@ -1,0 +1,31 @@
+{
+  "term": "Placing on the market",
+  "celex_id": "32009L0125",
+  "original_definition": "'Placing on the market' means making a product available for the first time on the Community market with a view to its distribution or use within the Community, whether for reward or free of charge and irrespective of the selling technique;",
+  "generated_definition": "'Placing on the market' means placing on the market and/or putting into service of a product or service in the european economic area, which is subject to eu legislation.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Placing on the market\u2019 means making a product available for the first time on the Community market with a view to its distribution or use within the Community, whether for reward or free of charge and irrespective of the selling technique;"
+    ],
+    "Article 3": [
+      "Placing on the market and/or putting into service"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 3": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

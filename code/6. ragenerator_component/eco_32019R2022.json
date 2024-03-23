@@ -1,0 +1,232 @@
+{
+  "term": "eco",
+  "celex_id": "32019R2022",
+  "original_definition": "'eco' means the name of the programme of a household dishwasher declared by the manufacturer, importer or authorised representative as suitable to clean normally soiled tableware, and to which the ecodesign requirements on energy efficiency, cleaning and drying performance relate.",
+  "generated_definition": "'eco' means a household dishwasher's eco programme, used for measuring energy efficiency, water consumption, programme duration, cleaning and drying performance, and airborne acoustical noise emissions. the eco programme energy consumption is compared to the standard programme energy consumption to calculate the energy efficiency index.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018eco\u2019 means the name of the programme of a household dishwasher declared by the manufacturer, importer or authorised representative as suitable to clean normally soiled tableware, and to which the ecodesign requirements on energy efficiency, cleaning and drying performance relate.",
+      "\u2018eco\u2019 means the name of theprogrammeof ahousehold dishwasher declared by the manufacturer, importer or authorised representative as suitable to clean normally soiled tableware, and to which the ecodesign requirements on energy efficiency, cleaning and drying performance relate."
+    ],
+    "Article 3": [
+      "Ecodesign requirements",
+      "The ecodesign requirements set out in Annex II shall apply from the dates indicated therein."
+    ],
+    "Article 6": [
+      "The manufacturer, importer or authorised representative shall not place on the market products designed to be able to detect they are being tested (e.g. by recognising the test conditions or test cycle), and to react specifically by automatically altering their performance during the test with the aim of reaching a more favourable level for any of the parameters declared by the manufacturer, importer or authorised representative in the technical documentation or included in any documentation provided."
+    ],
+    "Article 8": [
+      "the appropriateness of setting additional resource efficiency requirements for products in accordance with the objectives of the circular economy, including whether more spare parts should be included."
+    ],
+    "Article 11": [
+      "As from 25 December 2019 until 28 February 2021, by way of derogation to the requirement in Annex I, Point 1(1) of Regulation (EU) No 1016/2010, the name \u2018eco\u2019 may be used for the standardprogramme, in accordance with Point 1 of Annex II of this Regulation, instead of the name \u2018standard programme\u2019.",
+      "As from 25 December 2019 until 28 February 2021, by way of derogation to the requirement in Annex I, Point 1(1) of Regulation (EU) No 1016/2010, the name \u2018eco\u2019 may be used for the standard programme, in accordance with Point 1 of Annex II of this Regulation, instead of the name \u2018standard programme\u2019."
+    ],
+    "Article 12": [
+      "(2)  Communication from the Commission. Ecodesign working plan 2016-2019, COM(2016) 773 final, 30.11.2016.",
+      "(3)  Commission Regulation (EU) No 1016/2010 of 10 November 2010 implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for household dishwashers (OJ L 293, 11.11.2010, p. 31).",
+      "named \u2018eco\u2019 on theprogrammeselection device of thehousehold dishwasher, on the household dishwasher display, if any, and on the relevant network application, if any,",
+      "CT,i is the cleaning performance of theecoprogrammeof thehousehold dishwasher under test for one test run (i), rounded to two decimal places;",
+      "Eco programme energy consumption (EPEC)",
+      "\u2018ecoprogrammeenergy consumption\u2019 (EPEC) means the energy consumption of ahousehold dishwasher for the eco programme, expressed in kilowatt hour per cycle;",
+      "From 1 March 2021, household dishwashers shall provide an eco programme meeting the following requirements:",
+      "the name \u2018eco\u2019 shall be used exclusively for this programme. The formatting of \u2018eco\u2019 is not restricted in terms of font, font size, case sensitivity or colour. The only other additional information which may be combined with the term \u2018eco\u2019 is the temperature of the eco programme;",
+      "(5)  Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions. Closing the loop \u2014 An EU action plan for the circular economy (COM(2015) 614 final of 2.12.2015).",
+      "The eco programme at rated capacity shall be used for the measurement and calculation of the Energy Efficiency Index (EEI), water consumption, programme duration, cleaning and drying performance, and airborne acoustical noise emissions of a household dishwasher model. The energy consumption, water consumption, programme duration, cleaning and drying performance shall be measured concurrently.",
+      "when the Member States authorities check the unit of the model, they find that the manufacturer, importer or authorised representative has put in place a system that complies with the requirements in the second paragraph of Article 6; and",
+      "For the calculation of the drying performance index (ID) of a household dishwasher model, the drying performance of the eco programme is compared to the drying performance of the reference dishwasher.",
+      "information that theecoprogramme is suitable to clean normally soiled tableware, that for this use, it is the most efficient programme in terms of its combined energy and water consumption, and that it is used to assess compliance with the EU ecodesign legislation;",
+      "Theecoprogrammeat rated capacity shall be used for the measurement and calculation of the Energy Efficiency Index (EEI), water consumption, programme duration, cleaning and drying performance, and airborne acoustical noise emissions of ahousehold dishwasher model. The energy consumption, water consumption, programme duration, cleaning and drying performance shall be measured concurrently.",
+      "\u2018Energy Efficiency Index\u2019 (EEI) means the ratio of the eco programme energy consumption to the standard programme energy consumption;",
+      "named \u2018eco\u2019 on the programme selection device of the household dishwasher, on the household dishwasher display, if any, and on the relevant network application, if any,",
+      "Where a model has been designed to be able to detect it is being tested (e.g. by recognising the test conditions or test cycle), and to react specifically by automatically altering its performance during the test with the objective of reaching a more favourable level for any of the parameters specified in this Regulation or included in the technical documentation or included in any of the documentation provided, the model and all equivalent models shall be considered not compliant.",
+      "The duration of theecoprogramme (Tt) is expressed in hours and minutes and rounded to the nearest minute.",
+      "For the calculation of the drying performance index (ID) of ahousehold dishwashermodel, the drying performance of theecoprogramme is compared to the drying performance of the reference dishwasher.",
+      "At the time of entry into force of this Regulation, the best available technology on the market forhousehold dishwashers in terms of their energy efficiency, energy and water consumption, airborne acoustical noise emissions andprogrammeduration for theeco programme was identified as follows:",
+      "ID,i is the drying performance index of the eco programme of the household dishwasher under test for one test run (i);",
+      "For the purposes of compliance and verification of compliance with the requirements of this Regulation, measurements and calculations shall be made using harmonised standards the reference numbers of which have been published for this purpose in the Official Journal of the European Union, or other reliable, accurate and reproducible methods, which take into account the generally recognised state-of-the-art, and in line with the following provisions.",
+      "information on how to access data records of reported failure incidents stored on thehousehold dishwasher (where applicable);",
+      "For the calculation of the cleaning performance index (IC) of a household dishwasher model, the cleaning performance of the eco programme is compared to the cleaning performance of a reference dishwasher.",
+      "DT,i is the average drying performance score of theecoprogrammeof thehousehold dishwasher under test for one test run (i), rounded to two decimal places;",
+      "Ecoprogramme energy consumption (EPEC)",
+      "For the calculation of the EEI of ahousehold dishwashermodel, theecoprogramme energy consumption (\u2018EPEC\u2019) of the household dishwasher is compared to its standard programme energy consumption (\u2018SPEC\u2019).",
+      "(9)  Commission Regulation (EC) No 1275/2008 of 17 December 2008 implementing Directive 2005/32/EC of the European Parliament and of the Council with regard to ecodesign requirements for standby and off mode electric power consumption of electrical and electronic household and office equipment (OJ L 339, 18.12.2008, p. 45)",
+      "Where a model has been designed to be able to detect it is being tested (e.g. by recognising the test conditions or test cycle), and to react specifically by automatically altering its performance during the test with the objective of reaching a more favourable level for any of the parameters specified in this Regulation or included in the technical documentation or included in any of the documentation provided, the model and allequivalent models shall be considered not compliant.",
+      "Eco programme water consumption (EPWC)",
+      "The duration of the eco programme (Tt) is expressed in hours and minutes and rounded to the nearest minute.",
+      "EPEC is theecoprogrammeenergy consumption of thehousehold dishwasher measured in kWh/cycle and rounded to three decimal places;",
+      "The eco programme water consumption (EPWC) is expressed in litres per cycle and rounded to one decimal place.",
+      "information that manual pre-rinsing of tableware items leads to increased water and energy consumption and is not recommended;",
+      "Ecoprogramme water consumption (EPWC)",
+      "From 1 March 2021,household dishwashers shall provide anecoprogramme meeting the following requirements:",
+      "\u2018eco programme water consumption\u2019 (EPWC) means the water consumption of a household dishwasher for the eco programme, expressed in litres per cycle;",
+      "information that the eco programme is suitable to clean normally soiled tableware, that for this use, it is the most efficient programme in terms of its combined energy and water consumption, and that it is used to assess compliance with the EU ecodesign legislation;",
+      "EPEC is the eco programme energy consumption of the household dishwasher measured in kWh/cycle and rounded to three decimal places;",
+      "For the calculation of the cleaning performance index (IC) of ahousehold dishwashermodel, the cleaning performance of theecoprogramme is compared to the cleaning performance of a reference dishwasher.",
+      "Ecodesign requirements",
+      "information that the values given forprogrammes other than theeco programme are indicative only; and,",
+      "information that the values given for programmes other than the eco programme are indicative only; and,",
+      "Theecoprogramme water consumption (EPWC) is expressed in litres per cycle and rounded to one decimal place.",
+      "(3)  Commission Regulation (EU) No 1016/2010 of 10 November 2010 implementing Directive 2009/125/EC of the European Parliament and of the Council with regard toecodesign requirements forhousehold dishwashers (OJ L 293, 11.11.2010, p. 31).",
+      "\u2018ecoprogrammewater consumption\u2019 (EPWC) means the water consumption of ahousehold dishwasher for the eco programme, expressed in litres per cycle;",
+      "\u2018eco programme energy consumption\u2019 (EPEC) means the energy consumption of a household dishwasher for the eco programme, expressed in kilowatt hour per cycle;",
+      "\u2018Energy Efficiency Index\u2019 (EEI) means the ratio of theecoprogramme energy consumption to the standard programme energy consumption;",
+      "ID,i is the drying performance index of theecoprogrammeof thehousehold dishwasher under test for one test run (i);",
+      "(1)  Commission Regulation (EU) No 801/2013 of 22 August 2013 amending Regulation (EC) No 1275/2008 with regard to ecodesign requirements for standby, off mode electric power consumption of electrical and electronic household and office equipment, and amending Regulation (EC) No 642/2009 with regard to ecodesign requirements for televisions (OJ L 225, 23.8.2013, p. 1).",
+      "requirements for dismantling for material recovery and recycling while avoiding pollution:",
+      "the name \u2018eco\u2019 shall be used exclusively for thisprogramme. The formatting of \u2018eco\u2019 is not restricted in terms of font, font size, case sensitivity or colour. The only other additional information which may be combined with the term \u2018eco\u2019 is the temperature of the eco programme;",
+      "information on how to access data records of reported failure incidents stored on the household dishwasher (where applicable);",
+      "At the time of entry into force of this Regulation, the best available technology on the market for household dishwashers in terms of their energy efficiency, energy and water consumption, airborne acoustical noise emissions and programme duration for the eco programme was identified as follows:",
+      "During measurements of the power consumption in low power modes, the following shall be checked and recorded:",
+      "CT,i is the cleaning performance of the eco programme of the household dishwasher under test for one test run (i), rounded to two decimal places;",
+      "DT,i is the average drying performance score of the eco programme of the household dishwasher under test for one test run (i), rounded to two decimal places;",
+      "For the calculation of the EEI of a household dishwasher model, the eco programme energy consumption (\u2018EPEC\u2019) of the household dishwasher is compared to its standard programme energy consumption (\u2018SPEC\u2019)."
+    ],
+    "Not Article": [
+      "It appears from the review study that there is a need to revise the ecodesign requirements for household dishwashers, the requirements related to use of essential resources such as energy and water and also to introduce requirements related to resource efficiency such as reparability and recyclability.",
+      "The Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions COM(2015) 614 final (5) (circular economy action plan) and the Communication on the ecodesign working plan (6) underline the importance of using the ecodesign framework in order to support the move towards more resource efficient and circular economy. Directive 2012/19/EU of the European Parliament and of the Council (7) refers to Directive 2009/125/EC and indicates that ecodesign requirements should facilitate the re-use, dismantling and recovery of waste electrical and electronic equipment (WEEE) by tackling the issues upstream. Therefore this Regulation should lay down appropriate requirements contributing to circular economy objectives.",
+      "In order to facilitate the transition between Regulation (EU) No 1016/2010 and this Regulation, the name \u2018eco\u2019 should be allowed to be used instead of \u2018standard programme\u2019 as from the entry into force of this Regulation.",
+      "The Commission has reviewed Regulation (EU) No 1016/2010 and analysed the technical, environmental and economic aspects of household dishwashers as well as real-life user behaviour. The review was carried out in close cooperation with stakeholders and interested parties from the Union and third countries. The results of the review were made public and presented to the Consultation Forum established by Article 18 of Directive 2009/125/EC.",
+      "Pursuant to Directive 2009/125/EC, the Commission should set ecodesign requirements for energy-related products which account for significant volumes of sales and trade in the Union and which have a significant environmental impact and presenting significant potential for improvement through design in terms of their environmental impact, without entailing excessive costs.",
+      "The Commission has reviewed Regulation (EU) No 1016/2010 and analysed the technical, environmental andeconomic aspects ofhousehold dishwashers as well as real-life user behaviour. The review was carried out in close cooperation with stakeholders and interested parties from the Union and third countries. The results of the review were made public and presented to the Consultation Forum established by Article 18 of Directive 2009/125/EC.",
+      "Having regard to Directive 2009/125/EC of the European Parliament and of the Council of 21 October 2009 establishing a framework for the setting of ecodesign requirements for energy-related products (1), and in particular Article 15(1) thereof,",
+      "It appears from the review study that there is a need to revise theecodesign requirements forhousehold dishwashers, the requirements related to use of essential resources such as energy and water and also to introduce requirements related to resource efficiency such as reparability and recyclability.",
+      "laying downecodesign requirements forhousehold dishwashers pursuant to Directive 2009/125/EC of the European Parliament and of the Council amending Commission Regulation (EC) No 1275/2008 and repealing Commission Regulation (EU) No 1016/2010",
+      "In order to facilitate the transition between Regulation (EU) No 1016/2010 and this Regulation, the name \u2018eco\u2019 should be allowed to be used instead of \u2018standardprogramme\u2019 as from the entry into force of this Regulation.",
+      "Measures from theecodesign working plan have an estimated potential to deliver a total in excess of 260 TWh of annual final energy savings in 2030, which is equivalent to reducing greenhouse gas emissions by approximately 100 million tonnes per year in 2030.Household dishwashers is one of the product groups listed in the working plan, with estimated annual electricity savings of 2,1 TWh, leading to GHG emission reductions of 0,7 Mt CO2 eq/year, and estimated water savings of 16 million m3 in 2030.",
+      "Measures from the ecodesign working plan have an estimated potential to deliver a total in excess of 260 TWh of annual final energy savings in 2030, which is equivalent to reducing greenhouse gas emissions by approximately 100 million tonnes per year in 2030. Household dishwashers is one of the product groups listed in the working plan, with estimated annual electricity savings of 2,1 TWh, leading to GHG emission reductions of 0,7 Mt CO2 eq/year, and estimated water savings of 16 million m3 in 2030.",
+      "laying down ecodesign requirements for household dishwashers pursuant to Directive 2009/125/EC of the European Parliament and of the Council amending Commission Regulation (EC) No 1275/2008 and repealing Commission Regulation (EU) No 1016/2010",
+      "The Commission establishedecodesign requirements forhousehold dishwashers by Regulation (EU) No 1016/2010 and pursuant to that Regulation, the Commission should review it in light of technological progress.",
+      "The relevant product parameters should be measured using reliable, accurate and reproducible methods. Those methods should take into account recognised state-of-the-art measurement methods including, where available, harmonised standards adopted by the European standardisation organisations, as listed in Annex I to Regulation (EU) No 1025/2012 of the European Parliament and of the Council (10).",
+      "The Communication from the Commission COM(2016) 773 (2) (ecodesign working plan) established by the Commission in application of Article 16(1) of Directive 2009/125/EC sets out the working priorities under the ecodesign and energy labelling framework for the period 2016-2019. The ecodesign working plan identifies the energy-related product groups to be considered as priorities for the undertaking of preparatory studies and eventual adoption of implementing measures, as well as the review of Commission Regulation (EU) No 1016/2010 (3) and Commission Delegated Regulation (EU) No 1059/2010 (4).",
+      "The annual energy consumption of products subject to this Regulation in the Union was estimated at 31,3 TWh in the Union in 2015, corresponding to 11,1 million tonnes of CO2 equivalent. The projected energy consumption of household dishwashers in a business as usual scenario is expected to increase to 49,0 TWh in 2030, mainly because of the increase in the total number of dishwashers in use. That increase in energy consumption may however be limited if the existing ecodesign requirements are updated. Similarly, the water consumption of household dishwashers was estimated at 318 million m3 in 2015 and is expected to increase up to 531 million m3 in 2030 in the absence of updated requirements. Finally, the service lifetime of household dishwashers has been estimated to have decreased in recent years to around 12,5 years and the trend is likely to continue in the absence of incentives.",
+      "The Commission established ecodesign requirements for household dishwashers by Regulation (EU) No 1016/2010 and pursuant to that Regulation, the Commission should review it in light of technological progress.",
+      "The annual energy consumption of products subject to this Regulation in the Union was estimated at 31,3 TWh in the Union in 2015, corresponding to 11,1 million tonnes of CO2 equivalent. The projected energy consumption ofhousehold dishwashers in a business as usual scenario is expected to increase to 49,0 TWh in 2030, mainly because of the increase in the total number of dishwashers in use. That increase in energy consumption may however be limited if the existingecodesign requirements are updated. Similarly, the water consumption of household dishwashers was estimated at 318 million m3 in 2015 and is expected to increase up to 531 million m3 in 2030 in the absence of updated requirements. Finally, the service lifetime of household dishwashers has been estimated to have decreased in recent years to around 12,5 years and the trend is likely to continue in the absence of incentives."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 6": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 11": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 12": {
+      "article_score": 23,
+      "statement_scores": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        2,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "term": "Generic ecodesign requirement",
+  "celex_id": "32009L0125",
+  "original_definition": "'Generic ecodesign requirement' means any ecodesign requirement based on the ecological profile as a whole of a product without set limit values for particular environmental aspects;",
+  "generated_definition": "'Generic ecodesign requirement' means a requirement aimed at improving the environmental performance of products without setting limit values, focusing on significant environmental aspects. the method must be applied when it is not appropriate to set limit values for the product group under examination.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Generic ecodesign requirement\u2019 means any ecodesign requirement based on the ecological profile as a whole of a product without set limit values for particular environmental aspects;"
+    ],
+    "Article 26": [
+      "Generic ecodesign requirements aim at improving the environmental performance of products, focusing on significant environmental aspects thereof without setting limit values. The method referred to in this Annex must be applied when it is not appropriate to set limit values for the product group under examination. The Commission must, when preparing a draft implementing measure to be submitted to the Committee referred to in Article 19(1), identify significant environmental aspects which must be specified in the implementing measure."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 26": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

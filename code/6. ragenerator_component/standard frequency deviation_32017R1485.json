@@ -1,0 +1,39 @@
+{
+  "term": "standard frequency deviation",
+  "celex_id": "32017R1485",
+  "original_definition": "'standard frequency deviation' means the absolute value of the frequency deviation that limits the standard frequency range;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018standard frequency deviation\u2019 means the absolute value of the frequency deviation that limits the standard frequency range;",
+      "\u2018standard frequency deviation\u2019 means the absolute value of the frequency deviation that limits thestandard frequency range;"
+    ],
+    "Article 131": [
+      "the number of events in which the absolute value of the instantaneous frequency deviation of the synchronous area exceeded 200 % of the standard frequency deviation and the instantaneous frequency deviation was not returned to 50 % of the standard frequency deviation for the CE synchronous area and to the frequency restoration range for the GB, IE/NI and Nordic synchronous areas, within the time to restore frequency. The data shall distinguish between negative and positive frequency deviations;",
+      "the total time in which the absolute value of the instantaneous frequency deviation was larger than the standard frequency deviation, distinguishing between negative and positive instantaneous frequency deviations;",
+      "the number of events in which the absolute value of theinstantaneous frequency deviationof the synchronous area exceeded 200 % of thestandard frequency deviationand the instantaneous frequency deviation was not returned to 50 % of the standard frequency deviation for the CE synchronous area and to thefrequency restoration rangefor the GB, IE/NI and Nordic synchronous areas, within thetime to restore frequency. The data shall distinguish between negative and positive frequency deviations;",
+      "the total time in which the absolute value of theinstantaneous frequency deviationwas larger than thestandard frequency deviation, distinguishing between negative and positive instantaneous frequency deviations;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 131": {
+      "article_score": 6,
+      "statement_scores": [
+        2,
+        1,
+        2,
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "term": "transfer of balancing capacity",
+  "celex_id": "32017R2195",
+  "original_definition": "'transfer of balancing capacity' means a transfer of balancing capacity from the initially contracted balancing service provider to another balancing service provider;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018transfer ofbalancing capacity\u2019 means a transfer of balancing capacity from the initially contractedbalancing service provider to another balancing service provider;",
+      "\u2018transfer ofbalancing capacity\u2019 means atransfer of balancing capacityfrom the initially contractedbalancing service provider to another balancing service provider;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "term": "long-term services",
+  "celex_id": "32009R0715",
+  "original_definition": "'long-term services' means services offered by the transmission system operator with a duration of one year or more;",
+  "generated_definition": "'long-term services' means a set of supportive services designed to meet the long-term care needs of individuals who require assistance with daily living activities over an extended period of time.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018long-term services\u2019 means services offered by thetransmission system operator with a duration of one year or more;",
+      "\u2018long-term services\u2019 means services offered by the transmission system operator with a duration of one year or more;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

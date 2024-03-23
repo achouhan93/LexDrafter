@@ -1,0 +1,22 @@
+{
+  "term": "Environmental impact",
+  "celex_id": "32009L0125",
+  "original_definition": "'Environmental impact' means any change to the environment wholly or partially resulting from a product during its life cycle;",
+  "generated_definition": "'Environmental impact' means the effect that an action or activity has on the environment, including its natural, social, and economic aspects.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Environmental impact\u2019 means any change to the environment wholly or partially resulting from a product during its life cycle;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

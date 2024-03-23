@@ -1,0 +1,22 @@
+{
+  "term": "Reuse",
+  "celex_id": "32009L0125",
+  "original_definition": "'Reuse' means any operation by which a product or its components, having reached the end of their first use, are used for the same purpose for which they were conceived, including the continued use of a product which is returned to a collection point, distributor, recycler or manufacturer, as well as reuse of a product following refurbishment;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Reuse\u2019 means any operation by which a product or its components, having reached the end of their first use, are used for the same purpose for which they were conceived, including the continued use of a product which is returned to a collection point, distributor, recycler or manufacturer, as well as reuse of a product following refurbishment;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

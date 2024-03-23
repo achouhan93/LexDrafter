@@ -1,0 +1,123 @@
+{
+  "term": "scheduling area",
+  "celex_id": "32017R1485",
+  "original_definition": "'scheduling area' means an area within which the TSOs' obligations regarding scheduling apply due to operational or organisational needs;",
+  "generated_definition": "'scheduling area' means a geographical area in which electricity is scheduled for transmission between tsos and/or market participants.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018external TSO schedule\u2019 means a schedule representing the exchange of electricity between TSOs in different scheduling areas;",
+      "\u2018external commercial trade schedule\u2019 means a schedule representing the commercial exchange of electricity between market participants in differentscheduling areas;",
+      "\u2018aggregated netted external schedule\u2019 means a schedule representing the netted aggregation of all external TSO schedules and external commercial trade schedules between two scheduling areas or between a scheduling area and a group of other scheduling areas;",
+      "\u2018aggregated netted external schedule\u2019 means a schedule representing the netted aggregation of allexternal TSO schedules andexternal commercial trade schedules between twoscheduling areas or between a scheduling area and a group of other scheduling areas;",
+      "\u2018internal commercial trade schedule\u2019 means a schedule representing the commercial exchange of electricity within a scheduling area between different market participants;",
+      "\u2018internal commercial trade schedule\u2019 means a schedule representing the commercial exchange of electricity within ascheduling area between different market participants;",
+      "\u2018scheduling area\u2019 means an area within which the TSOs' obligations regarding scheduling apply due to operational or organisational needs;",
+      "\u2018external commercial trade schedule\u2019 means a schedule representing the commercial exchange of electricity between market participants in different scheduling areas;",
+      "\u2018external TSO schedule\u2019 means a schedule representing the exchange of electricity between TSOs in differentscheduling areas;"
+    ],
+    "Article 110": [
+      "2.   Where a bidding zone covers only one control area, the geographical scope of the scheduling area is equal to the bidding zone. Where a control area covers several bidding zones, the geographical scope of the scheduling area is equal to the bidding zone. Where a bidding zone covers several control areas, TSOs within that bidding zone may jointly decide to operate a common scheduling process, otherwise, each control area within that bidding zone is considered a separate scheduling area.",
+      "6.   Where a scheduling area covers more than one control area, the TSOs responsible for the control areas shall agree about which TSO shall operate the scheduling area.",
+      "5.   Each TSO operating a scheduling area shall establish arrangements necessary to process the schedules provided by scheduling agents.",
+      "5.   Each TSO operating ascheduling areashall establish arrangements necessary to process theschedules provided byscheduling agents."
+    ],
+    "Article 111": [
+      "Notification of schedules within scheduling areas",
+      "2.   Each scheduling agent of a shipping agent or, where applicable, a central counterparty shall submit to the TSO operating a scheduling area covered by market coupling, if requested by the concerned TSO, and where applicable to third party, the following schedules:",
+      "1.   Each scheduling agent, except scheduling agents of shipping agents, shall submit to the TSO operating the scheduling area, if requested by the TSO, and, where applicable, to third party, the following schedules:",
+      "Notification ofschedules withinscheduling areas",
+      "1.   Eachscheduling agent, except scheduling agents of shipping agents, shall submit to the TSO operating thescheduling area, if requested by the TSO, and, where applicable, to third party, the followingschedules:",
+      "2.   Eachscheduling agentof a shipping agent or, where applicable, a central counterparty shall submit to the TSO operating ascheduling areacovered by market coupling, if requested by the concerned TSO, and where applicable to third party, the followingschedules:",
+      "multilateral exchanges between the scheduling area and a group of other scheduling areas;",
+      "bilateral exchanges between the scheduling area and another scheduling area;"
+    ],
+    "Article 112": [
+      "1.   Each TSO operating ascheduling areashall check whether the generation, consumption,external commercial trade schedules andexternal TSO schedules in its scheduling area are in sum balanced.",
+      "3.   For bilateral exchanges between two scheduling areas, each TSO shall agree on the external commercial trade schedules with the respective TSO. In the absence of an agreement about the values of the commercial trade schedules, the lower value shall apply.",
+      "6.   Each scheduled exchange calculator shall provide to TSOs, upon their request, with the values of scheduled exchanges related to the scheduling areas involved in the market coupling in the form of aggregated netted external schedules, including bilateral exchanges between two scheduling areas.",
+      "6.   Eachscheduled exchange calculator shall provide to TSOs, upon their request, with the values of scheduled exchanges related to thescheduling areas involved in the market coupling in the form ofaggregated netted external schedules, including bilateral exchanges between two scheduling areas.",
+      "1.   Each TSO operating a scheduling area shall check whether the generation, consumption, external commercial trade schedules and external TSO schedules in its scheduling area are in sum balanced.",
+      "5.   Eachscheduling agentof a shipping agent or, where applicable, a central counterparty shall provide TSOs, upon their request, with the values ofexternal commercial trade schedules of eachscheduling areainvolved in market coupling in the form ofaggregated netted external schedules.",
+      "5.   Each scheduling agent of a shipping agent or, where applicable, a central counterparty shall provide TSOs, upon their request, with the values of external commercial trade schedules of each scheduling area involved in market coupling in the form of aggregated netted external schedules.",
+      "3.   For bilateral exchanges between twoscheduling areas, each TSO shall agree on theexternal commercial trade schedules with the respective TSO. In the absence of an agreement about the values of the commercial trade schedules, the lower value shall apply."
+    ],
+    "Article 113": [
+      "netted area AC position, where thescheduling area is interconnected to other scheduling areas via AC transmission links.",
+      "netted area AC position, where the scheduling area is interconnected to other scheduling areas via AC transmission links.",
+      "2.   When required for the creation of common grid models, in accordance with Article 70(1), each TSO operating a scheduling area shall provide any requesting TSO with:"
+    ],
+    "Article 115": [
+      "scheduled exchanges at the relevant time instances per scheduling area or per scheduling area border, whichever is deemed relevant by the TSOs, and per HVDC system linking scheduling areas;",
+      "scheduled exchanges at the relevant time instances perscheduling area or per scheduling area border, whichever is deemed relevant by the TSOs, and per HVDC system linking scheduling areas;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 12,
+      "statement_scores": [
+        1,
+        1,
+        3,
+        3,
+        1,
+        1,
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 110": {
+      "article_score": 7,
+      "statement_scores": [
+        3,
+        2,
+        1,
+        1
+      ]
+    },
+    "Article 111": {
+      "article_score": 10,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    },
+    "Article 112": {
+      "article_score": 12,
+      "statement_scores": [
+        2,
+        1,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 113": {
+      "article_score": 5,
+      "statement_scores": [
+        2,
+        2,
+        1
+      ]
+    },
+    "Article 115": {
+      "article_score": 6,
+      "statement_scores": [
+        3,
+        3
+      ]
+    }
+  }
+}

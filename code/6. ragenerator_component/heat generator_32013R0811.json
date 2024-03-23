@@ -1,0 +1,39 @@
+{
+  "term": "heat generator",
+  "celex_id": "32013R0811",
+  "original_definition": "'heat generator' means the part of a heater that generates the heat using one or more of the following processes:combustion of fossil fuels and/or biomass fuels;use of the Joule effect in electric resistance heating elements;capture of ambient heat from an air source, water source or ground source, and/or waste heat;",
+  "generated_definition": "'heat generator' means a device that produces heat by converting various forms of energy into thermal energy.",
+  "existing_sentences": {
+    "Article 2": [
+      "is equipped with one or more heat generators;",
+      "\u2018heat generator\u2019 means the part of a heater that generates the heat using one or more of the following processes:",
+      "is equipped with one or moreheat generators;",
+      "\u2018heat generator\u2019 means the part of aheater that generates the heat using one or more of the following processes:"
+    ],
+    "Article 8": [
+      "\u2018standby power consumption\u2019 (solstandby) means the rated electrical power consumption of a solar-only system when the pump and the heat generator are inactive, expressed in W;",
+      "\u2018standby power consumption\u2019 (solstandby) means the rated electrical power consumption of asolar-only systemwhen the pump and theheat generator are inactive, expressed in W;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

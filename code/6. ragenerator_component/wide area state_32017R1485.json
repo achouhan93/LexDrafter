@@ -1,0 +1,50 @@
+{
+  "term": "wide area state",
+  "celex_id": "32017R1485",
+  "original_definition": "'wide area state' means the qualification of an alert state, emergency state or blackout state when there is a risk of propagation to the interconnected transmission systems;",
+  "generated_definition": "'wide area state' means a wide area state is a widespread disturbance in the transmission system that can lead to blackouts and affect multiple regions.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018system defence plan\u2019 means the technical and organisational measures to be undertaken to prevent the propagation or deterioration of adisturbancein the transmission system, in order to avoid awide area statedisturbance andblackout state;",
+      "\u2018wide area state\u2019 means the qualification of an alert state, emergency state or blackout state when there is a risk of propagation to the interconnected transmission systems;",
+      "\u2018wide area state\u2019 means the qualification of analert state,emergency stateorblackout state when there is a risk of propagation to the interconnected transmission systems;",
+      "\u2018system defence plan\u2019 means the technical and organisational measures to be undertaken to prevent the propagation or deterioration of a disturbance in the transmission system, in order to avoid a wide area state disturbance and blackout state;"
+    ],
+    "Article 19": [
+      "4.   If its transmission system is not in normal state and if that system state is qualified as a wide area state the TSO shall:",
+      "4.   If its transmission system is not innormal stateand if thatsystem stateis qualified as awide area state the TSO shall:"
+    ],
+    "Article 39": [
+      "2.   Each TSO shall ensure that the fault clearing times for faults that may lead to wide area state transmission system instability are shorter than the critical fault clearing time calculated by the TSO in its dynamic stability assessment carried out in accordance with Article 38.",
+      "2.   Each TSO shall ensure that thefaultclearing times for faults that may lead towide area statetransmission system instability are shorter than thecritical fault clearing timecalculated by the TSO in itsdynamic stability assessment carried out in accordance with Article 38."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "Article 19": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 39": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

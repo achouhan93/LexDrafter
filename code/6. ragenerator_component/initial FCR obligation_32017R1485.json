@@ -1,0 +1,59 @@
+{
+  "term": "initial FCR obligation",
+  "celex_id": "32017R1485",
+  "original_definition": "'initial FCR obligation' means the amount of FCR allocated to a TSO on the basis of a sharing key;",
+  "generated_definition": "'initial FCR obligation' means the share of the reserve capacity on fcr required for each tso as initial fcr obligation shall be based on the sum of the net generation and consumption of its control area divided by the sum of net generation and consumption of the synchronous area over a period of 1 year.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018initial FCR obligation\u2019 means the amount of FCR allocated to a TSO on the basis of a sharing key;"
+    ],
+    "Article 131": [
+      "30 % of the total combined initial FCR obligations of the TSOs of the LFC block to which the reserve capacity on FCR is physically connected; and",
+      "30 % of the total combinedinitial FCR obligations of the TSOs of theLFC blockto which thereserve capacity on FCR is physically connected; and"
+    ],
+    "Article 153": [
+      "1.   All TSOs of each synchronous area shall determine, at least annually, thereserve capacityforFCRrequired for the synchronous area and theinitial FCR obligation of each TSO in accordance with paragraph 2.",
+      "the shares of the reserve capacity on FCR required for each TSO as initial FCR obligation shall be based on the sum of the net generation and consumption of its control area divided by the sum of net generation and consumption of the synchronous area over a period of 1 year.",
+      "1.   All TSOs of each synchronous area shall determine, at least annually, the reserve capacity for FCR required for the synchronous area and the initial FCR obligation of each TSO in accordance with paragraph 2.",
+      "the shares of thereserve capacityonFCRrequired for each TSO asinitial FCR obligation shall be based on the sum of the net generation and consumption of its control area divided by the sum of net generation and consumption of the synchronous area over a period of 1 year."
+    ],
+    "Article 187": [
+      "2.   Where applicable, all TSOs of each synchronous area shall notify the total amount ofreserve capacityonFCRand the shares of reserve capacity on FCR required for each TSO specified in accordance with Article 153(1) as theinitial FCR obligation to ENTSO for Electricity for publication at least 1 month before their applicability.",
+      "2.   Where applicable, all TSOs of each synchronous area shall notify the total amount of reserve capacity on FCR and the shares of reserve capacity on FCR required for each TSO specified in accordance with Article 153(1) as the initial FCR obligation to ENTSO for Electricity for publication at least 1 month before their applicability."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 131": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 153": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 187": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

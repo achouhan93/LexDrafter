@@ -1,0 +1,39 @@
+{
+  "term": "secondary market",
+  "celex_id": "32009R0715",
+  "original_definition": "'secondary market' means the market of the capacity traded otherwise than on the primary market;",
+  "generated_definition": "'secondary market' means a market where capacity is traded among network users, including system operators, at a reasonable price after it has been offered unused on the primary market.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018secondary market\u2019 means the market of the capacity traded otherwise than on the primary market;",
+      "\u2018secondary market\u2019 means the market of thecapacitytraded otherwise than on theprimary market;"
+    ],
+    "Article\u00a032": [
+      "1.   In the event thatcontracted capacitygoes unused,transmissionsystem operators shall make that capacity available on theprimary marketon an interruptible basis via contracts of differing duration, as long as that capacity is not offered by the relevantnetwork useron thesecondary market at a reasonable price.",
+      "the rules applicable tocapacitytrade on thesecondary marketas regards thetransmission system operator;",
+      "the rules applicable to capacity trade on the secondary market as regards the transmission system operator;",
+      "1.   In the event that contracted capacity goes unused, transmission system operators shall make that capacity available on the primary market on an interruptible basis via contracts of differing duration, as long as that capacity is not offered by the relevant network user on the secondary market at a reasonable price."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article\u00a032": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

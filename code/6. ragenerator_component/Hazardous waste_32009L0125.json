@@ -1,0 +1,22 @@
+{
+  "term": "Hazardous waste",
+  "celex_id": "32009L0125",
+  "original_definition": "'Hazardous waste' means any waste which is covered by Article 1(4) of Council Directive 91/689/EEC of 12 December 1991 on hazardous waste (21);",
+  "generated_definition": "'Hazardous waste' means material that poses a significant risk to human health or the environment, including but not limited to chemicals, radioactive materials, and medical waste.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Hazardous waste\u2019 means any waste which is covered by Article 1(4) of Council Directive 91/689/EEC of 12 December 1991 on hazardous waste (21);"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

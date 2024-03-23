@@ -1,0 +1,42 @@
+{
+  "term": "automatic FRR",
+  "celex_id": "32017R1485",
+  "original_definition": "'automatic FRR' means FRR that can be activated by an automatic control device;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018automatic FRR\u2019 means FRR that can be activated by an automatic control device;"
+    ],
+    "Article 157": [
+      "all TSOs of a LFC block shall determine the ratio of automatic FRR, manual FRR, the automatic FRR full activation time and manual FRR full activation time in order to comply with the requirement of paragraph (b). For that purpose, the automatic FRR full activation time of a LFC block and the manual FRR full activation time of the LFC block shall not be more than the time to restore frequency;"
+    ],
+    "Article 158": [
+      "a FRR providing unit or FRR providing group for automatic FRR shall have an automatic FRR activation delay not exceeding 30 seconds;",
+      "a FRR providing unit or FRR providing group for automatic FRR shall be capable of activating its complete automatic reserve capacity on FRR within the automatic FRR full activation time;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 157": {
+      "article_score": 3,
+      "statement_scores": [
+        3
+      ]
+    },
+    "Article 158": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    }
+  }
+}

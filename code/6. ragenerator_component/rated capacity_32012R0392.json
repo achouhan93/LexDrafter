@@ -1,0 +1,43 @@
+{
+  "term": "rated capacity",
+  "celex_id": "32012R0392",
+  "original_definition": "'rated capacity' means the maximum mass in kilograms, indicated by the supplier in 0,5 kilogram increments of dry textiles of a particular type, which can be treated in a household tumble drier with the selected programme, when loaded in accordance with the supplier\u2019s instructions;",
+  "generated_definition": "'rated capacity' means the maximum amount of laundry that a household tumble drier is designed to handle, as specified by the manufacturer.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018rated capacity\u2019 means the maximum mass in kilograms, indicated by the supplier in 0,5 kilogram increments of dry textiles of a particular type, which can be treated in ahousehold tumble drierwith the selectedprogramme, when loaded in accordance with the supplier\u2019s instructions;",
+      "\u2018rated capacity\u2019 means the maximum mass in kilograms, indicated by the supplier in 0,5 kilogram increments of dry textiles of a particular type, which can be treated in a household tumble drier with the selected programme, when loaded in accordance with the supplier\u2019s instructions;",
+      "\u2018equivalent household tumble drier\u2019 means a model of household tumble drier placed on the market with the samerated capacity, technical and performance characteristics, energy consumption,condensation efficiencywhere relevant,standard cotton programmeprogramme time and airborne acoustical noise emissions during drying as another model of household tumble drier placed on the market under a different commercial code number by the same supplier;",
+      "\u2018partial load\u2019 means half of therated capacityof ahousehold tumble drierfor a givenprogramme;",
+      "\u2018equivalent household tumble drier\u2019 means a model of household tumble drier placed on the market with the same rated capacity, technical and performance characteristics, energy consumption, condensation efficiency where relevant, standard cotton programme time and airborne acoustical noise emissions during drying as another model of household tumble drier placed on the market under a different commercial code number by the same supplier;",
+      "\u2018partial load\u2019 means half of the rated capacity of a household tumble drier for a given programme;"
+    ],
+    "Article 10": [
+      "is the rated capacity of the household tumble drier for the standard cotton programme.",
+      "Rated capacity:"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 4,
+      "statement_scores": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 10": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

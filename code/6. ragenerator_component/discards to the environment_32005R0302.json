@@ -1,0 +1,33 @@
+{
+  "term": "discards to the environment",
+  "celex_id": "32005R0302",
+  "original_definition": "'discards to the environment' means waste, measured or estimated on the basis of measurements, which has been irrevocably discarded to the environment as the result of a planned discharge;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018discards to the environment\u2019 means waste, measured or estimated on the basis of measurements, which has been irrevocably discarded to the environment as the result of a planned discharge;",
+      "\u2018discards to the environment\u2019 meanswaste, measured or estimated on the basis of measurements, which has been irrevocably discarded to the environment as the result of a planned discharge;"
+    ],
+    "Article 40": [
+      "Discards to the environment"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 40": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

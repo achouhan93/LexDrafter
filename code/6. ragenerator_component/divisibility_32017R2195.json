@@ -1,0 +1,33 @@
+{
+  "term": "divisibility",
+  "celex_id": "32017R2195",
+  "original_definition": "'divisibility' means the possibility for a TSO to use only part of the balancing energy bids or balancing capacity bids offered by the balancing service provider, either in terms of power activation or time duration;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018divisibility\u2019 means the possibility for a TSO to use only part of thebalancing energybids orbalancing capacitybids offered by thebalancing service provider, either in terms of power activation or time duration;",
+      "\u2018divisibility\u2019 means the possibility for a TSO to use only part of the balancing energy bids or balancing capacity bids offered by the balancing service provider, either in terms of power activation or time duration;"
+    ],
+    "Article 25": [
+      "divisibility;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 25": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

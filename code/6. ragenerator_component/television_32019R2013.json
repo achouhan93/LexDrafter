@@ -1,0 +1,85 @@
+{
+  "term": "television",
+  "celex_id": "32019R2013",
+  "original_definition": "'television' means an electronic display designed primarily for the display and reception of audiovisual signals and which consists of an electronic display and one or more tuners/receivers;",
+  "generated_definition": "'television' means for televisions equipped with room presence sensor: the measured value of the time before the television automatically reaches standby, or off-mode, or another condition which does not exceed the applicable power consumption requirements for off mode and/or standby mode when no presence is detected; for televisions: the measured value of the time before the television automatically reaches standby, or off-mode, or another condition which does not exceed the applicable power consumption requirements for off-mode and/or standby-mode following the last user interaction.",
+  "existing_sentences": {
+    "Article 1": [
+      "1.   This Regulation establishes requirements for the labelling of, and the provision of supplementary product information on electronic displays, including televisions, monitors and digital signage displays.",
+      "1.   This Regulation establishes requirements for the labelling of, and the provision of supplementary product information onelectronic displays, includingtelevisions,monitors anddigital signage displays."
+    ],
+    "Article 2": [
+      "\u2018television\u2019 means an electronic display designed primarily for the display and reception of audiovisual signals and which consists of an electronic display and one or more tuners/receivers;",
+      "\u2018tuner/receiver\u2019 means an electronic circuit that detects television broadcast signal, such as terrestrial digital or satellite, but not internet unicast, and facilitates the selection of a TV channel from a group of broadcast channels;",
+      "\u2018television\u2019 means anelectronic display designed primarily for the display and reception of audiovisual signals and which consists of an electronic display and one or more tuners/receivers;",
+      "\u2018tuner/receiver\u2019 means an electronic circuit that detectstelevision broadcast signal, such as terrestrial digital or satellite, but not internet unicast, and facilitates the selection of a TV channel from a group of broadcast channels;"
+    ],
+    "Article 11": [
+      "[television/monitor/signage/other]",
+      "Otherelectronic displays thantelevisions andbroadcast displays: The measured value of the time before the electronic display automatically reaches standby, or off-mode, or another condition which does not exceed the applicable power consumption requirements for off mode and/or standby mode when no input is detected;",
+      "(2)  Commission Delegated Regulation (EU) No 1062/2010 of 28 September 2010 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to energy labelling of televisions (OJ L 314, 30.11.2010, p. 64).",
+      "For televisions equipped with room presence sensor: the measured value of the time before the television automatically reaches standby, or off-mode, or another condition which does not exceed the applicable power consumption requirements for off mode and/or standby mode when no presence is detected;",
+      "(5)  Commission Regulation (EC) No 642/2009 of 22 July 2009 implementing Directive 2005/32/EC of the European Parliament and of the Council with regard to ecodesign requirements for televisions (OJ L 191, 23.7.2009, p. 42).",
+      "Television",
+      "For televisions: the measured value of the time before the television automatically reaches standby, or off-mode, or another condition which does not exceed the applicable power consumption requirements for off-mode and/or standby-mode following the last user interaction;",
+      "Other electronic displays than televisions and broadcast displays: The measured value of the time before the electronic display automatically reaches standby, or off-mode, or another condition which does not exceed the applicable power consumption requirements for off mode and/or standby mode when no input is detected;"
+    ],
+    "Not Article": [
+      "The Commission has reviewed Regulation (EU) No 1062/2010 as required by its Article 7 and analysed technical, environmental and economic aspects of televisions and other electronic displays, including monitors and signage displays as well as the real-life user understanding and behaviour in respect to different labelling elements. The review was carried out in close cooperation with stakeholders and interested parties from the Union and third countries. The results of the review were made public and presented to the Consultation Forum established by Article 14 of Regulation (EU) 2017/1369.",
+      "Televisions are among the product groups mentioned in Article 11(5)(b) of Regulation (EU) 2017/1369 for which the Commission should adopt a delegated act introducing an A to G rescaled label.",
+      "It appears from the review that the same requirements for televisions should also apply to monitors because of the rapidly increasing functionality overlap between displays and televisions. Moreover, digital signage displays are specifically listed in the Commission's 2016-2019 ecodesign working plan to be taken up in the revision of the existing regulations for televisions. The scope of this Regulation should thus comprise electronic displays including televisions, monitors and digital signage displays.",
+      "It appears from the review that the same requirements fortelevisions should also apply tomonitors because of the rapidly increasing functionality overlap between displays and televisions. Moreover,digital signage displays are specifically listed in the Commission's 2016-2019 ecodesign working plan to be taken up in the revision of the existing regulations for televisions. The scope of this Regulation should thus compriseelectronic displays including televisions, monitors and digital signage displays.",
+      "The annual energy consumption in 2016 oftelevisions in the Union constituted more than 3 % of the Union's electricity consumption. The projected energy consumption of televisions,monitors anddigital signage displays, in a business as usual scenario, is expected be close to 100 TWh/yr in 2030. This Regulation, together with the accompanying ecodesign regulation, is estimated to reduce the annual final energy consumption up to 39 TWh/yr by 2030.",
+      "The Commission has reviewed Regulation (EU) No 1062/2010 as required by its Article 7 and analysed technical, environmental and economic aspects oftelevisions and otherelectronic displays, includingmonitors and signage displays as well as the real-life user understanding and behaviour in respect to different labelling elements. The review was carried out in close cooperation with stakeholders and interested parties from the Union and third countries. The results of the review were made public and presented to the Consultation Forum established by Article 14 of Regulation (EU) 2017/1369.",
+      "The annual energy consumption in 2016 of televisions in the Union constituted more than 3 % of the Union's electricity consumption. The projected energy consumption of televisions, monitors and digital signage displays, in a business as usual scenario, is expected be close to 100 TWh/yr in 2030. This Regulation, together with the accompanying ecodesign regulation, is estimated to reduce the annual final energy consumption up to 39 TWh/yr by 2030.",
+      "Provisions on the energy labelling of televisions were established by Commission Delegated Regulation (EU) No 1062/2010 (2)."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 2": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    "Article 11": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0
+      ]
+    },
+    "Not Article": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "term": "integrated scheduling process gate closure time",
+  "celex_id": "32017R2195",
+  "original_definition": "'integrated scheduling process gate closure time' means the point in time when the submission or the update of integrated scheduling process bids is no longer permitted for the given iterations of the integrated scheduling process;",
+  "generated_definition": "'integrated scheduling process gate closure time' means the time at which the integrated scheduling process closes and no further changes can be made to the schedule for balancing service providers to offer unused generation capacity or other balancing resources through balancing energy bids or integrated scheduling process bids in the balancing markets, without prejudice to the possibility of balancing service providers to change their balancing energy bids prior to the balancing energy gate closure time or the integrated scheduling process gate closure time due to trading within intraday market.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018integrated scheduling process gate closure time\u2019 means the point in time when the submission or the update of integrated scheduling process bids is no longer permitted for the given iterations of the integrated scheduling process;"
+    ],
+    "Article 18": [
+      "where justified, a requirement forbalancing service providers to offer the unused generation capacity or other balancing resources throughbalancing energybids orintegrated scheduling processbids in thebalancing markets after day ahead market gate closure time, without prejudice to the possibility of balancing service providers to change their balancing energy bids prior to thebalancing energy gate closure timeor theintegrated scheduling process gate closure time due to trading within intraday market;",
+      "where justified, a requirement for balancing service providers to offer the unused generation capacity or other balancing resources through balancing energy bids or integrated scheduling process bids in the balancing markets after day ahead market gate closure time, without prejudice to the possibility of balancing service providers to change their balancing energy bids prior to the balancing energy gate closure time or the integrated scheduling process gate closure time due to trading within intraday market;",
+      "the rules for updating theintegrated scheduling processbids after eachintegrated scheduling process gate closure time pursuant to Article 24(6);",
+      "the rules for updating the integrated scheduling process bids after each integrated scheduling process gate closure time pursuant to Article 24(6);"
+    ],
+    "Article 24": [
+      "5.   By two years after entry into force of this Regulation, each TSO applying a central dispatching model shall define at least one integrated scheduling process gate closure time which shall:",
+      "6.   After eachintegrated scheduling process gate closure time, the integrated scheduling process bid may only be changed in accordance with the rules defined by theconnecting TSOin the terms and conditions forbalancing service providers set up pursuant to Article 18. Those rules shall be implemented before the connecting TSO joins any process for the exchange ofbalancing energy and shall allow balancing service providers to update their integrated scheduling bids to the extent possible until the intraday cross-zonal gate closure time, while ensuring:",
+      "6.   After each integrated scheduling process gate closure time, the integrated scheduling process bid may only be changed in accordance with the rules defined by the connecting TSO in the terms and conditions for balancing service providers set up pursuant to Article 18. Those rules shall be implemented before the connecting TSO joins any process for the exchange of balancing energy and shall allow balancing service providers to update their integrated scheduling bids to the extent possible until the intraday cross-zonal gate closure time, while ensuring:"
+    ],
+    "Article 62": [
+      "the definition of the integrated scheduling process gate closure time in a central dispatching model pursuant to Article 24(5) and the possibility to change the integrated scheduling process bids pursuant to Article 24(6);",
+      "the definition of theintegrated scheduling process gate closure timein acentral dispatching model pursuant to Article 24(5) and the possibility to change the integrated scheduling process bids pursuant to Article 24(6);"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 18": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 24": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 62": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

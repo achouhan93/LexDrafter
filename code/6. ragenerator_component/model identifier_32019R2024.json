@@ -1,0 +1,48 @@
+{
+  "term": "model identifier",
+  "celex_id": "32019R2024",
+  "original_definition": "'model identifier' means the code, usually alphanumeric, which distinguishes a specific product model from other models with the same trade mark or the same manufacturer's, importer's or authorised representative's name;",
+  "generated_definition": "'model identifier' means a unique identifier assigned to a model by the manufacturer, importer, or authorized representative, used to differentiate it from other models with different technical characteristics.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018equivalent model\u2019 means a model which has the same technical characteristics relevant for the technical information to be provided, but which is placed on the market or put into service by the same manufacturer, importer or authorised representative as another model with a differentmodel identifier;",
+      "\u2018model identifier\u2019 means the code, usually alphanumeric, which distinguishes a specific product model from other models with the same trade mark or the same manufacturer's, importer's or authorised representative's name;",
+      "\u2018equivalent model\u2019 means a model which has the same technical characteristics relevant for the technical information to be provided, but which is placed on the market or put into service by the same manufacturer, importer or authorised representative as another model with a different model identifier;"
+    ],
+    "Article 4": [
+      "The technical documentation shall include a list of all equivalent models, including the model identifiers.",
+      "The technical documentation shall include a list of allequivalent models, including themodel identifiers."
+    ],
+    "Article 9": [
+      "instructions on how to find the model information in the product database, as set out in Delegated Regulation (EU) 2019/2018 by means of a weblink that links the model information as stored in the product database or a link to the product database and information on how to find the model identifier on the product.",
+      "instructions on how to find the model information in theproduct database, as set out in Delegated Regulation (EU) 2019/2018 by means of a weblink that links the model information as stored in the product database or a link to the product database and information on how to find themodel identifier on the product."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        1
+      ]
+    },
+    "Article 4": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 9": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

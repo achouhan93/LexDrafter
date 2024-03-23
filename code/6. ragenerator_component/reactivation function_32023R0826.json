@@ -1,0 +1,47 @@
+{
+  "term": "reactivation function",
+  "celex_id": "32023R0826",
+  "original_definition": "'reactivation function' means a function that via a remote switch, a remote control, an internal sensor or timer provides a switch from standby mode to another mode, including active mode, providing additional functions;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018reactivation function\u2019 means a function that via a remote switch, a remote control, an internal sensor or timer provides a switch from standby mode to another mode, including active mode, providing additional functions;",
+      "reactivation function and only an indication of enabled reactivation function;",
+      "\u2018reactivation function\u2019 means a function that via a remote switch, a remote control, an internal sensor or timer provides a switch fromstandby modeto another mode, includingactive mode, providing additional functions;",
+      "reactivation function;"
+    ],
+    "Article\u00a010": [
+      "The power consumption ofequipmentin any condition providing onlyinformation or status display, or providing only a combination ofreactivation function and information or status display, or providing only a reactivation function and an indication of enabled reactivation function and information or status display shall not exceed 0,80 W, except for household tumble driers covered by Commission Regulation (EU) No 932/2012 (1) for which this value shall be 1,00 W.",
+      "Standby mode: 0,1 W withreactivation function; 0,1 W with simple or low power LEDsinformation or status display (larger displays \u2013 e.g. for clocks \u2013 require more power).",
+      "Standby mode: 0,1 W with reactivation function; 0,1 W with simple or low power LEDs information or status display (larger displays \u2013 e.g. for clocks \u2013 require more power).",
+      "The power consumption of equipment in any condition providing only a reactivation function, or providing only a reactivation function and an indication of enabled reactivation function, shall not exceed 0,50 W.",
+      "The power consumption ofequipmentin any condition providing only areactivation function, or providing only a reactivation function and an indication of enabled reactivation function, shall not exceed 0,50 W.",
+      "The power consumption of equipment in any condition providing only information or status display, or providing only a combination of reactivation function and information or status display, or providing only a reactivation function and an indication of enabled reactivation function and information or status display shall not exceed 0,80 W, except for household tumble driers covered by Commission Regulation (EU) No 932/2012 (1) for which this value shall be 1,00 W."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 3,
+      "statement_scores": [
+        0,
+        2,
+        0,
+        1
+      ]
+    },
+    "Article\u00a010": {
+      "article_score": 14,
+      "statement_scores": [
+        3,
+        1,
+        1,
+        3,
+        3,
+        3
+      ]
+    }
+  }
+}

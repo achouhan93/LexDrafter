@@ -1,0 +1,196 @@
+{
+  "term": "system state",
+  "celex_id": "32017R1485",
+  "original_definition": "'system state' means the operational state of the transmission system in relation to the operational security limits which can be normal state, alert state, emergency state, blackout state and restoration state;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018system state\u2019 means the operational state of the transmission system in relation to the operational security limits which can be normal state, alert state, emergency state, blackout state and restoration state;",
+      "\u2018emergency state\u2019 means the system state in which one or more operational security limits are violated;",
+      "\u2018alert state\u2019 means thesystem statein which the system is withinoperational securitylimits, but a contingency from thecontingency listhas been detected and in case of its occurrence the available remedial actions are not sufficient to keep thenormal state;",
+      "\u2018blackout state\u2019 means the system state in which the operation of part or all of the transmission system is terminated;",
+      "\u2018operational security indicators\u2019 means indicators used by TSOs to monitor the operational security in terms of system states as well as faults and disturbances influencing operational security;",
+      "\u2018operational security indicators\u2019 means indicators used by TSOs to monitor the operational security in terms ofsystem states as well asfaults anddisturbances influencing operational security;",
+      "\u2018restoration state\u2019 means the system state in which the objective of all activities in the transmission system is to re-establish the system operation and maintain operational security after the blackout state or the emergency state;",
+      "\u2018system state\u2019 means the operational state of the transmission system in relation to theoperational securitylimits which can benormal state,alert state,emergency state,blackout stateandrestoration state;",
+      "\u2018restoration state\u2019 means thesystem statein which the objective of all activities in the transmission system is to re-establish the system operation and maintainoperational securityafter theblackout stateor theemergency state;",
+      "\u2018emergency state\u2019 means thesystem statein which one or moreoperational security limits are violated;",
+      "\u2018alert state\u2019 means the system state in which the system is within operational security limits, but a contingency from the contingency list has been detected and in case of its occurrence the available remedial actions are not sufficient to keep the normal state;",
+      "\u2018blackout state\u2019 means thesystem state in which the operation of part or all of the transmission system is terminated;"
+    ],
+    "Article 17": [
+      "System states, remedial actions and operational security limits",
+      "System states, remedial actions andoperational security limits"
+    ],
+    "Article 18": [
+      "Classification of system states"
+    ],
+    "Article 19": [
+      "4.   If its transmission system is not in normal state and if that system state is qualified as a wide area state the TSO shall:",
+      "3.   In order to specify thesystem state, each TSO shall performcontingency analysisat least once every 15 minutes, monitoring the transmission system's parameters defined in accordance with paragraph 2, against theoperational securitylimits defined in accordance with Article 25 and the criteria for system states defined in accordance with Article 18. Each TSO shall also monitor the level of available reserves against thereserve capacity. When carrying out the contingency analysis, each TSO shall take into account the effect of remedial actions and the measures of thesystem defence plan.",
+      "1.   Each TSO shall, in real-time operation, determine the system state of its transmission system.",
+      "3.   In order to specify the system state, each TSO shall perform contingency analysis at least once every 15 minutes, monitoring the transmission system's parameters defined in accordance with paragraph 2, against the operational security limits defined in accordance with Article 25 and the criteria for system states defined in accordance with Article 18. Each TSO shall also monitor the level of available reserves against the reserve capacity. When carrying out the contingency analysis, each TSO shall take into account the effect of remedial actions and the measures of the system defence plan.",
+      "Monitoring and determination of system states by TSOs",
+      "inform all TSOs about the system state of its transmission system via an IT tool for the exchange of real-time data at pan-European level; and",
+      "4.   If its transmission system is not innormal stateand if thatsystem stateis qualified as awide area state the TSO shall:"
+    ],
+    "Article 23": [
+      "1.   Each TSO shall prepare and activate remedial actions in accordance with the criteria set out in Article 21(2) to prevent the system state from deteriorating on the basis of the following elements:",
+      "the monitoring and determination of system states in accordance with Article 19;"
+    ],
+    "Article 24": [
+      "facilities for monitoring the system state of the transmission system, including state estimation applications and facilities for load-frequency control;"
+    ],
+    "Article 42": [
+      "1.   In accordance with Articles 18 and 19, each TSO shall exchange with the other TSOs of the same synchronous area the following data on the system state of its transmission system using the IT tool for real-time data exchange at pan-European level as provided by ENTSO for Electricity:",
+      "system state in accordance with Article 18;"
+    ],
+    "Article 43": [
+      "1.   Each TSO shall determine theobservability areaof the transmission-connected distribution systems which is needed for the TSO to determine thesystem state accurately and efficiently, based on the methodology developed in accordance with Article 75.",
+      "1.   Each TSO shall determine the observability area of the transmission-connected distribution systems which is needed for the TSO to determine the system state accurately and efficiently, based on the methodology developed in accordance with Article 75."
+    ],
+    "Article 56": [
+      "4.   In the event of degradation of the state of the transmission system in which the operational testing is performed, the TSO of that transmission system shall be entitled to interrupt the operational testing. If conducting a test affects another TSO and its system state is also degraded, the TSO or SGU or DSO conducting the test shall, upon being informed by the TSO concerned, immediately cease the operational test."
+    ],
+    "Article 58": [
+      "3.   TSO employees in charge of real-time operation of transmission system shall, as a part of its initial training, undergo training on interoperability issues between transmission systems based upon operational experiences and feedback from the joint training carried out with neighbouring TSOs in accordance with Article 63. That training on interoperability issues shall include preparation and activation of coordinated remedial actions required in all system states.",
+      "3.   TSO employees in charge of real-time operation of transmission system shall, as a part of its initial training, undergo training on interoperability issues between transmission systems based upon operational experiences and feedback from the joint training carried out withneighbouring TSOsin accordance with Article 63. That training on interoperability issues shall include preparation and activation of coordinated remedial actions required in allsystem states.",
+      "operation of the transmission system in all system states including restoration;"
+    ],
+    "Article 63": [
+      "1.   Each TSO shall organise regular training sessions with itsneighbouring TSOsto improve the knowledge of the characteristics of neighbouring transmission systems as well as the communication and coordination between employees of neighbouring TSOs in charge of real-time operation. The inter-TSO training shall include detailed knowledge of coordinated actions required under eachsystem state.",
+      "1.   Each TSO shall organise regular training sessions with its neighbouring TSOs to improve the knowledge of the characteristics of neighbouring transmission systems as well as the communication and coordination between employees of neighbouring TSOs in charge of real-time operation. The inter-TSO training shall include detailed knowledge of coordinated actions required under each system state."
+    ],
+    "Article 118": [
+      "operational procedures to reduce thesystem frequencyfrequency deviationto restore thesystem statetonormal stateand to limit the risk of entering into theemergency state in accordance with Article 152(10);",
+      "operational procedures to reduce the system frequency deviation to restore the system state to normal state and to limit the risk of entering into the emergency state in accordance with Article 152(10);"
+    ],
+    "Article 152": [
+      "11.   If thesystem stateis in thealert statedue to insufficientactive power reserves in accordance with Article 18, the TSOs of the concernedLFC blocks shall, in close cooperation with the other TSOs of the synchronous area and the TSOs of other synchronous areas, act to restore and replace the necessary levels of active power reserves. For that purpose, the TSOs of a LFC block shall have the right to require changes in the active power production or consumption of power generating modules or demand units within its control area to reduce or to remove the violation of the requirements concerning active power reserve.",
+      "the system state of the transmission system in accordance with Article 18; and",
+      "4.   Thesynchronous area monitorshall determine thesystem statewith regard to thesystem frequency in accordance with Article 18(1) and (2).",
+      "4.   The synchronous area monitor shall determine the system state with regard to the system frequency in accordance with Article 18(1) and (2).",
+      "11.   If the system state is in the alert state due to insufficient active power reserves in accordance with Article 18, the TSOs of the concerned LFC blocks shall, in close cooperation with the other TSOs of the synchronous area and the TSOs of other synchronous areas, act to restore and replace the necessary levels of active power reserves. For that purpose, the TSOs of a LFC block shall have the right to require changes in the active power production or consumption of power generating modules or demand units within its control area to reduce or to remove the violation of the requirements concerning active power reserve.",
+      "System states related to system frequency",
+      "System states related tosystem frequency",
+      "10.   All TSOs of a synchronous area shall specify in the synchronous area operational agreement the operational procedures for the alert state due to a violation of system frequency limits. The operational procedures shall aim at reducing the system frequency deviation in order to restore the system state to the normal state and to limit the risk of entering the emergency state. The operational procedures shall include the right of TSOs to deviate from the obligation set in Article 143(1).",
+      "10.   All TSOs of a synchronous area shall specify in the synchronous area operational agreement the operational procedures for thealert statedue to a violation ofsystem frequencylimits. The operational procedures shall aim at reducing the systemfrequency deviationin order to restore thesystem stateto thenormal stateand to limit the risk of entering theemergency state. The operational procedures shall include the right of TSOs to deviate from the obligation set in Article 143(1)."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 10,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 17": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 18": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 19": {
+      "article_score": 9,
+      "statement_scores": [
+        1,
+        2,
+        1,
+        2,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 23": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 24": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 42": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 43": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 56": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 58": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 63": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 118": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 152": {
+      "article_score": 9,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

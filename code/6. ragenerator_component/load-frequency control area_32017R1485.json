@@ -1,0 +1,22 @@
+{
+  "term": "load-frequency control area",
+  "celex_id": "32017R1485",
+  "original_definition": "'load-frequency control area' means a part of a synchronous area or an entire synchronous area, physically demarcated by points of measurement at interconnectors to other LFC areas, operated by one or more TSOs fulfilling the obligations of load-frequency control;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018load-frequency control area\u2019 or \u2018LFC area\u2019 means a part of a synchronous area or an entire synchronous area, physically demarcated by points of measurement at interconnectors to other LFC areas, operated by one or more TSOs fulfilling the obligations of load-frequency control;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

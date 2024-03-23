@@ -1,0 +1,86 @@
+{
+  "term": "cogeneration space heater",
+  "celex_id": "32013R0813",
+  "original_definition": "'cogeneration space heater' means a space heater simultaneously generating heat and electricity in a single process;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 3": [
+      "electric space heaters, electric combination heaters, cogeneration space heaters, heat pump space heaters and heat pump combination heaters shall meet the requirements set out in Annex II, point 1(b);",
+      "electricspace heaters, electriccombination heaters,cogeneration space heaters,heat pump space heaters andheat pump combination heaters shall meet the requirements set out in Annex II, point 1(b);"
+    ],
+    "Article 10": [
+      "for cogeneration space heaters not equipped with supplementary heaters, the useful efficiency at rated heat output, expressed in %;",
+      "\u2018standby heat loss\u2019 (Pstby\n) means the heat loss of aboiler space heater, boilercombination heaterorcogeneration space heater in operating modes without heat demand, expressed in kW;",
+      "\u2018standby heat loss\u2019 (Pstby\n) means the heat loss of a boiler space heater, boiler combination heater or cogeneration space heater in operating modes without heat demand, expressed in kW;",
+      "\u2018useful heat output\u2019 (P) means the heat output of a boiler space heater, boiler combination heater or cogeneration space heater transmitted to the heat carrier, expressed in kW;",
+      "Seasonal space heating energy efficiencyofboiler space heaters, boilercombination heaters andcogeneration space heaters",
+      "for cogeneration space heaters equipped with supplementary heaters, a weighted average of the useful efficiency at rated heat output with supplementary heater disabled, and the useful efficiency at rated heat output with supplementary heater enabled, expressed in %;",
+      "forboiler space heaters, boilercombination heaters andcogeneration space heaters, the technical parameters set out in Table 1, measured and calculated in accordance with Annex III;",
+      "At rated heat output of cogeneration space heater with supplementary heater disabled",
+      "\u2018useful heat output\u2019 (P) means the heat output of aboiler space heater, boilercombination heaterorcogeneration space heater transmitted to the heat carrier, expressed in kW;",
+      "Information requirements forboiler space heaters, boilercombination heaters andcogeneration space heaters",
+      "At rated heat output of cogeneration space heater with supplementary heater enabled",
+      "\u2018auxiliary electricity consumption\u2019 means the annual electricity required for the designated operation of a boiler space heater, boiler combination heater or cogeneration space heater, calculated from the electric power consumption at full load (elmax), at part load (elmin), in standby mode and default operating hours at each mode, expressed in kWh in terms of final energy;",
+      "Definitions related toboiler space heaters, boilercombination heaters andcogeneration space heaters",
+      "Seasonal space heating energy efficiency of boiler space heaters, boiler combination heaters and cogeneration space heaters",
+      "\u2018auxiliary electricity consumption\u2019 means the annual electricity required for the designated operation of aboiler space heater, boilercombination heaterorcogeneration space heater, calculated from the electric power consumption at full load (elmax), at part load (elmin), in standby mode and default operating hours at each mode, expressed in kWh in terms of final energy;",
+      "From 26 September 2017 theseasonal space heating energy efficiencyof electricboiler space heaters, electric boilercombination heaters,cogeneration space heaters,heat pump space heaters andheat pump combination heaters shall not fall below the following values:",
+      "for boiler space heaters, boiler combination heaters and cogeneration space heaters, the technical parameters set out in Table 1, measured and calculated in accordance with Annex III;",
+      "\u2018useful efficiency\u2019 (\u03b7) means the ratio of the useful heat output and the total energy input of aboiler space heater, boilercombination heaterorcogeneration space heater, expressed in %, whereby the total energy input is expressed in terms of GCV and/or in terms of final energy multiplied by CC;",
+      "From 26 September 2017 the seasonal space heating energy efficiency of electric boiler space heaters, electric boiler combination heaters, cogeneration space heaters, heat pump space heaters and heat pump combination heaters shall not fall below the following values:",
+      "Definitions related to boiler space heaters, boiler combination heaters and cogeneration space heaters",
+      "Information requirements for boiler space heaters, boiler combination heaters and cogeneration space heaters",
+      "\u2018useful efficiency\u2019 (\u03b7) means the ratio of the useful heat output and the total energy input of a boiler space heater, boiler combination heater or cogeneration space heater, expressed in %, whereby the total energy input is expressed in terms of GCV and/or in terms of final energy multiplied by CC;"
+    ],
+    "Not Article": [
+      "The scope of this Regulation should include boiler space heaters, cogeneration space heaters and heat pump space heaters providing heat to water-based central heating systems for space heating purposes, and boiler combination heaters and heat pump combination heaters providing heat to water-based central heating systems for space heating purposes and heat to deliver hot drinking and sanitary water. These heaters are designed to use gaseous or liquid fuels, including from biomass (unless predominantly), electricity and ambient or waste heat.",
+      "The scope of this Regulation should includeboiler space heaters,cogeneration space heaters andheat pump space heaters providing heat towater-based central heating systems for space heating purposes, and boilercombination heaters andheat pump combination heaters providing heat to water-based central heating systems for space heating purposes and heat to deliver hot drinking and sanitary water. These heaters are designed to use gaseous or liquid fuels, including frombiomass (unless predominantly), electricity and ambient or waste heat."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 10": {
+      "article_score": 22,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

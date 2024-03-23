@@ -1,0 +1,33 @@
+{
+  "term": "frequency containment process",
+  "celex_id": "32017R1485",
+  "original_definition": "'frequency containment process' means a process that aims at stabilising the system frequency by compensating imbalances by means of appropriate reserves;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018frequency containment process\u2019 or \u2018FCP\u2019 means a process that aims at stabilising thesystem frequency by compensating imbalances by means of appropriate reserves;",
+      "\u2018frequency containment process\u2019 or \u2018FCP\u2019 means a process that aims at stabilising the system frequency by compensating imbalances by means of appropriate reserves;"
+    ],
+    "Article 142": [
+      "Frequency containment process"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 142": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

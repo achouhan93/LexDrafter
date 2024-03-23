@@ -1,0 +1,41 @@
+{
+  "term": "frequency stability",
+  "celex_id": "32017R1485",
+  "original_definition": "'frequency stability' means the ability of the transmission system to maintain frequency stable in the N-situation and after being subjected to a disturbance;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018dynamic stability\u2019 is a common term including the rotor angle stability, frequency stability and voltage stability;",
+      "\u2018frequency stability\u2019 means the ability of the transmission system to maintain frequency stable in theN-situationand after being subjected to adisturbance;",
+      "\u2018stability limits\u2019 means the permitted boundaries for the operation of the transmission system in terms of respecting the limits ofvoltage stability,rotor angle stabilityandfrequency stability;",
+      "\u2018stability limits\u2019 means the permitted boundaries for the operation of the transmission system in terms of respecting the limits of voltage stability, rotor angle stability and frequency stability;",
+      "\u2018frequency stability\u2019 means the ability of the transmission system to maintain frequency stable in the N-situation and after being subjected to a disturbance;",
+      "\u2018dynamic stability\u2019 is a common term including therotor angle stability,frequency stabilityandvoltage stability;"
+    ],
+    "Article 39": [
+      "3.   In relation to the requirements on minimum inertia which are relevant for frequency stability at the synchronous area level:"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        1
+      ]
+    },
+    "Article 39": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

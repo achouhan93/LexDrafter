@@ -1,0 +1,24 @@
+{
+  "term": "top-down re-energisation strategy",
+  "celex_id": "32017R2196",
+  "original_definition": "'top-down re-energisation strategy' means a strategy that requires the assistance of other TSOs to re-energise parts of the system of a TSO;",
+  "generated_definition": "'top-down re-energisation strategy' means a strategy initiated by a tso (transmission system operator) to request support from neighbouring tsos for re-energisation, with the assistance provided in accordance with article 21, unless it would lead to emergency or blackout states, in which case a bottom-up strategy is used.",
+  "existing_sentences": {
+    "Article 27": [
+      "6.   For the activation of a top-down re-energisation strategy, the TSO shall request neighbouring TSOs to support the re-energisation. This support may consist in assistance for active power, in accordance with paragraphs 3 to 5 of Article 21. The requested TSOs shall provide assistance for the re-energisation, unless it would lead their systems to the emergency or blackout states. In this case, the requesting TSO shall use the bottom-up re-energisation strategy.",
+      "6.   For the activation of atop-down re-energisation strategy, the TSO shall request neighbouring TSOs to support the re-energisation. This support may consist in assistance for active power, in accordance with paragraphs 3 to 5 of Article 21. The requested TSOs shall provide assistance for the re-energisation, unless it would lead their systems to the emergency or blackout states. In this case, the requesting TSO shall use thebottom-up re-energisation strategy."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 27": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

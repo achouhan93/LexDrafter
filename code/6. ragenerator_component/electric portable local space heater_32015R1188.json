@@ -1,0 +1,24 @@
+{
+  "term": "electric portable local space heater",
+  "celex_id": "32015R1188",
+  "original_definition": "'electric portable local space heater' means an electric local space heater which is not an electric fixed local space heater, electric storage local space heater, electric underfloor local space heater, electric radiant local space heater, electric visibly glowing local space heater or slave heater;",
+  "generated_definition": "'electric portable local space heater' means an electric device designed to provide heat to a limited area, typically used in homes, offices, or other enclosed spaces, and can be easily moved from one location to another.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018electric portable local space heater\u2019 means anelectric local space heaterwhich is not anelectric fixed local space heater,electric storage local space heater,electric underfloor local space heater,electric radiant local space heater, electric visibly glowing local space heater orslave heater;",
+      "\u2018electric portable local space heater\u2019 means an electric local space heater which is not an electric fixed local space heater, electric storage local space heater, electric underfloor local space heater, electric radiant local space heater, electric visibly glowing local space heater or slave heater;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

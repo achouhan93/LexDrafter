@@ -1,0 +1,22 @@
+{
+  "term": "organic light emitting diode",
+  "celex_id": "32019R2020",
+  "original_definition": "'organic light emitting diode' means a technology in which light is produced from a solid state device embodying a p-n junction of inorganic material. The junction emits optical radiation when excited by an electric current;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018organic light emitting diode\u2019 (OLED) means a technology in which light is produced from a solid state device embodying a p-n junction of organic material. The junction emits optical radiation when excited by an electric current;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

@@ -1,0 +1,919 @@
+{
+  "term": "operational security",
+  "celex_id": "32017R1485",
+  "original_definition": "'operational security' means the transmission system's capability to retain a normal state or to return to a normal state as soon as possible, and which is characterised by operational security limits;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 1": [
+      "requirements and principles concerning operational security;",
+      "For the purpose of safeguarding operational security, frequency quality and the efficient use of the interconnected system and resources, this Regulation lays down detailed guidelines on:"
+    ],
+    "Article 3": [
+      "\u2018alert state\u2019 means thesystem statein which the system is withinoperational securitylimits, but a contingency from thecontingency listhas been detected and in case of its occurrence the available remedial actions are not sufficient to keep thenormal state;",
+      "\u2018contingency list\u2019 means the list of contingencies to be simulated in order to test the compliance with theoperational security limits;",
+      "\u2018relevant grid element\u2019 means any component of a transmission system, including interconnectors, or of a distribution system, including a closed distribution system, such as a single line, a single circuit, a single transformer, a single phase-shifting transformer, or a voltage compensation installation, which participates in the outage coordination and theavailability statusof which influences cross-borderoperational security;",
+      "\u2018observability area\u2019 means a TSO's own transmission system and the relevant parts of distribution systems andneighbouring TSOs' transmission systems, on which the TSO implements real-time monitoring and modelling to maintainoperational security in its control area including interconnectors;",
+      "\u2018dynamic stability assessment\u2019 means the operational security assessment in terms of dynamic stability;",
+      "\u2018emergency state\u2019 means the system state in which one or more operational security limits are violated;",
+      "\u2018outage planning incompatibility\u2019 means the state in which a combination of theavailability statusof one or morerelevant grid elements,relevant power generating modules, and/or relevant demand facilities and the best estimate of the forecasted electricity grid situation leads to violation ofoperational security limits taking into account remedial actions without costs which are at the TSO's disposal;",
+      "\u2018relevant demand facility\u2019 means a demand facility which participates in the outage coordination and theavailability statusof which influences cross-borderoperational security;",
+      "\u2018restoration state\u2019 means the system state in which the objective of all activities in the transmission system is to re-establish the system operation and maintain operational security after the blackout state or the emergency state;",
+      "\u2018system state\u2019 means the operational state of the transmission system in relation to theoperational securitylimits which can benormal state,alert state,emergency state,blackout stateandrestoration state;",
+      "\u2018restoration state\u2019 means thesystem statein which the objective of all activities in the transmission system is to re-establish the system operation and maintainoperational securityafter theblackout stateor theemergency state;",
+      "\u2018affected TSO\u2019 means a TSO for which information on the exchange of reserves and/or sharing of reserves and/or imbalance netting process and/or cross-border activation process is needed for the analysis and maintenance of operational security;",
+      "\u2018alert state\u2019 means the system state in which the system is within operational security limits, but a contingency from the contingency list has been detected and in case of its occurrence the available remedial actions are not sufficient to keep the normal state;",
+      "\u2018contingency list\u2019 means the list of contingencies to be simulated in order to test the compliance with the operational security limits;",
+      "\u2018relevant power generating module\u2019 means a power generating module which participates in the outage coordination and the availability status of which influences cross-border operational security;",
+      "\u2018system state\u2019 means the operational state of the transmission system in relation to the operational security limits which can be normal state, alert state, emergency state, blackout state and restoration state;",
+      "\u2018constraint\u2019 means a situation in which there is a need to prepare and activate a remedial action in order to respectoperational security limits;",
+      "\u2018relevant demand facility\u2019 means a demand facility which participates in the outage coordination and the availability status of which influences cross-border operational security;",
+      "\u2018constraint\u2019 means a situation in which there is a need to prepare and activate a remedial action in order to respect operational security limits;",
+      "\u2018normal state\u2019 means a situation in which the system is withinoperational securitylimits in theN-situationand after the occurrence of any contingency from thecontingency list, taking into account the effect of the available remedial actions;",
+      "\u2018observability area\u2019 means a TSO's own transmission system and the relevant parts of distribution systems and neighbouring TSOs' transmission systems, on which the TSO implements real-time monitoring and modelling to maintain operational security in its control area including interconnectors;",
+      "\u2018outage planning incompatibility\u2019 means the state in which a combination of the availability status of one or more relevant grid elements, relevant power generating modules, and/or relevant demand facilities and the best estimate of the forecasted electricity grid situation leads to violation of operational security limits taking into account remedial actions without costs which are at the TSO's disposal;",
+      "\u2018normal state\u2019 means a situation in which the system is within operational security limits in the N-situation and after the occurrence of any contingency from the contingency list, taking into account the effect of the available remedial actions;",
+      "\u2018relevant grid element\u2019 means any component of a transmission system, including interconnectors, or of a distribution system, including a closed distribution system, such as a single line, a single circuit, a single transformer, a single phase-shifting transformer, or a voltage compensation installation, which participates in the outage coordination and the availability status of which influences cross-border operational security;",
+      "\u2018(N-1) criterion\u2019 means the rule according to which the elements remaining in operation within a TSO's control area after occurrence of a contingency are capable of accommodating the new operational situation without violating operational security limits;",
+      "\u2018operational security\u2019 means the transmission system's capability to retain anormal state or to return to a normal state as soon as possible, and which is characterised by operational security limits;",
+      "\u2018dynamic stability assessment\u2019 means theoperational security assessment in terms of dynamic stability;",
+      "\u2018relevant power generating module\u2019 means a power generating module which participates in the outage coordination and theavailability statusof which influences cross-borderoperational security;",
+      "\u2018operational security\u2019 means the transmission system's capability to retain a normal state or to return to a normal state as soon as possible, and which is characterised by operational security limits;",
+      "\u2018affected TSO\u2019 means a TSO for which information on theexchange of reservesand/orsharing of reservesand/orimbalance netting processand/or cross-border activation process is needed for the analysis and maintenance ofoperational security;",
+      "\u2018emergency state\u2019 means thesystem statein which one or moreoperational security limits are violated;"
+    ],
+    "Article 4": [
+      "determining common operational security requirements and principles;",
+      "ensuring the conditions for maintaining operational security throughout the Union;"
+    ],
+    "Article 6": [
+      "key organizational requirements, roles and responsibilities in relation to data exchange related to operational security in accordance with Article 40(6);",
+      "common provisions for each capacity calculation region for regional operational security coordination in accordance with Article 76;"
+    ],
+    "Article 14": [
+      "identification of any necessary improvements in the annual report on incidents classification scale in accordance with Article 15, which are necessary in order to support sustainable and long-term operational security; and"
+    ],
+    "Article 17": [
+      "System states, remedial actions and operational security limits",
+      "System states, remedial actions andoperational security limits"
+    ],
+    "Article 18": [
+      "active andreactive power reserves are sufficient to withstand contingencies from thecontingency listdefined in accordance with Article 33 without violatingoperational security limits;",
+      "operation of the concerned TSO's control area is and will remain withinoperational securitylimits after the activation of remedial actions following the occurrence of a contingency from thecontingency list defined in accordance with Article 33.",
+      "at least one contingency from the contingency list defined in accordance with Article 33 leads to a violation of the TSO's operational security limits, even after the activation of remedial actions.",
+      "active and reactive power reserves are sufficient to withstand contingencies from the contingency list defined in accordance with Article 33 without violating operational security limits;",
+      "voltage and power flows are within the operational security limits defined in accordance with Article 25;",
+      "voltage and power flows are within the operational security limits defined in accordance with Article 25; and",
+      "there is at least one a violation of a TSO's operational security limits defined in accordance with Article 25;",
+      "operation of the concerned TSO's control area is and will remain within operational security limits after the activation of remedial actions following the occurrence of a contingency from the contingency list defined in accordance with Article 33.",
+      "at least one contingency from thecontingency listdefined in accordance with Article 33 leads to a violation of the TSO'soperational security limits, even after the activation of remedial actions."
+    ],
+    "Article 19": [
+      "3.   In order to specify the system state, each TSO shall perform contingency analysis at least once every 15 minutes, monitoring the transmission system's parameters defined in accordance with paragraph 2, against the operational security limits defined in accordance with Article 25 and the criteria for system states defined in accordance with Article 18. Each TSO shall also monitor the level of available reserves against the reserve capacity. When carrying out the contingency analysis, each TSO shall take into account the effect of remedial actions and the measures of the system defence plan.",
+      "3.   In order to specify thesystem state, each TSO shall performcontingency analysisat least once every 15 minutes, monitoring the transmission system's parameters defined in accordance with paragraph 2, against theoperational securitylimits defined in accordance with Article 25 and the criteria for system states defined in accordance with Article 18. Each TSO shall also monitor the level of available reserves against thereserve capacity. When carrying out the contingency analysis, each TSO shall take into account the effect of remedial actions and the measures of thesystem defence plan."
+    ],
+    "Article 20": [
+      "1.   Each TSO shall endeavour to ensure that its transmission system remains in thenormal stateand shall be responsible for managingoperational security violations. To achieve that objective, each TSO shall design, prepare and activate remedial actions taking into account their availability, the time and resources needed for their activation and any conditions external to the transmission system which are relevant for each remedial action.",
+      "1.   Each TSO shall endeavour to ensure that its transmission system remains in the normal state and shall be responsible for managing operational security violations. To achieve that objective, each TSO shall design, prepare and activate remedial actions taking into account their availability, the time and resources needed for their activation and any conditions external to the transmission system which are relevant for each remedial action."
+    ],
+    "Article 21": [
+      "foroperational securityviolations which do not need to be managed in a coordinated way, a TSO shall design, prepare and activate remedial actions to restore the system to thenormal stateand to prevent the propagation of the alert oremergency state outside of the TSO's control area from the categories defined in Article 22;",
+      "consider the risks of failures in applying the available remedial actions and their impact on operational security such as:",
+      "give preference to remedial actions which make available the largest cross-zonal capacity for capacity allocation, while satisfying all operational security limits.",
+      "for operational security violations which need to be managed in a coordinated way, a TSO shall design, prepare and activate remedial actions in coordination with other concerned TSOs, following the methodology for the preparation of remedial actions in a coordinated way under Article 76(1)(b) and taking into account the recommendation of a regional security coordinator in accordance with Article 78(4).",
+      "for operational security violations which do not need to be managed in a coordinated way, a TSO shall design, prepare and activate remedial actions to restore the system to the normal state and to prevent the propagation of the alert or emergency state outside of the TSO's control area from the categories defined in Article 22;"
+    ],
+    "Article 22": [
+      "2.   Where necessary and justified in order to maintain operational security, each TSO may prepare and activate additional remedial actions. The TSO shall report and justify those instances to the relevant regulatory authority and, where applicable, the Member State, at least once every year, after the activation of the additional remedial actions. The relevant reports and justifications shall also be published. The European Commission or the Agency may request the relevant regulatory authority to provide additional information concerning the activation of additional remedial actions in those instances where they affect a neighbouring transmission system.",
+      "instructing transmission-connected DSOs and significant grid users to block automatic voltage and reactive power control of transformers or to activate on their facilities the remedial actions set out in points (i) to (iii) if voltage deterioration jeopardises operational security or threatens to lead to a voltage collapse in a transmission system;",
+      "curtail, pursuant to Article 16(2) of Regulation (EC) No 714/2009, the already allocated cross-zonal capacity in an emergency situation where using that capacity endangers operational security, all TSOs at a given interconnector agree to such adjustment, and re-dispatching or countertrading is not possible; and"
+    ],
+    "Article 23": [
+      "5.   Whereconstraints have only consequences on thelocal statewithin the TSO's control area and theoperational security violation does not need to be managed in a coordinated way, the TSO responsible for its management may decide not to activate remedial actions with costs to relieve them.",
+      "4.   When preparing and activating remedial actions each TSO shall, if its transmission system is not in normal oralert state, coordinate to the extent possible such remedial actions with the affected transmission-connected SGUs and DSOs to maintain theoperational security and the integrity of the transmission system.",
+      "5.   Where constraints have only consequences on the local state within the TSO's control area and the operational security violation does not need to be managed in a coordinated way, the TSO responsible for its management may decide not to activate remedial actions with costs to relieve them.",
+      "4.   When preparing and activating remedial actions each TSO shall, if its transmission system is not in normal or alert state, coordinate to the extent possible such remedial actions with the affected transmission-connected SGUs and DSOs to maintain the operational security and the integrity of the transmission system."
+    ],
+    "Article 25": [
+      "1.   Each TSO shall specify the operational security limits for each element of its transmission system, taking into account at least the following physical characteristics:",
+      "4.   For each interconnector each TSO shall agree with the neighbouring TSO on common operational security limits in accordance with paragraph 1.",
+      "3.   In case of changes of one of itstransmission system elements, each TSO shall validate and where necessary update theoperational security limits.",
+      "3.   In case of changes of one of its transmission system elements, each TSO shall validate and where necessary update the operational security limits.",
+      "2.   When defining theoperational securitylimits, each TSO shall take into account the capabilities of SGUs to prevent that voltage ranges and frequency limits in normal andalert states lead to their disconnection.",
+      "2.   When defining the operational security limits, each TSO shall take into account the capabilities of SGUs to prevent that voltage ranges and frequency limits in normal and alert states lead to their disconnection.",
+      "Operational security limits"
+    ],
+    "Article 27": [
+      "5.   Each TSO shall agree, with the transmission-connected DSOs and the transmission-connected significant grid users, about voltage ranges at the connection points below 110 kV if those voltage ranges are relevant for maintaining operational security limits. Each TSO shall endeavour to ensure that the voltage remains within the agreed range during the normal state and after the occurrence of a contingency.",
+      "5.   Each TSO shall agree, with the transmission-connected DSOs and the transmission-connected significant grid users, about voltage ranges at the connection points below 110 kV if those voltage ranges are relevant for maintainingoperational securitylimits. Each TSO shall endeavour to ensure that the voltage remains within the agreed range during thenormal state and after the occurrence of a contingency."
+    ],
+    "Article 29": [
+      "7.   Each TSO shall, directly or indirectly in coordination with the transmission-connected DSO where applicable, operate reactive power resources within its control area, including the blocking of automatic voltage/reactive power control of transformers, voltage reduction and low voltage demand disconnection, in order to maintain operational security limits and to prevent a voltage collapse of the transmission system.",
+      "4.   TSOs interconnected by AC interconnectors shall jointly specify the adequate voltage control regime in order to ensure that the common operational security limits established in accordance with Article 25(4) are respected.",
+      "4.   TSOs interconnected by AC interconnectors shall jointly specify the adequatevoltage controlregime in order to ensure that the commonoperational security limits established in accordance with Article 25(4) are respected."
+    ],
+    "Article 32": [
+      "1.   Each TSO shall maintain power flows within the operational security limits defined when the system is in normal state and after the occurrence of a contingency from the contingency list referred to in Article 33(1).",
+      "1.   Each TSO shall maintain power flows within theoperational securitylimits defined when the system is innormal stateand after the occurrence of a contingency from thecontingency list referred to in Article 33(1)."
+    ],
+    "Article 33": [
+      "1.   Each TSO shall establish a contingency list, including the internal and external contingencies of its observability area, by assessing whether any of those contingencies endangers the operational security of the TSO's control area. The contingency list shall include both ordinary contingencies and exceptional contingencies identified by application of the methodology developed pursuant to Article 75.",
+      "1.   Each TSO shall establish acontingency list, including the internal and external contingencies of itsobservability area, by assessing whether any of those contingencies endangers theoperational security of the TSO's control area. The contingency list shall include both ordinary contingencies and exceptional contingencies identified by application of the methodology developed pursuant to Article 75."
+    ],
+    "Article 34": [
+      "2.   Each TSO shall ensure that potential violations of theoperational securitylimits in its control area which are identified by thecontingency analysis do not endanger the operational security of its transmission system or of interconnected transmission systems.",
+      "1.   Each TSO shall perform contingency analysis in its observability area in order to identify the contingencies which endanger or may endanger the operational security of its control area and to identify the remedial actions that may be necessary to address the contingencies, including mitigation of the impact of exceptional contingencies.",
+      "2.   Each TSO shall ensure that potential violations of the operational security limits in its control area which are identified by the contingency analysis do not endanger the operational security of its transmission system or of interconnected transmission systems.",
+      "1.   Each TSO shall performcontingency analysisin itsobservability areain order to identify the contingencies which endanger or may endanger theoperational security of its control area and to identify the remedial actions that may be necessary to address the contingencies, including mitigation of the impact of exceptional contingencies."
+    ],
+    "Article 35": [
+      "1.   Each TSO shall assess the risks associated with the contingencies after simulating each contingency from itscontingency listand after assessing whether it can maintain its transmission system within theoperational security limits in the (N-1) situation.",
+      "1.   Each TSO shall assess the risks associated with the contingencies after simulating each contingency from its contingency list and after assessing whether it can maintain its transmission system within the operational security limits in the (N-1) situation."
+    ],
+    "Article 36": [
+      "1.   Each TSO shall operate its transmission system with the protection and backup protection equipment in order to automatically prevent the propagation of disturbances that could endanger the operational security of its own transmission system and of the interconnected system.",
+      "1.   Each TSO shall operate its transmission system with the protection and backup protection equipment in order to automatically prevent the propagation ofdisturbances that could endanger theoperational security of its own transmission system and of the interconnected system.",
+      "2.   At least once every 5 years, each TSO shall review its protection strategy and concepts and update them where necessary to ensure the correct functioning of the protection equipment and the maintenance of operational security."
+    ],
+    "Article 37": [
+      "operate the transmission system with the special protection scheme within the operational security limits determined in accordance with Article 25; and"
+    ],
+    "Article 39": [
+      "where the studies referred to in point (a) demonstrate the need to define minimum required inertia, all TSOs from the concerned synchronous area shall jointly develop a methodology for the definition of minimum inertia required to maintain operational security and to prevent violation of stability limits. That methodology shall respect the principles of efficiency and proportionality, be developed within 6 months after the completion of the studies referred to in point (a) and shall be updated within 6 months after the studies are updated and become available; and",
+      "where the studies referred to in point (a) demonstrate the need to define minimum required inertia, all TSOs from the concerned synchronous area shall jointly develop a methodology for the definition of minimum inertia required to maintainoperational securityand to prevent violation ofstability limits. That methodology shall respect the principles of efficiency and proportionality, be developed within 6 months after the completion of the studies referred to in point (a) and shall be updated within 6 months after the studies are updated and become available; and"
+    ],
+    "Article 41": [
+      "operational security limits defined by each TSO according to Article 25."
+    ],
+    "Article 42": [
+      "3.   Each TSO shall have the right to request all TSOs from its observability area to provide real-time snapshots of state estimated data from that TSO's control area if that is relevant for the operational security of the transmission system of the requesting TSO.",
+      "3.   Each TSO shall have the right to request all TSOs from itsobservability areato provide real-time snapshots of state estimated data from that TSO's control area if that is relevant for theoperational security of the transmission system of the requesting TSO."
+    ],
+    "Article 54": [
+      "3.   Each SGU shall notify the TSO or DSO to which it has a connection point of the planned test schedules and procedures to be followed for verifying the compliance of its facility with the requirements of this Regulation, in due time and prior to their launch. The TSO or DSO shall approve in advance and in a timely manner the planned test schedules and procedures and the approval shall not be unreasonably withheld. Where the SGU has a connection point to the DSO and interacts, pursuant to paragraph 2, only with the DSO, the TSO shall be entitled to request from the concerned DSO any compliance testing results, which are relevant for the operational security of its transmission system.",
+      "3.   Each SGU shall notify the TSO or DSO to which it has a connection point of the planned testschedules and procedures to be followed for verifying the compliance of its facility with the requirements of this Regulation, in due time and prior to their launch. The TSO or DSO shall approve in advance and in a timely manner the planned test schedules and procedures and the approval shall not be unreasonably withheld. Where the SGU has a connection point to the DSO and interacts, pursuant to paragraph 2, only with the DSO, the TSO shall be entitled to request from the concerned DSO any compliance testing results, which are relevant for theoperational security of its transmission system."
+    ],
+    "Article 55": [
+      "monitor on an annual basis the appropriateness of the network operation tools established pursuant to points (a) and (b) required to maintain operational security. Each TSO shall identify any appropriate improvements to those network operation tools, taking into account the annual reports prepared by ENTSO for Electricity based on the incidents classification scale in accordance with Article 15. Any identified enhancement shall be implemented subsequently by the TSO.",
+      "Each TSO shall be responsible for the operational security of its control area and, in particular, it shall:"
+    ],
+    "Article 56": [
+      "3.   Each TSO shall ensure that operational testing does not endanger the operational security of its transmission system. Any operational testing may be postponed or interrupted due to unplanned system conditions, or due to safety of personnel, of the general public, of the plant or apparatus being tested, or of transmission system elements or of the facilities of the DSO or SGU.",
+      "3.   Each TSO shall ensure that operational testing does not endanger theoperational securityof its transmission system. Any operational testing may be postponed or interrupted due to unplanned system conditions, or due to safety of personnel, of the general public, of the plant or apparatus being tested, or oftransmission system elements or of the facilities of the DSO or SGU."
+    ],
+    "Article 65": [
+      "the potential deviations from operational security limits for each scenario;",
+      "1.   All TSOs shall jointly develop a common list of year-ahead scenarios against which they assess the operation of the interconnected transmission system for the following year. Those scenarios shall allow the identification and the assessment of the influence of the interconnected transmission system on operational security. The scenarios shall include the following variables:",
+      "1.   All TSOs shall jointly develop a common list ofyear-aheadscenarios against which they assess the operation of the interconnected transmission system for the following year. Those scenarios shall allow the identification and the assessment of the influence of the interconnected transmission system onoperational security. The scenarios shall include the following variables:"
+    ],
+    "Article 68": [
+      "1.   When a TSO modifies or notices a modification of its best estimates for the variables used for determining its year-ahead individual grid model established in accordance with Article 66(1), which is significant for operational security, it shall update its year-ahead individual grid model and publish it on the ENTSO for Electricity operational planning data environment.",
+      "1.   When a TSO modifies or notices a modification of its best estimates for the variables used for determining itsyear-aheadindividual grid model established in accordance with Article 66(1), which is significant foroperational security, it shall update its year-ahead individual grid model and publish it on theENTSO for Electricity operational planning data environment."
+    ],
+    "Article 70": [
+      "6.   If, following the assessment referred to in paragraph 5, a TSO considers that the accuracy of the variables is insufficient to evaluate operational security, it shall determine the causes of the inaccuracy. If the causes depend on the TSO's processes for establishing the individual grid models, that TSO shall review those processes to obtain more accurate results. If the causes depend on variables provided by other parties, that TSO together with those other parties shall endeavour to ensure that the variables concerned are accurate.",
+      "handling additional information related to operational arrangements, such as protection setpoints or system protection schemes, single line diagrams and configuration of substations in order to manage operational security."
+    ],
+    "Article 72": [
+      "1.   Each TSO shall perform coordinated operational security analyses for at least the following time-frames:",
+      "4.   Each TSO shall perform its operational security analyses using at least the common grid models established in accordance with Articles 67, 68, 70 and, where applicable, 69 and shall take into account the planned outages when carrying out those analyses.",
+      "3.   To perform operational security analyses, each TSO shall, in the N-Situation, simulate each contingency from its contingency list established in accordance with Article 33 and verify that, in the (N-1)-situation, the operational security limits defined in accordance with Article 25 are not exceeded in its control area.",
+      "3.   To performoperational securityanalyses, each TSO shall, in the N-Situation, simulate each contingency from itscontingency list established in accordance with Article 33 and verify that, in the (N-1)-situation, the operational security limits defined in accordance with Article 25 are not exceeded in its control area."
+    ],
+    "Article 73": [
+      "power flows and voltages exceeding operational security limits;",
+      "1.   Each TSO shall perform year-ahead and, where applicable, week-ahead operational security analyses in order to detect at least the following constraints:",
+      "1.   Each TSO shall performyear-aheadand, where applicable,week-aheadoperational securityanalyses in order to detect at least the followingconstraints:"
+    ],
+    "Article 74": [
+      "1.   Each TSO shall perform day-ahead, intraday and close to real-time operational security analyses to detect possible constraints and prepare and activate the remedial actions with any other concerned TSOs and, if applicable, affected DSOs or SGUs.",
+      "1.   Each TSO shall perform day-ahead, intraday andclose to real-timeoperational securityanalyses to detect possibleconstraints and prepare and activate the remedial actions with any other concerned TSOs and, if applicable, affected DSOs or SGUs."
+    ],
+    "Article 76": [
+      "Proposal for regional operational security coordination",
+      "the identification of the most effective and economically efficient remedial actions in case of operational security violations referred to in Article 22;"
+    ],
+    "Article 77": [
+      "2.   When developing the proposal for common provisions concerning the organisation of regional operational security coordination in paragraph 1, the following requirements shall be met:",
+      "regionaloperational securitycoordination in accordance with Article 78 in order to support TSOs fulfil their obligations for theyear-ahead, day-ahead and intraday time-frames in Article 34(3) and Articles 72 and 74;",
+      "regional operational security coordination in accordance with Article 78 in order to support TSOs fulfil their obligations for the year-ahead, day-ahead and intraday time-frames in Article 34(3) and Articles 72 and 74;",
+      "1.   The proposal of all TSOs of a capacity calculation region for common provisions for regional operational security coordination pursuant to Article 76(1) shall also include common provisions concerning the organisation of regional operational security coordination, including at least:",
+      "Organisation for regional operational security coordination"
+    ],
+    "Article 78": [
+      "perform the coordinated regionaloperational securityassessment in accordance with Article 76 on the basis of the common grid models established in accordance with Article 79, thecontingency listand the operational security limits provided by each TSOs in paragraph 1. It shall deliver the results of the coordinated regional operational security assessment at least to all TSOs of the capacity calculation region. Where it detects aconstraint, it shall recommend to the relevant TSOs the most effective and economically efficient remedial actions and may also recommend remedial actions other than those provided by the TSOs. This recommendation for remedial actions shall be accompanied by explanations as to its rationale;",
+      "3.   When performing the coordinated regional operational security assessment and identifying the appropriate remedial actions, each regional security coordinator shall coordinate with other regional security coordinators.",
+      "Regional operational security coordination",
+      "4.   When a TSO receives from the relevant regional security coordinator the results of the coordinated regional operational security assessment with a proposal for a remedial action, it shall evaluate the recommended remedial action for the elements involved in that remedial action and located in its control area. In so doing, it shall apply the provisions of Article 20. The TSO shall decide whether to implement the recommended remedial action. Where it decides not to implement the recommended remedial action, it shall provide an explanation for this decision to the RSC. Where the TSO decides to implement the recommended remedial action, it shall apply this action for the elements located in its control area provided that it is compatible with real-time conditions.",
+      "perform the coordinated regional operational security assessment in accordance with Article 76 on the basis of the common grid models established in accordance with Article 79, the contingency list and the operational security limits provided by each TSOs in paragraph 1. It shall deliver the results of the coordinated regional operational security assessment at least to all TSOs of the capacity calculation region. Where it detects a constraint, it shall recommend to the relevant TSOs the most effective and economically efficient remedial actions and may also recommend remedial actions other than those provided by the TSOs. This recommendation for remedial actions shall be accompanied by explanations as to its rationale;",
+      "1.   Each TSO shall provide the regional security coordinator with all the information and data required to perform the coordinated regional operational security assessment, including at least:",
+      "the operational security limits established in accordance with Article 25."
+    ],
+    "Article 80": [
+      "4.   Each regional security coordinator shall perform regionaloperational securityanalyses on the basis of the information provided by the relevant TSOs in order to detect anyoutage planning incompatibility. It shall provide all TSOs of theoutage coordination region with a list of detected outage planning incompatibilities and the solutions it proposes to solve those outage planning incompatibilities.",
+      "4.   Each regional security coordinator shall perform regional operational security analyses on the basis of the information provided by the relevant TSOs in order to detect any outage planning incompatibility. It shall provide all TSOs of the outage coordination region with a list of detected outage planning incompatibilities and the solutions it proposes to solve those outage planning incompatibilities."
+    ],
+    "Article 81": [
+      "3.   Each regional security coordinator shall performadequacyassessments on the basis of the information provided by the relevant TSOs with the aim of detecting situations where a lack of adequacy is expected in any of the control areas or at regional level, taking into account possible cross-border exchanges andoperational security limits. It shall deliver the results together with the actions it proposes to reduce risks to the TSOs of the capacity calculation region. Those actions shall include proposals for remedial actions that allow the increase of cross-border exchanges.",
+      "the operational security limits.",
+      "3.   Each regional security coordinator shall perform adequacy assessments on the basis of the information provided by the relevant TSOs with the aim of detecting situations where a lack of adequacy is expected in any of the control areas or at regional level, taking into account possible cross-border exchanges and operational security limits. It shall deliver the results together with the actions it proposes to reduce risks to the TSOs of the capacity calculation region. Those actions shall include proposals for remedial actions that allow the increase of cross-border exchanges."
+    ],
+    "Article 82": [
+      "Each TSO shall, with the support of the regional security coordinator for the instances specified in this Regulation, perform outage coordination in accordance with the principles of this Title in order to monitor the availability status of the relevant assets and coordinate the availability plans to ensure the operational security of the transmission system.",
+      "Each TSO shall, with the support of the regional security coordinator for the instances specified in this Regulation, perform outage coordination in accordance with the principles of this Title in order to monitor theavailability statusof therelevant assets and coordinate theavailability plans to ensure theoperational security of the transmission system."
+    ],
+    "Article 92": [
+      "the time required to restore a relevant asset back to service where necessary in order to maintain operational security.",
+      "the time required to restore arelevant assetback to service where necessary in order to maintainoperational security."
+    ],
+    "Article 96": [
+      "5.   Where the \u2018unavailable\u2019 status of arelevant grid elementhas not been planned after taking the measures in paragraph 4 and the absence of such planning would threatenoperational security, the TSO shall:",
+      "minimize the impact on the market while preserving operational security; and",
+      "take the necessary actions to plan the \u2018unavailable\u2019 status while ensuring operational security, taking into account the impact reported to the TSO by affected outage planning agents;",
+      "take the necessary actions to plan the \u2018unavailable\u2019 status while ensuringoperational security, taking into account the impact reported to the TSO by affectedoutage planning agents;",
+      "5.   Where the \u2018unavailable\u2019 status of a relevant grid element has not been planned after taking the measures in paragraph 4 and the absence of such planning would threaten operational security, the TSO shall:"
+    ],
+    "Article 102": [
+      "1.   Each TSO shall develop a procedure to address the case where aforced outagewould endanger itsoperational security. The procedure shall allow the TSO to ensure that the \u2018available\u2019 or \u2018unavailable\u2019 status of otherrelevant assets in its control area can be changed to \u2018unavailable\u2019 or \u2018available\u2019 respectively.",
+      "6.   When the TSO detects that one or several forced outages referred to in paragraph 1 could lead the transmission system out of the normal state, it shall inform the affected outage planning agent(s) about the deadline at which operational security can no longer be maintained unless their relevant asset(s) in forced outage returns to \u2018available\u2019 status. The outage planning agents shall inform the TSO whether they are capable of respecting that deadline and shall provide reasoned justifications where they are unable to respect that deadline.",
+      "6.   When the TSO detects that one or severalforced outages referred to in paragraph 1 could lead the transmission system out of thenormal state, it shall inform the affectedoutage planning agent(s) about the deadline at whichoperational securitycan no longer be maintained unless theirrelevant asset(s) in forced outage returns to \u2018available\u2019 status. The outage planning agents shall inform the TSO whether they are capable of respecting that deadline and shall provide reasoned justifications where they are unable to respect that deadline.",
+      "1.   Each TSO shall develop a procedure to address the case where a forced outage would endanger its operational security. The procedure shall allow the TSO to ensure that the \u2018available\u2019 or \u2018unavailable\u2019 status of other relevant assets in its control area can be changed to \u2018unavailable\u2019 or \u2018available\u2019 respectively."
+    ],
+    "Article 103": [
+      "1.   Each power generating facility owner shall ensure that all relevant power generating modules it owns and which are declared \u2018available\u2019 are ready to produce electricity pursuant to their declared technical capabilities when necessary to maintain operational security, except in case of forced outages.",
+      "4.   Eachrelevant grid elementowner shall ensure that all relevant grid elements it owns and which are declared \u2018available\u2019 are ready to transport electricity pursuant to their declared technical capabilities when necessary to maintainoperational security, except in case offorced outages.",
+      "1.   Each power generating facility owner shall ensure that allrelevant power generating modules it owns and which are declared \u2018available\u2019 are ready to produce electricity pursuant to their declared technical capabilities when necessary to maintainoperational security, except in case offorced outages.",
+      "4.   Each relevant grid element owner shall ensure that all relevant grid elements it owns and which are declared \u2018available\u2019 are ready to transport electricity pursuant to their declared technical capabilities when necessary to maintain operational security, except in case of forced outages."
+    ],
+    "Article 108": [
+      "3.   Each TSO shall publish the levels ofreserve capacitynecessary to maintainoperational security.",
+      "3.   Each TSO shall publish the levels of reserve capacity necessary to maintain operational security.",
+      "monitor, on the basis of data provided pursuant to Title 2 of Part II, whether the level and location of available ancillary services allows ensuring operational security; and"
+    ],
+    "Article 109": [
+      "1.   For each operational planning time-frame, each TSO shall assess, against their forecasts, whether its available reactive power ancillary services are sufficient to maintain the operational security of the transmission system.",
+      "3.   Where the level of reactive power ancillary services is not sufficient for maintaining operational security, each TSO shall:"
+    ],
+    "Article 131": [
+      "avoid that the stability of the RRP or the operational security is affected.",
+      "avoid that the stability of the FRP or the operational security is affected.",
+      "avoid that the stability of theFRPor theoperational security is affected.",
+      "avoid that the stability of theFCPor theoperational security is affected.",
+      "avoid that the stability of the FCP or the operational security is affected."
+    ],
+    "Article 146": [
+      "8.   The imbalance netting process shall include a fallback mechanism which shall ensure that the imbalance netting power interchange of each LFC area is zero or limited to a value for which operational security can be guaranteed.",
+      "8.   Theimbalance netting processshall include a fallback mechanism which shall ensure that theimbalance netting power interchangeof eachLFC areais zero or limited to a value for whichoperational security can be guaranteed.",
+      "operational security."
+    ],
+    "Article 147": [
+      "7.   The cross-border FRR activation process shall include a fallback mechanism which shall ensure that the frequency restoration power interchange of each LFC area is zero or limited to a value for which operational security can be guaranteed.",
+      "operational security."
+    ],
+    "Article 148": [
+      "7.   The cross-border RR activation process shall include a fall-back mechanism which shall ensure that the control program of each LFC area is zero or limited to a value for which operational security can be guaranteed.",
+      "the operational security."
+    ],
+    "Article 149": [
+      "the implementation of operational procedures to ensure the operational security.",
+      "the calculation of the power interchange with respect to the operational security limits; and"
+    ],
+    "Article 154": [
+      "2.   All TSOs of a synchronous area shall have the right to specify, in the synchronous area operational agreement, common additional properties of the FCR required to ensure operational security in the synchronous area, by means of a set of technical parameters and within the ranges in Article 15(2)(d) of Regulation (EU) 2016/631 and Articles 27 and 28 of Regulation (EU) 2016/1388. Those common additional properties of FCR shall take into account the installed capacity, structure and pattern of consumption and generation of the synchronous area. The TSOs shall apply a transitional period for the introduction of additional properties, defined in consultation with the affected FCR providers.",
+      "4.   Thereserve connecting TSOshall have the right to excludeFCRproviding groups from the provision of FCR in order to ensureoperational security. This exclusion shall be based on technical reasons such as the geographical distribution of the power generating modules or demand units belonging to an FCR providing group.",
+      "3.   The reserve connecting TSO shall have the right to set out additional requirements for FCR providing groups within the ranges in Article 15(2)(d) of Regulation (EU) 2016/631 and Articles 27 and 28 of Regulation (EU) 2016/1388 in order to ensure operational security. Those additional requirements shall be based on technical reasons such as the geographical distribution of the power generating modules or demand units belonging to an FCR providing group. The FCR provider shall ensure that the monitoring of the FCR activation of the FCR providing units within a reserve providing group is possible.",
+      "4.   The reserve connecting TSO shall have the right to exclude FCR providing groups from the provision of FCR in order to ensure operational security. This exclusion shall be based on technical reasons such as the geographical distribution of the power generating modules or demand units belonging to an FCR providing group.",
+      "2.   All TSOs of a synchronous area shall have the right to specify, in the synchronous area operational agreement, common additional properties of theFCRrequired to ensureoperational security in the synchronous area, by means of a set of technical parameters and within the ranges in Article 15(2)(d) of Regulation (EU) 2016/631 and Articles 27 and 28 of Regulation (EU) 2016/1388. Those common additional properties of FCR shall take into account the installed capacity, structure and pattern of consumption and generation of the synchronous area. The TSOs shall apply a transitional period for the introduction of additional properties, defined in consultation with the affected FCR providers.",
+      "3.   Thereserve connecting TSOshall have the right to set out additional requirements forFCRproviding groups within the ranges in Article 15(2)(d) of Regulation (EU) 2016/631 and Articles 27 and 28 of Regulation (EU) 2016/1388 in order to ensureoperational security. Those additional requirements shall be based on technical reasons such as the geographical distribution of the power generating modules or demand units belonging to an FCR providing group. The FCR provider shall ensure that the monitoring of the FCR activation of the FCR providing units within areserve providing group is possible."
+    ],
+    "Article 156": [
+      "6.   Each TSO shall ensure, or shall require its FCR providers to ensure that the loss of a FCR providing unit does not endanger the operational security by:",
+      "6.   Each TSO shall ensure, or shall require itsFCRproviders to ensure that the loss of a FCR providing unit does not endanger theoperational security by:"
+    ],
+    "Article 157": [
+      "all TSOs of a LFC block shall determine the reserve capacity on FRR of a LFC block, any possible geographical limitations for its distribution within the LFC block and any possible geographical limitations for any exchange of reserves or sharing of reserves with other LFC blocks to comply with the operational security limits;",
+      "all TSOs of aLFC blockin the CE and Nordic synchronous areas shall determine thereserve capacityonFRRof the LFC block sufficient to respect the currentFRCE target parametersin Article 128 for the time period referred to in point (a) based at least on a probabilistic methodology. In using that probabilistic methodology, the TSOs shall take into account the restrictions defined in the agreements for the sharing orexchange of reservesdue to possible violations ofoperational securityand theFRR availability requirements. All TSOs of a LFC block shall take into account any expected significant changes to the distribution ofLFC block imbalances or take into account other relevant influencing factors relative to the time period considered;",
+      "all TSOs of a LFC block in the CE and Nordic synchronous areas shall determine the reserve capacity on FRR of the LFC block sufficient to respect the current FRCE target parameters in Article 128 for the time period referred to in point (a) based at least on a probabilistic methodology. In using that probabilistic methodology, the TSOs shall take into account the restrictions defined in the agreements for the sharing or exchange of reserves due to possible violations of operational security and the FRR availability requirements. All TSOs of a LFC block shall take into account any expected significant changes to the distribution of LFC block imbalances or take into account other relevant influencing factors relative to the time period considered;",
+      "all TSOs of aLFC blockshall determine thereserve capacityonFRRof a LFC block, any possible geographical limitations for its distribution within the LFC block and any possible geographical limitations for anyexchange of reservesorsharing of reserveswith other LFC blocks to comply with theoperational security limits;"
+    ],
+    "Article 159": [
+      "7.   To ensure operational security, the reserve connecting TSO shall have the right to exclude FRR providing groups from the provision of FRR based on technical arguments such as the geographical distribution of the power generating modules or demand units belonging to a FRR providing group.",
+      "7.   To ensureoperational security, thereserve connecting TSOshall have the right to excludeFRR providing groups from the provision of FRR based on technical arguments such as the geographical distribution of the power generating modules or demand units belonging to a FRR providing group."
+    ],
+    "Article 160": [
+      "ensure that operational security is not endangered; and",
+      "compliance with theoperational securitywithin aLFC blockto determine thereserve capacityonRR.",
+      "compliance with the operational security within a LFC block to determine the reserve capacity on RR."
+    ],
+    "Article 162": [
+      "6.   To ensureoperational security, thereserve connecting TSOshall have the right to reject the provision ofRR by RR providing groups, based on technical arguments such as the geographical distribution of the power generating modules or demand units establishing a RR providing group.",
+      "6.   To ensure operational security, the reserve connecting TSO shall have the right to reject the provision of RR by RR providing groups, based on technical arguments such as the geographical distribution of the power generating modules or demand units establishing a RR providing group."
+    ],
+    "Article 163": [
+      "4.   Anyreserve connecting TSO,reserve receiving TSOoraffected TSOinvolved in the exchange ofFCRmay refuse the exchange of FCR where it would result in power flows that violate theoperational securitylimits when activating thereserve capacity on FCR subject to the exchange of FCR.",
+      "4.   Any reserve connecting TSO, reserve receiving TSO or affected TSO involved in the exchange of FCR may refuse the exchange of FCR where it would result in power flows that violate the operational security limits when activating the reserve capacity on FCR subject to the exchange of FCR."
+    ],
+    "Article 165": [
+      "procedures to ensure that the exchange of FRR/RR does not lead to power flows which violate the operational security limits.",
+      "procedures to ensure that the exchange ofFRR/RR does not lead to power flows which violate theoperational security limits.",
+      "4.   Anyreserve connecting TSO,reserve receiving TSOoraffected TSOinvolved in the exchange ofFRRor RR may refuse the exchange referred to in paragraph 2 where it would result in power flows that violate theoperational securitylimits when activating thereserve capacity on FRR and RR subject to the exchange of FRR or RR.",
+      "4.   Any reserve connecting TSO, reserve receiving TSO or affected TSO involved in the exchange of FRR or RR may refuse the exchange referred to in paragraph 2 where it would result in power flows that violate the operational security limits when activating the reserve capacity on FRR and RR subject to the exchange of FRR or RR."
+    ],
+    "Article 166": [
+      "restrictions to provide frequency restoration or adjust thecontrol programrelated tooperational security; and",
+      "4.   Anycontrol capability providing TSO,control capability receiving TSOoraffected TSOinvolved in the sharing ofFRR/RR may refuse sharing of FRR/RR where it would result in power flows that violate theoperational securitylimits when activating thereserve capacity on FRR and RR subject to the sharing of FRR/RR.",
+      "procedures to ensure that the activation of thereserve capacityonFRRand RR subject to the sharing of FRR/RR does not lead to power flows that violate theoperational security limits.",
+      "restrictions to provide frequency restoration or adjust the control program related to operational security; and",
+      "procedures to ensure that the activation of the reserve capacity on FRR and RR subject to the sharing of FRR/RR does not lead to power flows that violate the operational security limits.",
+      "4.   Any control capability providing TSO, control capability receiving TSO or affected TSO involved in the sharing of FRR/RR may refuse sharing of FRR/RR where it would result in power flows that violate the operational security limits when activating the reserve capacity on FRR and RR subject to the sharing of FRR/RR."
+    ],
+    "Article 171": [
+      "procedures to ensure that theexchange of reservesdoes not lead to power flows that violate theoperational security limits.",
+      "7.   Anyreserve connecting TSO,reserve receiving TSO,control capability providing TSO,control capability receiving TSOoraffected TSOinvolved in the exchange orsharing of reservesmay refuse the exchange or sharing of reserve where it would result in power flows that violate theoperational securitylimits when activating thereserve capacity subject to the exchange or sharing of reserve.",
+      "the procedures to ensure that thesharing of reservesdoes not lead to power flows that violate theoperational security limits.",
+      "procedures to ensure that the exchange of reserves does not lead to power flows that violate the operational security limits.",
+      "the procedures to ensure that the sharing of reserves does not lead to power flows that violate the operational security limits.",
+      "7.   Any reserve connecting TSO, reserve receiving TSO, control capability providing TSO, control capability receiving TSO or affected TSO involved in the exchange or sharing of reserves may refuse the exchange or sharing of reserve where it would result in power flows that violate the operational security limits when activating the reserve capacity subject to the exchange or sharing of reserve."
+    ],
+    "Article 172": [
+      "the operational security."
+    ],
+    "Article 176": [
+      "the operational security."
+    ],
+    "Article 177": [
+      "the operational security."
+    ],
+    "Article 178": [
+      "the operational security."
+    ],
+    "Article 179": [
+      "the operational security."
+    ],
+    "Not Article": [
+      "To ensure the operational security of the interconnected transmission system, it is essential to define a common set of minimum requirements for Union-wide system operation, for the cross-border cooperation between the TSOs and for utilising the relevant characteristics of the connected DSOs and SGUs.",
+      "In view that planned outages impact grid stability also outside of a TSO's control area, each TSO should, within the scope of operational planning, monitor the feasibility of planned outages for each time-frame and where necessary, coordinate outages with and between TSOs, DSOs and SGUs when those outages have an impact on cross-border flows affecting the operational security of the transmission systems.",
+      "One of the most critical processes in ensuring operational security with a high level of reliability and quality is the load-frequency control (\u2018LFC\u2019). Effective LFC can be made possible only if there is an obligation for the TSOs and the reserve connecting DSOs to cooperate for the operation of the interconnected transmission systems as one entity and for providers' power generating modules and providers' demand facilities to meet the relevant minimum technical requirements.",
+      "The operational and scheduling processes required to anticipate real-time operational security difficulties and develop relevant remedial measures involve timely and adequate data exchange. Therefore, such exchange should not be hampered by any barriers between the different actors involved.",
+      "One of the most critical processes in ensuringoperational securitywith a high level of reliability and quality is the load-frequency control (\u2018LFC\u2019). Effective LFC can be made possible only if there is an obligation for the TSOs and thereserve connecting DSOs to cooperate for the operation of the interconnected transmission systems as one entity and for providers' power generating modules and providers' demand facilities to meet the relevant minimum technical requirements.",
+      "All TSOs should comply with the common minimum requirements on procedures necessary to prepare real-time operation, to develop individual and deliver common grid models, to facilitate the efficient and coordinated use of remedial actions which are necessary for real-time operation in order to maintain the operational security, quality and stability of the interconnected transmission system, and to support the efficient functioning of the European internal electricity market and facilitate the integration of renewable energy sources (\u2018RES\u2019).",
+      "This Regulation should set out a framework for the mandated cooperation of TSOs via the appointment of RSCs. RSCs should issue recommendations to the TSOs of the capacity calculation region for which it is appointed. TSOs should, individually, decide whether to follow or not the recommendations of the RSC. The TSO should remain responsible for maintaining operational security of its control area."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 3": {
+      "article_score": 29,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 4": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 6": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 14": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 17": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 18": {
+      "article_score": 9,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 19": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 20": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 21": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 22": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 23": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 25": {
+      "article_score": 7,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 27": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 29": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 32": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 33": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 34": {
+      "article_score": 6,
+      "statement_scores": [
+        2,
+        1,
+        2,
+        1
+      ]
+    },
+    "Article 35": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 36": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 37": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 39": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 41": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 42": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 54": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 55": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 56": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 65": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 68": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 70": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 72": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        2,
+        2
+      ]
+    },
+    "Article 73": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 74": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 76": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 77": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        2,
+        1
+      ]
+    },
+    "Article 78": {
+      "article_score": 11,
+      "statement_scores": [
+        3,
+        1,
+        1,
+        1,
+        3,
+        1,
+        1
+      ]
+    },
+    "Article 80": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 81": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 82": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 92": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 96": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 102": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 103": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 108": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 109": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 131": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 146": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 147": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 148": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 149": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 154": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 156": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 157": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 159": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 160": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 162": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 163": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 165": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 166": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 171": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 172": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 176": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 177": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 178": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 179": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 7,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

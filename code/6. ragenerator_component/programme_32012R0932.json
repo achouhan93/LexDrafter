@@ -1,0 +1,59 @@
+{
+  "term": "programme",
+  "celex_id": "32012R0932",
+  "original_definition": "'programme' means a series of operations that are predefined and which are declared by the manufacturer as suitable for drying certain types of textile;",
+  "generated_definition": "'programme' means a programme is a set of instructions that tell a computer what to do. it can be a single task or a series of tasks, and can be written in a variety of programming languages. programmes are used to automate repetitive tasks, solve problems, and create new applications.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018rated capacity\u2019 means the maximum mass in kilograms, indicated by the manufacturer in 0,5 kilogram increments of dry textiles of a particular type, which can be treated in ahousehold tumble drierwith the selectedprogramme, when loaded in accordance with the manufacturer\u2019s instructions;",
+      "\u2018cycle\u2019 means a complete drying process, as defined for the selectedprogramme;",
+      "\u2018left-on mode\u2019 means the lowest power consumption mode that may persist for an indefinite time after completion of theprogrammewithout any further intervention by the end-user besides unloading of thehousehold tumble drier;",
+      "\u2018cycle\u2019 means a complete drying process, as defined for the selected programme;",
+      "\u2018left-on mode\u2019 means the lowest power consumption mode that may persist for an indefinite time after completion of the programme without any further intervention by the end-user besides unloading of the household tumble drier;",
+      "\u2018partial load\u2019 means half of therated capacityof ahousehold tumble drierfor a givenprogramme;",
+      "\u2018programme\u2019 means a series of operations that are predefined and which are declared by the manufacturer as suitable for drying certain types of textile;",
+      "\u2018rated capacity\u2019 means the maximum mass in kilograms, indicated by the manufacturer in 0,5 kilogram increments of dry textiles of a particular type, which can be treated in a household tumble drier with the selected programme, when loaded in accordance with the manufacturer\u2019s instructions;",
+      "\u2018partial load\u2019 means half of the rated capacity of a household tumble drier for a given programme;"
+    ],
+    "Article 8": [
+      "When thehousehold tumble drieris equipped with a power management system, with the household tumble drier reverting automatically to \u2018off-mode\u2019 after the end of theprogramme, the weighted annual energy consumption (AEC\n) is calculated taking into consideration the effective duration of the \u2018left-on mode\u2019, according to the following formula:",
+      "When the household tumble drier is equipped with a power management system, with the household tumble drier reverting automatically to \u2018off-mode\u2019 after the end of the programme, the weighted annual energy consumption (AEC\n) is calculated taking into consideration the effective duration of the \u2018left-on mode\u2019, according to the following formula:",
+      "The weighted condensation efficiency (Ct\n) of a programme is calculated as a percentage and rounded to the nearest whole percent as:",
+      "n is the number of test runs, comprising at least four valid test runs for the selected programme,",
+      "Thecondensation efficiencyof aprogrammeis the ratio between the mass of moisture condensed and collected in the container of a condenserhousehold tumble drierand the mass of moisture removed from the load by the programme, the latter being the difference between the mass of the wet test load before drying and the mass of the test load after drying. For calculating the weighted condensation efficiency, the average condensation efficiency of thestandard cotton programmeat both full andpartial load is considered.",
+      "The weightedcondensation efficiency(Ct\n) of aprogramme is calculated as a percentage and rounded to the nearest whole percent as:",
+      "The condensation efficiency of a programme is the ratio between the mass of moisture condensed and collected in the container of a condenser household tumble drier and the mass of moisture removed from the load by the programme, the latter being the difference between the mass of the wet test load before drying and the mass of the test load after drying. For calculating the weighted condensation efficiency, the average condensation efficiency of the standard cotton programme at both full and partial load is considered."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 4,
+      "statement_scores": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 8": {
+      "article_score": 7,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        3
+      ]
+    }
+  }
+}

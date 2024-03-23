@@ -1,0 +1,135 @@
+{
+  "term": "neighbouring TSOs",
+  "celex_id": "32017R1485",
+  "original_definition": "'neighbouring TSOs' means the TSOs directly connected via at least one AC or DC interconnector;",
+  "generated_definition": "'neighbouring TSOs' means tsos that are geographically close to each other and operate transmission systems that are interconnected.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018neighbouring TSOs\u2019 means the TSOs directly connected via at least one AC or DC interconnector;",
+      "\u2018observability area\u2019 means a TSO's own transmission system and the relevant parts of distribution systems and neighbouring TSOs' transmission systems, on which the TSO implements real-time monitoring and modelling to maintain operational security in its control area including interconnectors;",
+      "\u2018observability area\u2019 means a TSO's own transmission system and the relevant parts of distribution systems andneighbouring TSOs' transmission systems, on which the TSO implements real-time monitoring and modelling to maintainoperational security in its control area including interconnectors;"
+    ],
+    "Article 29": [
+      "8.   Each TSO shall determine thevoltage controlactions in coordination with the transmission-connected SGUs and DSOs and withneighbouring TSOs.",
+      "8.   Each TSO shall determine the voltage control actions in coordination with the transmission-connected SGUs and DSOs and with neighbouring TSOs."
+    ],
+    "Article 31": [
+      "1.   Each TSO shall perform short-circuit current calculations in order to evaluate the impact of neighbouring TSOs and transmission-connected SGUs and transmission-connected distribution systems including closed distribution systems on the short-circuit current levels in transmission system. Where a transmission-connected distribution system including closed distribution system has an impact on short-circuit current levels, it shall be included in the transmission system short-circuit current calculations."
+    ],
+    "Article 36": [
+      "5.   Before protection and backup protection equipment entry into service or following any modifications, each TSO shall agree with the neighbouring TSOs on the definition of protection setpoints for the interconnectors and shall coordinate with those TSOs before changing the settings."
+    ],
+    "Article 37": [
+      "coordinate special protection scheme functions, activation principles and setpoints with neighbouring TSOs and affected transmission-connected DSOs, including closed distribution systems and affected transmission-connected SGUs."
+    ],
+    "Article 40": [
+      "obligations for TSOs to communicate without delay to all neighbouring TSOs any changes in the protection settings, thermal limits and technical capacities at the interconnectors between their control areas;"
+    ],
+    "Article 41": [
+      "2.   To coordinate the protection of their transmission systems, neighbouring TSOs shall exchange the protection setpoints of the lines for which the contingencies are included as external contingencies in their contingency lists.",
+      "2.   To coordinate the protection of their transmission systems,neighbouring TSOsshall exchange the protection setpoints of the lines for which the contingencies are included as external contingencies in theircontingency lists."
+    ],
+    "Article 58": [
+      "3.   TSO employees in charge of real-time operation of transmission system shall, as a part of its initial training, undergo training on interoperability issues between transmission systems based upon operational experiences and feedback from the joint training carried out with neighbouring TSOs in accordance with Article 63. That training on interoperability issues shall include preparation and activation of coordinated remedial actions required in all system states.",
+      "3.   TSO employees in charge of real-time operation of transmission system shall, as a part of its initial training, undergo training on interoperability issues between transmission systems based upon operational experiences and feedback from the joint training carried out withneighbouring TSOsin accordance with Article 63. That training on interoperability issues shall include preparation and activation of coordinated remedial actions required in allsystem states."
+    ],
+    "Article 62": [
+      "2.   Each TSO shall train its relevant system operator employees to achieve sufficient skills in the common contact languages agreed with the neighbouring TSOs."
+    ],
+    "Article 63": [
+      "1.   Each TSO shall organise regular training sessions with itsneighbouring TSOsto improve the knowledge of the characteristics of neighbouring transmission systems as well as the communication and coordination between employees of neighbouring TSOs in charge of real-time operation. The inter-TSO training shall include detailed knowledge of coordinated actions required under eachsystem state.",
+      "4.   Each TSO shall exchange experiences from real-time operation, including visits and the exchange of experiences between system operator employees in charge of real-time operation, with their neighbouring TSOs, with any TSO with which there is or has been inter-TSO operational interaction and with the relevant regional security coordinators.",
+      "1.   Each TSO shall organise regular training sessions with its neighbouring TSOs to improve the knowledge of the characteristics of neighbouring transmission systems as well as the communication and coordination between employees of neighbouring TSOs in charge of real-time operation. The inter-TSO training shall include detailed knowledge of coordinated actions required under each system state."
+    ],
+    "Article 66": [
+      "agree with the neighbouring TSOs upon the estimated power flow on HVDC systems linking their control areas;"
+    ],
+    "Article 109": [
+      "inform neighbouring TSOs; and"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 29": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 31": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 36": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 37": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 40": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 41": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 58": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 62": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 63": {
+      "article_score": 5,
+      "statement_scores": [
+        2,
+        1,
+        2
+      ]
+    },
+    "Article 66": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 109": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

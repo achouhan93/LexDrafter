@@ -1,0 +1,22 @@
+{
+  "term": "Information or status display",
+  "celex_id": "32009R0107",
+  "original_definition": "'Information or status display' means a continuous function providing information or indicating the status of the equipment in a display, including clocks.",
+  "generated_definition": "'Information or status display' means a display of information or status, typically on a screen or other electronic device, providing data or feedback on a specific subject or process.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Information or status display\u2019 means a continuous function providing information or indicating the status of the equipment in a display, including clocks."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

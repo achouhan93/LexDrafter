@@ -1,0 +1,48 @@
+{
+  "term": "interconnected system",
+  "celex_id": "32009L0073",
+  "original_definition": "'interconnected system' means a number of systems which are linked with each other;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018interconnected system\u2019 means a number of systems which are linked with each other;"
+    ],
+    "Article\u00a025": [
+      "3.   Eachdistribution system operatorshall provide any other distribution,transmission, LNG, and/orstorage system operatorwith sufficient information to ensure that the transport and storage of natural gas takes place in a manner compatible with the secure and efficient operation of theinterconnected system.",
+      "3.   Each distribution system operator shall provide any other distribution, transmission, LNG, and/or storage system operator with sufficient information to ensure that the transport and storage of natural gas takes place in a manner compatible with the secure and efficient operation of the interconnected system."
+    ],
+    "Article\u00a033": [
+      "3.   In the case of negotiated access, Member States or, where Member States have so provided, the regulatory authorities shall take the necessary measures for natural gas undertakings and eligible customers either inside or outside the territory covered by the interconnected system to be able to negotiate access to storage facilities and linepack, when technically and/or economically necessary for providing efficient access to the system, as well as for the organisation of access to other ancillary services. The parties shall be obliged to negotiate access to storage, linepack and other ancillary services in good faith.",
+      "4.   In the case of regulated access, the regulatory authorities where Member States have so provided or Member States shall take the necessary measures to give natural gas undertakings and eligible customers either inside or outside the territory covered by the interconnected system a right to access to storage, linepack and other ancillary services, on the basis of published tariffs and/or other terms and obligations for use of that storage and linepack, when technically and/or economically necessary for providing efficient access to the system, as well as for the organisation of access to other ancillary services. The regulatory authorities where Member States have so provided or Member States shall consult system users when developing those tariffs or the methodologies for those tariffs. The right of access for eligible customers may be given by enabling them to enter into supply contracts with competing natural gas undertakings other than the owner and/or operator of the system or a related undertaking.",
+      "3.   In the case of negotiated access, Member States or, where Member States have so provided, the regulatory authorities shall take the necessary measures fornatural gas undertakings andeligible customers either inside or outside the territory covered by theinterconnected systemto be able to negotiate access to storage facilities andlinepack, when technically and/or economically necessary for providing efficient access to the system, as well as for the organisation of access to otherancillary services. The parties shall be obliged to negotiate access to storage, linepack and other ancillary services in good faith.",
+      "4.   In the case of regulated access, the regulatory authorities where Member States have so provided or Member States shall take the necessary measures to givenatural gas undertakings andeligible customers either inside or outside the territory covered by theinterconnected systema right to access to storage,linepackand otherancillary services, on the basis of published tariffs and/or other terms and obligations for use of that storage and linepack, when technically and/or economically necessary for providing efficient access to the system, as well as for the organisation of access to other ancillary services. The regulatory authorities where Member States have so provided or Member States shall consultsystem users when developing those tariffs or the methodologies for those tariffs. The right of access for eligible customers may be given by enabling them to enter intosupplycontracts with competing natural gas undertakings other than the owner and/or operator of the system or arelated undertaking."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article\u00a025": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article\u00a033": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

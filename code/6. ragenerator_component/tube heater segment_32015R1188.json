@@ -1,0 +1,24 @@
+{
+  "term": "tube heater segment",
+  "celex_id": "32015R1188",
+  "original_definition": "'tube heater segment' means a part of a tube heater system that comprises all the elements needed for standalone operation and as such can be tested independently of the other tube heating system parts;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018tube heater segment\u2019 means a part of a tube heater system that comprises all the elements needed for standalone operation and as such can be tested independently of the other tube heating system parts;",
+      "\u2018tube heater segment\u2019 means a part of atube heater system that comprises all the elements needed for standalone operation and as such can be tested independently of the other tube heating system parts;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

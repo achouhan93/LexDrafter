@@ -1,0 +1,31 @@
+{
+  "term": "Load loss",
+  "celex_id": "32014R0548",
+  "original_definition": "'Load loss' means the absorbed active power at rated frequency and reference temperature associated with a pair of windings when the rated current (tapping current) is flowing through the line terminal(s) of one of the windings and the terminals of the other windings are in short-circuit with any winding fitted with tappings connected to its principal tapping, while further windings, if existing, are open-circuited.",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Load loss\u2019 (Pk) means the absorbed active power at rated frequency and reference temperature associated with a pair of windings when the rated current (tapping current) is flowing through the line terminal(s) of one of the windings and the terminals of the other windings are in short-circuit with any winding fitted with tappings connected to its principal tapping, while further windings, if existing, are open-circuited."
+    ],
+    "Article 8": [
+      "Load losses"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

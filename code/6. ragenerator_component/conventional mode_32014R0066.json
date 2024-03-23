@@ -1,0 +1,43 @@
+{
+  "term": "conventional mode",
+  "celex_id": "32014R0066",
+  "original_definition": "'conventional mode' means the operation mode of an oven only using natural convection for circulation of heated air inside the cavity of the oven;",
+  "generated_definition": "'conventional mode' means a mode of operation for domestic ovens where the heating is performed without the use of a fan.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018conventional mode\u2019 means theoperation modeof anovenonly using natural convection for circulation of heated air inside thecavity of the oven;",
+      "\u2018conventional mode\u2019 means the operation mode of an oven only using natural convection for circulation of heated air inside the cavity of the oven;"
+    ],
+    "Article 8": [
+      "Energy consumption required to heat a standardised load in a gas-firedcavityof anovenduring acycleinconventional mode per cavity (gas final energy)",
+      "The energy consumption of acavityof a domesticovenshall be measured for one standardisedcycle, in aconventional modeand in afan-forced mode, if available, by heating a standardised load soaked with water. It shall be verified that the temperature inside the oven cavity reaches the temperature setting of the thermostat and/or the oven control display within the duration of the test cycle. The energy consumption per cycle corresponding to the best performing mode (conventional mode or fan-forced mode) shall be used in the following calculations.",
+      "Energy consumption (electricity) required to heat a standardised load in a cavity of an electric heated oven during a cycle in conventional mode per cavity (electric final energy)",
+      "The energy consumption of a cavity of a domestic oven shall be measured for one standardised cycle, in a conventional mode and in a fan-forced mode, if available, by heating a standardised load soaked with water. It shall be verified that the temperature inside the oven cavity reaches the temperature setting of the thermostat and/or the oven control display within the duration of the test cycle. The energy consumption per cycle corresponding to the best performing mode (conventional mode or fan-forced mode) shall be used in the following calculations.",
+      "Energy consumption (electricity) required to heat a standardised load in acavityof an electric heatedovenduring acycleinconventional mode per cavity (electric final energy)",
+      "Energy consumption required to heat a standardised load in a gas-fired cavity of an oven during a cycle in conventional mode per cavity (gas final energy)"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        2,
+        1,
+        2,
+        1,
+        1
+      ]
+    }
+  }
+}

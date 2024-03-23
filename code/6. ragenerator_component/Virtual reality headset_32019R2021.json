@@ -1,0 +1,22 @@
+{
+  "term": "Virtual reality headset",
+  "celex_id": "32019R2021",
+  "original_definition": "'Virtual reality headset' means a head-weareable device that provides immersive virtual reality for the wearer by displaying stereoscopic images for each eye with head motion tracking functions.",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Virtual reality headset\u2019 means a head-weareable device that provides immersive virtual reality for the wearer by displaying stereoscopic images for each eye with head motion tracking functions."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "term": "equivalent model",
+  "celex_id": "32015R1188",
+  "original_definition": "'equivalent model' means a model placed on the market with the same technical parameters set out in Table 1, Table 2 or Table 3 of point 3 of Annex II as another model placed on the market by the same manufacturer.",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018equivalent model\u2019 means a model placed on the market with the same technical parameters set out in Table 1, Table 2 or Table 3 of point 3 of Annex II as another model placed on the market by the same manufacturer."
+    ],
+    "Article 4": [
+      "3.   Where the information included in the technical documentation for a model has been obtained by calculation on the basis of design, or extrapolation from other equivalent appliances, or both, the technical documentation shall include details of such calculations or extrapolations, or both, and of tests undertaken by manufacturers to verify the accuracy of the calculations undertaken. In such cases, the technical documentation shall also include a list of all other equivalent models where the information contained in the technical documentation was obtained on the same basis."
+    ],
+    "Article 9": [
+      "a list of all equivalent models, if applicable.",
+      "If the result referred to in point 2(a) or 2(b) is not achieved, the model and all equivalent models shall be considered not to comply with this Regulation. If any of the results referred to in points from 2(c) to 2(i) is not achieved, the Member State authorities shall randomly select three additional units of the same model for testing. As alternative, the three additional units selected may be of one or more equivalent models which have been listed as equivalent product in the manufacturer's technical documentation."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 4": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 9": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        2
+      ]
+    }
+  }
+}

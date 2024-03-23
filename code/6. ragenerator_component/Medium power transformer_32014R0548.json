@@ -1,0 +1,35 @@
+{
+  "term": "Medium power transformer",
+  "celex_id": "32014R0548",
+  "original_definition": "'Medium power transformer' means a power transformer with a highest voltage for equipment higher than 1,1 kV, but not exceeding 36 kV and a rated power equal to or higher than 5 kVA but lower than 40 MVA.",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Medium power transformer\u2019 means a power transformer with a highest voltage for equipment higher than 1,1 kV, but not exceeding 36 kV and a rated power equal to or higher than 5 kVA but lower than 40 MVA."
+    ],
+    "Article 8": [
+      "Medium power transformers shall comply with the maximum allowed load and no-load losses or thePeak Efficiency Index (PEI) values set out in Tables I.1 to I.5, excluding medium power pole-mounted transformers, which shall comply with the maximum allowed load and no load losses values set out in Table I.6.",
+      "Medium power transformers with amorphous steel core: Ao \u2013 50 %, Ak \u2013 50 %",
+      "Medium power transformers shall comply with the maximum allowed load and no-load losses or the Peak Efficiency Index (PEI) values set out in Tables I.1 to I.5, excluding medium power pole-mounted transformers, which shall comply with the maximum allowed load and no load losses values set out in Table I.6."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

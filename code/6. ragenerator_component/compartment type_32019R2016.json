@@ -1,0 +1,61 @@
+{
+  "term": "compartment type",
+  "celex_id": "32019R2016",
+  "original_definition": "'compartment type' means the declared compartment type in accordance with the refrigerating performance parameters Tmin, Tmax, Tc and others set out in Annex IV, Table 3;",
+  "generated_definition": "'compartment type' means a compartment intended for use as two (or more) alternative compartment types, capable of being set by a user to continuously maintain the operating temperature range applicable for each declared compartment type.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018unfrozen compartment\u2019 means a compartment type with a target temperature equal to or above 4 \u00b0C; that is a pantry, wine storage, cellar or fresh food compartment with storage conditions and target temperatures, as set out in Annex IV, Table 3;",
+      "\u2018frozen compartment\u2019 means acompartment typewith atarget temperatureequal to or below 0 \u00b0C; that is a 0-star, 1-star, 2-star, 3-star or4-star compartment, as set out in Annex IV, Table 3;",
+      "\u2018frozen compartment\u2019 means a compartment type with a target temperature equal to or below 0 \u00b0C; that is a 0-star, 1-star, 2-star, 3-star or 4-star compartment, as set out in Annex IV, Table 3;"
+    ],
+    "Article 11": [
+      "Pursuant to point 1(b) of Article 3, the supplier shall enter into the product database the information as set out in Table 6. If therefrigerating appliancecontains multiplecompartments of the same type, the lines for these compartments shall be repeated. If a certaincompartment type is not present, the compartment parameters and values shall be \u2018-\u2019.",
+      "When carrying out the calculations above, for the variable temperature compartments, the compartment type with the lowest target temperature for which it is declared suitable is chosen.",
+      "Compartment type",
+      "\u2018variable temperature compartment\u2019 means a compartment intended for use as two (or more) alternative compartment types (for example a compartment that can be either a fresh food compartment or freezer compartment) and which is capable of being set by a user to continuously maintain the operating temperature range applicable for each declared compartment type. A compartment intended for use as a single compartment type that can also meet storage conditions of other compartment types (for example a chill compartment that may also fulfil 0-star requirements) is not a variable temperature compartment;",
+      "\u2018combi appliance\u2019 means a refrigerating appliance that has more than one compartment type of which at least one unfrozen compartment;",
+      "To determine the energy consumption, the average air temperatures in eachcompartmentshall be equal to or below thetarget temperatures specified in Table 3 for eachcompartment type claimed by the supplier. Values above and below target temperatures may be used to estimate the energy consumption at the target temperature for each relevant compartment by interpolation, as appropriate.",
+      "for the measurement of energy consumption, variable temperaturecompartments shall operate at the lowest temperature that can be set by the end-user to continuously maintain the temperature range, as set out in Table 3, of thecompartment type which has the lowest temperature;",
+      "When carrying out the calculations above, for the variable temperaturecompartments, thecompartment typewith the lowesttarget temperature for which it is declared suitable is chosen.",
+      "Pursuant to point 1(b) of Article 3, the supplier shall enter into the product database the information as set out in Table 6. If the refrigerating appliance contains multiple compartments of the same type, the lines for these compartments shall be repeated. If a certain compartment type is not present, the compartment parameters and values shall be \u2018-\u2019.",
+      "the information as set out in Table 7. If therefrigerating appliancecontains multiplecompartments of the same type, the lines for these compartments shall be repeated. If a certaincompartment type is not present, the compartment parameters and values shall be \u2018-\u2019. If a parameter is not applicable, the values of that parameter shall be \u2018-\u2019.",
+      "the information as set out in Table 7. If the refrigerating appliance contains multiple compartments of the same type, the lines for these compartments shall be repeated. If a certain compartment type is not present, the compartment parameters and values shall be \u2018-\u2019. If a parameter is not applicable, the values of that parameter shall be \u2018-\u2019.",
+      "To determine the energy consumption, the average air temperatures in each compartment shall be equal to or below the target temperatures specified in Table 3 for each compartment type claimed by the supplier. Values above and below target temperatures may be used to estimate the energy consumption at the target temperature for each relevant compartment by interpolation, as appropriate.",
+      "for the measurement of energy consumption, variable temperature compartments shall operate at the lowest temperature that can be set by the end-user to continuously maintain the temperature range, as set out in Table 3, of the compartment type which has the lowest temperature;",
+      "\u2018combi appliance\u2019 means arefrigerating appliancethat has more than onecompartment typeof which at least one unfrozen compartment;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 11": {
+      "article_score": 17,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        4,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "term": "heat pump",
+  "celex_id": "32010L0031",
+  "original_definition": "'heat pump' means a machine, a device or installation that transfers heat from natural surroundings such as air, water or ground to buildings or industrial applications by reversing the natural flow of heat such that it flows from a lower to a higher temperature. For reversible heat pumps, it may also move heat from the building to the natural surroundings;",
+  "generated_definition": "'heat pump' means a device that transfers heat from a heat source to a heat sink, using a working fluid that undergoes a phase change.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018heat pump\u2019 means a machine, a device or installation that transfers heat from natural surroundings such as air, water or ground tobuildings or industrial applications by reversing the natural flow of heat such that it flows from a lower to a higher temperature. For reversible heat pumps, it may also move heat from the building to the natural surroundings;",
+      "\u2018heat pump\u2019 means a machine, a device or installation that transfers heat from natural surroundings such as air, water or ground to buildings or industrial applications by reversing the natural flow of heat such that it flows from a lower to a higher temperature. For reversible heat pumps, it may also move heat from the building to the natural surroundings;"
+    ],
+    "Article 6": [
+      "heat pumps."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 6": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

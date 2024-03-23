@@ -1,0 +1,22 @@
+{
+  "term": "portable oven",
+  "celex_id": "32014R0066",
+  "original_definition": "'portable oven' means an oven with a product mass of less than 18 kilograms, provided it is not designed for built-in installations;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018portable oven\u2019 means an oven with a product mass of less than 18 kilograms, provided it is not designed for built-in installations;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

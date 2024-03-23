@@ -1,0 +1,26 @@
+{
+  "term": "information or status display",
+  "celex_id": "32014R0065",
+  "original_definition": "'information or status display' means a continuous function providing information or indicating the status of the equipment on a display, including clocks;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018standby mode\u2019 means a condition where the appliance is connected to the mains power source, depends on energy input from the mains power source to work as intended and provides only reactivation function, or reactivation function and only an indication of enabled reactivation function, and/or information or status display which may persist for an indefinite time;",
+      "\u2018information or status display\u2019 means a continuous function providing information or indicating the status of the equipment on a display, including clocks;",
+      "\u2018standby mode\u2019 means a condition where the appliance is connected to the mains power source, depends on energy input from the mains power source to work as intended and provides onlyreactivation function, or reactivation function and only an indication of enabled reactivation function, and/orinformation or status display which may persist for an indefinite time;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        1
+      ]
+    }
+  }
+}

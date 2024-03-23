@@ -1,0 +1,46 @@
+{
+  "term": "cooker",
+  "celex_id": "32014R0066",
+  "original_definition": "'cooker' means an appliance consisting of an oven and a hob using gas or electricity;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 1": [
+      "1.   This Regulation establishes eco-design requirements for the placing on the market and putting into service of domestic ovens (including when incorporated in cookers), domestic hobs and domestic electric range hoods, including when sold for non-domestic purposes.",
+      "1.   This Regulation establishes eco-design requirements for the placing on the market and putting into service of domesticovens (including when incorporated incookers), domestichobs and domestic electricrange hoods, including when sold for non-domestic purposes."
+    ],
+    "Article 2": [
+      "\u2018cooker\u2019 means an appliance consisting of an oven and a hob using gas or electricity;",
+      "\u2018cooker\u2019 means an appliance consisting of anovenand ahob using gas or electricity;"
+    ],
+    "Article 8": [
+      "Cavities of domesticovens (including when incorporated incookers) shall comply with maximum Energy Efficiency Index limits as indicated in Table 1.",
+      "Cavities of domestic ovens (including when incorporated in cookers) shall comply with maximum Energy Efficiency Index limits as indicated in Table 1."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

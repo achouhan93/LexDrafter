@@ -1,0 +1,24 @@
+{
+  "term": "0-star compartment",
+  "celex_id": "32019R2016",
+  "original_definition": "'0-star compartment' means a frozen compartment with a target temperature and storage conditions of 0 \u00b0C, as set out in Annex IV, Table 3;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u20180-star compartment\u2019 and \u2018ice-making compartment\u2019 means afrozen compartmentwith atarget temperature and storage conditions of 0 \u00b0C, as set out in Annex IV, Table 3;",
+      "\u20180-star compartment\u2019 and \u2018ice-making compartment\u2019 means a frozen compartment with a target temperature and storage conditions of 0 \u00b0C, as set out in Annex IV, Table 3;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

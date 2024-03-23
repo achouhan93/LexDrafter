@@ -1,0 +1,26 @@
+{
+  "term": "gas derivative",
+  "celex_id": "32009L0073",
+  "original_definition": "'gas derivative' means a financial instrument specified in points 5, 6 or 7 of Section C of Annex I to Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments (14), where that instrument relates to natural gas;",
+  "generated_definition": "'gas derivative' means a financial instrument derived from natural gas, such as futures or options contracts, that is traded on a market and allows parties to hedge against price fluctuations or speculate on future gas prices.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018gas supply contract\u2019 means a contract for the supply of natural gas, but does not include a gas derivative;",
+      "\u2018gas supply contract\u2019 means a contract for the supply of natural gas, but does not include agas derivative;",
+      "\u2018gas derivative\u2019 means a financial instrument specified in points 5, 6 or 7 of Section C of Annex I to Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments (14), where that instrument relates to natural gas;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1,
+        0
+      ]
+    }
+  }
+}

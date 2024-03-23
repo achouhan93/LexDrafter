@@ -1,0 +1,142 @@
+{
+  "term": "remedial action",
+  "celex_id": "32015R1222",
+  "original_definition": "'remedial action' means any measure applied by a TSO or several TSOs, manually or automatically, in order to maintain operational security;",
+  "generated_definition": "'remedial action' means actions taken to restore or maintain system stability and security in the event of a disturbance or fault, requiring coordination among multiple tsos.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018remedial action\u2019 means any measure applied by a TSO or several TSOs, manually or automatically, inorder to maintain operational security;",
+      "\u2018remedial action\u2019 means any measure applied by a TSO or several TSOs, manually or automatically, in order to maintain operational security;"
+    ],
+    "Article 21": [
+      "the methodology for determining remedial actions to be considered in capacity calculation in accordance with Article 25.",
+      "rules on the adjustment of power flows on critical network elements or of cross-zonal capacity due to remedial actions in accordance with Article 25;"
+    ],
+    "Article 22": [
+      "4.   On the basis of the methodology adopted in accordance with paragraph 1, TSOs shall determine the reliability margin respecting the operational security limits and taking into account uncertainties between the capacity calculation time-frame and real time, and the remedial actions available after capacity calculation.",
+      "4.   On the basis of the methodology adopted in accordance with paragraph 1, TSOs shall determine thereliability marginrespecting theoperational security limitsand taking into account uncertainties between the capacity calculation time-frame and real time, and theremedial actions available after capacity calculation."
+    ],
+    "Article 25": [
+      "3.   To enableremedial actions to be taken into account in capacity calculation, all TSOs in eachcapacity calculation region shall agree on the use of remedial actions that require the action of more than one TSO.",
+      "1.   Each TSO within each capacity calculation region shall individually define the available remedial actions to be taken into account in capacity calculation to meet the objectives of this Regulation.",
+      "Methodology for remedial actions in capacity calculation",
+      "2.   Each TSO within eachcapacity calculation regionshall coordinate with the other TSOs in that region the use ofremedial actions to be taken into account in capacity calculation and their actual application in real time operation.",
+      "3.   To enable remedial actions to be taken into account in capacity calculation, all TSOs in each capacity calculation region shall agree on the use of remedial actions that require the action of more than one TSO.",
+      "2.   Each TSO within each capacity calculation region shall coordinate with the other TSOs in that region the use of remedial actions to be taken into account in capacity calculation and their actual application in real time operation.",
+      "4.   Each TSO shall ensure thatremedial actions are taken into account in capacity calculation under the condition that the available remedial actions remaining after calculation, taken together with thereliability margin referred to in Article 22, are sufficient to ensure operational security.",
+      "6.   Each TSO shall ensure that the remedial actions to be taken into account in capacity calculation are the same for all capacity calculation time-frames, taking into account their technical availabilities for each capacity calculation time-frame.",
+      "4.   Each TSO shall ensure that remedial actions are taken into account in capacity calculation under the condition that the available remedial actions remaining after calculation, taken together with the reliability margin referred to in Article 22, are sufficient to ensure operational security.",
+      "1.   Each TSO within eachcapacity calculation regionshall individually define the availableremedial actions to be taken into account in capacity calculation to meet the objectives of this Regulation.",
+      "5.   Each TSO shall take into account remedial actions without costs in capacity calculation."
+    ],
+    "Article 27": [
+      "the remedial actions taken into account in capacity calculation;"
+    ],
+    "Article 29": [
+      "4.   Each coordinated capacity calculator shall optimise cross-zonal capacity using available remedial actions taken into account in capacity calculation in accordance with Article 21(1)(a)(iv).",
+      "1.   For each capacity calculation time-frame, each TSO shall provide the coordinated capacity calculators and all other TSOs in the capacity calculation region with the following items: operational security limits, generation shift keys, remedial actions, reliability margins, allocation constraints and previously allocated cross-zonal capacity.",
+      "adjust the available margins on critical network elements or power transfer distribution factors using available remedial actions to be considered in capacity calculation in accordance with Article 25.",
+      "4.   Eachcoordinated capacity calculatorshall optimise cross-zonal capacity using availableremedial actions taken into account in capacity calculation in accordance with Article 21(1)(a)(iv).",
+      "1.   For each capacity calculation time-frame, each TSO shall provide thecoordinated capacity calculators and all other TSOs in thecapacity calculation regionwith the following items:operational security limits,generation shift keys,remedial actions,reliability margins,allocation constraints and previously allocated cross-zonal capacity.",
+      "adjust maximum power exchange using remedial actions taken into account in capacity calculation in accordance with Article 25;"
+    ],
+    "Article 33": [
+      "the need to ensure that the market outcome is feasible without the need for extensive application of economically inefficient remedial actions;"
+    ],
+    "Article 74": [
+      "determine which costs incurred from using remedial actions, for which costs have been considered in the capacity calculation and where a common framework on the use of such actions has been established, are eligible for sharing between all the TSOs of a capacity calculation region in accordance with the capacity calculation methodology set out in Articles 20 and 21;",
+      "a process allowing improvement of the remedial actions;",
+      "provide incentives to manage congestion, including remedial actions and incentives to invest effectively;",
+      "determine which costs incurred from usingremedial actions, for which costs have been considered in the capacity calculation and where a common framework on the use of such actions has been established, are eligible for sharing between all the TSOs of acapacity calculation region in accordance with the capacity calculation methodology set out in Articles 20 and 21;",
+      "a mechanism to assess the impact of the remedial actions, based on operational security and economic criteria;",
+      "an ex post mechanism to monitor the use of remedial actions with costs;"
+    ],
+    "Not Article": [
+      "TSOs should use a common set of remedial actions such as countertrading or redispatching to deal with both internal and cross-zonal congestion. In order to facilitate more efficient capacity allocation and to avoid unnecessary curtailments of cross-border capacities, TSOs should coordinate the use of remedial actions in capacity calculation.",
+      "TSOs should use a common set ofremedial actions such as countertrading or redispatching to deal with both internal and cross-zonal congestion. Inorder to facilitate more efficient capacity allocation and to avoid unnecessary curtailments of cross-border capacities, TSOs should coordinate the use of remedial actions in capacity calculation."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 21": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 22": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 25": {
+      "article_score": 15,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        2,
+        1,
+        1
+      ]
+    },
+    "Article 27": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 29": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 33": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 74": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    }
+  }
+}

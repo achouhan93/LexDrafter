@@ -1,0 +1,49 @@
+{
+  "term": "minimum heat output",
+  "celex_id": "32015R1185",
+  "original_definition": "'minimum heat output' means the heat output of a solid fuel local space heater comprising both direct heat output and indirect heat output (where applicable), when operating at the setting for the lowest heat output, as declared by the manufacturer, expressed in kW;",
+  "generated_definition": "'minimum heat output' means the electric power consumption of a solid fuel local space heater at the minimum heat output, expressed in kw. the heat output in this setting must not be higher than 50% of the nominal heat output.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018minimum heat output\u2019 (Pmin\n) means the heat output of a solid fuel local space heater comprising both direct heat output and indirect heat output (where applicable), when operating at the setting for the lowest heat output, as declared by the manufacturer, expressed in kW;"
+    ],
+    "Article 9": [
+      "elmin\n is the electric power consumption atminimum heat output, expressed in kW. In case the product does not offer a minimum heat output the value for the electric power consumption atnominal heat output shall be used,",
+      "F(3) shall be zero for solid fuel local space heaters not complying with the requirements set out in Annex II, point 2 on emissions where the temperature control is set at the minimum heat output. The heat output in this setting must not be higher than 50 % of the nominal heat output.",
+      "F(2) shall be zero for solid fuel local space heaters not complying with the requirements set out in Annex II, point 2 on emissions where the temperature control is set at the minimum heat output. The heat output in this setting must not be higher than 50 % of the nominal heat output.",
+      "\u2018useful efficiency, at either nominal or minimum heat output\u2019, (\u03b7th,nom or \u03b7th,min respectively) means the ratio of the useful heat output and the total energy input expressed in terms of NCV of a solid fuel local space heater, expressed in %;",
+      "\u2018electric power requirement at minimum heat output\u2019 (elmin) means the electric power consumption of the solid fuel local space heater while providing the minimum heat output. The electric power consumption shall be established without consideration of the power consumption of a circulator in case the product offers indirect heating functionality and a circulator is incorporated, expressed in kW;",
+      "Space heating emissions at minimum heat output (1)\n (2)",
+      "elmin\n is the electric power consumption at minimum heat output, expressed in kW. In case the product does not offer a minimum heat output the value for the electric power consumption at nominal heat output shall be used,",
+      "Minimum heat output (indicative)",
+      "Useful efficiency at minimum heat output (indicative)",
+      "At minimum heat output"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 13,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

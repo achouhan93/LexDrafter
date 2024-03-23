@@ -1,0 +1,31 @@
+{
+  "term": "energy efficiency index",
+  "celex_id": "32019R2024",
+  "original_definition": "'energy efficiency index' means an index number for the relative energy efficiency of a refrigeration appliance with a direct sales function expressed in percentage, calculated in accordance with point 2 of Annex III.",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018energy efficiency index\u2019 (EEI) means an index number for the relative energy efficiency of a refrigeration appliance with a direct sales function expressed in percentage, calculated in accordance with point 2 of Annex III."
+    ],
+    "Article 8": [
+      "the level of energy efficiency index requirements;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

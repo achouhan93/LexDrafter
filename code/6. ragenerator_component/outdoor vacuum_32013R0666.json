@@ -1,0 +1,31 @@
+{
+  "term": "outdoor vacuum",
+  "celex_id": "32013R0666",
+  "original_definition": "'outdoor vacuum' means an appliance that is designed for use outdoors to collect debris such as grass clippings and leaves into a collector by means of an airflow created by underpressure developed within the unit and which may contain a shredding device and may also be able to perform as a blower;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 1": [
+      "outdoor vacuums."
+    ],
+    "Article 2": [
+      "\u2018outdoor vacuum\u2019 means an appliance that is designed for use outdoors to collect debris such as grass clippings and leaves into a collector by means of an airflow created by underpressure developed within the unit and which may contain a shredding device and may also be able to perform as a blower;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

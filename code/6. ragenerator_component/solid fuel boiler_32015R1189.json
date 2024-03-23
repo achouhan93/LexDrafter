@@ -1,0 +1,239 @@
+{
+  "term": "solid fuel boiler",
+  "celex_id": "32015R1189",
+  "original_definition": "'solid fuel boiler' means a device equipped with one or more solid fuel heat generators that provides heat to a water-based central heating system in order to reach and maintain at a desired level the indoor temperature of one or more enclosed spaces, with a heat loss to its surrounding environment of not more than 6 % of rated heat output;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 1": [
+      "1.   Without prejudice to Directive 2010/75/EU of the European Parliament and of the Council (5), this Regulation establishes ecodesign requirements for placing on the market and putting into servicesolid fuel boilers with arated heat output of 500 kilowatt (\u2018kW\u2019) or less, including those integrated in packages of a solid fuel boiler, supplementary heaters, temperature controls and solar devices as defined in Article 2 of Delegated Regulation (EU) 2015/1187.",
+      "1.   Without prejudice to Directive 2010/75/EU of the European Parliament and of the Council (5), this Regulation establishes ecodesign requirements for placing on the market and putting into service solid fuel boilers with a rated heat output of 500 kilowatt (\u2018kW\u2019) or less, including those integrated in packages of a solid fuel boiler, supplementary heaters, temperature controls and solar devices as defined in Article 2 of Delegated Regulation (EU) 2015/1187."
+    ],
+    "Article 2": [
+      "\u2018solid fuel cogeneration boiler\u2019 means asolid fuel boiler capable of simultaneously generating heat and electricity;",
+      "\u2018seasonal space heating energy efficiency\u2019 or \u2018\u03b7s\n\u2019 means the ratio between the space heating demand for a designated heating season supplied by a solid fuel boiler and the annual energy consumption required to meet that demand, expressed in %;",
+      "\u2018solid fuel heat generator\u2019 means the part of a solid fuel boiler that generates the heat through the combustion of solid fuels;",
+      "\u2018rated heat output\u2019 or \u2018Pr\u2019 means the declared heat output of asolid fuel boilerwhen providing heating of enclosed spaces with thepreferred fuel, expressed in kW;",
+      "\u2018biomass boiler\u2019 means a solid fuel boiler that uses biomass as the preferred fuel;",
+      "\u2018other suitable fuel\u2019 means a solid fuel, other than the preferred fuel, which can be used in the solid fuel boiler according to the manufacturer's instructions and includes any fuel that is mentioned in the instruction manual for installers and end-users, on free access websites of manufacturers, in technical promotional material and in advertisements;",
+      "\u2018solid fuel boiler\u2019 means a device equipped with one or moresolid fuel heat generators that provides heat to awater-based central heating systemin order to reach and maintain at a desired level the indoor temperature of one or more enclosed spaces, with a heat loss to its surrounding environment of not more than 6 % ofrated heat output;",
+      "\u2018solid fuel cogeneration boiler\u2019 means a solid fuel boiler capable of simultaneously generating heat and electricity;",
+      "\u2018other suitable fuel\u2019 means asolid fuel, other than thepreferred fuel, which can be used in thesolid fuel boiler according to the manufacturer's instructions and includes any fuel that is mentioned in the instruction manual for installers and end-users, on free access websites of manufacturers, in technical promotional material and in advertisements;",
+      "\u2018rated heat output\u2019 or \u2018Pr\u2019 means the declared heat output of a solid fuel boiler when providing heating of enclosed spaces with the preferred fuel, expressed in kW;",
+      "\u2018solid fuel boiler\u2019 means a device equipped with one or more solid fuel heat generators that provides heat to a water-based central heating system in order to reach and maintain at a desired level the indoor temperature of one or more enclosed spaces, with a heat loss to its surrounding environment of not more than 6 % of rated heat output;",
+      "\u2018solid fuel heat generator\u2019 means the part of asolid fuel boiler that generates the heat through the combustion of solid fuels;"
+    ],
+    "Article 3": [
+      "1.   The ecodesign requirements for solid fuel boilers are set out in Annex II.",
+      "2.Solid fuel boilers shall meet the requirements set out in point 1 and 2 of Annex II from 1 January 2020.",
+      "2.   Solid fuel boilers shall meet the requirements set out in point 1 and 2 of Annex II from 1 January 2020."
+    ],
+    "Article 6": [
+      "The indicative benchmarks for best-performing solid fuel boilers available on the market at the time of entry into force of this Regulation are set out in Annex V."
+    ],
+    "Article 7": [
+      "to include solid fuel boilers with a rated heat output of up to 1 000 kilowatt;",
+      "2.   The Commission shall review whether it is appropriate to introduce third party certification for solid fuel boilers and present the result of that review to the Consultation Forum no later than 22 August 2018.",
+      "to includesolid fuel boilers with arated heat output of up to 1 000 kilowatt;"
+    ],
+    "Article 8": [
+      "Until 1 January 2020 Member States may allow the placing on the market and putting into service of solid fuel boilers which are in conformity with the national provisions in force regarding seasonal space heating energy efficiency, and emissions of particulate matter, organic gaseous compounds, carbon monoxide and nitrogen oxides."
+    ],
+    "Article 9": [
+      "Any solid fuel heat generator designed for a solid fuel boiler, and any solid fuel boiler housing to be equipped with such a heat generator, shall be tested with an appropriate solid fuel boiler housing and heat generator.",
+      "for automatically stokedsolid fuel boilers, a weighted average of the useful efficiency atrated heat output and the useful efficiency at 30 % of the rated heat output, expressed in %;",
+      "\u2018applicable part load\u2019 means for automatically stokedsolid fuel boilers, operation at 30 % ofrated heat output, and for manually stoked solid fuel boilers that can be operated at 50 % of rated heat output, operation at 50 % of rated heat output;",
+      "Forseasonal space heating energy efficiency: 96 % forsolid fuel cogeneration boilers, 90 % for condensing boilers and 84 % for othersolid fuel boilers.",
+      "for manually stoked solid fuel boilers that can be operated at 50 % of the rated heat output in continuous mode, a weighted average of the useful efficiency at rated heat output and the useful efficiency at 50 % of the rated heat output, expressed in %;",
+      "\u2018standby mode power consumption\u2019 or \u2018PSB\n\u2019 means the power consumption of a solid fuel boiler in standby mode, excluding from incorporated secondary emission abatement equipment, expressed in kW;",
+      "The indicative benchmarks for the best available technology on the market for solid fuel boilers at the time of entry into force of this Regulation are as follows. At the time of entry into force of this Regulation, no single solid fuel boiler was identified meeting all the values specified in points 1 and 2. Several solid fuel boilers met one or more of these values:",
+      "The benchmarks specified in points 1 and 2(a) to (d) do not necessarily imply that a combination of those values is achievable for a single solid fuel boiler. An example of a good combination is an existing model with a seasonal space heating energy efficiency of 81 % and seasonal space heating emissions of particulate matter of 7 mg/m3, of organic gaseous compounds of 2 mg/m3, of carbon monoxide of 6 mg/m3 and of nitrogen oxides of 120 mg/m3.",
+      "for manually stoked solid fuel boilers that cannot be operated at 50 % or less of the rated heat output in continuous mode, and for solid fuel cogeneration boilers:",
+      "\u2018back-up heater\u2019 means a Joule-effect electric resistance element that generates heat only to prevent thesolid fuel boileror thewater-based central heating system from freezing or when the external heat source supply is disrupted (including during maintenance periods) or out of order;",
+      "\u2018electric power requirement at maximum heat output\u2019 or \u2018elmax\n\u2019 means the electric power consumption of the solid fuel boiler at rated heat output, expressed in kW, excluding electricity consumption from a back-up heater and from incorporated secondary emission abatement equipment;",
+      "for automatically stoked solid fuel boilers, a weighted average of the emissions at rated heat output and the emissions at 30 % of the rated heat output, expressed in mg/m3;",
+      "for manually stoked solid fuel boilers that cannot be operated at 50 % or less of the rated heat output in continuous mode, the emissions at rated heat output, expressed in mg/m3;",
+      "(2)  Commission Delegated Regulation (EU) 2015/1187 of 27 April 2015 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to energy labelling of solid fuel boilers and packages of a solid fuel boiler, supplementary heaters, temperature controls and solar devices (see page 43 of this Official Journal)",
+      "for solid fuel heat generators designed for solid fuel boilers, and solid fuel boiler housings to be equipped with such heat generators, their characteristics, the requirements for assembly (to ensure compliance with the ecodesign requirements for solid fuel boilers) and, where appropriate, the list of combinations recommended by the manufacturer;",
+      "From 1 January 2020 solid fuel boilers shall comply with the following requirements:",
+      "forsolid fuel heat generators designed forsolid fuel boilers, and solid fuel boiler housings to be equipped with such heat generators, their characteristics, the requirements for assembly (to ensure compliance with the ecodesign requirements for solid fuel boilers) and, where appropriate, the list of combinations recommended by the manufacturer;",
+      "for manually stoked solid fuel boilers that can be operated at 50 % of the rated heat output in continuous mode, and for automatically stoked solid fuel boilers:",
+      "for manually stoked solid fuel boilers that can be operated at 50 % of the rated heat output in continuous mode, a weighted average of the emissions at rated heat output and the emissions at 50 % of the rated heat output, expressed in mg/m3;",
+      "\u2018solid fuel boilerhousing\u2019 means the part of a solid fuel boiler designed for fitting asolid fuel heat generator;",
+      "for manually stokedsolid fuel boilers that cannot be operated at 50 % or less of therated heat outputin continuous mode, and forsolid fuel cogeneration boilers:",
+      "for automatically stokedsolid fuel boilers, a weighted average of the emissions atrated heat output and the emissions at 30 % of the rated heat output, expressed in mg/m3;",
+      "for manually stokedsolid fuel boilers that cannot be operated at 50 % or less of therated heat output in continuous mode, the useful efficiency at rated heat output, expressed in %;",
+      "\u2018useful efficiency\u2019 or \u2018\u03b7\u2019 means the ratio of the useful heat output and the total energy input of a solid fuel boiler, expressed in %, whereby the total energy input is expressed in terms of GCV or in terms of final energy multiplied by CC;",
+      "\u2018back-up heater\u2019 means a Joule-effect electric resistance element that generates heat only to prevent the solid fuel boiler or the water-based central heating system from freezing or when the external heat source supply is disrupted (including during maintenance periods) or out of order;",
+      "for manually stokedsolid fuel boilers that can be operated at 50 % of therated heat output in continuous mode, a weighted average of the useful efficiency at rated heat output and the useful efficiency at 50 % of the rated heat output, expressed in %;",
+      "for manually stokedsolid fuel boilers that can be operated at 50 % of therated heat output in continuous mode, a weighted average of the emissions at rated heat output and the emissions at 50 % of the rated heat output, expressed in mg/m3;",
+      "\u2018electric power requirement at maximum heat output\u2019 or \u2018elmax\n\u2019 means the electric power consumption of thesolid fuel boileratrated heat output, expressed in kW, excluding electricity consumption from a back-up heater and from incorporated secondary emission abatement equipment;",
+      "\u2018applicable part load\u2019 means for automatically stoked solid fuel boilers, operation at 30 % of rated heat output, and for manually stoked solid fuel boilers that can be operated at 50 % of rated heat output, operation at 50 % of rated heat output;",
+      "\u2018fossil fuel boiler\u2019 means a solid fuel boiler that has fossil fuel or a blend of biomass and fossil fuel as preferred fuel;",
+      "\u2018condensing boiler\u2019 means a solid fuel boiler in which, under normal operating conditions and at given operating water temperatures, the water vapour in the combustion products is partially condensed, in order to make use of the latent heat of this water vapour for heating purposes;",
+      "These requirements shall be met for the preferred fuel and for any other suitable fuel for the solid fuel boiler.",
+      "any specific precautions to be taken when the solid fuel boiler is assembled, installed or maintained;",
+      "for manually stokedsolid fuel boilers that can be operated at 50 % of therated heat output in continuous mode, and for automatically stoked solid fuel boilers:",
+      "\u2018combination boiler\u2019 means a solid fuel boiler that is designed to also provide heat to deliver hot drinking or sanitary water at given temperature levels, quantities and flow rates during given intervals, and is connected to an external supply of drinking or sanitary water;",
+      "for automatically stoked solid fuel boilers, a weighted average of the useful efficiency at rated heat output and the useful efficiency at 30 % of the rated heat output, expressed in %;",
+      "From 1 January 2020 the following product information on solid fuel boilers shall be provided:",
+      "instruction on the proper way to operate the solid fuel boiler and on the quality requirements for the preferred fuel and any other suitable fuels;",
+      "Anysolid fuel heat generatordesigned for asolid fuel boiler, and any solid fuel boiler housing to be equipped with such a heat generator, shall be tested with an appropriate solid fuel boiler housing and heat generator.",
+      "\u2018moisture content\u2019 means the mass of water in the fuel in relation to the total mass of the fuel as used in solid fuel boilers;",
+      "\u2018standby mode\u2019 means a condition where the solid fuel boiler is connected to the mains power source, depends on energy input from the mains power source to work as intended and provides only the following functions, which may persist for an indefinite time: reactivation function, or reactivation function and only an indication of enabled reactivation function, or information or status display;",
+      "\u2018useful heat output\u2019 or \u2018P\u2019 means the heat output of a solid fuel boiler transmitted to the heat carrier, expressed in kW;",
+      "for manually stokedsolid fuel boilers that cannot be operated at 50 % or less of therated heat output in continuous mode, the emissions at rated heat output, expressed in mg/m3;",
+      "Solid fuel boilers shall be tested for the preferred fuel and any other suitable fuels indicated in Table 1 of Annex II, with the exception that boilers tested for chipped wood with a moisture content of more than 35 % meeting the applicable requirements are considered to also meet such requirements for chipped wood with a moisture content of 15-35 % and are not required to be tested for chipped wood with a moisture content of 15-35 %.",
+      "\u2018solid fuel boiler housing\u2019 means the part of a solid fuel boiler designed for fitting a solid fuel heat generator;",
+      "\u2018temperature control\u2019 means the equipment that interfaces with the end-user regarding the values and timing of the desired indoor temperature, and communicates relevant data to an interface of the solid fuel boiler such as a central processing unit, thus helping to regulate the indoor temperature(s);",
+      "Solid fuel boilers shall be tested for thepreferred fueland anyother suitable fuels indicated in Table 1 of Annex II, with the exception that boilers tested for chipped wood with a moisture content of more than 35 % meeting the applicable requirements are considered to also meet such requirements for chipped wood with a moisture content of 15-35 % and are not required to be tested for chipped wood with a moisture content of 15-35 %.",
+      "\u2018model identifier\u2019 means the code, usually alphanumeric, which distinguishes a specific solid fuel boiler model from other models with the same trade mark or manufacturer's name;",
+      "for manually stoked solid fuel boilers that cannot be operated at 50 % or less of the rated heat output in continuous mode, the useful efficiency at rated heat output, expressed in %;",
+      "For seasonal space heating energy efficiency: 96 % for solid fuel cogeneration boilers, 90 % for condensing boilers and 84 % for other solid fuel boilers.",
+      "Information requirements for solid fuel boilers",
+      "\u2018electric power requirement at minimum heat output\u2019 or \u2018elmin\n\u2019 means the electric power consumption of the solid fuel boiler at applicable part load, expressed in kW, excluding electricity consumption from a back-up heater and from incorporated secondary emission abatement equipment;"
+    ],
+    "Not Article": [
+      "implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for solid fuel boilers",
+      "The ecodesign requirements should not affect the functionality or affordability of solid fuel boilers from the end-user's perspective and should not negatively affect health, safety or the environment.",
+      "Article 16(2) of Directive 2009/125/EC provides that in accordance with the procedure referred to in Article 19(3) and the criteria set out in Article 15(2), and after consulting the Consultation Forum, the Commission should, if appropriate, introduce implementing measures for products offering a high potential for cost-effective reduction of greenhouse gas emissions, such as heating equipment, including solid fuel boilers and packages of a solid fuel boiler, supplementary heaters, temperature controls and solar devices.",
+      "In addition to the legally binding requirements laid down in this Regulation, indicative benchmarks for best available technologies should be determined to ensure that information on the life-cycle environmental performance of solid fuel boilers is widely available and easily accessible.",
+      "The Commission has carried out a preparatory study to analyse the technical, environmental and economic aspects of the solid fuel boilers typically used in households and for commercial purposes. The study has been carried out with stakeholders and interested parties from the Union and third countries, and the results have been made publicly available.",
+      "In accordance with Article 8 of Directive 2009/125/EC, this Regulation specifies which conformity assessment procedures apply. While it is appropriate to review the appropriateness of third party certification at the same time as required by Commission Regulation (EU) No 813/2013 (4) it is neither desirable nor seems feasible to make changes to the conformity assessment of solid fuel boilers before the entry into force of the ecodesign requirements.",
+      "Ecodesign requirements should harmonise energy consumption and emission requirements for solid fuel boilers throughout the Union, for the internal market to operate better and in order to improve the environmental performance of those products.",
+      "The energy consumption and emissions of solid fuel boilers could be reduced by applying existing non-proprietary technologies without an increase in the combined costs of purchasing and operating these products.",
+      "To further limit the environmental impact of solid fuel boilers, manufacturers should provide information on disassembly, recycling and disposal.",
+      "The preparatory study shows that further requirements regarding ecodesign parameters for products referred to in Part 1 of Annex I to Directive 2009/125/EC are not necessary in the case of solid fuel boilers. In particular, emissions of dioxins and furans are not identified as significant.",
+      "The environmental aspects of solid fuel boilers that have been identified as significant for the purposes of this Regulation are energy consumption in the use phase and emissions of particulate matter (dust), organic gaseous compounds, carbon monoxide and nitrogen oxides in the use phase. The annual energy consumption related to solid fuel boilers is expected to be 530 petajoules (\u2018PJ\u2019) (approximately 12,7 million tonnes of oil equivalent \u2018Mtoe\u2019) in 2030 and annual emissions are expected to be 25 kilotonnes (\u2018kt\u2019) of particulate matter, 25 kt of organic gaseous compounds and 292 kt of carbon monoxide in 2030. Emissions of nitrogen oxides are expected to increase because of potential new solid fuel boiler designs aiming at higher energy efficiency and lower organic emissions. The preparatory study shows that use-phase energy consumption and emissions by solid fuel boilers can be significantly reduced."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Article 2": {
+      "article_score": 10,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1
+      ]
+    },
+    "Article 3": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 6": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 7": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 8": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 9": {
+      "article_score": 69,
+      "statement_scores": [
+        3,
+        1,
+        2,
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        1,
+        3,
+        2,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 15,
+      "statement_scores": [
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        4
+      ]
+    }
+  }
+}

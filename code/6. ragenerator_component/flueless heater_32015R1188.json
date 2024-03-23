@@ -1,0 +1,24 @@
+{
+  "term": "flueless heater",
+  "celex_id": "32015R1188",
+  "original_definition": "'flueless heater' means a local space heater using gaseous or liquid fuel emitting the products of combustion into the space where the product is situated, other than a luminous local space heater;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018flueless heater\u2019 means a local space heater using gaseous or liquid fuel emitting the products of combustion into the space where the product is situated, other than a luminous local space heater;",
+      "\u2018flueless heater\u2019 means alocal space heaterusing gaseous or liquid fuel emitting the products of combustion into the space where the product is situated, other than aluminous local space heater;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

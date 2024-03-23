@@ -1,0 +1,63 @@
+{
+  "term": "offered capacity",
+  "celex_id": "32013R0543",
+  "original_definition": "'offered capacity' means the cross zonal capacity offered by the transmission capacity allocator to the market;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018offered capacity\u2019 means thecross zonal capacityoffered by thetransmission capacity allocator to the market;",
+      "\u2018offered capacity\u2019 means the cross zonal capacity offered by the transmission capacity allocator to the market;"
+    ],
+    "Article 11": [
+      "all possible measures that could be implemented to increase the offered capacity, together with their estimated costs.",
+      "the extent to which relieving thecritical network elements would increase theoffered capacity;",
+      "the forecasted andoffered capacity(MW) per direction betweenbidding zones in case ofcoordinated net transmission capacitybasedcapacity allocation; or",
+      "the maincritical network elements limiting theoffered capacity;",
+      "the forecasted and offered capacity (MW) per direction between bidding zones in case of coordinated net transmission capacity based capacity allocation; or",
+      "the extent to which relieving the critical network elements would increase the offered capacity;",
+      "the main critical network elements limiting the offered capacity;"
+    ],
+    "Article 12": [
+      "in point (c) of paragraph 1 shall be published at the latest when publication of offered capacity figures become due as set out in the Annex;"
+    ],
+    "Article 20": [
+      "Offered capacity to be published"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 11": {
+      "article_score": 7,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 12": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 20": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "term": "wholesale customer",
+  "celex_id": "32009L0073",
+  "original_definition": "'wholesale customer' means a natural or legal person other than a transmission system operator or distribution system operator who purchases natural gas for the purpose of resale inside or outside the system where he is established;",
+  "generated_definition": "'wholesale customer' means a customer that purchases natural gas in large quantities, typically for resale or industrial use, rather than for personal or residential use.",
+  "existing_sentences": {
+    "Article\u00a04": [
+      "1.   In circumstances where an authorisation (for example, licence, permission, concession, consent or approval) is required for the construction or operation of natural gas facilities, the Member States or any competent authority they designate shall grant authorisations to build and/or operate such facilities, pipelines and associated equipment on their territory, in accordance with paragraphs 2 to 4. Member States or any competent authority they designate may also grant authorisations on the same basis for the supply of natural gas and for wholesale customers."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a04": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

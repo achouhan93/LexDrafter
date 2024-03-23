@@ -1,0 +1,69 @@
+{
+  "term": "smart grid",
+  "celex_id": "32013R0347",
+  "original_definition": "'smart grid' means an electricity network that can integrate in a cost efficient manner the behaviour and actions of all users connected to it, including generators, consumers and those that both generate and consume, in order to ensure an economically efficient and sustainable power system with low losses and high levels of quality, security of supply and safety;",
+  "generated_definition": "'smart grid' means smart grids deployment: adoption of smart grid technologies across the union to efficiently integrate the behaviour and actions of all users connected to the electricity network, in particular the generation of large amounts of electricity from renewable or distributed energy sources and demand response by consumers. for smart grids, the project is designed for equipments and installations at high-voltage and medium-voltage level designed for a voltage of 10 kv or more. it involves transmission and distribution system operators from at least two member states, which cover at least 50 000 users that generate or consume electricity or do both in a consumption area of at least 300 gigawatthours/year, of which at least 20 % originate from renewable resources that are variable in nature. for smart grids, the cost-benefit analysis shall take into account the impacts on the indicators defined in annex iv.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018smart grid\u2019 means an electricity network that can integrate in a cost efficient manner the behaviour and actions of all users connected to it, including generators, consumers and those that both generate and consume, in order to ensure an economically efficient and sustainable power system with low losses and high levels of quality, security of supply and safety;"
+    ],
+    "Article 4": [
+      "for electricitysmart gridprojects falling under theenergy infrastructure category set out in Annex II.1(e), the project is to contribute significantly to all of the following specific criteria:",
+      "for electricity smart grid projects falling under the energy infrastructure category set out in Annex II.1(e), the project is to contribute significantly to all of the following specific criteria:",
+      "For smart grids projects falling under the energy infrastructure category set out in Annex II.1(e), ranking shall be carried out for those projects that affect the same two Member States, and due consideration shall also be given to the number of users affected by the project, the annual energy consumption and the share of generation from non-dispatchable resources in the area covered by these users.",
+      "Forsmart gridsprojects falling under theenergy infrastructure category set out in Annex II.1(e), ranking shall be carried out for those projects that affect the same two Member States, and due consideration shall also be given to the number of users affected by the project, the annual energy consumption and the share of generation from non-dispatchable resources in the area covered by these users."
+    ],
+    "Article 24": [
+      "for smart grids, the project is designed for equipments and installations at high-voltage and medium-voltage level designed for a voltage of 10 kV or more. It involves transmission and distribution system operators from at least two Member States, which cover at least 50 000 users that generate or consume electricity or do both in a consumption area of at least 300 Gigawatthours/year, of which at least 20 % originate from renewable resources that are variable in nature.",
+      "Smart grids deployment: adoption of smart grid technologies across the Union to efficiently integrate the behaviour and actions of all users connected to the electricity network, in particular the generation of large amounts of electricity from renewable or distributed energy sources and demand response by consumers.",
+      "forsmart grids, theproject is designed for equipments and installations at high-voltage and medium-voltage level designed for a voltage of 10 kV or more. It involves transmission and distribution system operators from at least two Member States, which cover at least 50 000 users that generate or consume electricity or do both in a consumption area of at least 300 Gigawatthours/year, of which at least 20 % originate from renewable resources that are variable in nature.",
+      "For smart grids, the cost-benefit analysis shall take into account the impacts on the indicators defined in Annex IV."
+    ],
+    "Not Article": [
+      "Following close consultations with all Member States and stakeholders, the Commission has identified 12 strategic trans-European energy infrastructure priorities, the implementation of which by 2020 is essential for the achievement of the Union\u2019s energy and climate policy objectives. These priorities cover different geographic regions or thematic areas in the field of electricity transmission and storage, gas transmission, storage and liquefied or compressed natural gas infrastructure, smart grids, electricity highways, carbon dioxide transport and oil infrastructure.",
+      "Despite the fact that Directive 2009/72/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in electricity (7) and Directive 2009/73/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in natural gas (8) provide for an internal market in energy, the market remains fragmented due to insufficient interconnections between national energy networks and to the suboptimal utilisation of existing energy infrastructure. However, Union-wide integrated networks and deployment of smart grids are vital for ensuring a competitive and properly functioning integrated market, for achieving an optimal utilisation of energy infrastructure, for increased energy efficiency and integration of distributed renewable energy sources and for promoting growth, employment and sustainable development.",
+      "Despite the fact that Directive 2009/72/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in electricity (7) and Directive 2009/73/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in natural gas (8) provide for an internal market in energy, the market remains fragmented due to insufficient interconnections between national energy networksand to the suboptimal utilisation of existingenergy infrastructure. However, Union-wide integrated networks and deployment ofsmart grids are vital for ensuring a competitive and properly functioning integrated market, for achieving an optimal utilisation of energy infrastructure, for increased energy efficiency and integration of distributed renewable energy sources and for promoting growth, employment and sustainable development.",
+      "Following close consultations with all Member States and stakeholders, the Commission has identified 12 strategic trans-Europeanenergy infrastructurepriorities, the implementation of which by 2020 is essential for the achievement of the Union\u2019s energy and climate policy objectives. These priorities cover different geographic regions or thematic areas in the field of electricity transmission and storage, gas transmission, storage and liquefied or compressed natural gas infrastructure,smart grids, electricity highways, carbon dioxide transport and oil infrastructure.",
+      "The importance of smart grids in achieving the Union\u2019s energy policy objectives has been acknowledged in the communication from the Commission of 12 April 2011 entitled \u2018Smart grids: from innovation to deployment\u2019."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 4": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 24": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        2,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        2
+      ]
+    }
+  }
+}

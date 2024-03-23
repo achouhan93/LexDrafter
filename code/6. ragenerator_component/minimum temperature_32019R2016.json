@@ -1,0 +1,24 @@
+{
+  "term": "minimum temperature",
+  "celex_id": "32019R2016",
+  "original_definition": "'minimum temperature' means the minimum temperature inside a compartment during storage testing, as set out in Annex IV, Table 3;",
+  "generated_definition": "'minimum temperature' means the lowest temperature that can be tolerated by a living organism for a given period of time.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018minimum temperature\u2019 (Tmin) means the minimum temperature inside acompartment during storage testing, as set out in Annex IV, Table 3;",
+      "\u2018minimum temperature\u2019 (Tmin) means the minimum temperature inside a compartment during storage testing, as set out in Annex IV, Table 3;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

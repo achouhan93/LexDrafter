@@ -1,0 +1,41 @@
+{
+  "term": "adopted policies and measures",
+  "celex_id": "32018R1999",
+  "original_definition": "'adopted policies and measures' means policies and measures for which an official government decision has been made by the date of submission of the integrated national energy and climate plan or of the integrated national energy and climate progress report and there is a clear commitment to proceed with implementation;",
+  "generated_definition": "'adopted policies and measures' means adopted policies and measures are those for which an official government decision has been made by the date of submission of the national plan and there is a clear commitment to proceed with implementation. implemented policies and measures are those for which one or more of the following applies at the date of submission of the integrated national energy and climate plan or the integrated national energy and climate progress report: directly applicable european legislation or national legislation is in force, one or more voluntary agreements have been established, financial resources have been allocated, human resources have been mobilised.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018existing policies and measures\u2019 meansimplemented policies and measuresandadopted policies and measures;",
+      "\u2018existing policies and measures\u2019 means implemented policies and measures and adopted policies and measures;",
+      "\u2018adopted policies and measures\u2019 means policies and measures for which an official government decision has been made by the date of submission of the integrated national energy and climate plan or of the integrated national energy and climate progress report and there is a clear commitment to proceed with implementation;"
+    ],
+    "Article 59": [
+      "(17)  Current situation shall reflect the date of submission of the national plan (or latest available date). Existing policies and measures encompass implemented and adopted policies and measures. Adopted policies and measures are those for which an official government decision has been made by the date of submission of the national plan and there is a clear commitment to proceed with implementation. Implemented policies and measures are those for which one or more of the following applies at the date of submission of the integrated national energy and climate plan or the integrated national energy and climate progress report: directly applicable European legislation or national legislation is in force, one or more voluntary agreements have been established, financial resources have been allocated, human resources have been mobilised.",
+      "(25)  Planned policies and measures are options under discussion and having a realistic chance of being adopted and implemented after the date of submission of the national plan. The resulting projections under section 5.1.i shall therefore include not only implemented and adopted policies and measures (projections with existing policies and measures), but also planned policies and measures.",
+      "(25)Planned policies and measuresare options under discussion and having a realistic chance of being adopted and implemented after the date of submission of the national plan. The resultingprojectionsunder section 5.1.i shall therefore include not only implemented andadopted policies and measures(projections withexisting policies and measures), but also planned policies and measures.",
+      "(17)  Current situation shall reflect the date of submission of the national plan (or latest available date).Existing policies and measuresencompass implemented and adopted policies and measures.Adopted policies and measuresare those for which an official government decision has been made by the date of submission of the national plan and there is a clear commitment to proceed with implementation.Implemented policies and measures are those for which one or more of the following applies at the date of submission of the integrated national energy and climate plan or the integrated national energy and climate progress report: directly applicable European legislation or national legislation is in force, one or more voluntary agreements have been established, financial resources have been allocated, human resources have been mobilised."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1,
+        0
+      ]
+    },
+    "Article 59": {
+      "article_score": 6,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        2
+      ]
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "term": "specific product",
+  "celex_id": "32017R2195",
+  "original_definition": "'specific product' means a product different from a standard product;",
+  "generated_definition": "'specific product' means a product that is different from the standard product and has been developed for a specific purpose or to meet specific requirements, and is subject to review at least once every two years to assess its necessity.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018specific product\u2019 means a product different from astandard product;",
+      "\u2018specific product\u2019 means a product different from a standard product;"
+    ],
+    "Article 5": [
+      "the definition and the use of specific products pursuant to Article 26(1);"
+    ],
+    "Article 16": [
+      "5.   Any balancing service provider shall have the right to submit to its connecting TSO the balancing energy bids from standard products or specific products or integrated scheduling process bids for which it has passed the prequalification process pursuant to Article 159 and Article 162 of Regulation (EU) 2017/1485.",
+      "5.   Anybalancing service providershall have the right to submit to itsconnecting TSOthebalancing energybids fromstandard products orspecific products orintegrated scheduling process bids for which it has passed the prequalification process pursuant to Article 159 and Article 162 of Regulation (EU) 2017/1485.",
+      "6.   The price of the balancing energy bids or integrated scheduling process bids from standard and specific products pursuant to paragraph 4 shall not be predetermined in a contract for balancing capacity. A TSO may propose an exemption to this rule in the proposal for the terms and conditions related to balancing set-up pursuant to Article 18. Such an exemption shall only apply to specific products pursuant to Article 26(3)(b) and be accompanied with a justification demonstrating higher economic efficiency.",
+      "6.   The price of thebalancing energybids orintegrated scheduling processbids from standard andspecific products pursuant to paragraph 4 shall not be predetermined in a contract forbalancing capacity. A TSO may propose an exemption to this rule in the proposal for the terms and conditions related to balancing set-up pursuant to Article 18. Such an exemption shall only apply to specific products pursuant to Article 26(3)(b) and be accompanied with a justification demonstrating higher economic efficiency."
+    ],
+    "Article 18": [
+      "an exemption for specific products defined in Article 26(3)(b) to predetermine the price of the balancing energy bids from a balancing capacity contract pursuant to Article 16(6);",
+      "the definition of a location for eachstandard productand eachspecific product taking into account paragraph 5 (c);",
+      "an exemption forspecific products defined in Article 26(3)(b) to predetermine the price of thebalancing energybids from abalancing capacity contract pursuant to Article 16(6);",
+      "the definition of a location for each standard product and each specific product taking into account paragraph 5 (c);"
+    ],
+    "Article 26": [
+      "a description of measures proposed to minimise the use of specific products subject to economic efficiency;",
+      "1.   Following the approval of the implementation frameworks for the European platforms pursuant to Articles 19, 20 and 21, each TSO may develop a proposal for defining and using specific products for balancing energy and balancing capacity. This proposal shall include at least:",
+      "3.   The specific products shall be implemented in parallel to the implementation of the standard products. Following the use of the specific products, the connecting TSO may alternatively:",
+      "a definition of specific products and of the time period in which they will be used;",
+      "1.   Following the approval of the implementation frameworks for the European platforms pursuant to Articles 19, 20 and 21, each TSO may develop a proposal for defining and usingspecific products forbalancing energyandbalancing capacity. This proposal shall include at least:",
+      "Requirements for specific products",
+      "3.   Thespecific products shall be implemented in parallel to the implementation of thestandard products. Following the use of the specific products, theconnecting TSO may alternatively:",
+      "2.   Each TSO using specific products shall review at least once every two years the necessity to use specific products in accordance with the criteria laid down in paragraph 1."
+    ],
+    "Article 59": [
+      "the efficiency losses due to specific products;",
+      "the volume and price of balancing energy used for balancing purposes, both available and activated, from standard products and from specific products;",
+      "the volume and price ofbalancing energyused for balancing purposes, both available and activated, fromstandard products and fromspecific products;"
+    ],
+    "Article 60": [
+      "include information concerning the volumes of available, procured and used specific products, as well as justification of specific products subject to conditions pursuant to Article 26;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 5": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 16": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        2,
+        2
+      ]
+    },
+    "Article 18": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 26": {
+      "article_score": 11,
+      "statement_scores": [
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    },
+    "Article 59": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 60": {
+      "article_score": 2,
+      "statement_scores": [
+        2
+      ]
+    }
+  }
+}

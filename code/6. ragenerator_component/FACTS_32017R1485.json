@@ -1,0 +1,33 @@
+{
+  "term": "FACTS",
+  "celex_id": "32017R1485",
+  "original_definition": "'FACTS' means equipment for the alternating current transmission of electric power, aiming at enhanced controllability and increased active power transfer capability;",
+  "generated_definition": "'FACTS' means devices and systems that provide power system stabilization and control through dynamic models and associated regulation, suitable for large disturbances.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018flexible alternating current transmission systems\u2019 or \u2018FACTS\u2019 means equipment for the alternating current transmission of electric power, aiming at enhanced controllability and increased active power transfer capability;"
+    ],
+    "Article 41": [
+      "the data concerning HVDC systems andFACTSdevices on the dynamic models of the system or the device and its associated regulation suitable for largedisturbances.",
+      "the data concerning HVDC systems and FACTS devices on the dynamic models of the system or the device and its associated regulation suitable for large disturbances."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 41": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    }
+  }
+}

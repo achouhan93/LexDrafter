@@ -1,0 +1,44 @@
+{
+  "term": "professional display",
+  "celex_id": "32019R2021",
+  "original_definition": "'professional display' means an electronic display designed and marketed for professional use for editing video and graphic images. Its specification shall include all of the following features:a contrast ratio of at least 1000:1 measured at a perpendicular to the vertical plane of the screen and at least 60:1 measured at a horizontal viewing angle of at least 85\u00b0 relative to that perpendicular and at least 83\u00b0 from the perpendicular on a curved screen, with or without a screen cover glass;a native resolution of at least 2,3 mega pixels;colour Gamut support is 38,4 % of CIE LUV or greater (equivalent to greater than 99 % of Adobe RGB and over 100 % of sRGB colour space). Shifts in colour space are allowable as long as the resultant colour space is at least 38,4 % of CIE LUV. Colour and luminance uniformity shall be as required for grade 1 monitors;",
+  "generated_definition": "'professional display' means a display designed for use in a professional context, such as a retail store or office environment, typically featuring high-quality images and detailed information about products or services.",
+  "existing_sentences": {
+    "Article 1": [
+      "professional displays;"
+    ],
+    "Article 2": [
+      "\u2018professional display\u2019 means an electronic display designed and marketed for professional use for editing video and graphic images. Its specification shall include all of the following features:",
+      "\u2018professional display\u2019 means anelectronic display designed and marketed for professional use for editing video and graphic images. Its specification shall include all of the following features:"
+    ],
+    "Not Article": [
+      "Once delivered to an electrical and electronic equipment waste collection facility at the end of their life, televisions, computer monitors, digital signage displays, professional displays, broadcast displays, security displays, as well as displays integrated into tablets, \u2018all-in-one\u2019 desktop or portable computers are, generally, not distinguishable from each other. Therefore they should all be subject to the same requirements for proper end of life treatment and they should also facilitate circular economy objectives. However electronic displays integrated into computers, such as tablets, laptops or all-in-one desktops, although hardly distinguishable from other electronic displays, should be covered in a review of Commission Regulation (EU) No 617/2013 (11) on computers.",
+      "Once delivered to an electrical and electronic equipment waste collection facility at the end of their life,televisions, computer monitors,digital signage displays,professional displays,broadcast displays,security displays, as well as displaysintegratedinto tablets, \u2018all-in-one\u2019 desktop or portable computers are, generally, not distinguishable from each other. Therefore they should all be subject to the same requirements for proper end of life treatment and they should also facilitate circular economy objectives. Howeverelectronic displays integrated into computers, such as tablets, laptops or all-in-one desktops, although hardly distinguishable from other electronic displays, should be covered in a review of Commission Regulation (EU) No 617/2013 (11) on computers."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

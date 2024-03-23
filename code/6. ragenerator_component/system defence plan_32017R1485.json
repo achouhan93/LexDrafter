@@ -1,0 +1,53 @@
+{
+  "term": "system defence plan",
+  "celex_id": "32017R1485",
+  "original_definition": "'system defence plan' means the technical and organisational measures to be undertaken to prevent the propagation or deterioration of a disturbance in the transmission system, in order to avoid a wide area state disturbance and blackout state;",
+  "generated_definition": "'system defence plan' means a plan of actions and measures to be implemented in case of a security incident or a potential threat to the security of the transmission system.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018system defence plan\u2019 means the technical and organisational measures to be undertaken to prevent the propagation or deterioration of adisturbancein the transmission system, in order to avoid awide area statedisturbance andblackout state;",
+      "\u2018system defence plan\u2019 means the technical and organisational measures to be undertaken to prevent the propagation or deterioration of a disturbance in the transmission system, in order to avoid a wide area state disturbance and blackout state;"
+    ],
+    "Article 18": [
+      "at least one measure of the TSO's system defence plan is activated;"
+    ],
+    "Article 19": [
+      "3.   In order to specify the system state, each TSO shall perform contingency analysis at least once every 15 minutes, monitoring the transmission system's parameters defined in accordance with paragraph 2, against the operational security limits defined in accordance with Article 25 and the criteria for system states defined in accordance with Article 18. Each TSO shall also monitor the level of available reserves against the reserve capacity. When carrying out the contingency analysis, each TSO shall take into account the effect of remedial actions and the measures of the system defence plan.",
+      "3.   In order to specify thesystem state, each TSO shall performcontingency analysisat least once every 15 minutes, monitoring the transmission system's parameters defined in accordance with paragraph 2, against theoperational securitylimits defined in accordance with Article 25 and the criteria for system states defined in accordance with Article 18. Each TSO shall also monitor the level of available reserves against thereserve capacity. When carrying out the contingency analysis, each TSO shall take into account the effect of remedial actions and the measures of thesystem defence plan."
+    ],
+    "Article 23": [
+      "2.   When preparing and activating a remedial action, including redispatching or countertrading pursuant to Articles 25 and 35 of Regulation (EU) 2015/1222, or a procedure of a TSO's system defence plan which affects other TSOs, the relevant TSO shall assess, in coordination with the TSOs concerned, the impact of such remedial action or measure within and outside of its control area, in accordance with Article 75(1), Article 76(1)(b) and Article 78(1), (2) and (4) and shall provide the TSOs concerned with the information about this impact."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 18": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 19": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 23": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

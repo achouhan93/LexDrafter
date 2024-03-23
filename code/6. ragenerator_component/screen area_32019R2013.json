@@ -1,0 +1,58 @@
+{
+  "term": "screen area",
+  "celex_id": "32019R2013",
+  "original_definition": "'screen area' means the viewable area of the electronic display calculated by multiplying the maximum viewable image width by the maximum viewable image height along the surface of the panel (both flat or curved);",
+  "generated_definition": "'screen area' means the area of an electronic display that is visible to the user, measured in square centimeters or square decimeters, and intended for use as a standalone display device or as a partial image area of a larger display screen.",
+  "existing_sentences": {
+    "Article 1": [
+      "designed and constructed as a display module to beintegratedas a partial image area of a larger displayscreen area and not intended for use as a standalone display device;",
+      "designed and constructed as a display module to be integrated as a partial image area of a larger display screen area and not intended for use as a standalone display device;",
+      "distributed self-contained in an enclosure with a screen area less than 30 dm2 or greater than 130 dm2;",
+      "any electronic display with a screen area smaller than or equal to 100 square centimetres;",
+      "anyelectronic displaywith ascreen area smaller than or equal to 100 square centimetres;"
+    ],
+    "Article 2": [
+      "a display screen area greater than 40 dm2;",
+      "\u2018screen area\u2019 means the viewable area of theelectronic display calculated by multiplying the maximum viewable image width by the maximum viewable image height along the surface of the panel (both flat or curved);",
+      "\u2018screen area\u2019 means the viewable area of the electronic display calculated by multiplying the maximum viewable image width by the maximum viewable image height along the surface of the panel (both flat or curved);"
+    ],
+    "Article 11": [
+      "Visible screen area",
+      "where \u2018lum\u2019 is the peak white luminance, in cd/m2, of the brightest on mode configuration of the electronic display and A is the screen area in dm2",
+      "where \u2018lum\u2019 is the peak white luminance, in cd/m2, of the brightest on mode configuration of theelectronic displayand A is thescreen area in dm2",
+      "Visible screen area in dm2"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0,
+        0
+      ]
+    },
+    "Article 11": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "term": "end-user",
+  "celex_id": "32019R2020",
+  "original_definition": "'end-user' means a natural person buying or expected to buy a product for purposes which are outside his trade, business, craft or profession.",
+  "generated_definition": "'end-user' means an individual or entity that uses or interacts with a product, system, or service, often with the ability to control or customize its features.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018end-user\u2019 means a natural person buying or expected to buy a product for purposes which are outside his trade, business, craft or profession."
+    ],
+    "Article 4": [
+      "2.   Manufacturers, importers or authorised representatives ofcontaining products shall provide information about the replaceability or non-replaceability oflight sources andcontrol gears byend-users or qualified persons without permanent damage to the containing product. Such information shall be available on a free-access website. For products sold directly to end-users, this information shall be on the packaging, at least in the form of a pictogram, and in the user instructions.",
+      "2.   Manufacturers, importers or authorised representatives of containing products shall provide information about the replaceability or non-replaceability of light sources and control gears by end-users or qualified persons without permanent damage to the containing product. Such information shall be available on a free-access website. For products sold directly to end-users, this information shall be on the packaging, at least in the form of a pictogram, and in the user instructions."
+    ],
+    "Article 7": [
+      "The energy consumption of the product and any of the other declared parameters shall not deteriorate after a software or firmware update when measured with the same test standard originally used for the declaration of conformity, except with explicit consent of the end-user prior to the update."
+    ],
+    "Article 11": [
+      "\u2018reference control settings\u2019 (RCS) means a control setting or a combination of control settings that is used to verify compliance of alight sourcewith this Regulation. These settings are relevant for light sources that allow theend-user to control, manually or automatically, directly or remotely, the luminous intensity, colour, correlated colour temperature, spectrum, and/or beam angle of the emitted light.",
+      "Forlight sources that allow the manufacturer of acontaining productto make implementation choices that influence light source characteristics (e.g. definition of the operating current(s); thermal design), and that cannot be controlled by theend-user, the reference control settings need not be defined. In that case the nominal test conditions as defined by the light source manufacturer apply;",
+      "Light sources that allow the end-user to control, manually or automatically, directly or remotely, the luminous intensity, colour, correlated colour temperature, spectrum, and/or beam angle of the emitted light shall be evaluated using the reference control settings.",
+      "Light sources that allow theend-user to control, manually or automatically, directly or remotely, the luminous intensity, colour, correlated colour temperature, spectrum, and/or beam angle of the emitted light shall be evaluated using the reference control settings.",
+      "\u2018reference control settings\u2019 (RCS) means a control setting or a combination of control settings that is used to verify compliance of a light source with this Regulation. These settings are relevant for light sources that allow the end-user to control, manually or automatically, directly or remotely, the luminous intensity, colour, correlated colour temperature, spectrum, and/or beam angle of the emitted light.",
+      "Light sources that allow theend-userto adapt the spectrum and/or the beam angle of the emitted light, thus changing the values for usefulluminous flux,colour rendering index (CRI) and/or correlated colour temperature (CCT), and/or changing the directional/non-directional status of the light source, shall be evaluated using the reference control settings.",
+      "For light sources that allow the manufacturer of a containing product to make implementation choices that influence light source characteristics (e.g. definition of the operating current(s); thermal design), and that cannot be controlled by the end-user, the reference control settings need not be defined. In that case the nominal test conditions as defined by the light source manufacturer apply;",
+      "Light sources that allow the end-user to adapt the spectrum and/or the beam angle of the emitted light, thus changing the values for useful luminous flux, colour rendering index (CRI) and/or correlated colour temperature (CCT), and/or changing the directional/non-directional status of the light source, shall be evaluated using the reference control settings.",
+      "when the end-user opts to reset factory defaults, the reference control settings are obtained."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 4": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 7": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 11": {
+      "article_score": 5,
+      "statement_scores": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

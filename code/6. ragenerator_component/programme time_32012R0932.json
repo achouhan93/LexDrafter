@@ -1,0 +1,53 @@
+{
+  "term": "programme time",
+  "celex_id": "32012R0932",
+  "original_definition": "'programme time' means the time that elapses from the initiation of the programme until the completion of the programme, excluding any end-user programmed delay;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018programme time\u2019 means the time that elapses from the initiation of the programme until the completion of the programme, excluding any end-user programmed delay;",
+      "\u2018equivalent household tumble drier\u2019 means a model of household tumble drier placed on the market with the same rated capacity, technical and performance characteristics, energy consumption, condensation efficiency where relevant, standard cotton programme time and airborne acoustical noise emissions during drying as another model of household tumble drier placed on the market under a different commercial code number by the same manufacturer.",
+      "\u2018equivalent household tumble drier\u2019 means a model of household tumble drier placed on the market with the samerated capacity, technical and performance characteristics, energy consumption,condensation efficiencywhere relevant,standard cotton programmeprogramme time and airborne acoustical noise emissions during drying as another model of household tumble drier placed on the market under a different commercial code number by the same manufacturer."
+    ],
+    "Article 8": [
+      "indicative information on theprogramme timeand energy consumption for the main drying programmes at both full, and, if applicable,partial load;",
+      "The weighted programme time (Tt\n) for the standard cotton programme is calculated in minutes as follows and rounded to the nearest minute:",
+      "Tt\n is the weightedprogramme timefor thestandard cotton programme.",
+      "The weightedprogramme time(Tt\n) for thestandard cotton programme is calculated in minutes as follows and rounded to the nearest minute:",
+      "\u2014   Tdry1\u20442=programme timefor thestandard cotton programmeatpartial load, in minutes and rounded to the nearest minute.",
+      "\u2014   Tdry=programme timefor thestandard cotton programme at full load, in minutes and rounded to the nearest minute,",
+      "\u2014   Tdry1\u20442= programme time for the standard cotton programme at partial load, in minutes and rounded to the nearest minute.",
+      "Tt\n is the weighted programme time for the standard cotton programme.",
+      "indicative information on the programme time and energy consumption for the main drying programmes at both full, and, if applicable, partial load;",
+      "\u2014   Tdry= programme time for the standard cotton programme at full load, in minutes and rounded to the nearest minute,"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 8": {
+      "article_score": 10,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

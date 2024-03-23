@@ -1,0 +1,22 @@
+{
+  "term": "fossil fuel",
+  "celex_id": "32013R0811",
+  "original_definition": "'fossil fuel' means a gaseous or liquid fuel of fossil origin;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018fossil fuel\u2019 means a gaseous or liquid fuel of fossil origin;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}
