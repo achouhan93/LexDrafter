@@ -31,7 +31,7 @@ CREATE TABLE IF NOT EXISTS public.lexdrafter_energy_term_relations (
 	doc_id INT,
 	term_id1 INT,
 	term TEXT NOT NULL,
-	relationship_id INT REFERENCES lexdrafter_relationship (id),
+	relationship_id INT REFERENCES lexdrafter_energy_relationship (id),
 	PRIMARY KEY (id),
 	FOREIGN KEY (doc_id, term_id1) REFERENCES lexdrafter_energy_definition_term(doc_id, term_id)
 );
@@ -41,6 +41,8 @@ CREATE TABLE IF NOT EXISTS public.lexdrafter_energy_relationship (
 	description VARCHAR NOT NULL UNIQUE,
     PRIMARY KEY (id)
 );
+
+INSERT INTO public.lexdrafter_energy_relationship (id, description) VALUES (1, 'is a hyponym of'), (2, 'is a meronym of'), (3, 'are synonyms');
 
 CREATE TABLE IF NOT EXISTS public.lexdrafter_energy_progress_table (
 	celex_id VARCHAR (20) NOT NULL,
