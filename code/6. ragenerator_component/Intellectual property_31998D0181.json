@@ -1,0 +1,22 @@
+{
+  "term": "Intellectual property",
+  "celex_id": "31998D0181",
+  "original_definition": "'Intellectual property' includes copyrights and related rights, trademarks, geographical indications, industrial designs, patents, layout designs of integrated circuits and the protection of undisclosed information.",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 1": [
+      "\u2018Intellectual property\u2019 includes copyrights and related rights, trademarks, geographical indications, industrial designs, patents, layout designs of integrated circuits and the protection of undisclosed information."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

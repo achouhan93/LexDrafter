@@ -1,0 +1,49 @@
+{
+  "term": "fluorescent light source",
+  "celex_id": "32019R2015",
+  "original_definition": "'fluorescent light source' means the phenomenon or a light source using an electric gas discharge of the low-pressure mercury type in which most of the light is emitted by one or more layers of phosphors excited by the ultraviolet radiation from the discharge. Fluorescent light sources may have one (\u2018single-capped\u2019) or two (\u2018double-capped\u2019) connections (\u2018caps\u2019) to their electricity supply. For the purposes of this Regulation, magnetic induction light sources are also considered as fluorescent light sources;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018fluorescence\u2019 or \u2018fluorescent light source\u2019 (FL) means the phenomenon or a light source using an electric gas discharge of the low-pressure mercury type in which most of the light is emitted by one or more layers of phosphors excited by the ultraviolet radiation from the discharge. Fluorescent light sources may have one (\u2018single-capped\u2019) or two (\u2018double-capped\u2019) connections (\u2018caps\u2019) to their electricity supply. For the purposes of this Regulation, magnetic induction light sources are also considered as fluorescent light sources;",
+      "\u2018fluorescence\u2019 or \u2018fluorescentlight source\u2019 (FL) means the phenomenon or a light source using an electricgas dischargeof the low-pressure mercury type in which most of the light is emitted by one or more layers of phosphors excited by the ultraviolet radiation from the discharge.Fluorescent light sources may have one (\u2018single-capped\u2019) or two (\u2018double-capped\u2019) connections (\u2018caps\u2019) to their electricity supply. For the purposes of this Regulation, magnetic induction light sources are also considered as fluorescent light sources;"
+    ],
+    "Article 10": [
+      "\u2018yes\u2019: Claim that a LEDlight sourcereplaces afluorescent light source without integrated ballast of a particular wattage. This claim may be made only if:",
+      "the wattage of the LEDlight sourceis not higher than the wattage of thefluorescent light source it is claimed to replace.",
+      "theluminous fluxof the LEDlight sourceis not lower than the luminous flux of thefluorescent light source of the claimed wattage. The luminous flux of the fluorescent light source shall be obtained by multiplying the claimed wattage with the minimum luminous efficacy value corresponding to the fluorescent light source in Table 8; and",
+      "Fluorescent light sources",
+      "Claims that an LED light source replaces a fluorescent light source without integrated ballast of a particular wattage.",
+      "Claims that an LEDlight sourcereplaces afluorescent light source without integrated ballast of a particular wattage.",
+      "\u2018yes\u2019: Claim that a LED light source replaces a fluorescent light source without integrated ballast of a particular wattage. This claim may be made only if:",
+      "the wattage of the LED light source is not higher than the wattage of the fluorescent light source it is claimed to replace.",
+      "the luminous flux of the LED light source is not lower than the luminous flux of the fluorescent light source of the claimed wattage. The luminous flux of the fluorescent light source shall be obtained by multiplying the claimed wattage with the minimum luminous efficacy value corresponding to the fluorescent light source in Table 8; and"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        2
+      ]
+    },
+    "Article 10": {
+      "article_score": 13,
+      "statement_scores": [
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        3
+      ]
+    }
+  }
+}

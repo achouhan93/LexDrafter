@@ -1,0 +1,257 @@
+{
+  "term": "allocation constraints",
+  "celex_id": "32015R1222",
+  "original_definition": "'allocation constraints' means the constraints to be respected during capacity allocation to maintain the transmission system within operational security limits and have not been translated into cross-zonal capacity or that are needed to increase the efficiency of capacity allocation;",
+  "generated_definition": "'allocation constraints' means constraints on the allocation of cross-zonal capacity, provided to relevant nemos in time to ensure the publication of cross-zonal capacity and allocation constraints to the market no later than 11:00 market time day-ahead, or if not possible, 30 minutes before the day-ahead market gate closure time.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018allocation constraints\u2019 means the constraints to be respected during capacity allocation to maintain the transmission system within operational security limits and have not been translated into cross-zonal capacity or that are needed to increase the efficiency of capacity allocation;",
+      "\u2018allocation constraints\u2019 means the constraints to be respected during capacity allocation to maintain the transmission system withinoperational security limits and have not been translated into cross-zonal capacity or that are needed to increase the efficiency of capacity allocation;",
+      "\u2018market congestion\u2019 means a situation in which the economic surplus for single day-ahead or intraday coupling has been limited by cross-zonal capacity orallocation constraints;",
+      "\u2018market congestion\u2019 means a situation in which the economic surplus for single day-ahead or intraday coupling has been limited by cross-zonal capacity or allocation constraints;"
+    ],
+    "Article 7": [
+      "processing input data on cross-zonal capacity andallocation constraintsprovided bycoordinated capacity calculators in accordance with Articles 46 and 58;",
+      "processing input data on cross-zonal capacity and allocation constraints provided by coordinated capacity calculators in accordance with Articles 46 and 58;"
+    ],
+    "Article 8": [
+      "verifysingle day-ahead couplingresults in terms of validated cross-zonal capacities andallocation constraints in accordance with Articles 48(2) and 52;",
+      "calculate and send cross zonal capacities and allocation constraints in accordance with Articles 46 and 58;",
+      "verify single day-ahead coupling results in terms of validated cross-zonal capacities and allocation constraints in accordance with Articles 48(2) and 52;"
+    ],
+    "Article 21": [
+      "the methodologies for determining operational security limits, contingencies relevant to capacity calculation and allocation constraints that may be applied in accordance with Article 23;",
+      "the methodologies for determiningoperational security limits, contingencies relevant to capacity calculation andallocation constraints that may be applied in accordance with Article 23;"
+    ],
+    "Article 23": [
+      "3.   If TSOs apply allocation constraints, they can only be determined using:",
+      "Methodologies for operational security limits, contingencies and allocation constraints",
+      "Methodologies foroperational security limits, contingencies andallocation constraints"
+    ],
+    "Article 27": [
+      "the operational security limits, contingencies and allocation constraints used for capacity calculation;",
+      "theoperational security limits, contingencies andallocation constraints used for capacity calculation;"
+    ],
+    "Article 29": [
+      "1.   For each capacity calculation time-frame, each TSO shall provide the coordinated capacity calculators and all other TSOs in the capacity calculation region with the following items: operational security limits, generation shift keys, remedial actions, reliability margins, allocation constraints and previously allocated cross-zonal capacity.",
+      "1.   For each capacity calculation time-frame, each TSO shall provide thecoordinated capacity calculators and all other TSOs in thecapacity calculation regionwith the following items:operational security limits,generation shift keys,remedial actions,reliability margins,allocation constraints and previously allocated cross-zonal capacity."
+    ],
+    "Article 30": [
+      "3.   Eachcoordinated capacity calculatorshall provide the validated cross-zonal capacities andallocation constraints for the purposes of allocating capacity in accordance with Articles 46 and 58.",
+      "3.   Each coordinated capacity calculator shall provide the validated cross-zonal capacities and allocation constraints for the purposes of allocating capacity in accordance with Articles 46 and 58.",
+      "2.   Each TSO shall send its capacity validation andallocation constraintsto the relevantcoordinated capacity calculators and to the other TSOs of the relevantcapacity calculation regions.",
+      "2.   Each TSO shall send its capacity validation and allocation constraints to the relevant coordinated capacity calculators and to the other TSOs of the relevant capacity calculation regions."
+    ],
+    "Article 31": [
+      "statistical indicators of cross-zonal capacity, including allocation constraints where appropriate for each capacity calculation time-frame;"
+    ],
+    "Article 37": [
+      "all TSOs shall jointly provide all NEMOs with a proposal for a common set of requirements for efficient capacity allocation to enable the development of the price coupling algorithm and of the continuous trading matching algorithm. These requirements shall specify functionalities and performance, including deadlines for the delivery of single day-ahead and intraday coupling results and details of the cross-zonal capacity and allocation constraints to be respected;"
+    ],
+    "Article 38": [
+      "respects cross-zonal capacity and allocation constraints;"
+    ],
+    "Article 39": [
+      "allocation constraints established in accordance with Article 23(3);",
+      "4.   All TSOs shall verify that the results of the price coupling algorithm are consistent with cross-zonal capacity and allocation constraints.",
+      "4.   All TSOs shall verify that the results of theprice coupling algorithmare consistent with cross-zonal capacity andallocation constraints."
+    ],
+    "Article 46": [
+      "In such cases, cross-zonal capacity and allocation constraints shall be provided by the coordinated capacity calculator no later than 30 minutes before the day-ahead market gate closure time.",
+      "1.   Each coordinated capacity calculator shall ensure that cross-zonal capacity and allocation constraints shall be provided to relevant NEMOs in time to ensure the publication of cross-zonal capacity and of allocation constraints to the market no later than 11.00 market time day-ahead.",
+      "1.   Eachcoordinated capacity calculatorshall ensure that cross-zonal capacity andallocation constraintsshall be provided to relevant NEMOs in time to ensure the publication of cross-zonal capacity and of allocation constraints to the market no later than 11.00market time day-ahead.",
+      "2.   If acoordinated capacity calculatoris unable to provide for cross-zonal capacity andallocation constraintsone hour prior to theday-ahead market gate closure time, that coordinated capacity calculator shall notify the relevant NEMOs. These NEMOs shall immediately publish a notice for market participants.",
+      "In such cases, cross-zonal capacity andallocation constraintsshall be provided by thecoordinated capacity calculatorno later than 30 minutes before theday-ahead market gate closure time.",
+      "2.   If a coordinated capacity calculator is unable to provide for cross-zonal capacity and allocation constraints one hour prior to the day-ahead market gate closure time, that coordinated capacity calculator shall notify the relevant NEMOs. These NEMOs shall immediately publish a notice for market participants."
+    ],
+    "Article 48": [
+      "2.   Each TSO shall verify that the single day-ahead coupling results of the price coupling algorithm referred to in Article 39(2)(b) have been calculated in accordance with the allocation constraints and validated cross-zonal capacity.",
+      "2.   Each TSO shall verify that thesingle day-ahead couplingresults of theprice coupling algorithmreferred to in Article 39(2)(b) have been calculated in accordance with theallocation constraints and validated cross-zonal capacity."
+    ],
+    "Article 51": [
+      "respects the allocation constraints provided in accordance with Article 58(1);"
+    ],
+    "Article 52": [
+      "3.   All TSOs shall verify that the results of the continuous trading matching algorithm are consistent with cross-zonal capacity and allocation constraints in accordance with Article 58(2)."
+    ],
+    "Article 58": [
+      "1.   Eachcoordinated capacity calculatorshall ensure that cross-zonal capacity andallocation constraintsare provided to the relevant NEMOs no later than 15 minutes before theintraday cross-zonal gate opening time.",
+      "1.   Each coordinated capacity calculator shall ensure that cross-zonal capacity and allocation constraints are provided to the relevant NEMOs no later than 15 minutes before the intraday cross-zonal gate opening time.",
+      "2.   If updates to cross-zonal capacity and allocation constraints are required, due to operational changes on the transmission system, each TSO shall notify the coordinated capacity calculators in its capacity calculation region. The coordinated capacity calculators shall then notify the relevant NEMOs.",
+      "2.   If updates to cross-zonal capacity andallocation constraintsare required, due to operational changes on the transmission system, each TSO shall notify thecoordinated capacity calculators in itscapacity calculation region. The coordinated capacity calculators shall then notify the relevant NEMOs."
+    ],
+    "Article 68": [
+      "across all bidding zones, taking into account, where appropriate, allocation constraints, there are no deviations between the sum of energy transferred out of all surplus bidding zones and the sum of energy transferred into all deficit bidding zones;",
+      "electricity exports and electricity imports between bidding zones equal each other, with any deviations resulting only from considerations of allocation constraints, where appropriate."
+    ],
+    "Article 70": [
+      "1.   Prior to theday-ahead firmness deadline, eachcoordinated capacity calculatormay adjust cross-zonal capacity andallocation constraints provided to relevant NEMOs.",
+      "Firmnessof day-ahead capacity andallocation constraints",
+      "Firmness of day-ahead capacity and allocation constraints",
+      "1.   Prior to the day-ahead firmness deadline, each coordinated capacity calculator may adjust cross-zonal capacity and allocation constraints provided to relevant NEMOs.",
+      "2.   After theday-ahead firmness deadline, all cross-zonal capacity andallocation constraints shall be firm for day-ahead capacity allocation unless the requirements of Article 46(2) are met, in which case cross-zonal capacity and allocation constraints shall be firm as soon as they are submitted to relevant NEMOs.",
+      "2.   After the day-ahead firmness deadline, all cross-zonal capacity and allocation constraints shall be firm for day-ahead capacity allocation unless the requirements of Article 46(2) are met, in which case cross-zonal capacity and allocation constraints shall be firm as soon as they are submitted to relevant NEMOs."
+    ],
+    "Not Article": [
+      "Inorderfor the implicit auctions to take place Union-wide, it is necessary to ensure Union-wide price coupling process. This process should respect transmission capacity andallocation constraints and should be designed in a manner that allows for its application or extension across the entire Union and for the development of future new product types.",
+      "In order for the implicit auctions to take place Union-wide, it is necessary to ensure Union-wide price coupling process. This process should respect transmission capacity and allocation constraints and should be designed in a manner that allows for its application or extension across the entire Union and for the development of future new product types."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 7": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 8": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 21": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 23": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 27": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 29": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 30": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 31": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 37": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 38": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 39": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 46": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        2,
+        2,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 48": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 51": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 52": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 58": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 68": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 70": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

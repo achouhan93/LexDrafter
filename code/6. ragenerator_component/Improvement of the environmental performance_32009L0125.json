@@ -1,0 +1,22 @@
+{
+  "term": "Improvement of the environmental performance",
+  "celex_id": "32009L0125",
+  "original_definition": "'Improvement of the environmental performance' means the process of enhancing the environmental performance of a product over successive generations, although not necessarily in respect of all environmental aspects of the product simultaneously;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Improvement of the environmental performance\u2019 means the process of enhancing the environmental performance of a product over successive generations, although not necessarily in respect of all environmental aspects of the product simultaneously;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

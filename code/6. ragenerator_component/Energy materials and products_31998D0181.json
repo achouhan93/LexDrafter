@@ -1,0 +1,31 @@
+{
+  "term": "Energy materials and products",
+  "celex_id": "31998D0181",
+  "original_definition": "'Energy materials and products' means the items included in Annex EM.",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 1": [
+      "\u2018Energy materials and products\u2019, based on the Harmonized System of the Customs Cooperation Council and the combined nomenclature of the European Communities, means the items included in Annex EM."
+    ],
+    "Article 50": [
+      "Energy materials and products"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 50": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

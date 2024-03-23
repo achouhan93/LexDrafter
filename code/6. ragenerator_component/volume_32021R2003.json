@@ -1,0 +1,61 @@
+{
+  "term": "volume",
+  "celex_id": "32021R2003",
+  "original_definition": "'volume' means the transferred volume of renewable energy to be deducted from the selling Member State\u2019s statistical accounts and added to those of the buying Member State pursuant to Article 8(1) of Directive (EU) 2018/2001.",
+  "generated_definition": "'volume' means the amount of data or information processed, transferred, or stored in a given period of time.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018additional conditions\u2019 means criteria, beyond the timing, price and volume of a statistical transfer, that Member States may choose to attach to a statistical transfer agreement;",
+      "\u2018additional conditions\u2019 means criteria, beyond the timing, price andvolumeof astatistical transfer, that Member States may choose to attach to a statistical transfer agreement;"
+    ],
+    "Article\u00a03": [
+      "include information provided by Member States on supply and demand forstatistical transfers ofrenewable energy, includingvolume, price and time frame as well as anyadditional conditions for the transfer;",
+      "increase transparency on concluded statistical transfer agreements by providing key information on those transfers, including information about volumes, prices and timing as well as the related statistical transfer agreement documents, where they are publicly available.",
+      "include information provided by Member States on supply and demand for statistical transfers of renewable energy, including volume, price and time frame as well as any additional conditions for the transfer;",
+      "increase transparency on concludedstatistical transferagreements by providing key information on those transfers, including information aboutvolumes, prices and timing as well as the related statistical transfer agreement documents, where they are publicly available."
+    ],
+    "Article\u00a05": [
+      "thevolumeofenergy from renewable sourceswhich they seek to buy or sell from or to another Member State through astatistical transfer, including, as applicable, any fixed or flexible volume component;",
+      "the volume of energy from renewable sources which they seek to buy or sell from or to another Member State through a statistical transfer, including, as applicable, any fixed or flexible volume component;"
+    ],
+    "Article\u00a07": [
+      "3.   The Commission shall make available on the URDP information onstatistical transferagreements concluded on it, including their timing,volume, price,additional conditions and the related statistical transfer agreement, as well as information on the timing, volume and the participating Member States with regard to statistical transfer agreements concluded on the basis of Article 8 of Directive (EU) 2018/2001 as well as on Article 6 of Directive 2009/28/EC outside the platform.",
+      "3.   The Commission shall make available on the URDP information on statistical transfer agreements concluded on it, including their timing, volume, price, additional conditions and the related statistical transfer agreement, as well as information on the timing, volume and the participating Member States with regard to statistical transfer agreements concluded on the basis of Article 8 of Directive (EU) 2018/2001 as well as on Article 6 of Directive 2009/28/EC outside the platform."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article\u00a03": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    "Article\u00a05": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        2
+      ]
+    },
+    "Article\u00a07": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    }
+  }
+}

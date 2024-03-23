@@ -1,0 +1,45 @@
+{
+  "term": "gross volume",
+  "celex_id": "32019R2018",
+  "original_definition": "'gross volume' means the volume within the inside liners of the compartment without internal fittings and with door or lid closed, in cubic decimeters (dm3) or litres (L);",
+  "generated_definition": "'gross volume' means the sum of the gross volumes of all compartments with chilled operating temperatures, expressed in litres (l) and rounded to the nearest integer.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018net volume\u2019 means the part of the gross volume of any compartment which is left after deduction of the volume of components and spaces unusable for the storage or display of foodstuffs and other items, in cubic decimetres (dm3) or litres (L);",
+      "\u2018gross volume\u2019 means the volume within the inside liners of the compartment without internal fittings and with door or lid closed, in cubic decimeters (dm3) or litres (L);",
+      "\u2018net volume\u2019 means the part of thegross volumeof anycompartmentwhich is left after deduction of the volume of components and spaces unusable for the storage or display offoodstuffs and other items, in cubic decimetres (dm3) or litres (L);",
+      "\u2018gross volume\u2019 means the volume within the inside liners of thecompartment without internal fittings and with door or lid closed, in cubic decimeters (dm3) or litres (L);"
+    ],
+    "Article 9": [
+      "Gross volume, and gross compartment volume where applicable",
+      "the sum of the gross volumes of all compartments with chilled operating temperatures, expressed in litres (L) and rounded to the nearest integer;",
+      "the sum of thegross volumes of allcompartments withchilled operating temperatures, expressed in litres (L) and rounded to the nearest integer;",
+      "Gross volume, and grosscompartment volume where applicable",
+      "Gross volume (dm3 or L)"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

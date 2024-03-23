@@ -1,0 +1,37 @@
+{
+  "term": "petrol vapour capture efficiency",
+  "celex_id": "32009L0126",
+  "original_definition": "'petrol vapour capture efficiency' means the amount of petrol vapour captured by the Stage II petrol vapour recovery system compared to the amount of petrol vapour that would otherwise be emitted to the atmosphere in the absence of such a system and expressed as a percentage;",
+  "generated_definition": "'petrol vapour capture efficiency' means the efficiency of capturing petrol vapour during the stage ii petrol vapour recovery process, as determined by testing the system's performance at least once every three years or annually by checking the vapour/petrol ratio under simulated petrol flow conditions or by any other appropriate methodology.",
+  "existing_sentences": {
+    "Article 5": [
+      "2.   Where an automatic monitoring system has been installed, Member States shall ensure that thepetrol vapour capture efficiencyis tested at least once every three years. Any such automatic monitoring system shall automatically detect faults in the proper functioning of theStage II petrol vapour recovery systemand in the automatic monitoring system itself, indicate faults to theservice station operator and automatically stop the flow of petrol from the faulty dispenser if the fault is not rectified within seven days.",
+      "1.   Member States shall ensure that the in-service petrol vapour capture efficiency of Stage II petrol vapour recovery systems is tested at least once each year either by checking that the vapour/petrol ratio under simulated petrol flow conditions is in conformity with Article 4(2) or by any other appropriate methodology.",
+      "2.   Where an automatic monitoring system has been installed, Member States shall ensure that the petrol vapour capture efficiency is tested at least once every three years. Any such automatic monitoring system shall automatically detect faults in the proper functioning of the Stage II petrol vapour recovery system and in the automatic monitoring system itself, indicate faults to the service station operator and automatically stop the flow of petrol from the faulty dispenser if the fault is not rectified within seven days.",
+      "1.   Member States shall ensure that the in-servicepetrol vapour capture efficiencyofStage II petrol vapour recovery systems is tested at least once each year either by checking that thevapour/petrol ratio under simulated petrol flow conditions is in conformity with Article 4(2) or by any other appropriate methodology."
+    ],
+    "Article 8": [
+      "Harmonised methods and standards may be adopted for the purposes of Articles 4 and 5. Where necessary to ensure consistency with any relevant standard drawn up by the European Committee for Standardisation (CEN), those Articles, with the exception of the petrol vapour capture efficiency and vapour/petrol ratio specified in Article 4 and the time periods specified in Article 5, may be adapted to technical progress."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 5": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 8": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

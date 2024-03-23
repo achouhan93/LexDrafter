@@ -1,0 +1,39 @@
+{
+  "term": "effective international decision to release stocks",
+  "celex_id": "32009L0119",
+  "original_definition": "'effective international decision to release stocks' means any decision in force taken by the Governing Board of the International Energy Agency to make crude oil or petroleum products available to the market by a release of its members 'stocks and/or additional measures;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018effective international decision to release stocks\u2019 means any decision in force taken by the Governing Board of the International Energy Agency to make crude oil or petroleum products available to the market by a release of its members 'stocks and/or additional measures;",
+      "\u2018major supply disruption\u2019 means a substantial and sudden drop in the supply of crude oil or petroleum products to the Community or to a Member State, irrespective of whether or not it has led to an effective international decision to release stocks;",
+      "\u2018major supply disruption\u2019 means a substantial and sudden drop in the supply of crude oil or petroleum products to the Community or to a Member State, irrespective of whether or not it has led to aneffective international decision to release stocks;"
+    ],
+    "Article 20": [
+      "4.   In the absence of an effective international decision to release stocks but when difficulties arise in the supply of crude oil or petroleum products to the Community or to a Member State, the Commission shall inform the IEA where applicable, and coordinate with it as appropriate, and arrange a consultation of the Coordination Group as soon as possible, either at the request of a Member State or on its own initiative. When a consultation of the Coordination Group is requested by a Member State, it shall be arranged within 4 days of the request at most, unless the Member State agrees to a longer period. On the basis of the results of the examination of the situation by the Coordination Group, the Commission shall determine whether a major supply disruption has occurred.",
+      "3.   In the event of an effective international decision to release stocks affecting one or more Member States:",
+      "4.   In the absence of aneffective international decision to release stocksbut when difficulties arise in the supply of crude oil or petroleum products to the Community or to a Member State, the Commission shall inform the IEA where applicable, and coordinate with it as appropriate, and arrange a consultation of the Coordination Group as soon as possible, either at the request of a Member State or on its own initiative. When a consultation of the Coordination Group is requested by a Member State, it shall be arranged within 4 days of the request at most, unless the Member State agrees to a longer period. On the basis of the results of the examination of the situation by the Coordination Group, the Commission shall determine whether amajor supply disruption has occurred."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 20": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

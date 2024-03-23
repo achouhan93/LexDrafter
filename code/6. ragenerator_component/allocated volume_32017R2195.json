@@ -1,0 +1,56 @@
+{
+  "term": "allocated volume",
+  "celex_id": "32017R2195",
+  "original_definition": "'allocated volume' means an energy volume physically injected or withdrawn from the system and attributed to a balance responsible party, for the calculation of the imbalance of that balance responsible party;",
+  "generated_definition": "'allocated volume' means the allocated volume is the amount of electricity that has been reserved or allocated for a specific party or group of parties in a balancing group. it is determined by the tsos based on the final position and the imbalance adjustment.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018allocated volume\u2019 means an energy volume physically injected or withdrawn from the system and attributed to abalance responsible party, for the calculation of theimbalance of that balance responsible party;",
+      "\u2018imbalance\u2019 means an energy volume calculated for abalance responsible partyand representing the difference between theallocated volumeattributed to that balance responsible party and the finalpositionof that balance responsible party, including anyimbalance adjustmentapplied to that balance responsible party, within a givenimbalance settlement period;",
+      "\u2018allocated volume\u2019 means an energy volume physically injected or withdrawn from the system and attributed to a balance responsible party, for the calculation of the imbalance of that balance responsible party;",
+      "\u2018imbalance\u2019 means an energy volume calculated for a balance responsible party and representing the difference between the allocated volume attributed to that balance responsible party and the final position of that balance responsible party, including any imbalance adjustment applied to that balance responsible party, within a given imbalance settlement period;"
+    ],
+    "Article 52": [
+      "the calculation of animbalance adjustmentpursuant to Article 49 and the calculation of aposition, an imbalance and anallocated volume following one of the approaches pursuant to Article 54(3);",
+      "the calculation of an imbalance adjustment pursuant to Article 49 and the calculation of a position, an imbalance and an allocated volume following one of the approaches pursuant to Article 54(3);"
+    ],
+    "Article 54": [
+      "the determination of the allocated volume;",
+      "5.   Allocated volume shall not be calculated for a balance responsible party which does not cover injections or withdrawals.",
+      "1.   Each TSO shall calculate within its scheduling area or scheduling areas when appropriate the finalposition, theallocated volume, theimbalance adjustment and the imbalance:",
+      "5.Allocated volumeshall not be calculated for abalance responsible party which does not cover injections or withdrawals.",
+      "1.   Each TSO shall calculate within its scheduling area or scheduling areas when appropriate the final position, the allocated volume, the imbalance adjustment and the imbalance:"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    "Article 52": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 54": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

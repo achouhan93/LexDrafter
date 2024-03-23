@@ -1,0 +1,36 @@
+{
+  "term": "rotodynamic water pump",
+  "celex_id": "32012R0547",
+  "original_definition": "'rotodynamic water pump' means a water pump that moves clean water by means of hydrodynamic forces;",
+  "generated_definition": "'rotodynamic water pump' means a rotodynamic water pump is a type of pump that uses the principles of rotodynamics to move liquids. it is typically used in water supply and irrigation systems, and can be classified into several types, including end suction, submersible multistage, and vertical multistage.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018rotodynamic water pump\u2019 means a water pump that movesclean water by means of hydrodynamic forces;",
+      "\u2018End suction water pump\u2019 means a glanded single stage end suction rotodynamic water pump designed for pressures up to 16 bar, with a specific speed ns between 6 and 80 rpm, a minimum rated flow of 6 m3/h (1,667\u00b710\u20133 m3/s), a maximum shaft power of 150 kW, a maximum head of 90 m at nominal speed of 1 450 rpm and a maximum head of 140 m at nominal speed of 2 900 rpm;",
+      "\u2018rotodynamic water pump\u2019 means a water pump that moves clean water by means of hydrodynamic forces;",
+      "\u2018Submersible multistage water pump\u2019 (MSS) means a multi stage (i > 1) rotodynamic water pump with a nominal outer diameter of 4\u2032\u2032 (10,16 cm) or 6\u2032\u2032 (15,24 cm) designed to be operated in a borehole at nominal speed of 2 900 rpm, at operating temperatures within a range of 0 \u00b0C and 90 \u00b0C;",
+      "\u2018End suction water pump\u2019 means a glanded single stage end suctionrotodynamic water pump designed for pressures up to 16 bar, with a specific speed ns between 6 and 80 rpm, a minimum rated flow of 6 m3/h (1,667\u00b710\u20133 m3/s), a maximum shaft power of 150 kW, a maximum head of 90 m at nominal speed of 1 450 rpm and a maximum head of 140 m at nominal speed of 2 900 rpm;",
+      "\u2018Vertical multistage water pump\u2019 (MS-V) means a glanded multi stage (i > 1)rotodynamic water pump in which the impellers are assembled on a vertical rotating shaft, which is designed for pressures up to 25 bar, with a nominal speed of 2 900 rpm and a maximum flow of 100 m3/h (27,78\u00b710\u20133 m3/s);",
+      "\u2018Submersible multistage water pump\u2019 (MSS) means a multi stage (i > 1)rotodynamic water pump with a nominal outer diameter of 4\u2032\u2032 (10,16 cm) or 6\u2032\u2032 (15,24 cm) designed to be operated in a borehole at nominal speed of 2 900 rpm, at operating temperatures within a range of 0 \u00b0C and 90 \u00b0C;",
+      "\u2018Vertical multistage water pump\u2019 (MS-V) means a glanded multi stage (i > 1) rotodynamic water pump in which the impellers are assembled on a vertical rotating shaft, which is designed for pressures up to 25 bar, with a nominal speed of 2 900 rpm and a maximum flow of 100 m3/h (27,78\u00b710\u20133 m3/s);"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 6,
+      "statement_scores": [
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

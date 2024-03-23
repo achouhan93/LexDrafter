@@ -1,0 +1,37 @@
+{
+  "term": "point of sale",
+  "celex_id": "32014R0065",
+  "original_definition": "'point of sale' means a location where appliances are displayed and/or offered for sale or hire;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018point of sale\u2019 means a location where appliances are displayed and/or offered for sale or hire;"
+    ],
+    "Article 4": [
+      "each domestic range hood presented at the point of sale is accompanied by the label provided by suppliers in accordance with Article 3(1)(b)(i) displayed on the front or top of the appliance, or in the immediacy of the appliance, so as to be clearly visible and identifiable as the label belonging to the model without having to read the brand name and model number on the label;",
+      "each domesticrange hoodpresented at thepoint of sale is accompanied by the label provided by suppliers in accordance with Article 3(1)(b)(i) displayed on the front or top of the appliance, or in the immediacy of the appliance, so as to be clearly visible and identifiable as the label belonging to the model without having to read the brand name and model number on the label;",
+      "eachovenpresented at thepoint of salecarries the label for eachcavity provided by suppliers in accordance with Article 3(1)(a)(i) displayed on the front or top of the appliance, or in the immediacy of the appliance, so as to be clearly visible and identifiable as the label belonging to the model without having to read the brand name and model number on the label;",
+      "each oven presented at the point of sale carries the label for each cavity provided by suppliers in accordance with Article 3(1)(a)(i) displayed on the front or top of the appliance, or in the immediacy of the appliance, so as to be clearly visible and identifiable as the label belonging to the model without having to read the brand name and model number on the label;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 4": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

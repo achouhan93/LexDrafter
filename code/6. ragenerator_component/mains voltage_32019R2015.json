@@ -1,0 +1,26 @@
+{
+  "term": "mains voltage",
+  "celex_id": "32019R2015",
+  "original_definition": "'mains voltage' means the electricity supply of 230 (\u00b1 10 %) volt of alternating current at 50 Hz;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018mains\u2019 or \u2018mains voltage\u2019 (MV) means the electricity supply of 230 (\u00b1 10 %) volt of alternating current at 50 Hz;",
+      "\u2018LED package\u2019 means a single electric part comprising principally at least one LED die. It does not include a control gear or parts of it, a cap or active electronic components and is not connected directly to the mains voltage. It can include one or more of the following: optical elements, light converters (phosphors), thermal, mechanical and electric interfaces or parts to address electrostatic discharge concerns. Any similar light-emitting devices that are intended to be used directly in an LED luminaire, are considered to be light sources;",
+      "\u2018LED package\u2019 means a single electric part comprising principally at least oneLED die. It does not include acontrol gearor parts of it, a cap or active electronic components and is not connected directly to themains voltage. It can include one or more of the following: optical elements,lightconverters (phosphors), thermal, mechanical and electric interfaces or parts to address electrostatic discharge concerns. Any similar light-emitting devices that are intended to be used directly in an LED luminaire, are considered to belight sources;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        1
+      ]
+    }
+  }
+}

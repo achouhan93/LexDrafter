@@ -1,0 +1,101 @@
+{
+  "term": "constraint",
+  "celex_id": "32017R1485",
+  "original_definition": "'constraint' means a situation in which there is a need to prepare and activate a remedial action in order to respect operational security limits;",
+  "generated_definition": "'constraint' means a condition or situation that limits or restricts a tso's ability to operate its network or perform its functions, resulting in a potential impact on the security of the european electricity system.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018constraint\u2019 means a situation in which there is a need to prepare and activate a remedial action in order to respect operational security limits;",
+      "\u2018constraint\u2019 means a situation in which there is a need to prepare and activate a remedial action in order to respectoperational security limits;"
+    ],
+    "Article 17": [
+      "the statistics regarding constraints, including their duration, location and number of occurrences together with the associated remedial actions activated and their cost in case they have been incurred;"
+    ],
+    "Article 23": [
+      "5.   Whereconstraints have only consequences on thelocal statewithin the TSO's control area and theoperational security violation does not need to be managed in a coordinated way, the TSO responsible for its management may decide not to activate remedial actions with costs to relieve them.",
+      "5.   Where constraints have only consequences on the local state within the TSO's control area and the operational security violation does not need to be managed in a coordinated way, the TSO responsible for its management may decide not to activate remedial actions with costs to relieve them."
+    ],
+    "Article 73": [
+      "2.   When a TSO detects a possible constraint, it shall design remedial actions in accordance with Articles 20 to 23. If remedial actions without costs are not available and the constraint is linked to the planned unavailability of some relevant assets, the constraint shall constitute an outage planning incompatibility and the TSO shall initiate outage coordination in accordance with Article 95 or 100 depending of the time of the year when this action is initiated.",
+      "1.   Each TSO shall perform year-ahead and, where applicable, week-ahead operational security analyses in order to detect at least the following constraints:",
+      "2.   When a TSO detects a possibleconstraint, it shall design remedial actions in accordance with Articles 20 to 23. If remedial actions without costs are not available and the constraint is linked to the planned unavailability of somerelevant assets, the constraint shall constitute anoutage planning incompatibility and the TSO shall initiate outage coordination in accordance with Article 95 or 100 depending of the time of the year when this action is initiated.",
+      "1.   Each TSO shall performyear-aheadand, where applicable,week-aheadoperational securityanalyses in order to detect at least the followingconstraints:"
+    ],
+    "Article 74": [
+      "1.   Each TSO shall perform day-ahead, intraday and close to real-time operational security analyses to detect possible constraints and prepare and activate the remedial actions with any other concerned TSOs and, if applicable, affected DSOs or SGUs.",
+      "1.   Each TSO shall perform day-ahead, intraday andclose to real-timeoperational securityanalyses to detect possibleconstraints and prepare and activate the remedial actions with any other concerned TSOs and, if applicable, affected DSOs or SGUs."
+    ],
+    "Article 76": [
+      "the classification of constraints and the remedial actions in accordance with Article 22;"
+    ],
+    "Article 78": [
+      "perform the coordinated regional operational security assessment in accordance with Article 76 on the basis of the common grid models established in accordance with Article 79, the contingency list and the operational security limits provided by each TSOs in paragraph 1. It shall deliver the results of the coordinated regional operational security assessment at least to all TSOs of the capacity calculation region. Where it detects a constraint, it shall recommend to the relevant TSOs the most effective and economically efficient remedial actions and may also recommend remedial actions other than those provided by the TSOs. This recommendation for remedial actions shall be accompanied by explanations as to its rationale;",
+      "perform the coordinated regionaloperational securityassessment in accordance with Article 76 on the basis of the common grid models established in accordance with Article 79, thecontingency listand the operational security limits provided by each TSOs in paragraph 1. It shall deliver the results of the coordinated regional operational security assessment at least to all TSOs of the capacity calculation region. Where it detects aconstraint, it shall recommend to the relevant TSOs the most effective and economically efficient remedial actions and may also recommend remedial actions other than those provided by the TSOs. This recommendation for remedial actions shall be accompanied by explanations as to its rationale;",
+      "the updated list of possible remedial actions, among the categories listed in Article 22, and their anticipated costs provided in accordance with Article 35 of Regulation (EU) 2015/1222 if a remedial action includes redispatching or countertrading, aimed at contributing to relieve any constraint identified in the region; and"
+    ],
+    "Article 115": [
+      "a list of prepared and agreed remedial actions identified to cope with constraints having cross-border relevance."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 17": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 23": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 73": {
+      "article_score": 5,
+      "statement_scores": [
+        3,
+        0,
+        2,
+        0
+      ]
+    },
+    "Article 74": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 76": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 78": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        1
+      ]
+    },
+    "Article 115": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

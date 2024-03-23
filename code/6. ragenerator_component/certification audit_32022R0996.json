@@ -1,0 +1,35 @@
+{
+  "term": "certification audit",
+  "celex_id": "32022R0996",
+  "original_definition": "'certification audit' means an initial audit before participation in a scheme, with the purpose of issuing a certificate under a voluntary scheme;",
+  "generated_definition": "'certification audit' means a mandatory surveillance audit conducted by a certification body within 6 months after the first certification, and an additional surveillance audit conducted 3 months after the first certification audit for collection points and traders dealing with both waste and residues and virgin materials.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018certification audit\u2019 means an initial audit before participation in a scheme, with the purpose of issuing acertificateunder avoluntary scheme;",
+      "\u2018certification audit\u2019 means an initial audit before participation in a scheme, with the purpose of issuing a certificate under a voluntary scheme;"
+    ],
+    "Article\u00a013": [
+      "7.   Thecertification bodyshall carry out a mandatorysurveillance auditwithin 6 months after the first certification. For collection points and traders that deal with both waste and residues and with virgin materials such as vegetable oils, an additional surveillance audit shall be conducted 3 months after the firstcertification audit, covering the first mass balance period. Where a collection point has multiple storagesites, the auditor shall audit the mass balance of every storage site.",
+      "7.   The certification body shall carry out a mandatory surveillance audit within 6 months after the first certification. For collection points and traders that deal with both waste and residues and with virgin materials such as vegetable oils, an additional surveillance audit shall be conducted 3 months after the first certification audit, covering the first mass balance period. Where a collection point has multiple storage sites, the auditor shall audit the mass balance of every storage site."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article\u00a013": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "term": "transitory admissible overloads",
+  "celex_id": "32017R1485",
+  "original_definition": "'transitory admissible overloads' means the temporary overloads of transmission system elements which are allowed for a limited period and which do not cause physical damage to the transmission system elements as long as the defined duration and thresholds are respected;",
+  "generated_definition": "'transitory admissible overloads' means in the (n-1)-situation, in thenormal stateeach tso shall maintain power flows within thetransitory admissible overloads referred to in article 25(1)(c), having prepared remedial actions to be applied and executed within the time-frame allowed for transitory admissible overloads.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018transitory admissible overloads\u2019 means the temporary overloads oftransmission system elements which are allowed for a limited period and which do not cause physical damage to the transmission system elements as long as the defined duration and thresholds are respected;",
+      "\u2018transitory admissible overloads\u2019 means the temporary overloads of transmission system elements which are allowed for a limited period and which do not cause physical damage to the transmission system elements as long as the defined duration and thresholds are respected;"
+    ],
+    "Article 25": [
+      "current limits in terms of thermal rating including the transitory admissible overloads."
+    ],
+    "Article 32": [
+      "2.   In the (N-1)-situation, in thenormal stateeach TSO shall maintain power flows within thetransitory admissible overloads referred to in Article 25(1)(c), having prepared remedial actions to be applied and executed within the time-frame allowed for transitory admissible overloads.",
+      "2.   In the (N-1)-situation, in the normal state each TSO shall maintain power flows within the transitory admissible overloads referred to in Article 25(1)(c), having prepared remedial actions to be applied and executed within the time-frame allowed for transitory admissible overloads."
+    ],
+    "Article 71": [
+      "the coherence of transitory admissible overloads of interconnectors; and"
+    ],
+    "Article 75": [
+      "transitory admissible overloads; and"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 25": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 32": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Article 71": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 75": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

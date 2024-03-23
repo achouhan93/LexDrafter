@@ -1,0 +1,24 @@
+{
+  "term": "evaporative condensing chiller",
+  "celex_id": "32015R1095",
+  "original_definition": "'evaporative condensing chiller' means a process chiller equipped with an evaporating condenser, in which the refrigerant is cooled by a combination of air movement and water spray.",
+  "generated_definition": "'evaporative condensing chiller' means an evaporative condensing chiller is a type of air-conditioning system that uses heat exchange to cool and dehumidify the air, while also recovering waste heat for use in other processes.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018evaporative condensing chiller\u2019 means aprocess chiller equipped with an evaporating condenser, in which the refrigerant is cooled by a combination of air movement and water spray.",
+      "\u2018evaporative condensing chiller\u2019 means a process chiller equipped with an evaporating condenser, in which the refrigerant is cooled by a combination of air movement and water spray."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

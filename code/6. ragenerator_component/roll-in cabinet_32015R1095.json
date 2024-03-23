@@ -1,0 +1,24 @@
+{
+  "term": "roll-in cabinet",
+  "celex_id": "32015R1095",
+  "original_definition": "'roll-in cabinet' means a professional refrigerated storage cabinet including one unique compartment that allows wheeled racks of product to be wheeled in;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018roll-in cabinet\u2019 means a professional refrigerated storage cabinet including one unique compartment that allows wheeled racks of product to be wheeled in;",
+      "\u2018roll-in cabinet\u2019 means aprofessional refrigerated storage cabinet including one unique compartment that allows wheeled racks of product to be wheeled in;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

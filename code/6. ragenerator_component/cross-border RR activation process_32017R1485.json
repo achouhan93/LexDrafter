@@ -1,0 +1,52 @@
+{
+  "term": "cross-border RR activation process",
+  "celex_id": "32017R1485",
+  "original_definition": "'cross-border RR activation process' means a process agreed between the TSOs participating in the process that allows for activation of RR connected in a different LFC area by correcting the input of the involved RRP accordingly;",
+  "generated_definition": "'cross-border RR activation process' means a process enabling a tso to perform the rrp through control program between lfc areas, involving agreements and fall-back mechanisms.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018cross-border RR activation process\u2019 means a process agreed between the TSOs participating in the process that allows for activation of RR connected in a differentLFC areaby correcting the input of the involvedRRP accordingly;",
+      "\u2018cross-border RR activation process\u2019 means a process agreed between the TSOs participating in the process that allows for activation of RR connected in a different LFC area by correcting the input of the involved RRP accordingly;"
+    ],
+    "Article 124": [
+      "All TSOs participating in the samecross-border RR activation process shall establish a cross-border RR activation agreement that shall include at least the roles and responsibilities of the TSOs in accordance with Article 149(3).",
+      "All TSOs participating in the same cross-border RR activation process shall establish a cross-border RR activation agreement that shall include at least the roles and responsibilities of the TSOs in accordance with Article 149(3)."
+    ],
+    "Article 148": [
+      "1.   The control target of thecross-border RR activation processshall aim at enabling a TSO to perform theRRPthroughcontrol programbetweenLFC areas.",
+      "1.   The control target of the cross-border RR activation process shall aim at enabling a TSO to perform the RRP through control program between LFC areas.",
+      "2.   Each TSO shall have the right to implement the cross-border RR activation process for LFC areas within the same LFC block, between different LFC blocks or between different synchronous areas by concluding a cross-border RR activation agreement.",
+      "7.   The cross-border RR activation process shall include a fall-back mechanism which shall ensure that the control program of each LFC area is zero or limited to a value for which operational security can be guaranteed.",
+      "2.   Each TSO shall have the right to implement thecross-border RR activation processforLFC areas within the sameLFC block, between different LFC blocks or between different synchronous areas by concluding a cross-border RR activation agreement."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 124": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 148": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

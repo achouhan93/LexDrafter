@@ -1,0 +1,22 @@
+{
+  "term": "Putting into service",
+  "celex_id": "32009L0125",
+  "original_definition": "'Putting into service' means the first use of a product for its intended purpose by an end-user in the Community;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Putting into service\u2019 means the first use of a product for its intended purpose by an end-user in the Community;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

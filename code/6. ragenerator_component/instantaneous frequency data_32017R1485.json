@@ -1,0 +1,44 @@
+{
+  "term": "instantaneous frequency data",
+  "celex_id": "32017R1485",
+  "original_definition": "'instantaneous frequency data' means a set of data measurements of the overall system frequency for the synchronous area with a measurement period equal to or shorter than one second used for system frequency quality evaluation purposes;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018instantaneous frequency data\u2019 means a set of data measurements of the overallsystem frequency for the synchronous area with a measurement period equal to or shorter than one second used for system frequency quality evaluation purposes;",
+      "\u2018instantaneous frequency data\u2019 means a set of data measurements of the overall system frequency for the synchronous area with a measurement period equal to or shorter than one second used for system frequency quality evaluation purposes;"
+    ],
+    "Article 130": [
+      "the instantaneous frequency data; and"
+    ],
+    "Article 131": [
+      "for the synchronous area during operation in normal state or alert state as determined by Article 18(1) and (2), on a monthly basis, for the instantaneous frequency data:",
+      "for the synchronous area during operation innormal stateoralert stateas determined by Article 18(1) and (2), on a monthly basis, for theinstantaneous frequency data:"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 130": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 131": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

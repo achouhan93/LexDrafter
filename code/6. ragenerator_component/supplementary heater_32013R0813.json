@@ -1,0 +1,51 @@
+{
+  "term": "supplementary heater",
+  "celex_id": "32013R0813",
+  "original_definition": "'supplementary heater' means a non-preferential heater that generates heat in cases where the heat demand is greater than the rated heat output of the preferential heater;",
+  "generated_definition": "'supplementary heater' means a device that supplements the main heating system of a space heater, typically used in cogeneration systems, to improve the overall efficiency and performance of the heating system.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018supplementary heater\u2019 means a non-preferential heater that generates heat in cases where the heat demand is greater than the rated heat output of the preferential heater;",
+      "\u2018supplementary heater\u2019 means a non-preferential heater that generates heat in cases where the heat demand is greater than therated heat output of the preferential heater;",
+      "\u2018heat pump space heater\u2019 means a space heater using ambient heat from an air source, water source or ground source, and/or waste heat for heat generation; a heat pump space heater may be equipped with one or moresupplementary heaters using the Joule effect in electric resistance heating elements or the combustion of fossil and/orbiomass fuels;",
+      "\u2018heat pump space heater\u2019 means a space heater using ambient heat from an air source, water source or ground source, and/or waste heat for heat generation; a heat pump space heater may be equipped with one or more supplementary heaters using the Joule effect in electric resistance heating elements or the combustion of fossil and/or biomass fuels;"
+    ],
+    "Article 10": [
+      "Supplementary heater",
+      "At rated heat output of cogeneration space heater with supplementary heater disabled",
+      "for cogeneration space heaters not equipped with supplementary heaters, the useful efficiency at rated heat output, expressed in %;",
+      "For heaters equipped with supplementary heaters, the measurement and calculation of rated heat output, seasonal space heating energy efficiency, water heating energy efficiency, sound power level and emissions of nitrogen oxides shall take account of the supplementary heater.",
+      "(3)  For heat pump space heaters and heat pump combination heaters, the rated heat output Prated is equal to the design load for heating Pdesignh, and the rated heat output of a supplementary heater Psup is equal to the supplementary capacity for heating sup(Tj).",
+      "At rated heat output of cogeneration space heater with supplementary heater enabled",
+      "for cogeneration space heaters equipped with supplementary heaters, a weighted average of the useful efficiency at rated heat output with supplementary heater disabled, and the useful efficiency at rated heat output with supplementary heater enabled, expressed in %;",
+      "Forheaters equipped withsupplementary heaters, the measurement and calculation ofrated heat output,seasonal space heating energy efficiency,water heating energy efficiency,sound power level and emissions of nitrogen oxides shall take account of the supplementary heater."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 10": {
+      "article_score": 12,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        3,
+        2
+      ]
+    }
+  }
+}

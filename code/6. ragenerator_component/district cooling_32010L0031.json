@@ -1,0 +1,24 @@
+{
+  "term": "district cooling",
+  "celex_id": "32010L0031",
+  "original_definition": "'district cooling' means the distribution of thermal energy in the form of steam, hot water or chilled liquids, from a central source of production through a network to multiple buildings or sites, for the use of space or process heating or cooling.",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018district heating\u2019 or \u2018district cooling\u2019 means the distribution of thermal energy in the form of steam, hot water or chilled liquids, from a central source of production through a network to multiple buildings or sites, for the use of space or process heating or cooling.",
+      "\u2018district heating\u2019 or \u2018district cooling\u2019 means the distribution of thermal energy in the form of steam, hot water or chilled liquids, from a central source of production through a network to multiplebuildings or sites, for the use of space or process heating or cooling."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "term": "flow-based approach",
+  "celex_id": "32015R1222",
+  "original_definition": "'flow-based approach' means a capacity calculation method in which energy exchanges between bidding zones are limited by power transfer distribution factors and available margins on critical network elements;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018flow-based approach\u2019 means a capacity calculation method in which energy exchanges between bidding zones are limited by power transfer distribution factors and available margins on critical network elements;"
+    ],
+    "Article 15": [
+      "3.   Capacity calculation regions applying a flow-based approach shall be merged into one capacity calculation region if the following cumulative conditions are fulfilled:",
+      "3.Capacity calculation regions applying aflow-based approach shall be merged into one capacity calculation region if the following cumulative conditions are fulfilled:"
+    ],
+    "Article 20": [
+      "5.   At the time when two or more adjacentcapacity calculation regions in the same synchronous area implement a capacity calculation methodology using theflow-based approachfor the day-ahead or theintraday market time-frame, they shall be considered as one region for this purpose and the TSOs from this region shall submit within six months a proposal for applying a common capacity calculation methodology using the flow-based approach for the day-ahead or intraday market time-frame. The proposal shall provide for an implementation date of the common cross regional capacity calculation methodology of no longer than 12 months after the implementation of the flow-based approach in these regions for the methodology for theday-ahead market time-frame, and 18 months for the methodology for the intraday time-frame. The timelines indicated in this paragraph may be adapted in accordance with paragraph 6.",
+      "7.   TSOs may jointly request the competent regulatory authorities to apply the coordinated net transmission capacity approach in regions and bidding zone borders other than those referred to in paragraphs 2 to 4, if the TSOs concerned are able to demonstrate that the application of the capacity calculation methodology using the flow-based approach would not yet be more efficient compared to the coordinated net transmission capacity approach and assuming the same level of operational security in the concerned region.",
+      "5.   At the time when two or more adjacent capacity calculation regions in the same synchronous area implement a capacity calculation methodology using the flow-based approach for the day-ahead or the intraday market time-frame, they shall be considered as one region for this purpose and the TSOs from this region shall submit within six months a proposal for applying a common capacity calculation methodology using the flow-based approach for the day-ahead or intraday market time-frame. The proposal shall provide for an implementation date of the common cross regional capacity calculation methodology of no longer than 12 months after the implementation of the flow-based approach in these regions for the methodology for the day-ahead market time-frame, and 18 months for the methodology for the intraday time-frame. The timelines indicated in this paragraph may be adapted in accordance with paragraph 6.",
+      "3.   The TSOs from thecapacity calculation regionwhere Italy, as defined in point (c) of point 3.2 of Annex I to Regulation (EC) No 714/2009, is included, may extend the deadline without prejudice to the obligation in paragraph 1 for submitting the proposal for a common coordinated capacity calculation methodology usingflow-based approachfor the respective region pursuant to paragraph 2 up to six months after Switzerland joins thesingle day-ahead coupling. The proposal does not have to include bidding zone borders within Italy and between Italy and Greece.",
+      "9.   The TSOs of each capacity calculation region applying the flow-based approach shall establish and make available a tool which enables market participants to evaluate the interaction between cross-zonal capacities and cross-zonal exchanges between bidding zones.",
+      "4.   No later than six months after at least all South East Europe Energy Community Contracting Parties participate in the single day-ahead coupling, the TSOs from at least Croatia, Romania, Bulgaria and Greece shall jointly submit a proposal to introduce a common capacity calculation methodology using the flow-based approach for the day-ahead and intraday market time-frame. The proposal shall provide for an implementation date of the common capacity calculation methodology using the flow-based approach of no longer than two years after the participation of all SEE Energy Community Contracting Parties in the single day-ahead coupling. The TSOs from Member States which have borders with other regions are encouraged to join the initiatives to implement a common flow-based capacity calculation methodology with these regions.",
+      "3.   The TSOs from the capacity calculation region where Italy, as defined in point (c) of point 3.2 of Annex I to Regulation (EC) No 714/2009, is included, may extend the deadline without prejudice to the obligation in paragraph 1 for submitting the proposal for a common coordinated capacity calculation methodology using flow-based approach for the respective region pursuant to paragraph 2 up to six months after Switzerland joins the single day-ahead coupling. The proposal does not have to include bidding zone borders within Italy and between Italy and Greece.",
+      "1.   For the day-ahead market time-frame and intraday market time-frame the approach used in the common capacity calculation methodologies shall be a flow-based approach, except where the requirement under paragraph 7 is met.",
+      "7.   TSOs may jointly request the competent regulatory authorities to apply thecoordinated net transmission capacity approachin regions and bidding zone borders other than those referred to in paragraphs 2 to 4, if the TSOs concerned are able to demonstrate that the application of the capacity calculation methodology using theflow-based approach would not yet be more efficient compared to the coordinated net transmission capacity approach and assuming the same level of operational security in the concerned region.",
+      "1.   For theday-ahead market time-frameandintraday market time-framethe approach used in the common capacity calculation methodologies shall be aflow-based approach, except where the requirement under paragraph 7 is met.",
+      "9.   The TSOs of eachcapacity calculation regionapplying theflow-based approach shall establish and make available a tool which enables market participants to evaluate the interaction between cross-zonal capacities and cross-zonal exchanges between bidding zones."
+    ],
+    "Article 21": [
+      "for the flow-based approach, a mathematical description of the calculation of power transfer distribution factors and of the calculation of available margins on critical network elements;"
+    ],
+    "Article 22": [
+      "5.   For each capacity calculation time-frame, the TSOs concerned shall determine the reliability margin for critical network elements, where the flow-based approach is applied, and for cross-zonal capacity, where the coordinated net transmission capacity approach is applied.",
+      "5.   For each capacity calculation time-frame, the TSOs concerned shall determine thereliability marginfor critical network elements, where theflow-based approachis applied, and for cross-zonal capacity, where thecoordinated net transmission capacity approach is applied."
+    ],
+    "Article 29": [
+      "flow-based parameters for each bidding zone within the capacity calculation region, if applying the flow-based approach; or",
+      "flow-based parameters for each bidding zone within thecapacity calculation region, if applying theflow-based approach; or",
+      "7.   Each coordinated capacity calculator applying the flow-based approach shall:",
+      "7.   Eachcoordinated capacity calculatorapplying theflow-based approach shall:"
+    ],
+    "Not Article": [
+      "There are two permissible approaches when calculating cross-zonal capacity: flow-based or based on coordinated net transmission capacity. The flow-based approach should be used as a primary approach for day-ahead and intraday capacity calculation where cross-zonal capacity between bidding zones is highly interdependent. The flow-based approach should only be introduced after market participants have been consulted and given sufficient preparation time to allow for a smooth transition. The coordinated net transmission capacity approach should only be applied in regions where cross-zonal capacity is less interdependent and it can be shown that the flow-based approach would not bring added value.",
+      "There are two permissible approaches when calculating cross-zonal capacity: flow-based or based on coordinated net transmission capacity. Theflow-based approachshould be used as a primary approach for day-ahead and intraday capacity calculation where cross-zonal capacity between bidding zones is highly interdependent. The flow-based approach should only be introduced after market participants have been consulted and given sufficient preparation time to allow for a smooth transition. Thecoordinated net transmission capacity approach should only be applied in regions where cross-zonal capacity is less interdependent and it can be shown that the flow-based approach would not bring added value."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 15": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 20": {
+      "article_score": 16,
+      "statement_scores": [
+        3,
+        1,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 21": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 22": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 29": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 6,
+      "statement_scores": [
+        3,
+        3
+      ]
+    }
+  }
+}

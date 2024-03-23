@@ -1,0 +1,24 @@
+{
+  "term": "reserve provider",
+  "celex_id": "32017R1485",
+  "original_definition": "'reserve provider' means a legal entity with a legal or contractual obligation to supply FCR, FRR or RR from at least one reserve providing unit or reserve providing group;",
+  "generated_definition": "'reserve provider' means a company or organization that provides reserve services, such as online booking systems, customer support, and payment processing for businesses in the hospitality industry.",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018reserve provider\u2019 means a legal entity with a legal or contractual obligation to supply FCR, FRR or RR from at least one reserve providing unit or reserve providing group;",
+      "\u2018reserve provider\u2019 means a legal entity with a legal or contractual obligation to supplyFCR,FRRor RR from at least onereserve providing unitorreserve providing group;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

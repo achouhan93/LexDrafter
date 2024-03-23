@@ -1,0 +1,40 @@
+{
+  "term": "Specific ecodesign requirement",
+  "celex_id": "32009L0125",
+  "original_definition": "'Specific ecodesign requirement' means a quantified and measurable ecodesign requirement relating to a particular environmental aspect of a product, such as energy consumption during use, calculated for a given unit of output performance;",
+  "generated_definition": "'Specific ecodesign requirement' means a requirement that sets out specific measures or standards for a product's design to minimize its environmental impact in a particular aspect.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Specific ecodesign requirement\u2019 means a quantified and measurable ecodesign requirement relating to a particular environmental aspect of a product, such as energy consumption during use, calculated for a given unit of output performance;"
+    ],
+    "Article 15": [
+      "Specific ecodesign requirements shall be introduced for selected environmental aspects which have a significant environmental impact."
+    ],
+    "Article 26": [
+      "Specific ecodesign requirements aim at improving a selected environmental aspect of the product. They may take the form of requirements for reduced consumption of a given resource, such as a limit on the use of a resource in the various stages of an product\u2019s life cycle, as appropriate (such as a limit on water consumption in the use phase or on the quantities of a given material incorporated in the product or a requirement for minimum quantities of recycled material)."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 15": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 26": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "term": "electric visibly glowing radiant local space heater",
+  "celex_id": "32015R1188",
+  "original_definition": "'electric visibly glowing radiant local space heater' means an electric local space heater in which the heating element is visible from outside the heater and has a temperature of at least 650 \u00b0C in normal use;",
+  "generated_definition": "'electric visibly glowing radiant local space heater' means an electric device that emits a visible glow and provides warmth to a local area, typically used in residential or commercial settings.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018electric visibly glowing radiant local space heater\u2019 means an electric local space heater in which the heating element is visible from outside the heater and has a temperature of at least 650 \u00b0C in normal use;",
+      "\u2018electric visibly glowing radiant local space heater\u2019 means anelectric local space heater in which the heating element is visible from outside the heater and has a temperature of at least 650 \u00b0C in normal use;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

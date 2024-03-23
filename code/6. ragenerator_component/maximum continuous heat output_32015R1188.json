@@ -1,0 +1,22 @@
+{
+  "term": "maximum continuous heat output",
+  "celex_id": "32015R1188",
+  "original_definition": "'maximum continuous heat output' means the declared heat output of an electric local space heater when operating at the setting for the maximum heat output that can be maintained continuously over an extended period, as declared by the manufacturer, expressed in kW;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 9": [
+      "Maximum continuous heat output"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 9": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

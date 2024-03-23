@@ -1,0 +1,202 @@
+{
+  "term": "site",
+  "celex_id": "32022R0996",
+  "original_definition": "'site' means a geographical location, logistical facilities, transmission or distribution infrastructures with precise boundaries within which products can be mixed;",
+  "generated_definition": "'site' means location where auditing is performed, either on-site or through desk audits, unless desk audits are deemed to provide the same level of assurance as on-site audits, in which case voluntary schemes must provide evidence for desk audits. group manager audits must always be conducted on-site.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018site\u2019 means a geographical location, logistical facilities, transmission or distribution infrastructures with precise boundaries within which products can be mixed;"
+    ],
+    "Article\u00a05": [
+      "3.   Voluntary schemes shall establish procedures for the lodging of complaints against economic operators or certification bodies. The complaints procedure shall be accessible on the voluntary scheme\u2019s website and allow complaints to be sent electronically or by post. The complaints procedure shall also ensure the protection of persons who report infringements or lodge complainants in good faith in accordance with Directive (EU) 2019/1937 of the European Parliament and of the Council (4). The website shall indicate at least all of the following information:",
+      "3.Voluntary schemes shall establish procedures for the lodging of complaints againsteconomic operators or certification bodies. The complaints procedure shall be accessible on the voluntary scheme\u2019s website and allow complaints to be sent electronically or by post. The complaints procedure shall also ensure the protection of persons who report infringements or lodge complainants in good faith in accordance with Directive (EU) 2019/1937 of the European Parliament and of the Council (4). The website shall indicate at least all of the following information:"
+    ],
+    "Article\u00a06": [
+      "the list of economic operators participating in the scheme, their certification status, with their respective date of certificate issuance, suspension, withdrawal, termination or expiry, as well as the certificates or the summary audit reports drawn up in accordance with Annex II. Where audits identify critical or major non-conformities, voluntary schemes shall publish an aggregated list of these non-conformities together with a respective action plan and timing for their correction as agreed with the economic operators concerned. Specific information on the certificates or summary audit reports may be redacted to comply with personal data protection legislation. Economic operators whose certificates are withdrawn, terminated or expired shall be listed on the website for at least 24 months after the withdrawal, termination or expiration date. Changes in the certification status of economic operators shall be made public without delay;",
+      "the list of economic operators participating in the scheme, their certification status, with their respective date ofcertificateissuance, suspension, withdrawal, termination or expiry, as well as the certificates or the summary audit reports drawn up in accordance with Annex II. Where audits identify critical or major non-conformities,voluntary schemes shall publish an aggregated list of these non-conformities together with a respective action plan and timing for their correction as agreed with the economic operators concerned. Specific information on the certificates or summary audit reports may be redacted to comply with personal data protection legislation.Economic operators whose certificates are withdrawn, terminated or expired shall be listed on the website for at least 24 months after the withdrawal, termination or expiration date. Changes in the certification status of economic operators shall be made public without delay;",
+      "Voluntary schemes shall make the following information publicly and freely available on a website:"
+    ],
+    "Article\u00a010": [
+      "1.Voluntary schemes shall require thateconomic operators successfully pass an initial audit before allowing them to participate in the scheme. The initial audit of a new scheme participant or a re-certification of existing scheme participant under a revised regulatory framework shall always be on-site and shall as a minimum provide reasonable assurance on the effectiveness of its internal processes. Depending on the risk profile of the economic operator, a limited assurance level can be applied on the veracity of its statements. On the basis of the results of the initial audit, those economic operators who are considered low risk may be subject to subsequent limited assurance audits.",
+      "1.   Voluntary schemes shall require that economic operators successfully pass an initial audit before allowing them to participate in the scheme. The initial audit of a new scheme participant or a re-certification of existing scheme participant under a revised regulatory framework shall always be on-site and shall as a minimum provide reasonable assurance on the effectiveness of its internal processes. Depending on the risk profile of the economic operator, a limited assurance level can be applied on the veracity of its statements. On the basis of the results of the initial audit, those economic operators who are considered low risk may be subject to subsequent limited assurance audits."
+    ],
+    "Article\u00a012": [
+      "4.   Group auditing shall be performed on-site, unless it is considered that desk audits are able to provide the same level of assurance as an on-site audit. Voluntary schemes shall set out the evidence required to allow for desk audits. Self-declarations from economic operators shall not be considered to be sufficient evidence. Audits of the group manager shall always be conducted on-site.",
+      "4.   Group auditing shall be performed on-site, unless it is considered that desk audits are able to provide the same level of assurance as an on-site audit.Voluntary schemes shall set out the evidence required to allow for desk audits. Self-declarations fromeconomic operators shall not be considered to be sufficient evidence. Audits of the group manager shall always be conducted on-site."
+    ],
+    "Article\u00a013": [
+      "7.   The certification body shall carry out a mandatory surveillance audit within 6 months after the first certification. For collection points and traders that deal with both waste and residues and with virgin materials such as vegetable oils, an additional surveillance audit shall be conducted 3 months after the first certification audit, covering the first mass balance period. Where a collection point has multiple storage sites, the auditor shall audit the mass balance of every storage site.",
+      "7.   Thecertification bodyshall carry out a mandatorysurveillance auditwithin 6 months after the first certification. For collection points and traders that deal with both waste and residues and with virgin materials such as vegetable oils, an additional surveillance audit shall be conducted 3 months after the firstcertification audit, covering the first mass balance period. Where a collection point has multiple storagesites, the auditor shall audit the mass balance of every storage site.",
+      "6.   The auditor shall verify the existence of a number of points of origin equivalent to at least the square root of all the points of origin on the list. The verification may be performed remotely, unless there is doubt concerning the existence of the point of origin or where it meets the criteria for on-site audit pursuant to point (4). Auditors shall check deliveries of sustainable material to downstream recipients by verifying the copies of the sustainability declaration issued by the collecting point to recipients of those deliveries, based on a random and risk-based sample;",
+      "4.   The frequency and intensity of the auditing procedure shall reflect the overall level of risk. Voluntary schemes shall define clear rules, commensurate to the level of specific risk associated with the type of residues or waste. For biofuels and bioliquids, points of origin supplying five or more tonnes per month of waste or residue listed in part A and B of Annex IX to Directive (EU) 2018/2001 shall be subject to an on-site audit. The on-side audit may be based on a sample where a group auditing approach is taken.",
+      "4.   The frequency and intensity of the auditing procedure shall reflect the overall level of risk.Voluntary schemes shall define clear rules, commensurate to the level of specific risk associated with the type of residues or waste. For biofuelsand bioliquids, points of origin supplying five or more tonnes per month of waste or residue listed in part A and B of Annex IX to Directive (EU) 2018/2001 shall be subject to an on-site audit. The on-side audit may be based on a sample where a group auditing approach is taken."
+    ],
+    "Article\u00a014": [
+      "2.   The auditor shall record the emissions occurring at the audited site in the audit report. For the processing of final biofuels, the auditor shall record the emissions after allocation and the achieved savings. Where the emissions deviate significantly from typical values or calculated actual values of emissions savings are abnormally high, reasons shall be given for the deviations in the report. Voluntary schemes shall establish procedures requiring certification bodies to immediately inform them of such deviations.",
+      "2.   The auditor shall record the emissions occurring at the auditedsitein the audit report. For the processing of final biofuels, the auditor shall record the emissions after allocation and the achieved savings. Where the emissions deviate significantly from typical values or calculated actual values of emissions savings are abnormally high, reasons shall be given for the deviations in the report.Voluntary schemes shall establish procedures requiring certification bodies to immediately inform them of such deviations."
+    ],
+    "Article\u00a015": [
+      "list of all outputs per site and the description of material handled and details of all customers;",
+      "list of all inputs per site and the description of material handled and details of all suppliers;",
+      "list of all sites, that are under the scope of certification. Each site shall have its own mass balance records;"
+    ],
+    "Article\u00a019": [
+      "raw material or fuels shall only be considered to be part of a mixture if they are mixed in a container, at a processing or logistical facility, or at a transmission and distribution infrastructure or site;",
+      "raw materials orfuelsshall only be considered to be part of a mixture if they are physically mixed unless they are physically identical or belong to the sameproduct group. Where raw materials or fuels are physically identical or belong to the same product group, they must be stored in the sameinterconnected infrastructure, processing or logistical facility, transmission and distribution infrastructure orsite;",
+      "the appropriate period of time for achieving the mass balance shall be 12 months for producers of agricultural biomass and forest biomass andfirst gathering points sourcing only agricultural biomass and forest biomass, and 3 months for all othereconomic operators. The start and end of the period shall be aligned with the calendar year or, where applicable, the four quarters of the calendar year. As alternatives to the calendar year, economic operators may also use either the economic year that they use for bookkeeping purposes or another starting point for the mass balance period, provided that the choice is clearly indicated and applied consistently. At the end of the mass balance period, the sustainability data carried forward should be equivalent to the physical stock in the container, processing or logistical facility, transmission and distribution infrastructure orsite;",
+      "raw materials or fuels shall only be considered to be part of a mixture if they are physically mixed unless they are physically identical or belong to the same product group. Where raw materials or fuels are physically identical or belong to the same product group, they must be stored in the same interconnected infrastructure, processing or logistical facility, transmission and distribution infrastructure or site;",
+      "the appropriate period of time for achieving the mass balance shall be 12 months for producers of agricultural biomass and forest biomass and first gathering points sourcing only agricultural biomass and forest biomass, and 3 months for all other economic operators. The start and end of the period shall be aligned with the calendar year or, where applicable, the four quarters of the calendar year. As alternatives to the calendar year, economic operators may also use either the economic year that they use for bookkeeping purposes or another starting point for the mass balance period, provided that the choice is clearly indicated and applied consistently. At the end of the mass balance period, the sustainability data carried forward should be equivalent to the physical stock in the container, processing or logistical facility, transmission and distribution infrastructure or site;",
+      "raw materialorfuelsshall only be considered to be part of a mixture if they are mixed in a container, at a processing or logistical facility, or at a transmission and distribution infrastructure orsite;"
+    ],
+    "Article\u00a020": [
+      "4.   Emission savings from CO2 capture and geological storage (Eccs) may only be taken into account where there is valid evidence that CO2 was effectively captured and safely stored in accordance with Directive 2009/31/EC of the European Parliament and of the Council on the geological storage of carbon dioxide (5). Where the CO2 is geologically stored, voluntary schemes shall verify the evidence provided on the integrity of the storage site and the volume of the CO2 stored. Where a third party carries out the transport or geological storage, proof of storage may be provided through the relevant contracts with and invoices of that third party.",
+      "3.   EU Member States may submit updated values of the emission factors of their national electricity mix to be considered by the Commission for updating the respective emission factors in Annex IX. After assessing these updated values, the Commission may accept them or alternatively provide the Member State concerned with a justification of the reasons for not doing so. Accepted updated figures will be made available in the section devoted tovoluntary schemes and certification on the Commission\u2019s EUROPA website.",
+      "4.   Emission savings from CO2 capture and geological storage (Eccs) may only be taken into account where there is valid evidence that CO2 was effectively captured and safely stored in accordance with Directive 2009/31/EC of the European Parliament and of the Council on the geological storage of carbon dioxide (5). Where the CO2 is geologically stored,voluntary schemes shall verify the evidence provided on the integrity of the storagesite and the volume of the CO2 stored. Where a third party carries out the transport or geological storage, proof of storage may be provided through the relevant contracts with and invoices of that third party.",
+      "3.   EU Member States may submit updated values of the emission factors of their national electricity mix to be considered by the Commission for updating the respective emission factors in Annex IX. After assessing these updated values, the Commission may accept them or alternatively provide the Member State concerned with a justification of the reasons for not doing so. Accepted updated figures will be made available in the section devoted to voluntary schemes and certification on the Commission\u2019s EUROPA website."
+    ],
+    "Article\u00a024": [
+      "5.   Voluntary schemes shall issue low ILUC-risk certificates in accordance with the requirements on minimum content set out in point 4 of Annex VIII, and shall publish a list of those certificates on their website.",
+      "5.Voluntary schemes shall issue low ILUC-riskcertificates in accordance with the requirements on minimum content set out in point 4 of Annex VIII, and shall publish a list of those certificates on their website.",
+      "2.   Thecertification bodyshall conduct an on-site baseline audit to verify the content of the management plan, as well as to establish and document the dynamic yield baseline.",
+      "2.   The certification body shall conduct an on-site baseline audit to verify the content of the management plan, as well as to establish and document the dynamic yield baseline."
+    ],
+    "Article\u00a028": [
+      "Failure to meet this criterion will lead to all esca values of the current year for the farmer or economic operator being added as emissions to the overall GHG emissions of the energy crop delivered, instead of being deducted as a GHG emission savings and a prohibition to include an esca value in the GHG calculations for 5 years, whatever the certification scheme used. If a commitment has been signed in the name of an economic operator on behalf of several farmers and one of these farmers withdraws early, the above-mentioned penalties shall apply only to the farmer concerned and not to all the commitments of the economic operator. The voluntary scheme that has issued the certificate shall be obliged to enforce the penalties and dully inform all other voluntary schemes as well as to publish this information on its website and included it in the annual activity reports to be sent to the Commission.",
+      "sites audited;",
+      "Failure to meet this criterion will lead to all esca values of the current year for the farmer oreconomic operatorbeing added as emissions to the overall GHG emissions of the energy crop delivered, instead of being deducted as a GHG emission savings and a prohibition to include an esca value in the GHG calculations for 5 years, whatever the certification scheme used. If a commitment has been signed in the name of an economic operator on behalf of several farmers and one of these farmers withdraws early, the above-mentioned penalties shall apply only to the farmer concerned and not to all the commitments of the economic operator. Thevoluntary schemethat has issued thecertificateshall be obliged to enforce the penalties and dully inform all other voluntary schemes as well as to publish this information on its website and included it in the annual activity reports to be sent to the Commission.",
+      "input/output materials (physically) handled by the certified sites \u2013 classifications must be in conformity with the requirements set out in Annex IX to Directive (EU) 2018/2001;",
+      "list of sites under the scope of certification (name and address);",
+      "optional forfirst gathering points, points of origin, traders with storage: list ofsites under the scope of certification (name and address);",
+      "input/output materials (physically) handled by the certified sites \u2013 classifications must be in conformity with the requirements set out in Annex IX to Directive (EU) 2018/2001 (for traders with/without storage, the type of material traded).",
+      "optional for first gathering points, points of origin, traders with storage: list of sites under the scope of certification (name and address);",
+      "The IPCC (2006) factor (EF1) for direct N2O emissions from fertiliser input based on a global mean shall be replaced by the crop- and site-specific EF1ij for direct emissions from mineral fertiliser and manure N input, based on the crop- and site-specific EF1ij, applying the S&B model.",
+      "1.5.2.   Crop and site-specific emission factors for N2O emissions from synthetic fertiliser and organic N application",
+      "audit itinerary and duration (split by duration spent on-site and remotely \u2013 where relevant);",
+      "Crop and site-specific emission factors for N2O emissions from synthetic fertiliser and organic N application to mineral soils (kg N2O\u2013N (kg N input)-1);"
+    ],
+    "Not Article": [
+      "In the preparation of the initial on-site audit as well as during subsequent surveillance or re-certification audits, the auditor should make an appropriate analysis of the overall risk profile of economic operators. Based on the auditor\u2019s professional knowledge and the information submitted by the economic operator, this analysis should take into consideration not only the level of risk of the specific economic operator but also of the supply chain (e.g. for economic operators that handle materials listed in Annex IX to Directive (EU) 2018/2001). The audit intensity, its scope, or both, should be adapted to the level of identified overall risk in order to ensure an adequate level of trust in the veracity of the information provided by the economic operators, mitigating the risks for material misstatements.",
+      "In group auditing, where on-siteaudits are replaced by desk audits,voluntary schemes and certification bodies should ensure that those audits are able to provide the same level of assurance provided by an on-site audit (e.g. availability of high quality satellite images, data on protected areas and peatland that provide information on the relevant time horizon).",
+      "In group auditing, where on-site audits are replaced by desk audits, voluntary schemes and certification bodies should ensure that those audits are able to provide the same level of assurance provided by an on-site audit (e.g. availability of high quality satellite images, data on protected areas and peatland that provide information on the relevant time horizon)."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article\u00a05": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article\u00a06": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0,
+        0
+      ]
+    },
+    "Article\u00a010": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article\u00a012": {
+      "article_score": 6,
+      "statement_scores": [
+        3,
+        3
+      ]
+    },
+    "Article\u00a013": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article\u00a014": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article\u00a015": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        1,
+        1
+      ]
+    },
+    "Article\u00a019": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        0,
+        0,
+        1,
+        1,
+        0
+      ]
+    },
+    "Article\u00a020": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    "Article\u00a024": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "Article\u00a028": {
+      "article_score": 5,
+      "statement_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        2
+      ]
+    }
+  }
+}

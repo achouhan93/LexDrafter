@@ -1,0 +1,24 @@
+{
+  "term": "matched orders",
+  "celex_id": "32015R1222",
+  "original_definition": "'matched orders' means all buy and sell orders matched by the price coupling algorithm or the continuous trade matching algorithm;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018matched orders\u2019 means all buy and sell orders matched by the price coupling algorithm or the continuous trade matching algorithm;",
+      "\u2018matched orders\u2019 means all buy and sell orders matched by theprice coupling algorithmor the continuoustradematching algorithm;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

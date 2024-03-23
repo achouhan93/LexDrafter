@@ -1,0 +1,66 @@
+{
+  "term": "chilled operating temperature",
+  "celex_id": "32019R2018",
+  "original_definition": "'chilled operating temperature' means a temperature between -3,5 degrees Celsius (\u00b0C) and 15 degrees Celsius (\u00b0C) for appliances equipped with energy management systems for saving energy and between -3,5 degrees Celsius (\u00b0C) and 10 degrees Celsius (\u00b0C) for appliances not equipped with energy management systems for saving energy;",
+  "generated_definition": "'chilled operating temperature' means the lowest temperature of the coldest m-package of the compartments with chilled operating temperatures, or the highest minimum temperature of all m-packages of the compartments with chilled operating temperatures, in degrees celsius (\u00b0c) and rounded to the nearest integer, as set out in table 4; for all other refrigerating appliances with a direct sales function: the sum of the display areas with chilled operating temperatures, expressed in square meters (m2) and rounded to two decimal places; for refrigerating appliances with a direct sales function that does not contain compartments with chilled operating temperatures: the pictogram and the values in litres (l) or square meters (m2) in vii are omitted; the highest average compartment temperature of all compartments with chilled operating temperatures, in degrees celsius (\u00b0c) and rounded to the nearest integer, as set out in table 5; the maximum measured product temperature of the compartments with chilled operating temperatures, in degrees celsius (\u00b0c) and rounded to the nearest integer, as set out in table 4; for refrigerating appliances with a direct sales function with all compartments with chilled operating temperature having the same temperature class, with the exception of refrigerated vending machines: the highest temperature of the warmest m-package of the compartments with chilled operating temperatures, in degrees celsius (\u00b0c) and rounded to the nearest integer, as set out in table 4; the sum of the gross volumes of all compartments with chilled operating temperatures, expressed in litres (l) and rounded to the nearest integer; for refrigerating appliances with a direct sales function that does not contain compartments with chilled operating temperatures: the pictogram and the values in degrees celsius (\u00b0c) in viii shall be omitted; for refrigerated vending machines: the sum of the net volumes of all compartments with chilled operating temperatures, expressed in litres (l) and rounded to the nearest integer.",
+  "existing_sentences": {
+    "Article 1": [
+      "horizontal serve-over counters with integrated storage designed to work at chilled operating temperatures;"
+    ],
+    "Article 2": [
+      "\u2018chilled operating temperature\u2019 means a temperature between -3,5 degrees Celsius (\u00b0C) and 15 degrees Celsius (\u00b0C) for appliances equipped with energy management systems for saving energy and between -3,5 degrees Celsius (\u00b0C) and 10 degrees Celsius (\u00b0C) for appliances not equipped with energy management systems for saving energy;"
+    ],
+    "Article 9": [
+      "for all other refrigerating appliances with a direct sales function: the sum of the display areas with chilled operating temperatures, expressed in square meters (m2) and rounded to two decimal places;",
+      "for refrigerating appliances with a direct sales function that does not contain compartments with chilled operating temperatures: the pictogram and the values in litres (L) or square meters (m2) in VII are omitted;",
+      "the highest average compartment temperature of all compartments with chilled operating temperatures, in degrees Celsius (\u00b0C) and rounded to the nearest integer, as set out in Table 5;",
+      "the temperature at the top: the maximum measured product temperature of the compartment(s) with chilled operating temperatures, in degrees Celsius (\u00b0C) and rounded to the nearest integer, as set out in Table 4;",
+      "for refrigerating appliances with a direct sales function with all compartments with chilled operating temperature having the same temperature class, with the exception of refrigerated vending machines:",
+      "the temperature at the top: the highest temperature of the warmest M-package of the compartment(s) with chilled operating temperatures, in degrees Celsius (\u00b0C) and rounded to the nearest integer, as set out in Table 4;",
+      "the sum of the gross volumes of all compartments with chilled operating temperatures, expressed in litres (L) and rounded to the nearest integer;",
+      "for refrigerating appliances with a direct sales function that does not contain compartments with chilled operating temperatures the pictogram and the values in degrees Celsius (\u00b0C) in VIII shall be omitted;",
+      "for refrigerated vending machines: the sum of the net volumes of all compartments with chilled operating temperatures, expressed in litres (L) and rounded to the nearest integer;",
+      "the sum of thegross volumes of allcompartments withchilled operating temperatures, expressed in litres (L) and rounded to the nearest integer;",
+      "\u2018refrigerator\u2019 means a refrigerating appliance with a direct sales function that continuously maintains the temperature of the products stored in the cabinet at chilled operating temperature;",
+      "the temperature at the bottom: the lowest temperature of the coldest M-package of the compartment(s) with chilled operating temperatures, in degrees Celsius (\u00b0C) and rounded to the nearest integer, or the highest minimum temperature of all M-packages of the compartment(s) with chilled operating temperatures, in degrees Celsius (\u00b0C) and rounded to the nearest integer, as set out in Table 4;",
+      "forrefrigerated vending machines: the sum of thenet volumes of allcompartments withchilled operating temperatures, expressed in litres (L) and rounded to the nearest integer;",
+      "\u2018refrigerator\u2019 means arefrigerating appliance with a direct sales functionthat continuously maintains the temperature of the products stored in the cabinet atchilled operating temperature;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 15,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1
+      ]
+    }
+  }
+}

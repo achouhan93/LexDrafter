@@ -1,0 +1,118 @@
+{
+  "term": "reference incident",
+  "celex_id": "32017R1485",
+  "original_definition": "'reference incident' means the maximum positive or negative power deviation occurring instantaneously between generation and demand in a synchronous area, considered in the FCR dimensioning;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018maximum steady-state frequency deviation\u2019 means the maximum expected frequency deviation after the occurrence of an imbalance equal to or less than thereference incidentat which thesystem frequency is designed to be stabilised;",
+      "\u2018reference incident\u2019 means the maximum positive or negative power deviation occurring instantaneously between generation and demand in a synchronous area, considered in theFCR dimensioning;",
+      "\u2018reference incident\u2019 means the maximum positive or negative power deviation occurring instantaneously between generation and demand in a synchronous area, considered in the FCR dimensioning;",
+      "\u2018frequency recovery range\u2019 means the system frequency range to which the system frequency is expected to return in the GB and IE/NI synchronous areas, after the occurrence of an imbalance equal to or smaller than the reference incident, within the time to recover frequency;",
+      "\u2018FCR full activation time\u2019 means the time period between the occurrence of thereference incident and the corresponding full activation of the FCR;",
+      "\u2018frequency restoration range\u2019 means thesystem frequencyrange to which the system frequency is expected to return in the GB, IE/NI and Nordic synchronous areas, after the occurrence of an imbalance equal to or smaller than thereference incidentwithin thetime to restore frequency;",
+      "\u2018out-of-range contingency\u2019 means the simultaneous occurrence of multiple contingencies without a common cause, or a loss of power generating modules with a total loss of generation capacity exceeding the reference incident;",
+      "\u2018time to restore frequency\u2019 means the maximum expected time after the occurrence of an instantaneous power imbalance smaller than or equal to thereference incidentin which thesystem frequencyreturns to thefrequency restoration rangefor synchronous areas with only oneLFC area and in the case of synchronous areas with more than one LFC area, the maximum expected time after the occurrence of an instantaneous power imbalance of an LFC area within which the imbalance is compensated;",
+      "\u2018time to restore frequency\u2019 means the maximum expected time after the occurrence of an instantaneous power imbalance smaller than or equal to the reference incident in which the system frequency returns to the frequency restoration range for synchronous areas with only one LFC area and in the case of synchronous areas with more than one LFC area, the maximum expected time after the occurrence of an instantaneous power imbalance of an LFC area within which the imbalance is compensated;",
+      "\u2018maximum steady-state frequency deviation\u2019 means the maximum expected frequency deviation after the occurrence of an imbalance equal to or less than the reference incident at which the system frequency is designed to be stabilised;",
+      "\u2018frequency restoration range\u2019 means the system frequency range to which the system frequency is expected to return in the GB, IE/NI and Nordic synchronous areas, after the occurrence of an imbalance equal to or smaller than the reference incident within the time to restore frequency;",
+      "\u2018frequency recovery range\u2019 means thesystem frequencyrange to which the system frequency is expected to return in the GB and IE/NI synchronous areas, after the occurrence of an imbalance equal to or smaller than thereference incident, within the time to recover frequency;",
+      "\u2018FCR full activation time\u2019 means the time period between the occurrence of the reference incident and the corresponding full activation of the FCR;",
+      "\u2018out-of-range contingency\u2019 means the simultaneous occurrence of multiple contingencies without a common cause, or a loss of power generating modules with a total loss of generation capacity exceeding thereference incident;"
+    ],
+    "Article 127": [
+      "the reference incident;"
+    ],
+    "Article 152": [
+      "13.   For the CE and Nordic synchronous areas, where the FRCE of a LFC block exceeds 25 % of the reference incident of the synchronous area for more than 30 consecutive minutes and if the TSOs of that LFC block do not expect to reduce sufficiently the FRCE with the actions taken pursuant to paragraph 15, the TSOs shall require changes in the active power production or consumption of power generating modules and demand units within their respective areas to reduce the FRCE as specified in paragraph 16.",
+      "13.   For the CE and Nordic synchronous areas, where theFRCEof aLFC blockexceeds 25 % of thereference incident of the synchronous area for more than 30 consecutive minutes and if the TSOs of that LFC block do not expect to reduce sufficiently the FRCE with the actions taken pursuant to paragraph 15, the TSOs shall require changes in the active power production or consumption of power generating modules and demand units within their respective areas to reduce the FRCE as specified in paragraph 16."
+    ],
+    "Article 153": [
+      "the reserve capacity for FCR required for the synchronous area shall cover at least the reference incident and, for the CE and Nordic synchronous areas, the results of the probabilistic dimensioning approach for FCR carried out pursuant to point (c);",
+      "the size of the reference incident shall be determined in accordance with the following conditions:",
+      "for the CE synchronous area, the reference incident shall be 3 000 MW in positive direction and 3 000 MW in negative direction;",
+      "thereserve capacityforFCRrequired for the synchronous area shall cover at least thereference incident and, for the CE and Nordic synchronous areas, the results of the probabilistic dimensioning approach for FCR carried out pursuant to point (c);",
+      "for the GB, IE/NI, and Nordic synchronous areas, the reference incident shall be the largest imbalance that may result from an instantaneous change of active power such as that of a single power generating module, single demand facility, or single HVDC interconnector or from a tripping of an AC line, or it shall be the maximum instantaneous loss of active power consumption due to the tripping of one or two connection points. The reference incident shall be determined separately for positive and negative direction;"
+    ],
+    "Article 156": [
+      "excluding theFCRprovided by the unit defining thereference incident of the synchronous area from the dimensioning process for GB, IE/NI and Nordic synchronous areas; and",
+      "excluding the FCR provided by the unit defining the reference incident of the synchronous area from the dimensioning process for GB, IE/NI and Nordic synchronous areas; and"
+    ],
+    "Article 157": [
+      "the TSOs of aLFC blockshall determine the size of thereference incident which shall be the largest imbalance that may result from an instantaneous change of active power of a single power generating module, single demand facility, or single HVDC interconnector or from a tripping of an AC line within the LFC block;",
+      "the TSOs of a LFC block shall determine the size of the reference incident which shall be the largest imbalance that may result from an instantaneous change of active power of a single power generating module, single demand facility, or single HVDC interconnector or from a tripping of an AC line within the LFC block;"
+    ],
+    "Article 174": [
+      "for the CE and Nordic synchronous area, all TSOs shall ensure that the sum ofFCRprovided within the synchronous area and from other synchronous areas as part of exchange of FCR covers at least thereference incident;",
+      "for the CE and Nordic synchronous area, all TSOs shall ensure that the sum of FCR provided within the synchronous area and from other synchronous areas as part of exchange of FCR covers at least the reference incident;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 12,
+      "statement_scores": [
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 127": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 152": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 153": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        2
+      ]
+    },
+    "Article 156": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 157": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 174": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

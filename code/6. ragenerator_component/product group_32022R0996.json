@@ -1,0 +1,50 @@
+{
+  "term": "product group",
+  "celex_id": "32022R0996",
+  "original_definition": "'product group' means raw materials, biofuels, bioliquids, non-gaseous biomass fuels with similar physical and chemical characteristics and similar heating values or gaseous biomass fuels, and LNG with similar chemical characteristics that all are subject to the same rules set out in Articles 7, 26 and 27 of Directive (EU) 2018/2001 for determining the contribution of biofuels, bioliquids and biomass fuels towards achieving the targets for renewable energy;",
+  "generated_definition": "'product group' means a group of raw materials or fuels that are physically identical or belong to the same category and are stored in the same interconnected infrastructure, processing or logistical facility, transmission and distribution infrastructure or site.",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018product group\u2019 meansraw materials, biofuels, bioliquids, non-gaseous biomass fuels with similar physical and chemical characteristics and similar heating values or gaseous biomass fuels, and LNG with similar chemical characteristics that all are subject to the same rules set out in Articles 7, 26 and 27 of Directive (EU) 2018/2001 for determining the contribution of biofuels, bioliquids and biomass fuels towards achieving the targets for renewable energy;",
+      "\u2018product group\u2019 means raw materials, biofuels, bioliquids, non-gaseous biomass fuels with similar physical and chemical characteristics and similar heating values or gaseous biomass fuels, and LNG with similar chemical characteristics that all are subject to the same rules set out in Articles 7, 26 and 27 of Directive (EU) 2018/2001 for determining the contribution of biofuels, bioliquids and biomass fuels towards achieving the targets for renewable energy;"
+    ],
+    "Article\u00a019": [
+      "raw materials or fuels shall only be considered to be part of a mixture if they are physically mixed unless they are physically identical or belong to the same product group. Where raw materials or fuels are physically identical or belong to the same product group, they must be stored in the same interconnected infrastructure, processing or logistical facility, transmission and distribution infrastructure or site;",
+      "raw materials orfuelsshall only be considered to be part of a mixture if they are physically mixed unless they are physically identical or belong to the sameproduct group. Where raw materials or fuels are physically identical or belong to the same product group, they must be stored in the sameinterconnected infrastructure, processing or logistical facility, transmission and distribution infrastructure orsite;",
+      "different raw materials shall only be considered to be part of a mixture if they belong to the same product group, except where the raw material is mixed for the purpose of further processing;",
+      "differentraw materials shall only be considered to be part of a mixture if they belong to the sameproduct group, except where the raw material is mixed for the purpose of further processing;"
+    ],
+    "Not Article": [
+      "The mass balance system aims to reduce the administrative burden for demonstrating compliance with the sustainability and greenhouse gas saving criteria by allowing mixing of raw material andfuelswith differing sustainability characteristics and by allowing reassignment of the sustainability characteristics in a flexible manner to consignments withdrawn from such a mixture. In order to ensure transparency, mixing under the mass balance system is possible if e.g. raw material belong to the sameproduct group. A product group can comprise for instance different types of non-food cellulosic material with similar physical and chemical characteristics, heating values and/or conversion factors or the types of ligno-cellulosic material covered under point q of Annex IX Part A to Directive (EU) 2018/2001. Virgin vegetable oils, used for the production of biofuels and bioliquids, may belong to the same product group.Raw materials, however, that can be used to produce biofuels, bioliquids and biomass fuels which are subject to different rules concerning their contribution towards the targets for renewable energy should generally not be considered to be part of the same product group as this would risk to undermine the objectives of Directive (EU) 2018/2001, which applies differentiated treatment of biofuels, bioliquids and biomass fuels on the basis of the feedstock they are produced from. In case of gaseous fuels, the EU interconnected grid is considered as one single mass balancing system. Gaseous fuels produced and consumed off the grid or through isolated local distribution networks are to be considered as separate mass balancing systems. Further, precautionary measures are required to ensure the consistency of sustainability claims when fuels are exported to third countries which do not apply the mass balance system. To this end, the mass balance system should also include information on quantities of fuels for which no sustainability characteristics have been determined and deliveries of fuels to uncertified operators shall be taken into account in the mass balance system, based on the physical nature of delivered fuels.",
+      "The mass balance system aims to reduce the administrative burden for demonstrating compliance with the sustainability and greenhouse gas saving criteria by allowing mixing of raw material and fuels with differing sustainability characteristics and by allowing reassignment of the sustainability characteristics in a flexible manner to consignments withdrawn from such a mixture. In order to ensure transparency, mixing under the mass balance system is possible if e.g. raw material belong to the same product group. A product group can comprise for instance different types of non-food cellulosic material with similar physical and chemical characteristics, heating values and/or conversion factors or the types of ligno-cellulosic material covered under point q of Annex IX Part A to Directive (EU) 2018/2001. Virgin vegetable oils, used for the production of biofuels and bioliquids, may belong to the same product group. Raw materials, however, that can be used to produce biofuels, bioliquids and biomass fuels which are subject to different rules concerning their contribution towards the targets for renewable energy should generally not be considered to be part of the same product group as this would risk to undermine the objectives of Directive (EU) 2018/2001, which applies differentiated treatment of biofuels, bioliquids and biomass fuels on the basis of the feedstock they are produced from. In case of gaseous fuels, the EU interconnected grid is considered as one single mass balancing system. Gaseous fuels produced and consumed off the grid or through isolated local distribution networks are to be considered as separate mass balancing systems. Further, precautionary measures are required to ensure the consistency of sustainability claims when fuels are exported to third countries which do not apply the mass balance system. To this end, the mass balance system should also include information on quantities of fuels for which no sustainability characteristics have been determined and deliveries of fuels to uncertified operators shall be taken into account in the mass balance system, based on the physical nature of delivered fuels."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article\u00a019": {
+      "article_score": 6,
+      "statement_scores": [
+        2,
+        2,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 8,
+      "statement_scores": [
+        4,
+        4
+      ]
+    }
+  }
+}

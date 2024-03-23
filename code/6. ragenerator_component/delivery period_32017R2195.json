@@ -1,0 +1,33 @@
+{
+  "term": "delivery period",
+  "celex_id": "32017R2195",
+  "original_definition": "'delivery period' means the period of delivery during which the balancing service provider delivers the full requested change of power in-feed to, or the full requested change of withdrawals from the system;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 25": [
+      "minimum and maximum duration of delivery period;"
+    ],
+    "Article 31": [
+      "8.   Theactivation optimisation functionshall submit the confirmation of the activatedbalancing energybids to the TSO requesting the activation of the balancing energy bids. The activatedbalancing service providers shall be responsible for delivering the requested volume until the end of thedelivery period.",
+      "8.   The activation optimisation function shall submit the confirmation of the activated balancing energy bids to the TSO requesting the activation of the balancing energy bids. The activated balancing service providers shall be responsible for delivering the requested volume until the end of the delivery period."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 25": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 31": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

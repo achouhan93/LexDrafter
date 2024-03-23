@@ -1,0 +1,37 @@
+{
+  "term": "total volume",
+  "celex_id": "32019R2019",
+  "original_definition": "'total volume' means the volume of the space within the inside liner of the refrigerating appliance, equal to the sum of the compartment volumes, expressed in dm3 or litres;",
+  "generated_definition": "'total volume' means the total volume of a refrigerating appliance, with a maximum capacity of 60 liters, primarily intended for the storage and sales of foodstuffs in hotel rooms and similar premises.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018total volume\u2019 (V) means the volume of the space within the inside liner of the refrigerating appliance, equal to the sum of the compartment volumes, expressed in dm3 or litres;",
+      "\u2018minibar\u2019 means arefrigerating appliancewith atotal volumeof maximum 60 litres, which is primary intended for the storage and sales offoodstuffs in hotel rooms and similar premises;",
+      "\u2018minibar\u2019 means a refrigerating appliance with a total volume of maximum 60 litres, which is primary intended for the storage and sales of foodstuffs in hotel rooms and similar premises;"
+    ],
+    "Article 10": [
+      "the volume of the 2-star sub-compartment or 2-star section does not exceed 20 % of the total volume of the containing compartment.",
+      "the volume of the 2-starsub-compartmentor 2-star section does not exceed 20 % of thetotal volume of the containing compartment."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        1
+      ]
+    },
+    "Article 10": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

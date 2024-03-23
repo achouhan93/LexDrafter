@@ -1,0 +1,65 @@
+{
+  "term": "gas hob",
+  "celex_id": "32014R0066",
+  "original_definition": "'gas hob' means an appliance or part of an appliance which incorporates one or more cooking zones including a control unit and which is heated by gas burners of a minimum power of 1,16 kW;",
+  "generated_definition": "'gas hob' means a domestic gas hob is an appliance that uses gas as a fuel source for cooking and heating cooking zones, and its energy efficiency is calculated as the average of the energy efficiency of the different gas burners. the energy efficiency performance limits for domestic hobs are set by the european union and are based on the minimum energy efficiency limits for gas-fired hobs and the maximum energy consumption limits for electric hobs.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018gas hob\u2019 means an appliance or part of an appliance which incorporates one or more cooking zones including a control unit and which is heated by gas burners of a minimum power of 1,16 kW;",
+      "\u2018hob\u2019 means an \u2018electric hob\u2019, a \u2018gas hob\u2019 or a \u2018mixed hob\u2019;"
+    ],
+    "Article 8": [
+      "(EEgas hob in %)",
+      "Energy efficiency performance limits for domestichobs (ECelectric hoband EEgas hob)",
+      "EEgas hob > 54",
+      "The energy efficiency of thegas hob (EEgas hob\n) is calculated as the average of the energy efficiency of the different gas burners (EEgas burner\n) of the hob.",
+      "Domestic mixed electric andgas hobs are treated in the measurements as two separate appliances. Electriccooking zones andcooking areas of the domesticmixed hobs shall follow the provisions of the previous Section 2.1 and cooking zones heated by gas burners shall follow the provisions of the previous Section 2.2.",
+      "The energy efficiency of the gas hob (EEgas hob\n) is calculated as the average of the energy efficiency of the different gas burners (EEgas burner\n) of the hob.",
+      "Domestic mixed electric and gas hobs are treated in the measurements as two separate appliances. Electric cooking zones and cooking areas of the domestic mixed hobs shall follow the provisions of the previous Section 2.1 and cooking zones heated by gas burners shall follow the provisions of the previous Section 2.2.",
+      "The domestic hobs shall have the maximum energy consumption limits for electric hobs (ECelectric hob) and the minimum energy efficiency limits for gas-fired hobs (EEgas hob) as indicated in Table 2.",
+      "2.3.   Domestic mixed electric/gas hobs",
+      "EEgas hob > 55",
+      "The determined value shall not be lower than the declared value of EEgas hob by more than 5 %.",
+      "The domestichobs shall have the maximum energy consumption limits forelectric hobs (ECelectric hob) and the minimum energy efficiency limits for gas-fired hobs (EEgas hob) as indicated in Table 2.",
+      "2.2.   Domestic gas hobs",
+      "EEgas hob",
+      "Energy efficiency for the gas hob",
+      "Energy efficiency performance limits for domestic hobs (ECelectric hob and EEgas hob)",
+      "EEgas hob > 53"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 19,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

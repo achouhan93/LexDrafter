@@ -1,0 +1,39 @@
+{
+  "term": "average illumination",
+  "celex_id": "32014R0066",
+  "original_definition": "'average illumination' means the average illumination provided by the lighting system of the range hood on the cooking surface, measured in lux;",
+  "generated_definition": "'average illumination' means the average illumination of the lighting system on the cooking surface (emiddle) is measured under standard conditions in lux and rounded to the nearest integer.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018average illumination\u2019 (Emiddle) means the average illumination provided by the lighting system of the range hood on the cooking surface, measured in lux;",
+      "\u2018average illumination\u2019 (Emiddle) means the average illumination provided by the lighting system of therange hood on the cooking surface, measured in lux;"
+    ],
+    "Article 8": [
+      "From 1 year after entry into force, for range hoods which provide for lighting of the cooking surface, the average illumination of the lighting system on the cooking surface (Emiddle) shall be higher than 40 lux when measured under standard conditions.",
+      "Average illumination of the lighting system on the cooking surface",
+      "From 1 year after entry into force, forrange hoods which provide for lighting of the cooking surface, theaverage illumination of the lighting system on the cooking surface (Emiddle) shall be higher than 40 lux when measured under standard conditions.",
+      "The average illumination of the lighting system on the cooking surface (Emiddle\n) is measured under standard conditions in lux and rounded to the nearest integer."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 8": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

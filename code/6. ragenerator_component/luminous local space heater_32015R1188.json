@@ -1,0 +1,61 @@
+{
+  "term": "luminous local space heater",
+  "celex_id": "32015R1188",
+  "original_definition": "'luminous local space heater' means a local space heater, using gaseous or liquid fuel which is equipped with a burner; which is to be installed above head level, directed towards the place of use so that the heat emission of the burner, being predominantly infrared radiation, directly warms the subjects to be heated and which emits the products of combustion in the space where it is situated;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018commercial local space heater\u2019 means either aluminous local space heaterortube local space heater;",
+      "\u2018luminous local space heater\u2019 means a local space heater, using gaseous or liquid fuel which is equipped with a burner; which is to be installed above head level, directed towards the place of use so that the heat emission of the burner, being predominantly infrared radiation, directly warms the subjects to be heated and which emits the products of combustion in the space where it is situated;",
+      "\u2018flueless heater\u2019 means alocal space heaterusing gaseous or liquid fuel emitting the products of combustion into the space where the product is situated, other than aluminous local space heater;",
+      "\u2018flueless heater\u2019 means a local space heater using gaseous or liquid fuel emitting the products of combustion into the space where the product is situated, other than a luminous local space heater;",
+      "\u2018commercial local space heater\u2019 means either a luminous local space heater or tube local space heater;"
+    ],
+    "Article 9": [
+      "for luminous local space heaters and tube local space heaters the emissions of NOx are not more than 10 % higher than the declared value.",
+      "emissions of NOx by luminous local space heaters and tube local space heaters shall not exceed 200 mg/kWhinput based on GCV.",
+      "for luminous local space heaters and tube local space heaters the average seasonal space heating energy efficiency of the three additional units is not more than 10 % lower than the declared value;",
+      "benchmark for emissions of NOx byluminous local space heaters andtube local space heaters: 50 mg/kWhinput based on GCV.",
+      "benchmark for emissions of NOx by luminous local space heaters and tube local space heaters: 50 mg/kWhinput based on GCV.",
+      "forluminous local space heaters andtube local space heaters the average emissions of NOx of the three additional units are not more than 10 % higher than the declared value.",
+      "emissions of NOx byluminous local space heaters andtube local space heaters shall not exceed 200 mg/kWhinput based on GCV.",
+      "for luminous local space heaters and tube local space heaters the average emissions of NOx of the three additional units are not more than 10 % higher than the declared value.",
+      "for luminous local space heaters and tube local space heaters the seasonal space heating energy efficiency is not more than 10 % lower than the declared value;",
+      "forluminous local space heaters andtube local space heaters the emissions of NOx are not more than 10 % higher than the declared value.",
+      "forluminous local space heaters andtube local space heaters the seasonal space heating energy efficiency is not more than 10 % lower than the declared value;",
+      "forluminous local space heaters andtube local space heaters the average seasonal space heating energy efficiency of the three additional units is not more than 10 % lower than the declared value;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 9": {
+      "article_score": 12,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

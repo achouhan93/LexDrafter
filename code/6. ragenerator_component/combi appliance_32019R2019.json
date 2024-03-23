@@ -1,0 +1,49 @@
+{
+  "term": "combi appliance",
+  "celex_id": "32019R2019",
+  "original_definition": "'combi appliance' means a refrigerating appliance that has more than one compartment type of which at least one is an unfrozen compartment;",
+  "generated_definition": "'combi appliance' means a combi appliance is a refrigerating appliance with multiple temperature compartments, external doors, and/or a frozen compartment, and may have one or more compressors and thermostats. it can be used for both refrigeration and freezing of food.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018combi appliance\u2019 means arefrigerating appliancethat has more than onecompartment typeof which at least one is an unfrozen compartment;",
+      "\u2018combi appliance\u2019 means a refrigerating appliance that has more than one compartment type of which at least one is an unfrozen compartment;"
+    ],
+    "Article 10": [
+      "between 1,15  and 1,56  for combi appliances with 3- or 4-star compartments (2), 1,15  for other combi appliances, 1,00  for other refrigerating appliances",
+      "all other refrigerating appliances, with the exception of low noise combi appliances with a frozen compartment",
+      "\u2018door heat loss factor\u2019 (D) means a compensation factor forcombi appliances according to the number of different temperaturecompartments or the number ofexternal doors, whichever is lower and as set out in Annex III, Table 5. For this factor, \u2018compartment\u2019 does not refer tosub-compartment;",
+      "\u2018winter setting\u2019 means a control feature for a combi appliance with one compressor and one thermostat, which according to the manufacturer\u2019s, importer\u2019s or authorised representative\u2019s instructions can be used in ambient temperatures below +16 \u00b0C, consisting of a switching device or function that guarantees, even if it would not be required for the compartment where the thermostat is located, that the compressor keeps on working to maintain the proper storage temperatures in the other compartments;",
+      "\u2018winter setting\u2019 means a control feature for acombi appliancewith one compressor and one thermostat, which according to the manufacturer\u2019s, importer\u2019s or authorised representative\u2019s instructions can be used in ambient temperatures below +16 \u00b0C, consisting of a switching device or function that guarantees, even if it would not be required for thecompartment where the thermostat is located, that the compressor keeps on working to maintain the proper storage temperatures in the other compartments;",
+      "\u2018door heat loss factor\u2019 (D) means a compensation factor for combi appliances according to the number of different temperature compartments or the number of external doors, whichever is lower and as set out in Annex III, Table 5. For this factor, \u2018compartment\u2019 does not refer to sub-compartment;",
+      "Until 1 March 2024, the requirements laid down in points 2(a) and (b) shall not apply to combi appliances with one electromechanical thermostat and one compressor which are not equipped with an electronic control board.",
+      "\u2018refrigerator-freezer\u2019 means a combi appliance that has at least one freezer compartment and at least one fresh food compartment.",
+      "\u2018refrigerator-freezer\u2019 means acombi appliancethat has at least onefreezer compartmentand at least onefresh food compartment."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article 10": {
+      "article_score": 10,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

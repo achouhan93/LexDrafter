@@ -1,0 +1,22 @@
+{
+  "term": "Energy recovery",
+  "celex_id": "32009L0125",
+  "original_definition": "'Energy recovery' means the use of combustible waste as a means to generate energy through direct incineration with or without other waste but with recovery of the heat;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Energy recovery\u2019 means the use of combustible waste as a means to generate energy through direct incineration with or without other waste but with recovery of the heat;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

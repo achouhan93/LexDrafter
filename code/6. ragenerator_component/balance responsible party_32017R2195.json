@@ -1,0 +1,133 @@
+{
+  "term": "balance responsible party",
+  "celex_id": "32017R2195",
+  "original_definition": "'balance responsible party' means a market participant or its chosen representative responsible for its imbalances;",
+  "generated_definition": "'balance responsible party' means a party responsible for balancing its energy consumption and production, as determined by the sentences provided.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018position\u2019 means the declared energy volume of a balance responsible party used for the calculation of its imbalance;",
+      "\u2018allocated volume\u2019 means an energy volume physically injected or withdrawn from the system and attributed to abalance responsible party, for the calculation of theimbalance of that balance responsible party;",
+      "\u2018imbalance\u2019 means an energy volume calculated for abalance responsible partyand representing the difference between theallocated volumeattributed to that balance responsible party and the finalpositionof that balance responsible party, including anyimbalance adjustmentapplied to that balance responsible party, within a givenimbalance settlement period;",
+      "\u2018balance responsible party\u2019 means a market participant or its chosen representative responsible for its imbalances;",
+      "\u2018imbalance\u2019 means an energy volume calculated for a balance responsible party and representing the difference between the allocated volume attributed to that balance responsible party and the final position of that balance responsible party, including any imbalance adjustment applied to that balance responsible party, within a given imbalance settlement period;",
+      "\u2018balance responsible party\u2019 means a market participant or its chosen representative responsible for itsimbalances;",
+      "\u2018allocated volume\u2019 means an energy volume physically injected or withdrawn from the system and attributed to a balance responsible party, for the calculation of the imbalance of that balance responsible party;",
+      "\u2018position\u2019 means the declared energy volume of abalance responsible partyused for the calculation of itsimbalance;"
+    ],
+    "Article 17": [
+      "3.   Prior to the intraday cross-zonal gate closure time, eachbalance responsible partymay change the schedules required to calculate itspositionpursuant to Article 54. TSOs applying acentral dispatching modelmay establish specific conditions and rules for changing the schedules of a balance responsible party in the terms and conditions related tobalancing set up pursuant to Article 18.",
+      "3.   Prior to the intraday cross-zonal gate closure time, each balance responsible party may change the schedules required to calculate its position pursuant to Article 54. TSOs applying a central dispatching model may establish specific conditions and rules for changing the schedules of a balance responsible party in the terms and conditions related to balancing set up pursuant to Article 18.",
+      "2.   Each balance responsible party shall be financially responsible for the imbalances to be settled with the connecting TSO.",
+      "4.   After the intraday cross-zonal gate closure time, eachbalance responsible partymay change the internal commercial schedules required to calculate itspositionpursuant to Article 54 in accordance with the rules set out in the terms and conditions related tobalancing set up pursuant to Article 18.",
+      "1.   In real time, eachbalance responsible partyshall strive to be balanced or help the power system to be balanced. The detailed requirements concerning this obligation shall be defined in the proposal for terms and conditions related tobalancing set up pursuant to Article 18.",
+      "1.   In real time, each balance responsible party shall strive to be balanced or help the power system to be balanced. The detailed requirements concerning this obligation shall be defined in the proposal for terms and conditions related to balancing set up pursuant to Article 18.",
+      "2.   Eachbalance responsible partyshall be financially responsible for theimbalances to be settled with theconnecting TSO.",
+      "4.   After the intraday cross-zonal gate closure time, each balance responsible party may change the internal commercial schedules required to calculate its position pursuant to Article 54 in accordance with the rules set out in the terms and conditions related to balancing set up pursuant to Article 18."
+    ],
+    "Article 18": [
+      "the requirements for becoming a balance responsible party;"
+    ],
+    "Article 49": [
+      "2.   Forimbalance areas where several finalpositions for a singlebalance responsible partyare calculated pursuant to Article 54(3), animbalance adjustment may be calculated for each position.",
+      "2.   For imbalance areas where several final positions for a single balance responsible party are calculated pursuant to Article 54(3), an imbalance adjustment may be calculated for each position.",
+      "Imbalance adjustment to the balance responsible party",
+      "Imbalance adjustmentto thebalance responsible party"
+    ],
+    "Article 52": [
+      "1.   Each TSO or, where relevant, third party shall settle within its scheduling area or scheduling areas when appropriate with each balance responsible party for each imbalance settlement period pursuant to Article 53 all calculated imbalances pursuant to Article 49 and Article 54 against the appropriate imbalance price calculated pursuant to Article 55.",
+      "1.   Each TSO or, where relevant, third party shall settle within its scheduling area or scheduling areas when appropriate with eachbalance responsible partyfor eachimbalance settlementperiod pursuant to Article 53 all calculated imbalances pursuant to Article 49 and Article 54 against the appropriateimbalance price calculated pursuant to Article 55."
+    ],
+    "Article 54": [
+      "5.   Allocated volume shall not be calculated for a balance responsible party which does not cover injections or withdrawals.",
+      "for each balance responsible party;",
+      "claiming the recalculation of the imbalance by a balance responsible party.",
+      "3.   Until the implementation of the proposal pursuant to Article 52(2), each TSO shall calculate the finalpositionof abalance responsible party using one of the following approaches:",
+      "balance responsible party has one single final position equal to the sum of its external commercial trade schedules and internal commercial trade schedules;",
+      "in a central dispatching model, a balance responsible party can have several final positions per imbalance area equal to generation schedules of power generating facilities or consumption schedules of demand facilities.",
+      "balance responsible party has two final positions: the first is equal to the sum of its external commercial trade schedules and internal commercial trade schedules from generation, and the second is equal to the sum of its external commercial trade schedules and internal commercial trade schedules from consumption;",
+      "a positive sign, indicating a balance responsible party's surplus.",
+      "balance responsible partyhas two finalpositions: the first is equal to the sum of its external commercial trade schedules and internal commercial trade schedules from generation, and the second is equal to the sum of its external commercial trade schedules and internal commercial trade schedules from consumption;",
+      "claiming the recalculation of theimbalanceby abalance responsible party.",
+      "6.   Animbalanceshall indicate the size and the direction of the settlement transaction between thebalance responsible party and the TSO; an imbalance can have alternatively:",
+      "balance responsible partyhas one single finalposition equal to the sum of its external commercial trade schedules and internal commercial trade schedules;",
+      "5.Allocated volumeshall not be calculated for abalance responsible party which does not cover injections or withdrawals.",
+      "6.   An imbalance shall indicate the size and the direction of the settlement transaction between the balance responsible party and the TSO; an imbalance can have alternatively:",
+      "a negative sign, indicating a balance responsible party's shortage;",
+      "3.   Until the implementation of the proposal pursuant to Article 52(2), each TSO shall calculate the final position of a balance responsible party using one of the following approaches:"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 14,
+      "statement_scores": [
+        1,
+        2,
+        4,
+        0,
+        4,
+        0,
+        2,
+        1
+      ]
+    },
+    "Article 17": {
+      "article_score": 10,
+      "statement_scores": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 18": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 49": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 52": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 54": {
+      "article_score": 16,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

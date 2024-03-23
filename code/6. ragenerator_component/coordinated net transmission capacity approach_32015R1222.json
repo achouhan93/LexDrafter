@@ -1,0 +1,105 @@
+{
+  "term": "coordinated net transmission capacity approach",
+  "celex_id": "32015R1222",
+  "original_definition": "'coordinated net transmission capacity approach' means the capacity calculation method based on the principle of assessing and defining ex ante a maximum energy exchange between adjacent bidding zones;",
+  "generated_definition": "'coordinated net transmission capacity approach' means a methodology used by transmission system operators (tsos) to calculate the available transmission capacity for electricity transmission in regions and bidding zone borders, involving the coordination of the capacity calculation methodology using the flow-based approach and the coordinated net transmission capacity approach, with the aim of ensuring the same level of operational security in the concerned region, while taking into account the efficiency of the capacity calculation methodology using the flow-based approach.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018coordinated net transmission capacity approach\u2019 means the capacity calculation method based on the principle of assessing and defining ex ante a maximum energy exchange between adjacent bidding zones;"
+    ],
+    "Article 20": [
+      "7.   TSOs may jointly request the competent regulatory authorities to apply the coordinated net transmission capacity approach in regions and bidding zone borders other than those referred to in paragraphs 2 to 4, if the TSOs concerned are able to demonstrate that the application of the capacity calculation methodology using the flow-based approach would not yet be more efficient compared to the coordinated net transmission capacity approach and assuming the same level of operational security in the concerned region.",
+      "7.   TSOs may jointly request the competent regulatory authorities to apply thecoordinated net transmission capacity approachin regions and bidding zone borders other than those referred to in paragraphs 2 to 4, if the TSOs concerned are able to demonstrate that the application of the capacity calculation methodology using theflow-based approach would not yet be more efficient compared to the coordinated net transmission capacity approach and assuming the same level of operational security in the concerned region."
+    ],
+    "Article 21": [
+      "4.   All TSOs in eachcapacity calculation regionshall, as far as possible, use harmonised capacity calculation inputs. By 31 December 2020, all regions shall use a harmonised capacity calculation methodology which shall in particular provide for a harmonised capacity calculation methodology for the flow-based and for thecoordinated net transmission capacity approach. The harmonisation of capacity calculation methodology shall be subject to an efficiency assessment concerning the harmonisation of the flow-based methodologies and the coordinated net transmission capacity methodologies that provide for the same level of operational security. All TSOs shall submit the assessment with a proposal for the transition towards a harmonised capacity calculation methodology to all regulatory authorities within 12 months after at least two capacity calculation regions have implemented common capacity calculation methodology in accordance with Article 20(5).",
+      "for thecoordinated net transmission capacity approach, the rules for calculating cross-zonal capacity, including the rules for efficiently sharing the power flow capabilities of critical network elements among different bidding zone borders;",
+      "4.   All TSOs in each capacity calculation region shall, as far as possible, use harmonised capacity calculation inputs. By 31 December 2020, all regions shall use a harmonised capacity calculation methodology which shall in particular provide for a harmonised capacity calculation methodology for the flow-based and for the coordinated net transmission capacity approach. The harmonisation of capacity calculation methodology shall be subject to an efficiency assessment concerning the harmonisation of the flow-based methodologies and the coordinated net transmission capacity methodologies that provide for the same level of operational security. All TSOs shall submit the assessment with a proposal for the transition towards a harmonised capacity calculation methodology to all regulatory authorities within 12 months after at least two capacity calculation regions have implemented common capacity calculation methodology in accordance with Article 20(5).",
+      "for the coordinated net transmission capacity approach, the rules for calculating cross-zonal capacity, including the rules for efficiently sharing the power flow capabilities of critical network elements among different bidding zone borders;"
+    ],
+    "Article 22": [
+      "5.   For each capacity calculation time-frame, the TSOs concerned shall determine the reliability margin for critical network elements, where the flow-based approach is applied, and for cross-zonal capacity, where the coordinated net transmission capacity approach is applied.",
+      "5.   For each capacity calculation time-frame, the TSOs concerned shall determine thereliability marginfor critical network elements, where theflow-based approachis applied, and for cross-zonal capacity, where thecoordinated net transmission capacity approach is applied."
+    ],
+    "Article 26": [
+      "2.   Where acoordinated net transmission capacity approachis applied, all TSOs in thecapacity calculation regionshall include in the capacity calculation methodology referred to in Article 21 a rule for splitting the correction of cross-zonal capacity between the different bidding zone borders.",
+      "2.   Where a coordinated net transmission capacity approach is applied, all TSOs in the capacity calculation region shall include in the capacity calculation methodology referred to in Article 21 a rule for splitting the correction of cross-zonal capacity between the different bidding zone borders."
+    ],
+    "Article 29": [
+      "8.   Eachcoordinated capacity calculatorapplying thecoordinated net transmission capacity approach shall:",
+      "8.   Each coordinated capacity calculator applying the coordinated net transmission capacity approach shall:",
+      "cross-zonal capacity values for each bidding zone borderwithin thecapacity calculation region, if applying thecoordinated net transmission capacity approach.",
+      "cross-zonal capacity values for each bidding zone border within the capacity calculation region, if applying the coordinated net transmission capacity approach."
+    ],
+    "Article 31": [
+      "for regions where the coordinated net transmission capacity approach is applied, an analysis of whether the conditions specified in Article 20(7) are still fulfilled;"
+    ],
+    "Not Article": [
+      "There are two permissible approaches when calculating cross-zonal capacity: flow-based or based on coordinated net transmission capacity. The flow-based approach should be used as a primary approach for day-ahead and intraday capacity calculation where cross-zonal capacity between bidding zones is highly interdependent. The flow-based approach should only be introduced after market participants have been consulted and given sufficient preparation time to allow for a smooth transition. The coordinated net transmission capacity approach should only be applied in regions where cross-zonal capacity is less interdependent and it can be shown that the flow-based approach would not bring added value.",
+      "There are two permissible approaches when calculating cross-zonal capacity: flow-based or based on coordinated net transmission capacity. Theflow-based approachshould be used as a primary approach for day-ahead and intraday capacity calculation where cross-zonal capacity between bidding zones is highly interdependent. The flow-based approach should only be introduced after market participants have been consulted and given sufficient preparation time to allow for a smooth transition. Thecoordinated net transmission capacity approach should only be applied in regions where cross-zonal capacity is less interdependent and it can be shown that the flow-based approach would not bring added value."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 20": {
+      "article_score": 4,
+      "statement_scores": [
+        2,
+        2
+      ]
+    },
+    "Article 21": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 22": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 26": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    },
+    "Article 29": {
+      "article_score": 4,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article 31": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "term": "air heating product",
+  "celex_id": "32015R1188",
+  "original_definition": "'air heating product' means a product providing heat to an air-based heating system only that can be ducted and is designed to be used while fastened or secured in a specific location or wall mounted which distributes the air by means of an air moving device in order to reach and maintain a certain level of human thermal comfort within an enclosed space in which the product is situated;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 1": [
+      "air heating products;"
+    ],
+    "Article 2": [
+      "\u2018air heating product\u2019 means a product providing heat to an air-based heating system only that can be ducted and is designed to be used while fastened or secured in a specific location or wall mounted which distributes the air by means of an air moving device in order to reach and maintain a certain level of human thermal comfort within an enclosed space in which the product is situated;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

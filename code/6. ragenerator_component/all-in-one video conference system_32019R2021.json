@@ -1,0 +1,33 @@
+{
+  "term": "all-in-one video conference system",
+  "celex_id": "32019R2021",
+  "original_definition": "'all-in-one video conference system' means a dedicated system designed for video conferencing and collaboration, integrated within a single enclosure, whose specification shall include all of the following features:support for specific videoconference protocol ITU-T H.323 or IETF SIP as delivered by the manufacturer;camera(s), display and processing capabilities for two-way real-time video including packet loss resilience;loudspeaker and audio processing capabilities for two-way real-time hands-free audio including echo cancellation;an encryption function;HiNA;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 1": [
+      "all-in-one video conference systems;"
+    ],
+    "Article 2": [
+      "\u2018all-in-one video conference system\u2019 means a dedicated system designed for video conferencing and collaboration,integrated within a single enclosure, whose specification shall include all of the following features:",
+      "\u2018all-in-one video conference system\u2019 means a dedicated system designed for video conferencing and collaboration, integrated within a single enclosure, whose specification shall include all of the following features:"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    }
+  }
+}

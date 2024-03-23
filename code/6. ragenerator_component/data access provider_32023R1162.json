@@ -1,0 +1,85 @@
+{
+  "term": "data access provider",
+  "celex_id": "32023R1162",
+  "original_definition": "'data access provider' means a party responsible for facilitating access, including in cooperation with other parties, to validated historical metering and consumption data by the final customer or by eligible parties;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article\u00a04": [
+      "3.   The information referred to in paragraph 2 of this Article shall include the identification of those parties acting in the national market as the metered data administrator(s), the metering point administrator(s), the data access provider(s) and the permission administrator(s), whose responsibilities are set out in Articles 5, 6, 7 and 8 of this Regulation."
+    ],
+    "Article\u00a07": [
+      "2.   Data access providers shall keep and make available to final customers their log information, including the time at which an eligible party or a final customer has been given access to data, and the type of data concerned. This information shall be made available online, free of charge, without unnecessary delay, whenever a final customer requests access.",
+      "2.Data access providers shall keep and make available to final customers their log information, including the time at which aneligible party or a final customer has been given access to data, and the type of data concerned. This information shall be made available online, free of charge, without unnecessary delay, whenever a final customer requests access.",
+      "3.   Where Member States have so provided, a designated entity may share with the data access provider, the obligations referred to in paragraphs 1 and 2.",
+      "1.   In accordance with Article 23(2) of Directive (EU) 2019/944, data access providers shall make publicly available through an online interface",
+      "Responsibilities of data access provider"
+    ],
+    "Article\u00a014": [
+      "Validate request at data access provider",
+      "The data access provider validates the specified metered data request and provides a meaningful indication in case of an invalid request.",
+      "Identify data access provider",
+      "Information about data access provider",
+      "Data access provider",
+      "Final customers identify themselves to the data access provider.",
+      "Data access providertransfersauthenticationinformation toidentity service provider.",
+      "Metered data administrators for which the data access provider manages final customer data access.",
+      "Metered data administrators for which thedata access provider manages final customer data access.",
+      "Final customers identify the data access provider that is responsible for their metering points under consideration.",
+      "Data access provider communicates validation result and provides a meaningful indication in case of an invalid request.",
+      "Identity service provider utilised by the data access provider to authenticate final customers.",
+      "Data access provider transfers authentication information to identity service provider.",
+      "Identity service providerutilised by thedata access provider to authenticate final customers."
+    ],
+    "Not Article": [
+      "This Regulation describes the roles and responsibilities of market participants in the exchange of information under the reference model, including the roles and responsibilities of the metered data administrator, the metering point administrator, the data access provider and the permission administrator. Market participants that exchange information following the specific procedures described in this Regulation should be able to assume roles and responsibilities assigned by the reference model individually or jointly and may also carry out more than one role.",
+      "This Regulation describes the roles and responsibilities of market participants in the exchange of information under thereference model, including the roles and responsibilities of themetered data administrator, themetering point administrator, thedata access providerand thepermission administrator. Market participants that exchange information following the specific procedures described in this Regulation should be able to assume roles and responsibilities assigned by the reference model individually or jointly and may also carry out more than one role."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a04": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article\u00a07": {
+      "article_score": 5,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Article\u00a014": {
+      "article_score": 14,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        1
+      ]
+    }
+  }
+}

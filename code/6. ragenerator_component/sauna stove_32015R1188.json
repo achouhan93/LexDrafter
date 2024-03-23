@@ -1,0 +1,31 @@
+{
+  "term": "sauna stove",
+  "celex_id": "32015R1188",
+  "original_definition": "'sauna stove' means a space heating product, incorporated in, or declared to be used in, dry or wet sauna's or similar environments;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 1": [
+      "sauna stoves;"
+    ],
+    "Article 2": [
+      "\u2018sauna stove\u2019 means a space heating product, incorporated in, or declared to be used in, dry or wet sauna's or similar environments;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 1": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

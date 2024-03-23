@@ -1,0 +1,173 @@
+{
+  "term": "permission",
+  "celex_id": "32023R1162",
+  "original_definition": "'permission' means the authorisation given by a final customer for an eligible party on the basis of a contractual agreement they have with this party, to access their metering and consumption data managed by the metered data administrator for the provision of a specific service;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article\u00a02": [
+      "\u2018data access log\u2019 means a timestamped record of data items accessed that includes at least the identification of the final customer or the eligible party accessing the data and, if applicable, the identification of the permission used to access the data;",
+      "\u2018data access log\u2019 means a timestamped record of data items accessed that includes at least the identification of the final customer or theeligible partyaccessing the data and, if applicable, the identification of thepermission used to access the data;",
+      "\u2018permission\u2019 means the authorisation given by a final customer for aneligible partyon the basis of a contractual agreement they have with this party, to access theirmetering and consumption datamanaged by themetered data administrator for the provision of a specific service;",
+      "\u2018permission\u2019 means the authorisation given by a final customer for an eligible party on the basis of a contractual agreement they have with this party, to access their metering and consumption data managed by the metered data administrator for the provision of a specific service;"
+    ],
+    "Article\u00a08": [
+      "process notifications about invalidations of permissions received in line with the procedures in this Regulation;",
+      "provide final customers on request, with an overview of active and historical data sharing permissions, as per paragraph (2) of Article 5;"
+    ],
+    "Article\u00a014": [
+      "Attributes of the permission as described in I \u2013 Established permission information.",
+      "Specify attributes of permission",
+      "Trigger termination of permission",
+      "For future data covered by the permission, but not available at the time the permission is established, the periodicity - when and how often - data packages are to be made available where applicable (for example, in data exchange scenarios where data is pushed rather than requested).",
+      "Store permission",
+      "Final customer that has given the permission.",
+      "Permission management responsibility for",
+      "For intervals that are not currently available but will be in a future point in time \u2013 but also covered by thepermission\u2013 the respective data is transferred from themetered data administrator using the indication defined by the attribute \u2018Transmission schedule\u2019 of information object described in Table IV.",
+      "Validate specified permission request at permission administrator",
+      "Permission end timestamp",
+      "Validate specified permission request at metered data administrator",
+      "H - Basic permission information",
+      "List of permissions",
+      "If applicable, link to website of a web application that is used for permission administration.",
+      "Data is transferred from themetered data administratoras specified in thepermissioneither until the requested reading end point or the current timestamp (for instances where the requested reading end point is in the future) to theeligible party.",
+      "Permission maximum lifetime",
+      "If permission is not active anymore, the reason for why the permission administrator considers the permission has ended. For instance, this can indicate fulfilment of purpose, reach of permission end timestamp, revocation of final customer or termination by the eligible party.",
+      "Eligible partyconsiders the service or purpose referred by thepermission terminated.",
+      "The timestamp after which theeligible partyhas to consider thepermission as expired or revoked, even if the processing purpose is not fulfilled by then.",
+      "Validate specifiedpermissionrequest atmetered data administrator",
+      "For intervals that are not currently available but will be in a future point in time \u2013 but also covered by the permission \u2013 the respective data is transferred from the metered data administrator using the indication defined by the attribute \u2018Transmission schedule\u2019 of information object described in Table IV.",
+      "I \u2013 Established permission information",
+      "The metered data administrator must not transfer data under the scope of the revoked permission anymore.",
+      "A party responsible for administering a register of data access permissions for a set of metering points, making this information available to final customers and eligible parties in the sector, on request.",
+      "Details of information on listed permission",
+      "Permission limit timestamp",
+      "Final customers specify the data they intend to make available and confirm their permission to the permission administrator. This can also be assisted by pre-specified permission requests coming from the eligible party through step 2.3.",
+      "Details of the permission",
+      "If applicable, themetered data administratorvalidates the specifiedpermission request.",
+      "Eligible party for which the permission has been given.",
+      "Trigger permission revocation (explicit)",
+      "Reason for the end of permission",
+      "Permission identifier",
+      "Forwardpermissionrequest tometered data administrator for validation",
+      "The timestamp after which the eligible party has to consider the permission as expired or revoked, even if the processing purpose is not fulfilled by then.",
+      "For future data covered by the permission, but not available at the time the permission is established, the periodicity - when and how often - data packages are to be made available where applicable.",
+      "A unique identifier of the permission referring to information object I \u2013 Established permission information.",
+      "Preset permission information",
+      "Themetered data administratormust not transfer data under the scope of the revokedpermission anymore.",
+      "Final customers specify the data they intend to make available and confirm theirpermissionto thepermission administrator. This can also be assisted by pre-specified permission requests coming from theeligible party through step 2.3.",
+      "Forward permission request to metered data administrator for validation",
+      "Data is transferred from the metered data administrator as specified in the permission either until the requested reading end point or the current timestamp (for instances where the requested reading end point is in the future) to the eligible party.",
+      "Ifpermissionis not active anymore, the reason for why thepermission administratorconsiders the permission has ended. For instance, this can indicate fulfilment of purpose, reach of permission end timestamp, revocation of final customer or termination by theeligible party.",
+      "If applicable, the metered data administrator validates the specified permission request.",
+      "Execute permission end tasks",
+      "G - Preset permission information",
+      "Preset permission details",
+      "Permission management responsibility",
+      "Eligible party considers the service or purpose referred by the permission terminated.",
+      "Established permission information",
+      "Validate specifiedpermissionrequest atpermission administrator",
+      "A unique identifier of the permission.",
+      "Eligible partyfor which thepermission has been given.",
+      "Basic permission information",
+      "Ifpermissionis not active anymore, the timestamp since when thepermission administrator considers the permission as ended",
+      "If permission is not active anymore, the timestamp since when the permission administrator considers the permission as ended",
+      "Information object H\u2013 Permission information"
+    ],
+    "Not Article": [
+      "This Regulation applies tometering and consumption datain the form ofvalidated historical metering and consumption dataand non-validated near-real time metering and consumption data. It lays down rules enabling final customers in the retail electricity market and eligible parties to access this data, in a timely, simple and secure manner. Moreover, it ensures that suppliers and service providers have transparent and seamless access to final customers\u2019 data, in a manner that the data is easy for them to understand and use, provided that customers have given the requiredpermission. Upon receiving this permission, themetered data administratorprovides the relevant data covered by this authorisation to theeligible party chosen by the final customer. Moreover, this specific authorisation procedure could be linked to a contractual agreement, or to an explicit clause within the contractual agreement with the eligible party. This way, interoperability is ensured in a manner that respects consumer rights over their data, and market participants have a shared understanding of the type of data and workflows that are required for specific services and processes. Customers can be required to give permission to suppliers or other market participants such as aggregators as part of their contractual agreements. Where a customer terminates their contract with a supplier or other market participant, the supplier or market participant should continue to have access to the metering data necessary for billing or balancing purposes. Member States may require certain metering data to be shared for legitimate public purposes, for instance with environmental or statistical authorities as well as with system operators or other market participants.",
+      "This Regulation applies to metering and consumption data in the form of validated historical metering and consumption data and non-validated near-real time metering and consumption data. It lays down rules enabling final customers in the retail electricity market and eligible parties to access this data, in a timely, simple and secure manner. Moreover, it ensures that suppliers and service providers have transparent and seamless access to final customers\u2019 data, in a manner that the data is easy for them to understand and use, provided that customers have given the required permission. Upon receiving this permission, the metered data administrator provides the relevant data covered by this authorisation to the eligible party chosen by the final customer. Moreover, this specific authorisation procedure could be linked to a contractual agreement, or to an explicit clause within the contractual agreement with the eligible party. This way, interoperability is ensured in a manner that respects consumer rights over their data, and market participants have a shared understanding of the type of data and workflows that are required for specific services and processes. Customers can be required to give permission to suppliers or other market participants such as aggregators as part of their contractual agreements. Where a customer terminates their contract with a supplier or other market participant, the supplier or market participant should continue to have access to the metering data necessary for billing or balancing purposes. Member States may require certain metering data to be shared for legitimate public purposes, for instance with environmental or statistical authorities as well as with system operators or other market participants.",
+      "Industry practice is to separate interoperability into five layers. The business layer relates to the business objectives and roles for certain services or processes. The function layer relates to the use cases, data sharing and permission management. The information layer relates to data models and information models, such as CIM (2). The communication layer relates to the communication protocols and data formats such as CSV (3) or XML (4). The component layer relates to data exchange platforms, applications and hardware such as meters and sensors."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article\u00a02": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    "Article\u00a08": {
+      "article_score": 0,
+      "statement_scores": [
+        0,
+        0
+      ]
+    },
+    "Article\u00a014": {
+      "article_score": 58,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        0,
+        2,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        4,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        3,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        2,
+        2,
+        1,
+        0,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        3,
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 6,
+      "statement_scores": [
+        2,
+        3,
+        1
+      ]
+    }
+  }
+}

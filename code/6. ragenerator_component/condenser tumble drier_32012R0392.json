@@ -1,0 +1,49 @@
+{
+  "term": "condenser tumble drier",
+  "celex_id": "32012R0392",
+  "original_definition": "'condenser tumble drier' means a tumble drier which includes a device (either using condensation or any other means) for removing moisture from the air used for the drying process;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018condensation efficiency\u2019 means the ratio between the mass of moisture condensed by a condenser tumble drier and the mass of moisture removed from the load at the end of a cycle;",
+      "\u2018condenser tumble drier\u2019 means a tumble drier which includes a device (either using condensation or any other means) for removing moisture from the air used for the drying process;",
+      "\u2018condensation efficiency\u2019 means the ratio between the mass of moisture condensed by acondenser tumble drierand the mass of moisture removed from the load at the end of acycle;"
+    ],
+    "Article 10": [
+      "if thehousehold tumble drieris acondenser tumble drier, the averagecondensation efficiencyCdry\n of thestandard cotton programmeat full load and the average condensation efficiency of the standard cotton programme atpartial load Cdry1\u20442\n;",
+      "if thehousehold tumble drieris acondenser tumble drier, the averagecondensation efficiencyCdry\n and Cdry1\u20442\n of thestandard cotton programmeat full load andpartial load and the weighted condensation efficiency (Ct\n) for the \u2018standard cotton programme at full and partial load\u2019, as a percentage and rounded to the nearest whole percent;",
+      "if thehousehold tumble drieris acondenser tumble drier, thecondensation efficiency class in accordance with point 2 of Annex VI, expressed as \u2018condensation efficiency class \u2018X\u2019 on a scale from G (least efficient) to A (most efficient)\u2019; this may be expressed by other means provided it is clear that the scale is from G (least efficient) to A (most efficient);",
+      "if thehousehold tumble drieris acondenser tumble drier, thecondensation efficiency class in accordance with point 2 of Annex VI;",
+      "if the household tumble drier is a condenser tumble drier, the condensation efficiency class in accordance with point 2 of Annex VI;",
+      "if the household tumble drier is a condenser tumble drier, the condensation efficiency class in accordance with point 2 of Annex VI, expressed as \u2018condensation efficiency class \u2018X\u2019 on a scale from G (least efficient) to A (most efficient)\u2019; this may be expressed by other means provided it is clear that the scale is from G (least efficient) to A (most efficient);",
+      "if the household tumble drier is a condenser tumble drier, the average condensation efficiency Cdry\n and Cdry1\u20442\n of the standard cotton programme at full load and partial load and the weighted condensation efficiency (Ct\n) for the \u2018standard cotton programme at full and partial load\u2019, as a percentage and rounded to the nearest whole percent;",
+      "if the household tumble drier is a condenser tumble drier, the average condensation efficiency Cdry\n of the standard cotton programme at full load and the average condensation efficiency of the standard cotton programme at partial load Cdry1\u20442\n;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        1,
+        0,
+        1
+      ]
+    },
+    "Article 10": {
+      "article_score": 8,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "term": "FRR dimensioning rules",
+  "celex_id": "32017R1485",
+  "original_definition": "'FRR dimensioning rules' means the specifications of the FRR dimensioning process of a LFC block;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 3": [
+      "\u2018FRR dimensioning rules\u2019 means the specifications of the FRR dimensioning process of a LFC block;"
+    ],
+    "Article 131": [
+      "The TSOs of a LFC block shall ensure that at least 50 % of their total combined reserve capacity on FRR resulting from the FRR dimensioning rules in Article 157(1) and before any reduction due to the sharing of FRR in accordance with Article 157(2) remains located within their LFC block."
+    ],
+    "Article 157": [
+      "4.   All TSOs of a LFC block shall have sufficient reserve capacity on FRR at any time in accordance with the FRR dimensioning rules. The TSOs of a LFC block shall specify in the LFC block operational agreement an escalation procedure for cases of severe risk of insufficient reserve capacity on FRR in the LFC block."
+    ],
+    "Article 168": [
+      "Each TSO of a LFC block shall have the right to share FRR with other LFC blocks of its synchronous area within the limits set by the FRR dimensioning rules in Article 157(1) and in accordance with Article 166."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 3": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 131": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 157": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 168": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

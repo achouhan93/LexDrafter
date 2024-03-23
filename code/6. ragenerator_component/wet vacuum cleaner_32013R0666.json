@@ -1,0 +1,22 @@
+{
+  "term": "wet vacuum cleaner",
+  "celex_id": "32013R0666",
+  "original_definition": "'wet vacuum cleaner' means a vacuum cleaner that removes dry and/or wet material (soil) from the surface by applying water-based detergent or steam to the surface to be cleaned, and removing it, and the soil by an airflow created by underpressure developed within the unit, including types commonly known as spray-extraction vacuum cleaners;",
+  "generated_definition": "'wet vacuum cleaner' means a device used to clean surfaces by creating a suction effect using water and a filter to separate solids from the liquid.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018wet vacuum cleaner\u2019 means a vacuum cleaner that removes dry and/or wet material (soil) from the surface by applying water-based detergent or steam to the surface to be cleaned, and removing it, and the soil by an airflow created by underpressure developed within the unit, including types commonly known as spray-extraction vacuum cleaners;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

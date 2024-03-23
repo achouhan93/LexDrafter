@@ -1,0 +1,22 @@
+{
+  "term": "Environmental performance",
+  "celex_id": "32009L0125",
+  "original_definition": "'Environmental performance' means the results of the manufacturer\u2019s management of the environmental aspects of the product, as reflected in its technical documentation file;",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Environmental performance\u2019 of a product means the results of the manufacturer\u2019s management of the environmental aspects of the product, as reflected in its technical documentation file;"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}

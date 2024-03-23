@@ -1,0 +1,85 @@
+{
+  "term": "mains",
+  "celex_id": "32019R2015",
+  "original_definition": "'mains' means the electricity supply of 230 (\u00b1 10 %) volt of alternating current at 50 Hz;",
+  "generated_definition": "'mains' means a light source that can be operated directly on the mains electricity supply, or a light source that operates indirectly on the mains using a separate control gear.",
+  "existing_sentences": {
+    "Article 2": [
+      "A Power over Ethernet (PoE) switch is not acontrol gearin the sense of this Regulation. \u2018Power-over-Ethernet switch\u2019 or \u2018PoE switch\u2019 means equipment for power-supply and data-handling that is installed between themainsand office equipment and/orlight sources for the purpose of data transfer and power supply;",
+      "\u2018control gear\u2019 means one or more devices that may or may not be physically integrated in a light source, intended to prepare the mains for the electric format required by one or more specific light sources within boundary conditions set by electric safety and electromagnetic compatibility. It may include transforming the supply and starting voltage, limiting operational and preheating current, preventing cold starting, correcting the power factor and/or reducing radio interference",
+      "A Power over Ethernet (PoE) switch is not a control gear in the sense of this Regulation. \u2018Power-over-Ethernet switch\u2019 or \u2018PoE switch\u2019 means equipment for power-supply and data-handling that is installed between the mains and office equipment and/or light sources for the purpose of data transfer and power supply;",
+      "\u2018control gear\u2019 means one or more devices that may or may not be physically integrated in alight source, intended to prepare themains for the electric format required by one or more specific light sources within boundary conditions set by electric safety and electromagnetic compatibility. It may include transforming the supply and starting voltage, limiting operational and preheating current, preventing cold starting, correcting the power factor and/or reducing radio interference",
+      "\u2018mains\u2019 or \u2018mains voltage\u2019 (MV) means the electricity supply of 230 (\u00b1 10 %) volt of alternating current at 50 Hz;"
+    ],
+    "Article 10": [
+      "Mains or non-mains:",
+      "\u2018battery-operated\u2019 means a product that operates only on direct current (DC) supplied from a source contained in the same product, without being connected directly or indirectly to the mains electricity supply;",
+      "\u2018on-mode power\u2019 (Pon) expressed in watt, means the electric power consumption of a light source in full-load with all lighting control parts and non-lighting parts disconnected. If these parts cannot be disconnected they shall be switched off or their power consumption shall be minimised following the manufacturer\u2019s instructions. In case of a NMLS that requires a separate control gear to operate, Pon can be measured directly on the input to the light source, or Pon is determined using a control gear with known efficiency, whose electric power consumption is subsequently subtracted from the measured mains power input value;",
+      "Parameters for LED and OLEDmainslight sources:",
+      "displacement factor (cos \u03c61) for LED and OLED mains light sources;",
+      "Parameters for LED and OLED mains light sources:",
+      "\u2018mainslight source\u2019 (MLS) means a light source that can be operated directly on the mains electricity supply.Light sources that operate directly on the mains, and can also operate indirectly on the mains using a separatecontrol gear, shall be considered to be mains light sources;",
+      "\u2018mains light source\u2019 (MLS) means a light source that can be operated directly on the mains electricity supply. Light sources that operate directly on the mains, and can also operate indirectly on the mains using a separate control gear, shall be considered to be mains light sources;",
+      "displacement factor (cos \u03c61) for LED and OLEDmainslight sources;",
+      "\u2018on-mode power\u2019 (Pon) expressed in watt, means the electric power consumption of alight sourcein full-load with all lighting control parts and non-lighting parts disconnected. If these parts cannot be disconnected they shall be switched off or their power consumption shall be minimised following the manufacturer\u2019s instructions. In case of a NMLS that requires a separatecontrol gearto operate, Pon can be measured directly on the input to the light source, or Pon is determined using a control gear with known efficiency, whose electric power consumption is subsequently subtracted from the measuredmains power input value;",
+      "Total mains efficacy \u03b7\u03a4M (lm/W)",
+      "Non-directional (NDLS) operating on mains (MLS)",
+      "Mains-voltage pressed glass reflector type",
+      "The energy efficiency class oflight sources shall be determined as set out in Table 1, on the basis of the totalmainsefficacy \u03b7TM, which is calculated by dividing the declared usefulluminous flux \u03a6use (expressed in lm) by the declared on-mode power consumption Pon (expressed in W) and multiplying by the applicable factor FTM of Table 2, as follows:",
+      "\u2018non-mains light source\u2019 (NMLS) means a light source that requires a separate control gear to operate on the mains;",
+      "\u2018displacement factor (cos \u03c61)\u2019 means the cosine of the phase angle \u03c61 between the fundamental harmonic of the mains supply voltage and the fundamental harmonic of the mains current. It is used for mains light sources using LED- or OLED-technology. The displacement factor is measured at full-load, for the reference control settings where applicable, with any lighting control parts in control mode and non-lighting parts disconnected, switched off or set to minimum power consumption according to the manufacturer\u2019s instructions;",
+      "Directional (DLS) operating on mains (MLS)",
+      "\u2018displacement factor (cos \u03c61)\u2019 means the cosine of the phase angle \u03c61 between the fundamental harmonic of themainssupply voltage and the fundamental harmonic of the mains current. It is used for mainslight sources using LED- or OLED-technology. The displacement factor is measured at full-load, for the reference control settings where applicable, with any lighting control parts in control mode and non-lighting parts disconnected, switched off or set to minimum power consumption according to the manufacturer\u2019s instructions;",
+      "Total mains efficacy \u03b7TM [lm/W]",
+      "Non-directional (NDLS) not operating on mains (NMLS)",
+      "\u2018non-mainslight source\u2019 (NMLS) means a light source that requires a separatecontrol gear to operate on the mains;",
+      "The energy efficiency class of light sources shall be determined as set out in Table 1, on the basis of the total mains efficacy \u03b7TM, which is calculated by dividing the declared useful luminous flux \u03a6use (expressed in lm) by the declared on-mode power consumption Pon (expressed in W) and multiplying by the applicable factor FTM of Table 2, as follows:",
+      "Mains-voltage blown glass reflector type",
+      "Directional (DLS) not operating on mains (NMLS)"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    "Article 10": {
+      "article_score": 31,
+      "statement_scores": [
+        2,
+        1,
+        1,
+        0,
+        1,
+        1,
+        4,
+        5,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        2,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

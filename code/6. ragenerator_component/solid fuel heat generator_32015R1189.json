@@ -1,0 +1,47 @@
+{
+  "term": "solid fuel heat generator",
+  "celex_id": "32015R1189",
+  "original_definition": "'solid fuel heat generator' means the part of a solid fuel boiler that generates the heat through the combustion of solid fuels;",
+  "generated_definition": "'solid fuel heat generator' means a solid fuel heat generator is a device designed to generate heat from solid fuel, typically used in solid fuel boilers. it is typically equipped with a housing to contain the fuel and generate heat. the housing and heat generator must be tested together to ensure compliance with ecodesign requirements for solid fuel boilers.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018solid fuel heat generator\u2019 means the part of a solid fuel boiler that generates the heat through the combustion of solid fuels;",
+      "\u2018solid fuel boiler\u2019 means a device equipped with one or moresolid fuel heat generators that provides heat to awater-based central heating systemin order to reach and maintain at a desired level the indoor temperature of one or more enclosed spaces, with a heat loss to its surrounding environment of not more than 6 % ofrated heat output;",
+      "\u2018solid fuel boiler\u2019 means a device equipped with one or more solid fuel heat generators that provides heat to a water-based central heating system in order to reach and maintain at a desired level the indoor temperature of one or more enclosed spaces, with a heat loss to its surrounding environment of not more than 6 % of rated heat output;",
+      "\u2018solid fuel heat generator\u2019 means the part of asolid fuel boiler that generates the heat through the combustion of solid fuels;"
+    ],
+    "Article 9": [
+      "Any solid fuel heat generator designed for a solid fuel boiler, and any solid fuel boiler housing to be equipped with such a heat generator, shall be tested with an appropriate solid fuel boiler housing and heat generator.",
+      "\u2018solid fuel boiler housing\u2019 means the part of a solid fuel boiler designed for fitting a solid fuel heat generator;",
+      "for solid fuel heat generators designed for solid fuel boilers, and solid fuel boiler housings to be equipped with such heat generators, their characteristics, the requirements for assembly (to ensure compliance with the ecodesign requirements for solid fuel boilers) and, where appropriate, the list of combinations recommended by the manufacturer;",
+      "forsolid fuel heat generators designed forsolid fuel boilers, and solid fuel boiler housings to be equipped with such heat generators, their characteristics, the requirements for assembly (to ensure compliance with the ecodesign requirements for solid fuel boilers) and, where appropriate, the list of combinations recommended by the manufacturer;",
+      "\u2018solid fuel boilerhousing\u2019 means the part of a solid fuel boiler designed for fitting asolid fuel heat generator;",
+      "Anysolid fuel heat generatordesigned for asolid fuel boiler, and any solid fuel boiler housing to be equipped with such a heat generator, shall be tested with an appropriate solid fuel boiler housing and heat generator."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 2,
+      "statement_scores": [
+        0,
+        1,
+        1,
+        0
+      ]
+    },
+    "Article 9": {
+      "article_score": 6,
+      "statement_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

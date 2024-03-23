@@ -1,0 +1,122 @@
+{
+  "term": "firmness",
+  "celex_id": "32015R1222",
+  "original_definition": "'firmness' means the point in time after which cross-zonal capacity becomes firm;",
+  "generated_definition": "'firmness' means the costs of ensuring firmness in accordance with articles 70(2) and 71 shall be borne by the relevant tsos, to the extent possible in accordance with article 16(6)(a) of regulation (ec) no 714/2009. these costs shall include the costs from compensation mechanisms associated with ensuring the firmness of cross-zonal capacities as well as the costs of redispatching, countertrading and imbalance associated with compensating market participants.",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018firmness\u2019 means a guarantee that cross-zonal capacity rights will remain unchanged and that a compensation is paid if they are nevertheless changed;"
+    ],
+    "Article 33": [
+      "market efficiency, including, at least the cost of guaranteeing firmness of capacity, market liquidity, market concentration and market power, the facilitation of effective competition, price signals for building infrastructure, the accuracy and robustness of price signals;"
+    ],
+    "Article 34": [
+      "congestion incomes andfirmness costs;",
+      "congestion incomes and firmness costs;"
+    ],
+    "Article 68": [
+      "Firmness of allocated cross-zonal capacity"
+    ],
+    "Article 70": [
+      "Firmnessof day-ahead capacity andallocation constraints",
+      "Firmness of day-ahead capacity and allocation constraints"
+    ],
+    "Article 71": [
+      "Firmness of intraday capacity"
+    ],
+    "Article 72": [
+      "Firmness in the event of force majeure or emergency situations",
+      "Firmnessin the event offorce majeure or emergency situations"
+    ],
+    "Article 74": [
+      "define which costs incurred from using redispatching or countertrading to guarantee thefirmnessof cross-zonal capacity are eligible for sharing between all the TSOs of acapacity calculation region in accordance with the capacity calculation methodology set out in Articles 20 and 21;",
+      "define which costs incurred from using redispatching or countertrading to guarantee the firmness of cross-zonal capacity are eligible for sharing between all the TSOs of a capacity calculation region in accordance with the capacity calculation methodology set out in Articles 20 and 21;"
+    ],
+    "Article 79": [
+      "Costs of ensuring firmness",
+      "The costs of ensuring firmness in accordance with Articles 70(2) and 71 shall be borne by the relevant TSOs, to the extent possible in accordance with Article 16(6)(a) of Regulation (EC) No 714/2009. These costs shall include the costs from compensation mechanisms associated with ensuring the firmness of cross-zonal capacities as well as the costs of redispatching, countertrading and imbalance associated with compensating market participants."
+    ],
+    "Article 83": [
+      "put in place fair, transparent and non-discriminatory compensation mechanisms for ensuring firmness;"
+    ],
+    "Not Article": [
+      "Any costs incurred efficiently to guarantee firmness of capacity and to set up processes to comply with this Regulation should be recovered via network tariffs or appropriate mechanisms in a timely manner. NEMOs, including in performing MCO functions should be entitled to recover their incurred costs if they are efficiently incurred, reasonable and proportionate."
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    },
+    "Article 33": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 34": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    },
+    "Article 68": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 70": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    },
+    "Article 71": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Article 72": {
+      "article_score": 1,
+      "statement_scores": [
+        1,
+        0
+      ]
+    },
+    "Article 74": {
+      "article_score": 1,
+      "statement_scores": [
+        0,
+        1
+      ]
+    },
+    "Article 79": {
+      "article_score": 3,
+      "statement_scores": [
+        1,
+        2
+      ]
+    },
+    "Article 83": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    },
+    "Not Article": {
+      "article_score": 1,
+      "statement_scores": [
+        1
+      ]
+    }
+  }
+}

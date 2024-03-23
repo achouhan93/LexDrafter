@@ -1,0 +1,22 @@
+{
+  "term": "Recovery",
+  "celex_id": "32009L0125",
+  "original_definition": "'Recovery' means any of the applicable operations provided for in Annex II B to Directive 2006/12/EC of the European Parliament and of the Council of 5 April 2006 on waste (20);",
+  "generated_definition": "NO JSON AS AN OUTPUT OBTAINED",
+  "existing_sentences": {
+    "Article 2": [
+      "\u2018Recovery\u2019 means any of the applicable operations provided for in Annex II B to Directive 2006/12/EC of the European Parliament and of the Council of 5 April 2006 on waste (20);"
+    ]
+  },
+  "existing_record": [
+    "NEW TERM"
+  ],
+  "scores": {
+    "Article 2": {
+      "article_score": 0,
+      "statement_scores": [
+        0
+      ]
+    }
+  }
+}
