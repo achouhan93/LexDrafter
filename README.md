@@ -183,7 +183,7 @@ See `license/LICENSE.txt` for more information.
 [contributors-shield]: https://img.shields.io/github/contributors/achouhan93/LexDrafter.svg?style=for-the-badge
 [contributors-url]: https://github.com/achouhan93/LexDrafter/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/achouhan93/LexDrafter.svg?style=for-the-badge
-[forks-url]: https://github.com/achouhan93/LexDrafter/network/members
+[forks-url]: https://github.com/achouhan93/LexDrafter/forks
 [stars-shield]: https://img.shields.io/github/stars/achouhan93/LexDrafter.svg?style=for-the-badge
 [stars-url]: https://github.com/achouhan93/LexDrafter/stargazers
 [issues-shield]: https://img.shields.io/github/issues/achouhan93/LexDrafter.svg?style=for-the-badge
