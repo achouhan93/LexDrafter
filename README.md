@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][https://img.shields.io/github/forks/achouhan93/LexDrafter.svg?style=for-the-badge]][https://github.com/achouhan93/LexDrafter/forks]
+[![Forks](https://img.shields.io/github/forks/achouhan93/LexDrafter.svg?style=for-the-badge)](https://github.com/achouhan93/LexDrafter/forks)
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
