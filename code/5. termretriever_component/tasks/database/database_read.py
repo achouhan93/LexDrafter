@@ -98,3 +98,59 @@ def fetch_existing_celex_ids(database_engine, data_split_table, term_table, term
                 existing_records[term] = celex_ids
 
     return existing_records
+
+
+def extract_definition_corpus(database_engine, term_table, definition_table, document_table):
+    """
+    Function to create the query to fetch all the articles and its metadata 
+    information
+
+    Returns:
+        string: postgresql query to fetch the article information
+    """
+    '''
+    SELECT di.celex_id, dt.term, te.explanation, te.reference_list
+    FROM lexdrafter_energy_term_explanation te
+    JOIN lexdrafter_energy_definition_term dt ON dt.term_id = te.term_id and dt.doc_id = te.doc_id
+    JOIN lexdrafter_energy_document_information di ON te.doc_id = di.id
+    '''
+    query = (
+        definition_table
+        .join(
+            term_table,
+            and_(
+                definition_table.c.term_id == term_table.c.term_id,
+                definition_table.c.doc_id == term_table.c.doc_id,
+            )
+        )
+        .join(
+            document_table,
+            document_table.c.id == term_table.c.doc_id
+        )
+        .select()
+    )
+
+    records = []
+    
+    with database_engine.connect().execution_options(stream_results=True) as conn:
+        results = conn.execution_options(stream_results=True).execute(query)
+        column_headings = results.keys()._keys
+
+        while True:
+            results_chunk = results.fetchmany(100)
+            if not results_chunk:
+                break
+
+            results_dict = [dict(zip(column_headings, row)) for row in results_chunk]
+            
+            for row in tqdm(results_dict, desc="Processing records"):
+                original_definition = {
+                    'celex_id': row['celex_id'],
+                    'term': row['term'],
+                    'term_definition': f"'{row['term']}' {row['explanation']}",
+                    'reference_list' : row['reference_list']
+                }
+                records.append(original_definition)
+            
+    with open(f'./dataset/definition_corpus.json', 'w') as json_file:
+            json.dump(records, json_file, indent=4)

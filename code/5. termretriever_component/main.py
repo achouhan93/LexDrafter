@@ -39,8 +39,9 @@ def main(argv=None):
         metadata = MetaData()
         metadata.reflect(pg_connection)
         
-        data_split_table = metadata.tables['lexdrafter_energy_data_split']
         term_table = metadata.tables['lexdrafter_energy_definition_term']
+        definition_table = metadata.tables['lexdrafter_energy_term_explanation']
+        document_table = metadata.tables['lexdrafter_energy_document_information']
 
         # parse command line arguments
         parser = argparse.ArgumentParser()
@@ -49,61 +50,27 @@ def main(argv=None):
         )
 
         parser.add_argument(
-            "-e", "--evaluationdataset", help="creating the split of the datasets", action = "store_true" 
-        )
-
-        parser.add_argument(
-            "-f", "--evaluationdatasetfiltering", help="checking if the term is already defined", action = "store_true" 
-        )
-
-        parser.add_argument(
             "-s", "--evaluationdatasetscoring", help="Assign score to each sentence where term is present", action = "store_true" 
         )
 
-        parser.add_argument('--split', help='split to be considered')
+        parser.add_argument(
+            "-dc", "--definitioncorpus", help="Extracting the definition corpus", action = "store_true" 
+        )
 
         args = parser.parse_args()
 
-        if args.evaluationdataset:
+        if args.staticdefinitiondataset:
             start_time = time()
             logging.info(f"Current date and time: {secondsToText(start_time)}")
             logging.info("**********************************\n")
             logging.info(f"Process to extracting the defnition of terms present in the celex documents started")
             
-            status = process_records_in_batches(pg_connection, data_split_table, term_table)
+            status = process_records_in_batches(pg_connection, term_table, definition_table, document_table)
             
             if status:
                 logging.info(f"Completed the extraction of the structure of the celex documents and stored the information and took {secondsToText(time()- start_time)}")
             else:
                 logging.info(f"Document extraction failed")
-        
-        if args.evaluationdatasetfiltering:
-            start_time = time()
-            logging.info(f"Current date and time: {secondsToText(start_time)}")
-            logging.info("**********************************\n")
-            logging.info(f"Process to extracting the defnition of terms present in the celex documents started")
-            
-            file_name = f'./dataset/{args.split}_split.json'
-            # Read JSON file
-            with open(file_name, 'r') as json_file:
-                data = json.load(json_file)
-
-            # Extract terms from JSON
-            terms = [item['term'] for item in data]
-
-            # Fetch existing celex_ids for terms from Postgresql
-            existing_records = fetch_existing_celex_ids(pg_connection, data_split_table, term_table, terms)
-
-            # Update JSON with existing_record field
-            for item in data:
-                term = item['term']
-                if term in existing_records:
-                    item['existing_record'] = existing_records[term]
-                else:
-                    item['existing_record'] = ["NEW TERM"]
-            
-            with open(f'./dataset/updated_{args.split}_split.json', 'w') as updated_json_file:
-                json.dump(data, updated_json_file, indent=4)
 
         if args.evaluationdatasetscoring:
             start_time = time()
@@ -111,7 +78,7 @@ def main(argv=None):
             logging.info("**********************************\n")
             logging.info(f"Process to assigning score to the statements where term exist")
             
-            file_name = f'./dataset/updated_{args.split}_split.json'
+            file_name = f'./dataset/static_split.json'
             
             # Read JSON file
             with open(file_name, 'r') as json_file:
@@ -120,8 +87,21 @@ def main(argv=None):
             score_data = calculate_sentence_score(updated_data)
 
             # Save the updated JSON data with scores
-            with open(f'./dataset/updated_{args.split}_split_score.json', 'w') as json_file:
-                json.dump(score_data, json_file, indent=4)            
+            with open(f'./dataset/static_split_score.json', 'w') as json_file:
+                json.dump(score_data, json_file, indent=4) 
+
+        if args.definitioncorpus:
+            start_time = time()
+            logging.info(f"Current date and time: {secondsToText(start_time)}")
+            logging.info("**********************************\n")
+            logging.info(f"Process to extracting the defnition corpus")
+            
+            status = extract_definition_corpus(pg_connection, term_table, definition_table, document_table)
+            
+            if status:
+                logging.info(f"Completed the extraction of the definition corpus and took {secondsToText(time()- start_time)}")
+            else:
+                logging.info(f"Definition extraction failed")           
             
     
     finally:
