@@ -3,7 +3,7 @@
 [![Forks](https://img.shields.io/github/forks/achouhan93/LexDrafter.svg?style=for-the-badge)](https://github.com/achouhan93/LexDrafter/forks)
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)][license-url]
+[![License: MIT][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
 <br />
