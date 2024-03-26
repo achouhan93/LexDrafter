@@ -54,7 +54,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-A [pre-print](https://arxiv.org/abs/xxxxx) of our work is available; it has also been accepted for the main conference of LREC-COLING 2024. The conference proceedings will be available in May 2024.
+A [pre-print](https://arxiv.org/abs/2403.16295) of our work is available; it has also been accepted for the main conference of LREC-COLING 2024. The conference proceedings will be available in May 2024.
 
 ### Abstract
 With the increase in legislative documents at the EU, the number of new terms and their definitions is increasing as well. As per Joint Practical Guide, terms used in legal documents shall be consistent, and identical concepts
@@ -147,11 +147,11 @@ This code base provides necessary scripts for the dataset collection process [(`
 If you use the dataset or other parts of this code base, please use the following citation for attribution:
 
 ```
-@misc{chouhan2024lreccoling,
+@misc{chouhan2024lexdrafter,
       title={LexDrafter: Terminology Drafting for Legislative Documents using Retrieval Augmented Generation}, 
       author={Ashish Chouhan and Michael Gertz},
       year={2024},
-      eprint={xxxxx.xxxx},
+      eprint={2403.16295},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
