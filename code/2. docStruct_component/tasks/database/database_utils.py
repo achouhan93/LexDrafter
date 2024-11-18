@@ -1,6 +1,7 @@
 from sqlalchemy import Table, Column, MetaData, select, String
 import re
 
+
 def check_for_existing_records(connection, celex_information):
     """
     Checks for the existence of CELEX documents' logical structure in a PostgreSQL database.
@@ -16,20 +17,17 @@ def check_for_existing_records(connection, celex_information):
 
     Returns:
         list of dict: A filtered list of dictionaries, excluding those CELEX documents already present in the database.
-    """   
+    """
     metadata = MetaData()
     metadata.reflect(connection)
 
-    table_name = metadata.tables['lexdrafter_energy_titles']
+    table_name = metadata.tables["lexdrafter_energy_titles"]
 
     # Extract list of IDs from celex_information
-    celex_ids = [info['_id'] for info in celex_information]
+    celex_ids = [info["_id"] for info in celex_information]
 
     # Construct and execute a query to find matching CELEX IDs in the database
-    query = (
-        table_name.select()
-        .where(table_name.c.celex_id.in_(celex_ids))
-    )
+    query = table_name.select().where(table_name.c.celex_id.in_(celex_ids))
     with connection.connect() as conn:
         result = conn.execute(query)
 
@@ -37,7 +35,9 @@ def check_for_existing_records(connection, celex_information):
         existing_ids = set(row[0] for row in result)
 
     # Filter out documents whose IDs exist in the database
-    celex_information = [info for info in celex_information if info['_id'] not in existing_ids]
+    celex_information = [
+        info for info in celex_information if info["_id"] not in existing_ids
+    ]
 
     return celex_information
 
@@ -46,8 +46,8 @@ def check_for_valid_documents_to_consider(celex_list):
     """
     Filters CELEX documents based on predefined criteria for validity.
 
-    This function excludes documents based on their CELEX IDs, specifically those not starting with '3' 
-    or explicitly listed in a predefined exclusion list. It's designed to ensure that only valid and 
+    This function excludes documents based on their CELEX IDs, specifically those not starting with '3'
+    or explicitly listed in a predefined exclusion list. It's designed to ensure that only valid and
     relevant documents are considered for further processing.
 
     Args:
@@ -59,12 +59,16 @@ def check_for_valid_documents_to_consider(celex_list):
     """
     # Predefined list of CELEX IDs to exclude from consideration
     celex_not_consider = ["32012D0026", "32012D0398", "32019D1352"]
-    
+
     # Identify invalid CELEX IDs either not starting with '3' or in the exclusion list
-    celex_ids = [info['_id'] for info in celex_list]
-    invalid_ids = set(celex for celex in celex_ids if ((re.search(r'^[3].*', celex) is None) or (celex in celex_not_consider)))
+    celex_ids = [info["_id"] for info in celex_list]
+    invalid_ids = set(
+        celex
+        for celex in celex_ids
+        if ((re.search(r"^[3].*", celex) is None) or (celex in celex_not_consider))
+    )
 
     # Filter out documents with invalid CELEX IDs
-    valid_celex_list = [info for info in celex_list if info['_id'] not in invalid_ids]
+    valid_celex_list = [info for info in celex_list if info["_id"] not in invalid_ids]
 
     return valid_celex_list

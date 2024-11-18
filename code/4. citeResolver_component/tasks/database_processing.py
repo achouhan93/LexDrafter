@@ -5,6 +5,7 @@ import json
 from .citation_resolver import process_explanation
 from tqdm import tqdm
 
+
 def process_records_in_batches(database_engine, definition_table):
     """
     Processes records in batches from a specified table where the definition_type is 'dynamic'.
@@ -21,7 +22,7 @@ def process_records_in_batches(database_engine, definition_table):
     Returns:
         None. The function updates records in the database and does not return a value.
     """
-    '''
+    """
     SELECT
         term_id,
         explanation,
@@ -29,16 +30,12 @@ def process_records_in_batches(database_engine, definition_table):
         definition_type
     FROM lexdrafter_energy_definition_term
     WHERE definition_type = 'dynamic';
-    '''
+    """
     try:
 
         # Create a query to fetch records with a dynamic definition_type
-        query = (
-            definition_table
-            .select()
-            .where(
-                definition_table.c.definition_type == 'dynamic'
-                )
+        query = definition_table.select().where(
+            definition_table.c.definition_type == "dynamic"
         )
 
         # Execute the query and process the results
@@ -49,15 +46,16 @@ def process_records_in_batches(database_engine, definition_table):
                 processed_info = process_explanation(row.explanation)
                 # Serialize the processed information into a JSON string
                 new_reference_list = json.dumps(processed_info)
-                
+
                 # Prepare an update query for the current record
                 update_query = (
                     update(definition_table)
                     .where(
                         and_(
-                            definition_table.c.term_id == row.term_id, # Match by term_id
-                            definition_table.c.doc_id == row.doc_id # and doc_id
-                            )
+                            definition_table.c.term_id
+                            == row.term_id,  # Match by term_id
+                            definition_table.c.doc_id == row.doc_id,  # and doc_id
+                        )
                     )
                     .values(reference_list=new_reference_list)
                 )
@@ -66,7 +64,7 @@ def process_records_in_batches(database_engine, definition_table):
 
             # Commit the transaction to apply all changes made during the loop
             conn.commit()
-        
+
         return True
 
     except Exception as e:

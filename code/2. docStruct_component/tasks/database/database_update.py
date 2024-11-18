@@ -1,7 +1,7 @@
 import utils
 import logging
 
-flag_yes = 'Y'
+flag_yes = "Y"
 
 CONFIG = utils.loadConfigFromEnv()
 
@@ -20,7 +20,7 @@ def update_opensearch_batch(os_connect, documents):
 
     The function logs the result of the bulk update operation, indicating success or failure.
     """
-    index_name = CONFIG['DB_LEXDRAFTER_INDEX']
+    index_name = CONFIG["DB_LEXDRAFTER_INDEX"]
 
     # Extract list of IDs from the batch
     ids = [list(d.keys())[0] for d in documents]
@@ -32,19 +32,8 @@ def update_opensearch_batch(os_connect, documents):
     bulk_request = []
 
     for doc_id in ids:
-        bulk_request.append({
-        "update": {
-            "_index": index_name,
-            "_id": doc_id
-        }
-        })
-        bulk_request.append({
-            "doc": {
-                "english":{
-                    "structureProcessedFlag": new_value
-                }
-            }
-        })
+        bulk_request.append({"update": {"_index": index_name, "_id": doc_id}})
+        bulk_request.append({"doc": {"english": {"structureProcessedFlag": new_value}}})
 
     # Send the bulk update request to OpenSearch
     response = os_connect.bulk(index=index_name, body=bulk_request)

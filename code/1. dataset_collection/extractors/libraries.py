@@ -17,6 +17,6 @@ from opensearchpy import OpenSearch
 from time import sleep, time
 from tqdm import tqdm
 
-''' Set the maximum depth of the Python interpreter stack to 100000. 
-This limit prevents infinite recursion from causing an overflow of the C stack and crashing Python.'''
+""" Set the maximum depth of the Python interpreter stack to 100000. 
+This limit prevents infinite recursion from causing an overflow of the C stack and crashing Python."""
 sys.setrecursionlimit(100000)

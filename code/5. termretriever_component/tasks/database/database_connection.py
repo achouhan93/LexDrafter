@@ -1,27 +1,72 @@
 from sqlalchemy import create_engine
 from sqlalchemy.pool import QueuePool
 import utils
+from opensearchpy import OpenSearch
 
 
-# Postgres and OpenSearch configuration details
+# Load configuration details from environment variables or other configuration sources
 CONFIG = utils.loadConfigFromEnv()
 
 
 def postgres_connection():
     """
-    Establish the postgresql connection
+    Establishes a connection to a PostgreSQL database using configurations loaded from the environment.
+
+    The function creates a SQLAlchemy engine instance configured for a PostgreSQL database. It utilizes
+    connection pooling to manage database connections efficiently.
 
     Returns:
-        object: postgresql connection object
+        sqlalchemy.engine.base.Engine: A SQLAlchemy engine instance connected to the PostgreSQL database.
     """
-    # Postgresql Connection
-    PG_USER = CONFIG['PG_USER']
-    PG_PWD = CONFIG['PG_PWD']
-    PG_DATABASE = CONFIG['PG_DATABASE']
-    PG_SERVER = CONFIG['PG_SERVER']
-    PG_HOST = CONFIG['PG_HOST']
+    # Configuration parameters extracted from CONFIG
+    PG_USER = CONFIG["PG_USER"]
+    PG_PWD = CONFIG["PG_PWD"]
+    PG_DATABASE = CONFIG["PG_DATABASE"]
+    PG_SERVER = CONFIG["PG_SERVER"]
+    PG_HOST = CONFIG["PG_HOST"]
 
-    connection_string = f'postgresql://{PG_USER}:{PG_PWD}@{PG_SERVER}:{PG_HOST}/{PG_DATABASE}'
-    connect_args = {'options': '-csearch_path=public'}
-    database_engine = create_engine(connection_string, connect_args=connect_args, poolclass=QueuePool, pool_size=10, max_overflow=20)
+    # Connection string formatted using PostgreSQL connection parameters
+    connection_string = (
+        f"postgresql://{PG_USER}:{PG_PWD}@{PG_SERVER}:{PG_HOST}/{PG_DATABASE}"
+    )
+
+    # Additional connection arguments, e.g., setting the search path to the public schema
+    connect_args = {"options": "-csearch_path=public"}
+
+    # Creation of the SQLAlchemy engine with a QueuePool for connection pooling
+    database_engine = create_engine(
+        connection_string,
+        connect_args=connect_args,
+        poolclass=QueuePool,
+        pool_size=10,
+        max_overflow=20,
+    )
+
     return database_engine
+
+
+def opensearch_connection():
+    """
+    Establishes a connection to an OpenSearch cluster using configurations loaded from the environment.
+
+    The function configures and returns an OpenSearch client instance. It is configured to communicate
+    over HTTPS with SSL verification, utilizing basic authentication for security.
+
+    Returns:
+        opensearchpy.OpenSearch: An OpenSearch client instance connected to the specified OpenSearch cluster.
+    """
+    # OpenSearch Connection Setting using configuration details
+    user_name = CONFIG["DB_USERNAME"]
+    password = CONFIG["DB_PASSWORD"]
+
+    # Creating an OpenSearch client instance with SSL configuration and basic authentication
+    os = OpenSearch(
+        hosts=[{"host": CONFIG["DB_HOSTNAME"], "port": CONFIG["DB_PORT"]}],
+        http_auth=(user_name, password),
+        use_ssl=True,
+        verify_certs=True,
+        ssl_assert_hostname=False,
+        ssl_show_warn=False,
+    )
+
+    return os

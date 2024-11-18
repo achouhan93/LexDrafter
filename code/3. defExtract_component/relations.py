@@ -22,7 +22,7 @@ def noun_relations(definitions):
     global all_relations
     all_relations = list()
     nlp = spacy.load("en_core_web_sm")
-    for (key, value) in definitions:
+    for key, value in definitions:
         # case when definitions are already defined in the previous regulations
         if key in value and value.__contains__("as defined in point"):
             all_relations.append(key + " is a hyponym of " + key)
@@ -46,14 +46,20 @@ def noun_relations(definitions):
             # in case of enumeration
             if noun.root.text == "following":
                 continue
-            if (noun.root.text == "type" or noun.root.text == "kind" or noun.root.text == "form") \
-                    and doc[noun.end:][0].text == "of":
+            if (
+                noun.root.text == "type"
+                or noun.root.text == "kind"
+                or noun.root.text == "form"
+            ) and doc[noun.end :][0].text == "of":
                 continue
-            if (noun.root.text == "part" or noun.root.text == "piece" or noun.root.text == "portion") \
-                    and doc[noun.end:][0].text == "of":
+            if (
+                noun.root.text == "part"
+                or noun.root.text == "piece"
+                or noun.root.text == "portion"
+            ) and doc[noun.end :][0].text == "of":
                 meronymy = True
                 continue
-            if single_relation(doc[noun.end:]) and not dash:
+            if single_relation(doc[noun.end :]) and not dash:
                 save_to_hyponymy(noun, key)
                 break
             # noun chucks do not support dashes (e.g non-compliance), so we have to cache it
@@ -71,7 +77,7 @@ def noun_relations(definitions):
                     if hypernym != "":
                         hyponymy[hypernym].add(key)
                     dash = False
-                    if single_relation(doc[noun.end:]):
+                    if single_relation(doc[noun.end :]):
                         break
                     else:
                         continue
@@ -84,9 +90,7 @@ def find_synonyms():
     synonym_keys = defaultdict(list)
     for k, v in get_dictionary().items():
         synonym_keys[v].append(k)
-    result_synonyms = [
-        tuple(keys) for keys in synonym_keys.values() if len(keys) > 1
-    ]
+    result_synonyms = [tuple(keys) for keys in synonym_keys.values() if len(keys) > 1]
     global all_relations
     for synonyms in result_synonyms:
         s = ""
@@ -110,21 +114,23 @@ def save_to_hyponymy(noun, key):
             #     hyponym_noun += noun_token.text
             # else:
             #     hyponym_noun += noun_token.text + " "
-            
+
             # Check if the current token is not the last one
             if i < len(noun) - 1:
                 next_token = noun[i + 1]
                 if next_token.text == "-":
                     hyponym_noun += noun_token.text
                     continue
-            
+
             hyponym_noun += noun_token.text + " "
-    
+
     hyponym_noun = hyponym_noun.strip()
     if hyponym_noun != "":
         all_relations.append(
-            key + " is a hyponym of " +
-            hyponym_noun.strip().replace(" , ", ", ").replace(" '", "'"))
+            key
+            + " is a hyponym of "
+            + hyponym_noun.strip().replace(" , ", ", ").replace(" '", "'")
+        )
     hypernym = hyponym_noun.strip()
     if hypernym not in hyponymy and hypernym != "":
         hyponymy[hypernym] = set()
@@ -138,8 +144,9 @@ def save_to_meronymy(noun, key):
         if noun_token.pos_ != "PRON" and noun_token.pos_ != "DET":
             if noun_token.text == "‘":
                 continue
-            if (noun_token.nbor() is not None and noun_token.nbor().text
-                    == "-") or noun_token.text == "-":
+            if (
+                noun_token.nbor() is not None and noun_token.nbor().text == "-"
+            ) or noun_token.text == "-":
                 meronym_noun += noun_token.text
             else:
                 meronym_noun += noun_token.text + " "
@@ -155,26 +162,27 @@ def save_to_meronymy(noun, key):
 def single_relation(doc):
     if not doc:
         return False
-    
+
     # if abbreviations are used in the explanation
-    if len(doc) > 1 and doc[0].text == ')':
+    if len(doc) > 1 and doc[0].text == ")":
         doc = doc[1:]
     # check for dash
     global dash
-    if doc[0].text == '-' and not dash:
+    if doc[0].text == "-" and not dash:
         dash = True
         return False
     # check for , or and
-    if doc[0].text == ',':
+    if doc[0].text == ",":
         # cases like including, with, in ...
-        if len(doc) > 1 and (doc[1].dep_ == "prep" or doc[1].dep_ == "mark"
-                             or doc[1].pos_ == "VERB"):
+        if len(doc) > 1 and (
+            doc[1].dep_ == "prep" or doc[1].dep_ == "mark" or doc[1].pos_ == "VERB"
+        ):
             return True
         else:
             return False
     if doc[0].text == "or" or doc[0].text == "and":
         return False
-    if doc[0].text == '(':
+    if doc[0].text == "(":
         return False
     else:
         return True
@@ -185,15 +193,18 @@ def prepare_sentence(value):
     sentence = unicodedata.normalize("NFKD", value)
     sentence = sentence.replace("- ", "-")
     sentence = sentence.replace(" -", "-")
-    pattern = r'for[\s+\w+]+:'
+    pattern = r"for[\s+\w+]+:"
     if re.search(pattern, sentence) and not sentence.__contains__("for which"):
         index = sentence.find("for")
         sentence = sentence[index:]
         index = sentence.find(":")
-        sentence = sentence[index + 1:]
-    if sentence.__contains__(": in the context of") or sentence.__contains__(": as regards") \
-            or sentence.__contains__(": for"):
-        sentence = sentence[sentence.find(",") + 1:]
+        sentence = sentence[index + 1 :]
+    if (
+        sentence.__contains__(": in the context of")
+        or sentence.__contains__(": as regards")
+        or sentence.__contains__(": for")
+    ):
+        sentence = sentence[sentence.find(",") + 1 :]
     return sentence
 
 
@@ -210,7 +221,7 @@ def get_synonymy():
 
 
 def build_tree(node, depth=0):
-    result = '| ' * depth + node + '\n'
+    result = "| " * depth + node + "\n"
     if node not in hyponymy:
         return result
     for child in hyponymy[node]:

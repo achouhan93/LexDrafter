@@ -4,10 +4,11 @@ import logging
 from sqlalchemy import select, and_, text
 
 # Define the flag value indicating processing completion
-flag_yes = 'Y'
+flag_yes = "Y"
 
 # Load configuration from environment variables or other sources
 CONFIG = utils.loadConfigFromEnv()
+
 
 def update_opensearch_batch(os_connect, documents, index_name):
     """
@@ -25,7 +26,7 @@ def update_opensearch_batch(os_connect, documents, index_name):
     Logs an informational message indicating the success or failure of the bulk update.
     """
     # Extract list of IDs from the batch
-    ids = [d['celex_id'] for d in documents]
+    ids = [d["celex_id"] for d in documents]
 
     # Define the new value for the "documentProcessedFlag" field
     new_value = flag_yes
@@ -35,20 +36,9 @@ def update_opensearch_batch(os_connect, documents, index_name):
 
     for doc_id in ids:
         # Append the command to update the specific document by ID
-        bulk_request.append({
-        "update": {
-            "_index": index_name,
-            "_id": doc_id
-        }
-        })
+        bulk_request.append({"update": {"_index": index_name, "_id": doc_id}})
         # Append the new data to be updated in the document
-        bulk_request.append({
-            "doc": {
-                "english":{
-                    "documentProcessedFlag": new_value
-                }
-            }
-        })
+        bulk_request.append({"doc": {"english": {"documentProcessedFlag": new_value}}})
 
     # Send the bulk update request to OpenSearch and capture the response
     response = os_connect.bulk(index=index_name, body=bulk_request)

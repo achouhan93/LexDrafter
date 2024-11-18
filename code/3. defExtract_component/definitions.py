@@ -6,7 +6,9 @@ from nltk.corpus import wordnet as wn
 import spacy
 
 # Dictionaries to store processed data
-annotations = {}  # Annotations for 1:1 relationships, ideal for straightforward printing
+annotations = (
+    {}
+)  # Annotations for 1:1 relationships, ideal for straightforward printing
 counter_set = {}  # Counts the frequency of each definition
 sentences_set = {}
 articles_set = {}
@@ -14,8 +16,10 @@ sub_definitions = {}  # Stores definitions that are part of other definitions
 definitions = {}  # Definitions with n:m relationships
 definitions_dict = {}  # Definitions with 1:n relationships, used for annotation
 articles_set_and_frequency = {}
-definitions_list = list(tuple())  # List of tuples, each containing a definition and its explanation
-nltk.download('wordnet') # Ensures the WordNet data is available for synonym checks
+definitions_list = list(
+    tuple()
+)  # List of tuples, each containing a definition and its explanation
+nltk.download("wordnet")  # Ensures the WordNet data is available for synonym checks
 
 
 def find_definitions(soup):
@@ -42,7 +46,7 @@ def find_definitions(soup):
 
     # Iterate through sibling elements to extract definitions and their explanations
     for element in start_class.next_siblings:
-        element_text = element.text.replace('\xa0', ' ').strip()
+        element_text = element.text.replace("\xa0", " ").strip()
         if element == end_class:
             break
         if re.match(r"^Article \d+$", element_text):
@@ -63,7 +67,7 @@ def check_definition_part_of_another_definition(definition):
         set: A set of definitions that contain the given definition as part of them.
     """
     part_def = set()
-    for (key, value) in definitions_list:
+    for key, value in definitions_list:
         if key.__contains__(definition) and key != definition:
             part_def.add(key)
     return part_def
@@ -74,8 +78,8 @@ def save_to_sub_definitions():
     Saves processed definitions to a global dictionary, identifying those that are part of other definitions.
     """
     global sub_definitions
-    for (key, value) in definitions_list:
-        abrv_match = re.search(r'(.*?)\[ABRV\](.*?)\[ABRV\](.*?)', key)
+    for key, value in definitions_list:
+        abrv_match = re.search(r"(.*?)\[ABRV\](.*?)\[ABRV\](.*?)", key)
 
         if abrv_match:
             extracted_text = abrv_match.group(2).strip()
@@ -99,7 +103,7 @@ def fill_sets():
     global articles_set_and_frequency
     global sentences_set
     global counter_set
-    for (key, value) in definitions_list:
+    for key, value in definitions_list:
         articles_set[key] = set()
         articles_set_and_frequency[key] = list()
         sentences_set[key] = ""
@@ -218,15 +222,18 @@ def is_synonym(verb):
     if verb == "mean" or verb == "include" or verb == "be":
         return True
     # since most of the regulations have mean as a verb or include, we compare the verb to the synonyms of them
-    mean_synsets = wn.synsets('mean', pos='v')
-    mean_synonyms = set(lemma.name() for synset in mean_synsets
-                        for lemma in synset.lemmas())
-    include_synsets = wn.synsets('include', pos='v')
-    include_synonyms = set(lemma.name() for synset in include_synsets
-                           for lemma in synset.lemmas())
-    be_synsets = wn.synsets('be', pos='v')
-    be_synonyms = set(lemma.name() for synset in be_synsets
-                      for lemma in synset.lemmas())
+    mean_synsets = wn.synsets("mean", pos="v")
+    mean_synonyms = set(
+        lemma.name() for synset in mean_synsets for lemma in synset.lemmas()
+    )
+    include_synsets = wn.synsets("include", pos="v")
+    include_synonyms = set(
+        lemma.name() for synset in include_synsets for lemma in synset.lemmas()
+    )
+    be_synsets = wn.synsets("be", pos="v")
+    be_synonyms = set(
+        lemma.name() for synset in be_synsets for lemma in synset.lemmas()
+    )
     if verb in mean_synonyms or verb in include_synonyms or verb in be_synonyms:
         return True
     return False
@@ -243,12 +250,12 @@ def remove_text_within_brackets(text):
         str: The modified text with parenthesized content removed.
     """
     # Use regular expressions to find and remove text within brackets
-    if re.search(r'\(.*\)', text):
-        text = re.sub(r'[()]', '[ABRV]', text)  # Remove both brackets
+    if re.search(r"\(.*\)", text):
+        text = re.sub(r"[()]", "[ABRV]", text)  # Remove both brackets
 
     # Check if only one bracket is present
-    elif re.search(r'\(.*', text):
-        text = re.sub(r'\(.*', '', text)  # Remove text after the opening bracket
+    elif re.search(r"\(.*", text):
+        text = re.sub(r"\(.*", "", text)  # Remove text after the opening bracket
 
     return text
 
@@ -266,9 +273,9 @@ def process_definitions(text):
         definitions (dict): Stores unique definitions and their corresponding explanations.
         annotations (dict): Annotations for processed definitions.
     """
-    text = unicodedata.normalize("NFKD", text) # Normalize unicode characters
+    text = unicodedata.normalize("NFKD", text)  # Normalize unicode characters
     if text.__contains__("’"):
-        nlp = spacy.load("en_core_web_sm") # Load SpaCy language model
+        nlp = spacy.load("en_core_web_sm")  # Load SpaCy language model
         doc = nlp(
             text.split(";")[0]
         )  # this way only the most important part of the definition will be examined
@@ -277,30 +284,36 @@ def process_definitions(text):
         # Search for the first verb that implies a definition
         first_verb = None
         for token in doc:
-            if (token.text.__contains__("mean") and token.pos_ == "VERB"):
+            if token.text.__contains__("mean") and token.pos_ == "VERB":
                 first_verb = token
                 break
-            if token.dep_ == "ROOT" and (token.pos_ == "VERB"
-                                         or token.pos_ == "AUX"):
+            if token.dep_ == "ROOT" and (token.pos_ == "VERB" or token.pos_ == "AUX"):
                 first_verb = token
                 break
         if first_verb is not None and is_synonym(first_verb.lemma_):
-            definition = text[:first_verb.idx].strip()
-            explanation = text[first_verb.idx:].strip()
+            definition = text[: first_verb.idx].strip()
+            explanation = text[first_verb.idx :].strip()
 
             # Process and clean individual lines within both definition and explanation parts
             d = [s.strip() for s in definition.split("\n") if s != ""]
-            e = [s.strip() for s in explanation.split("\n") if ((s != "") and (len(s) > 3))]
+            e = [
+                s.strip()
+                for s in explanation.split("\n")
+                if ((s != "") and (len(s) > 3))
+            ]
 
             # Save processed data for further use
             save_in_annotations("".join(d), "".join(e))
             for element in d:
                 if element.__contains__("‘"):
-                    if element.__contains__(" and ‘") or element.__contains__(
-                            " or ‘") or element.__contains__(", ‘"):
+                    if (
+                        element.__contains__(" and ‘")
+                        or element.__contains__(" or ‘")
+                        or element.__contains__(", ‘")
+                    ):
                         definition_set = split_multiples(element)
                     else:
-                        if '(' in element:
+                        if "(" in element:
                             element = remove_text_within_brackets(element)
                         definition_set.add(element.strip())
             for element_e in e:
@@ -310,10 +323,13 @@ def process_definitions(text):
                         base = element_e.strip()
                         while len(e) > e.index(element_e.strip()) + 1:
                             next_element = e[e.index(element_e.strip()) + 1]
-                            if next_element[0] == "(" and len(
-                                    e) > e.index(element_e.strip()) + 2:
-                                new_element = base + " " + e[e.index(element_e.strip())
-                                                             + 2]
+                            if (
+                                next_element[0] == "("
+                                and len(e) > e.index(element_e.strip()) + 2
+                            ):
+                                new_element = (
+                                    base + " " + e[e.index(element_e.strip()) + 2]
+                                )
                                 element_e = e[e.index(element_e.strip()) + 2]
                             else:
                                 new_element = base + " " + next_element.strip()
@@ -340,20 +356,20 @@ def split_multiples(text):
         set: A set of individual definitions or explanations extracted from the text.
     """
     result = set()
-    
+
     # Example split logic based on common separators
     if text.__contains__(",") and text.__contains__(" and "):
         elements = text.split(", ")
         for e in elements:
             if not e.__contains__(" and "):
-                if '(' in e:
+                if "(" in e:
                     e = remove_text_within_brackets(e)
                 if len(e.strip()) > 0:
                     result.add(e.strip())
             else:
                 el = e.split(" and ")
                 for e1 in el:
-                    if '(' in e1:
+                    if "(" in e1:
                         e1 = remove_text_within_brackets(e1)
                     if len(e1.strip()) > 0:
                         result.add(e1.strip())
@@ -363,12 +379,12 @@ def split_multiples(text):
             if e.__contains__(" or "):
                 el = e.split(" or ")
                 for e1 in el:
-                    if '(' in e1:
+                    if "(" in e1:
                         e1 = remove_text_within_brackets(e1)
                     if len(e1.strip()) > 0:
                         result.add(e1.strip())
             else:
-                if '(' in e:
+                if "(" in e:
                     e = remove_text_within_brackets(e)
                 if len(e.strip()) > 0:
                     result.add(e.strip())
@@ -392,16 +408,16 @@ def save_in_list(set1, set2):
             global definitions_list
             start = s.find("‘")
             end = s.rfind("’")
-            definition = s[start + 1:end].strip()
-            if '(' in definition:
+            definition = s[start + 1 : end].strip()
+            if "(" in definition:
                 definition = remove_text_within_brackets(definition)
                 definition.strip()
-            definition = definition.replace('’', '').strip()
+            definition = definition.replace("’", "").strip()
             definitions_list.append((definition, s2.strip()))
             # save in the dictionary for the annotations later
             global definitions_dict
             if definition in definitions_dict:
-                definitions_dict[definition] += '\n' + s2.strip()
+                definitions_dict[definition] += "\n" + s2.strip()
             else:
                 definitions_dict[definition] = s2.strip()
 
@@ -442,11 +458,13 @@ def any_definition_in_text(text):
              within the text where the definition was found.
     """
     definitions_in_text = set(tuple())
-    starts_and_ends = set(tuple()) # Tracks start and end positions of definitions found in the text
+    starts_and_ends = set(
+        tuple()
+    )  # Tracks start and end positions of definitions found in the text
 
     for key, value in definitions_dict.items():
         # Search for abbreviations and select the most relevant part of the definition
-        abrv_match = re.search(r'(.*?)\[ABRV\](.*?)\[ABRV\](.*?)', key)
+        abrv_match = re.search(r"(.*?)\[ABRV\](.*?)\[ABRV\](.*?)", key)
 
         if abrv_match:
             extracted_text = abrv_match.group(2).strip()
@@ -459,7 +477,7 @@ def any_definition_in_text(text):
                     key = abrv_match.group(1).strip()
                 elif abrv_match.group(3):
                     key = abrv_match.group(3).strip()
-                
+
         capitalized = key[0].islower() and text.__contains__(key.capitalize())
         if text.__contains__(key) or capitalized:
             d = sub_definitions[key]
@@ -472,14 +490,15 @@ def any_definition_in_text(text):
                         match = re.search(k, text)
                         if match is not None:
                             s, e = match.start(), match.end()
-                            if not check_definition_inside(
-                                    starts_and_ends, s, e):
+                            if not check_definition_inside(starts_and_ends, s, e):
                                 if k in definitions_dict:
                                     definitions_in_text.add(
-                                        (k, definitions_dict[k], s, e))
+                                        (k, definitions_dict[k], s, e)
+                                    )
                                 elif cap:
                                     definitions_in_text.add(
-                                        (k, definitions_dict[k.lower()], s, e))
+                                        (k, definitions_dict[k.lower()], s, e)
+                                    )
                                 starts_and_ends.add((s, e))
             if capitalized:
                 key = key[0].upper() + key[1:]
@@ -504,7 +523,7 @@ def check_definition_inside(start_and_end, start, end):
     Returns:
         bool: True if the current definition's position overlaps with any existing ones; False otherwise.
     """
-    for (s, e) in start_and_end:
+    for s, e in start_and_end:
         if s == start or e == end:
             return True
         elif start > s and end < e:

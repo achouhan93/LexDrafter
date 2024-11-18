@@ -147,13 +147,23 @@ This code base provides necessary scripts for the dataset collection process [(`
 If you use the dataset or other parts of this code base, please use the following citation for attribution:
 
 ```
-@misc{chouhan2024lexdrafter,
-      title={LexDrafter: Terminology Drafting for Legislative Documents using Retrieval Augmented Generation}, 
-      author={Ashish Chouhan and Michael Gertz},
-      year={2024},
-      eprint={2403.16295},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{chouhan-gertz-2024-lexdrafter,
+    title = "{L}ex{D}rafter: Terminology Drafting for Legislative Documents Using Retrieval Augmented Generation",
+    author = "Chouhan, Ashish  and Gertz, Michael",
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.913",
+    pages = "10448--10458",
+    abstract = "With the increase in legislative documents at the EU, the number of new terms and their definitions is increasing as well. As per the Joint Practical Guide of the European Parliament, the Council and the Commission, terms used in legal documents shall be consistent, and identical concepts shall be expressed without departing from their meaning in ordinary, legal, or technical language. Thus, while drafting a new legislative document, having a framework that provides insights about existing definitions and helps define new terms based on a document{'}s context will support such harmonized legal definitions across different regulations and thus avoid ambiguities. In this paper, we present LexDrafter, a framework that assists in drafting Definitions articles for legislative documents using retrieval augmented generation (RAG) and existing term definitions present in different legislative documents. For this, definition elements are built by extracting definitions from existing documents. Using definition elements and RAG, a Definitions article can be suggested on demand for a legislative document that is being drafted. We demonstrate and evaluate the functionality of LexDrafter using a collection of EU documents from the energy domain. The code for LexDrafter framework is available at https://github.com/achouhan93/LexDrafter.",
 }
 ```
 

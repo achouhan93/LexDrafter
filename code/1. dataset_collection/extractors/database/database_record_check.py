@@ -1,4 +1,3 @@
-
 def opensearch_existing_check(os_index, index_name, celex_list):
     """
     Checks for existing CELEX numbers in the specified OpenSearch index.
@@ -16,8 +15,8 @@ def opensearch_existing_check(os_index, index_name, celex_list):
     """
     non_existing = []
     for celex_id in celex_list:
-        document_status = os_index.exists(index= index_name, id= celex_id)
+        document_status = os_index.exists(index=index_name, id=celex_id)
         if document_status == False:
             non_existing.append(celex_id)
-    
+
     return non_existing

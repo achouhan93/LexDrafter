@@ -1,10 +1,11 @@
 from extractors.libraries import *
 
+
 def opensearch_create(os_index, index_name, os_mapping):
     """
     Creates an OpenSearch index if it doesn't already exist.
 
-    This function checks if an index with the provided name exists in the OpenSearch cluster. 
+    This function checks if an index with the provided name exists in the OpenSearch cluster.
     If the index is not found, it creates the index using the provided mapping.
 
     Args:
@@ -18,4 +19,4 @@ def opensearch_create(os_index, index_name, os_mapping):
     search_index = os_index.indices.exists(index=index_name)
 
     if search_index == False:
-        os_index.indices.create(index=index_name, ignore=[400,404], body=os_mapping)
+        os_index.indices.create(index=index_name, ignore=[400, 404], body=os_mapping)

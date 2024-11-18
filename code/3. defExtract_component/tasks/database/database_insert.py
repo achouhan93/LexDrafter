@@ -3,10 +3,11 @@ from sqlalchemy import select, func, literal, MetaData
 from sqlalchemy.dialects.postgresql import insert
 import logging
 
-class PostgresInsert():
+
+class PostgresInsert:
     """
     A class for handling batch inserts into PostgreSQL tables, specifically designed
-    for managing data related to energy documents, terms, explanations, relations, 
+    for managing data related to energy documents, terms, explanations, relations,
     and progress tracking in a LexDrafter database.
 
     Attributes:
@@ -18,10 +19,11 @@ class PostgresInsert():
         relation_table (Table): The table for relations between energy terms.
         progress_table (Table): The table for tracking progress of data insertion.
     """
+
     def __init__(self, pg_connection):
         """
         Initializes the PostgresInsert instance by setting up the database connection,
-        reflecting the database schema to access table definitions, and initializing 
+        reflecting the database schema to access table definitions, and initializing
         the batch size for inserts.
 
         Parameters:
@@ -32,13 +34,12 @@ class PostgresInsert():
         metadata = MetaData()
         metadata.reflect(pg_connection)
         self.batch_size = 10000
-    
-        self.document_table = metadata.tables['lexdrafter_energy_document_information']
-        self.terms_table = metadata.tables['lexdrafter_energy_definition_term']
-        self.explanantion_table = metadata.tables['lexdrafter_energy_term_explanation']
-        self.relation_table = metadata.tables['lexdrafter_energy_term_relations']
-        self.progress_table = metadata.tables['lexdrafter_energy_progress_table']
 
+        self.document_table = metadata.tables["lexdrafter_energy_document_information"]
+        self.terms_table = metadata.tables["lexdrafter_energy_definition_term"]
+        self.explanantion_table = metadata.tables["lexdrafter_energy_term_explanation"]
+        self.relation_table = metadata.tables["lexdrafter_energy_term_relations"]
+        self.progress_table = metadata.tables["lexdrafter_energy_progress_table"]
 
     # Function to insert nodes into the nodes table
     def insert_information(self, info, table_info):
@@ -48,7 +49,7 @@ class PostgresInsert():
 
         Parameters:
             info (list of dict): The data to be inserted, where each dictionary represents a record.
-            table_info (str): A string identifier to specify the target table. Valid values include 
+            table_info (str): A string identifier to specify the target table. Valid values include
                               "progress", "document", "term", "explanation", and "relation".
 
         Raises:
@@ -64,9 +65,9 @@ class PostgresInsert():
             table = self.explanantion_table
         elif table_info == "relation":
             table = self.relation_table
-        
+
         with self.engine.begin() as conn:
             for i in tqdm(range(0, len(info), self.batch_size)):
-                batch = info[i: i + self.batch_size]
+                batch = info[i : i + self.batch_size]
                 insert_stmt = insert(table).values(batch)
                 conn.execute(insert_stmt)
