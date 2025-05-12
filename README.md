@@ -4,6 +4,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=achouhan93&repo=LexDrafter&countColor=%237B1E7A)
 
 <!-- PROJECT LOGO -->
 <br />
